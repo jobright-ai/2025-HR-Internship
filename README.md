@@ -55,10 +55,12 @@ For a complete list, see the full spreadsheet below:
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location & Work Model | Salary | Date Posted |
+| Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Employment Casework Intern](https://jobright.ai/jobs/info/668deb966da13c2496823e57?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[ASU Career Services](https://career.asu.edu/channels/employer-education-engagement/)** | **[Peace Corps Strategic Recruiter/ Management Intern](https://jobright.ai/jobs/info/668df9067ad721a70cf4084b?utm_source=1054&utm_campaign=git)** | Arizona, United States | On Site | Jul 09 |
+| **[Confidential](http://confidential-company.com/)** | **[Bilingual Office HR Admin Assistant/Receptionist](https://jobright.ai/jobs/info/668e1ad30036dd68b5f35742?utm_source=1054&utm_campaign=git)** | Houston, TX | On Site | Jul 09 |
+| **[National Board For Certified Counselors](https://www.nbcc.org)** | **[HR Intern](https://jobright.ai/jobs/info/668dfe34e222ef0ee5977af8?utm_source=1054&utm_campaign=git)** | Greensboro, NC | On Site | Jul 09 |
 | **[Adrienne Arsht Center for Performing Arts](https://www.arshtcenter.org/)** | **[Paid Fall Internships](https://jobright.ai/jobs/info/668d8dd26abc78b21c1dc6ea?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 09 |
 | **[Center for Justice Innovation](https://www.innovatingjustice.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/668d9d0a0de5c7da1e4475cc?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 09 |
 | **[Les Créatifs Studio](https://www.lescreatifsstudio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/668d837de45593dfb218d36d?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 09 |
@@ -70,7 +72,7 @@ For a complete list, see the full spreadsheet below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Intern  - Fall 2024](https://jobright.ai/jobs/info/668d508038a06a8816f847f7?utm_source=1054&utm_campaign=git)** | Cleveland, OH | On Site | Jul 09 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 2L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/668d4c9e2d9ad9f043243d98?utm_source=1054&utm_campaign=git)** | Fort Wayne, IN | Hybrid | Jul 09 |
 | ↳ | **[2025 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/668d4ca62d9ad9f043243db5?utm_source=1054&utm_campaign=git)** | Indianapolis, IN | Hybrid | Jul 09 |
-| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d45028d0d1bc95de5363f?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
+| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d4110ea09f404323653c7?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
 | **[USGS](https://www.usgs.gov/)** | **[Student Trainee (HR R&P/Class)](https://jobright.ai/jobs/info/668d342c3e503b227e5d4c55?utm_source=1054&utm_campaign=git)** | Lakewood, CO | On Site | Jul 09 |
 | **[Tesa](http://www.tesa.com)** | **[HR Talent Acquisition Intern (m/f/x)](https://jobright.ai/jobs/info/66712d315a1e41c095ef537d?utm_source=1054&utm_campaign=git)** | Greater Hamburg Area | On Site | Jul 09 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern-Human Resources, SharePoint and Web Design-Hybrid](https://jobright.ai/jobs/info/6670c661ea7319dcb5c4d47b?utm_source=1054&utm_campaign=git)** | Worcester, MA | Hybrid | Jul 09 |
@@ -108,8 +110,8 @@ For a complete list, see the full spreadsheet below:
 | **[Continental](https://www.continental.com)** | **[Intern – HR Data Analytics](https://jobright.ai/jobs/info/667df2cea8cfb857af6f14e9?utm_source=1054&utm_campaign=git)** | Fairlawn, OH | On Site | Jul 05 |
 | **[Goodwill Industries of Kentucky](https://www.goodwillky.org/)** | **[Internship & Job Development Specialist](https://jobright.ai/jobs/info/66884889f10da03f07e9928d?utm_source=1054&utm_campaign=git)** | Louisville, KY | On Site | Jul 05 |
 | ↳ | **[Internship & Job Development Specialist](https://jobright.ai/jobs/info/668848a0f10da03f07e99471?utm_source=1054&utm_campaign=git)** | Eminence, KY | On Site | Jul 05 |
+| **[Precision Castparts](http://precast.com)** | **[2025 Summer Human Resources Co-Op](https://jobright.ai/jobs/info/668859b197a875b115053ced?utm_source=1054&utm_campaign=git)** | Toronto, OH | On Site | Jul 05 |
 | **[American Battery Solutions](https://www.americanbatterysolutions.com/)** | **[HR Co-op](https://jobright.ai/jobs/info/668831b6267b613d19e45a7f?utm_source=1054&utm_campaign=git)** | Lake Orion, MI | On Site | Jul 05 |
-| **[Precision Castparts](http://precast.com)** | **[2025 Summer Human Resources Co-Op](https://jobright.ai/jobs/info/66881e4cc5ee055d6138c9f4?utm_source=1054&utm_campaign=git)** | Toronto, OH | On Site | Jul 05 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Human Resources - Columbus, OH (Spring 2025)](https://jobright.ai/jobs/info/6675e1c9e95c1a0a225b920e?utm_source=1054&utm_campaign=git)** | Columbus, OH | On Site | Jul 05 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 Athletics, Student Football Recruiting Assistant](https://jobright.ai/jobs/info/66881e55c5ee055d6138ca1e?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 05 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Talent Acquisition - Dublin, OH (Spring 2025)](https://jobright.ai/jobs/info/666b7a9366a6b9b65997bbbb?utm_source=1054&utm_campaign=git)** | Columbus, OH | On Site | Jul 05 |
@@ -142,8 +144,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/6685a912053ac344aa0a85aa?utm_source=1054&utm_campaign=git)** | Pennsauken, NJ | On Site | Jul 03 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Talent Acquistion Intern](https://jobright.ai/jobs/info/668591fae861c76931c96af7?utm_source=1054&utm_campaign=git)** | Detroit, MI | Hybrid | Jul 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Join Our Early Talent Community](https://jobright.ai/jobs/info/66859223e861c76931c96e9f?utm_source=1054&utm_campaign=git)** | Home Place, IN | On Site | Jul 03 |
-| **[Two Six Technologies](https://twosixtech.com/)** | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858c731b1f4c2377c85d9b?utm_source=1054&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 03 |
-| ↳ | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858cb71b1f4c2377c86404?utm_source=1054&utm_campaign=git)** | Tampa, FL | On Site | Jul 03 |
+| **[Two Six Technologies](https://twosixtech.com/)** | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858cb71b1f4c2377c86404?utm_source=1054&utm_campaign=git)** | Tampa, FL | On Site | Jul 03 |
+| ↳ | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858c731b1f4c2377c85d9b?utm_source=1054&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide - Employer Engagement and Partnerships](https://jobright.ai/jobs/info/668591fae861c76931c96b8b?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruiting & Marketing Intern](https://jobright.ai/jobs/info/66858389798cca6c381733ee?utm_source=1054&utm_campaign=git)** | KC Metro Area | Hybrid | Jul 03 |
 | **[Partnership 4 Kids](https://p4k.org)** | **[Volunteer Communications Specialist - AmeriCorps VISTA](https://jobright.ai/jobs/info/66858a010ae1f988330e00dd?utm_source=1054&utm_campaign=git)** | Omaha, NE | On Site | Jul 03 |
