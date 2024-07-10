@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: HR Manager and Compensation and Benefits.
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** HR Manager and Compensation and Benefits.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1054&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -40,7 +40,7 @@ This job repository is your go-to resource for discovering and sharing the lates
 
 ---
 <h4>
-Only jobs posted in the last 7 days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
@@ -61,7 +61,6 @@ For a complete list, see the full spreadsheet below:
 | **[ASU Career Services](https://career.asu.edu/channels/employer-education-engagement/)** | **[Peace Corps Strategic Recruiter/ Management Intern](https://jobright.ai/jobs/info/668df9067ad721a70cf4084b?utm_source=1054&utm_campaign=git)** | Arizona, United States | On Site | Jul 09 |
 | **[Confidential](http://confidential-company.com/)** | **[Bilingual Office HR Admin Assistant/Receptionist](https://jobright.ai/jobs/info/668e1ad30036dd68b5f35742?utm_source=1054&utm_campaign=git)** | Houston, TX | On Site | Jul 09 |
 | **[National Board For Certified Counselors](https://www.nbcc.org)** | **[HR Intern](https://jobright.ai/jobs/info/668dfe34e222ef0ee5977af8?utm_source=1054&utm_campaign=git)** | Greensboro, NC | On Site | Jul 09 |
-| **[Adrienne Arsht Center for Performing Arts](https://www.arshtcenter.org/)** | **[Paid Fall Internships](https://jobright.ai/jobs/info/668d8dd26abc78b21c1dc6ea?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 09 |
 | **[Center for Justice Innovation](https://www.innovatingjustice.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/668d9d0a0de5c7da1e4475cc?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 09 |
 | **[Les Créatifs Studio](https://www.lescreatifsstudio.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/668d837de45593dfb218d36d?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 09 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[BWH Talent Acquisition Internship](https://jobright.ai/jobs/info/668d9d0a0de5c7da1e4475fd?utm_source=1054&utm_campaign=git)** | Somerville, MA | On Site | Jul 09 |
@@ -117,7 +116,6 @@ For a complete list, see the full spreadsheet below:
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Talent Acquisition - Dublin, OH (Spring 2025)](https://jobright.ai/jobs/info/666b7a9366a6b9b65997bbbb?utm_source=1054&utm_campaign=git)** | Columbus, OH | On Site | Jul 05 |
 | ↳ | **[Student, Human Resources - Columbus, OH (Spring 2025)](https://jobright.ai/jobs/info/666b7e94bb0d4daf8189d891?utm_source=1054&utm_campaign=git)** | Lima, OH | On Site | Jul 05 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/668bd4ea356510bc9cd0efce?utm_source=1054&utm_campaign=git)** | Denver, CO | On Site | Jul 05 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Internal Communications Specialist](https://jobright.ai/jobs/info/666b9b18789b8d581ad68d7e?utm_source=1054&utm_campaign=git)** | Olathe, KS | On Site | Jul 05 |
 | **[Clark Hill](http://www.clarkhill.com/)** | **[2025 Summer Associate - Corporate - Pittsburgh, PA](https://jobright.ai/jobs/info/666c2cdae7a9453112c0e113?utm_source=1054&utm_campaign=git)** | Pittsburgh, PA | On Site | Jul 05 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Analyst Internship](https://jobright.ai/jobs/info/66035492e592e25a4e883e65?utm_source=1054&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 05 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/6689244d0bf1ccd9dd54ec49?utm_source=1054&utm_campaign=git)** | Raleigh, NC | On Site | Jul 05 |
@@ -140,8 +138,7 @@ For a complete list, see the full spreadsheet below:
 | **[University of Utah](http://utah.edu)** | **[UU Student HR Asst](https://jobright.ai/jobs/info/6685d3667596db7e6ee5072e?utm_source=1054&utm_campaign=git)** | Salt Lake City, UT | Hybrid | Jul 03 |
 | **[Federal Bureau of Prisons](https://www.bop.gov)** | **[DOJ Pathways Internship Program Bureau of Prisons Student Trainee (Human Resource Student Trainee)](https://jobright.ai/jobs/info/6685c042c96ea879d35d821c?utm_source=1054&utm_campaign=git)** | Bennettsville, SC | On Site | Jul 03 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Human Resources Generalist – Supply Chain HR – Skillbridge Intern](https://jobright.ai/jobs/info/6677dd8ffbac42152a146d85?utm_source=1054&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 03 |
-| **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/6685ae7df090003c734f6c88?utm_source=1054&utm_campaign=git)** | Bath, PA | On Site | Jul 03 |
-| ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/6685a912053ac344aa0a85aa?utm_source=1054&utm_campaign=git)** | Pennsauken, NJ | On Site | Jul 03 |
+| **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/6685a912053ac344aa0a85aa?utm_source=1054&utm_campaign=git)** | Pennsauken, NJ | On Site | Jul 03 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Talent Acquistion Intern](https://jobright.ai/jobs/info/668591fae861c76931c96af7?utm_source=1054&utm_campaign=git)** | Detroit, MI | Hybrid | Jul 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Join Our Early Talent Community](https://jobright.ai/jobs/info/66859223e861c76931c96e9f?utm_source=1054&utm_campaign=git)** | Home Place, IN | On Site | Jul 03 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858cb71b1f4c2377c86404?utm_source=1054&utm_campaign=git)** | Tampa, FL | On Site | Jul 03 |
@@ -149,5 +146,4 @@ For a complete list, see the full spreadsheet below:
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide - Employer Engagement and Partnerships](https://jobright.ai/jobs/info/668591fae861c76931c96b8b?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruiting & Marketing Intern](https://jobright.ai/jobs/info/66858389798cca6c381733ee?utm_source=1054&utm_campaign=git)** | KC Metro Area | Hybrid | Jul 03 |
 | **[Partnership 4 Kids](https://p4k.org)** | **[Volunteer Communications Specialist - AmeriCorps VISTA](https://jobright.ai/jobs/info/66858a010ae1f988330e00dd?utm_source=1054&utm_campaign=git)** | Omaha, NE | On Site | Jul 03 |
-| **[Domi Station](http://www.domistation.com/)** | **[Internship Opportunities](https://jobright.ai/jobs/info/66862c4c323f5e12beea54d6?utm_source=1054&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
