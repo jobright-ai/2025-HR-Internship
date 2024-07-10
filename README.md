@@ -58,6 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Center for Justice Innovation](https://www.innovatingjustice.org)** | **[Human Resources Coordinator (Internship Focused)](https://jobright.ai/jobs/info/668e2d3c8e5506fe35083b15?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 10 |
+| **[L'Oreal](https://www.loreal.com)** | **[Junior Human Resources Associate](https://jobright.ai/jobs/info/668e33d4e65d91eff5c9da79?utm_source=1054&utm_campaign=git)** | Somerset, NJ | Hybrid | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Employment Casework Intern](https://jobright.ai/jobs/info/668deb966da13c2496823e57?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[ASU Career Services](https://career.asu.edu/channels/employer-education-engagement/)** | **[Peace Corps Strategic Recruiter/ Management Intern](https://jobright.ai/jobs/info/668df9067ad721a70cf4084b?utm_source=1054&utm_campaign=git)** | Arizona, United States | On Site | Jul 09 |
 | **[Confidential](http://confidential-company.com/)** | **[Bilingual Office HR Admin Assistant/Receptionist](https://jobright.ai/jobs/info/668e1ad30036dd68b5f35742?utm_source=1054&utm_campaign=git)** | Houston, TX | On Site | Jul 09 |
