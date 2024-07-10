@@ -70,7 +70,7 @@ For a complete list, see the full spreadsheet below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Intern  - Fall 2024](https://jobright.ai/jobs/info/668d508038a06a8816f847f7?utm_source=1054&utm_campaign=git)** | Cleveland, OH | On Site | Jul 09 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 2L Summer Associate - Fort Wayne](https://jobright.ai/jobs/info/668d4c9e2d9ad9f043243d98?utm_source=1054&utm_campaign=git)** | Fort Wayne, IN | Hybrid | Jul 09 |
 | ↳ | **[2025 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/668d4ca62d9ad9f043243db5?utm_source=1054&utm_campaign=git)** | Indianapolis, IN | Hybrid | Jul 09 |
-| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d4110ea09f404323653c7?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
+| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d45028d0d1bc95de5363f?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
 | **[USGS](https://www.usgs.gov/)** | **[Student Trainee (HR R&P/Class)](https://jobright.ai/jobs/info/668d342c3e503b227e5d4c55?utm_source=1054&utm_campaign=git)** | Lakewood, CO | On Site | Jul 09 |
 | **[Tesa](http://www.tesa.com)** | **[HR Talent Acquisition Intern (m/f/x)](https://jobright.ai/jobs/info/66712d315a1e41c095ef537d?utm_source=1054&utm_campaign=git)** | Greater Hamburg Area | On Site | Jul 09 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Graduate Intern-Human Resources, SharePoint and Web Design-Hybrid](https://jobright.ai/jobs/info/6670c661ea7319dcb5c4d47b?utm_source=1054&utm_campaign=git)** | Worcester, MA | Hybrid | Jul 09 |
@@ -142,8 +142,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/6685a912053ac344aa0a85aa?utm_source=1054&utm_campaign=git)** | Pennsauken, NJ | On Site | Jul 03 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Talent Acquistion Intern](https://jobright.ai/jobs/info/668591fae861c76931c96af7?utm_source=1054&utm_campaign=git)** | Detroit, MI | Hybrid | Jul 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Join Our Early Talent Community](https://jobright.ai/jobs/info/66859223e861c76931c96e9f?utm_source=1054&utm_campaign=git)** | Home Place, IN | On Site | Jul 03 |
-| **[Two Six Technologies](https://twosixtech.com/)** | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858cb71b1f4c2377c86404?utm_source=1054&utm_campaign=git)** | Tampa, FL | On Site | Jul 03 |
-| ↳ | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858c731b1f4c2377c85d9b?utm_source=1054&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 03 |
+| **[Two Six Technologies](https://twosixtech.com/)** | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858c731b1f4c2377c85d9b?utm_source=1054&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 03 |
+| ↳ | **[Cybersecurity Skillbridge Internship](https://jobright.ai/jobs/info/66858cb71b1f4c2377c86404?utm_source=1054&utm_campaign=git)** | Tampa, FL | On Site | Jul 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide - Employer Engagement and Partnerships](https://jobright.ai/jobs/info/668591fae861c76931c96b8b?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 03 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruiting & Marketing Intern](https://jobright.ai/jobs/info/66858389798cca6c381733ee?utm_source=1054&utm_campaign=git)** | KC Metro Area | Hybrid | Jul 03 |
 | **[Partnership 4 Kids](https://p4k.org)** | **[Volunteer Communications Specialist - AmeriCorps VISTA](https://jobright.ai/jobs/info/66858a010ae1f988330e00dd?utm_source=1054&utm_campaign=git)** | Omaha, NE | On Site | Jul 03 |
