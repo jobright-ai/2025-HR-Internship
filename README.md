@@ -57,10 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c02?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426a7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426e4?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | **[ASU Career Services](https://career.asu.edu/channels/employer-education-engagement/)** | **[Management Intern, Recruitment and Outreach](https://jobright.ai/jobs/info/66910c93ffc8ddb2f50b3a89?utm_source=1054&utm_campaign=git)** | Arizona, United States | Hybrid | Jul 12 |
@@ -100,11 +100,11 @@ For a complete list, see the full spreadsheet below:
 | **[Logicalis US](https://www.us.logicalis.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6690bfd4555345cb31084609?utm_source=1054&utm_campaign=git)** | Baltimore City County, MD | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Immigration and Citizenship Intern](https://jobright.ai/jobs/info/6690f1de71973c20cb6018e4?utm_source=1054&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 11 |
 | **[Compass Group](https://www.compassgroupcareers.com)** | **[ADMINISTRATIVE ASSTISTANT HOURLY (INTERN)](https://jobright.ai/jobs/info/6690dea2b63f2faa3634a660?utm_source=1054&utm_campaign=git)** | Jefferson City, TN | On Site | Jul 11 |
-| **[Thrive Skilled Pediatric Care](https://www.thrivespc.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6690da6108e2c9424ca8652f?utm_source=1054&utm_campaign=git)** | Temple, TX | On Site | Jul 11 |
 | **[GrayMatter Systems](http://graymattersystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6690d011b9480c9896c8f637?utm_source=1054&utm_campaign=git)** | Warrendale, PA | Hybrid | Jul 11 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[HR Intern](https://jobright.ai/jobs/info/668d9d0a0de5c7da1e447653?utm_source=1054&utm_campaign=git)** | Louisville, KY | On Site | Jul 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Benefits](https://jobright.ai/jobs/info/6690a0fc43cab07c25cd0e03?utm_source=1054&utm_campaign=git)** | Tempe, AZ | Hybrid | Jul 11 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 CARTA Deans Off, Student Human Resources Office Assistant](https://jobright.ai/jobs/info/668fca54144e48d2af2c4d5c?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 11 |
+| **[Thrive Skilled Pediatric Care](https://www.thrivespc.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/668fcfb8228dfafddaffefff?utm_source=1054&utm_campaign=git)** | Temple, TX | On Site | Jul 11 |
 | **[MINISO USA](http://minisousaonline.com)** | **[人力资源实习生](https://jobright.ai/jobs/info/6690838bb61d5c4325325645?utm_source=1054&utm_campaign=git)** | West Covina, CA | On Site | Jul 11 |
 | **[BASF](http://www.basf.com)** | **[PhD Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c2d36dc14ede91846ad75?utm_source=1054&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 10 |
 | **[Generac Power Systems](http://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/668fe6b6c68e592406e06b60?utm_source=1054&utm_campaign=git)** | Waukesha, WI | On Site | Jul 10 |
@@ -139,8 +139,8 @@ For a complete list, see the full spreadsheet below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/668d64c607bd578dc4dffc92?utm_source=1054&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 09 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Fall 2024 Internship - Recruitment Intern](https://jobright.ai/jobs/info/668d6036f098b78583256fb9?utm_source=1054&utm_campaign=git)** | Orlando, FL | On Site | Jul 09 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2025 2L Summer Associate - Indianapolis](https://jobright.ai/jobs/info/668d4ca62d9ad9f043243db5?utm_source=1054&utm_campaign=git)** | Indianapolis, IN | Hybrid | Jul 09 |
+| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d45028d0d1bc95de5363f?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
 | **[WorkatHome-JobBoard](http://www.workathome-jobboard.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/668fdb8922cfeb6ebf476ef8?utm_source=1054&utm_campaign=git)** | Temple, TX | On Site | Jul 09 |
-| **[Wellmore Behavioral Health](https://wellmore.org)** | **[HR Intern](https://jobright.ai/jobs/info/668d4110ea09f404323653c7?utm_source=1054&utm_campaign=git)** | Waterbury, CT | On Site | Jul 09 |
 | **[Guilford County Schools](http://www.gcsnc.com)** | **[TEST COORD/INT SUB](https://jobright.ai/jobs/info/668fcf9c228dfafddaffed4f?utm_source=1054&utm_campaign=git)** | Greensboro, NC | On Site | Jul 09 |
 | **[USGS](https://www.usgs.gov/)** | **[Student Trainee (HR R&P/Class)](https://jobright.ai/jobs/info/668d342c3e503b227e5d4c55?utm_source=1054&utm_campaign=git)** | Lakewood, CO | On Site | Jul 09 |
 | **[Tesa](http://www.tesa.com)** | **[HR Talent Acquisition Intern (m/f/x)](https://jobright.ai/jobs/info/66712d315a1e41c095ef537d?utm_source=1054&utm_campaign=git)** | Greater Hamburg Area | On Site | Jul 09 |
