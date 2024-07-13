@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2024 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/6691c9b9cf3c8abe59ab6626?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
+| **[BrightView](https://www.brightview.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6691cd152faf74a8ac18c5fd?utm_source=1054&utm_campaign=git)** | Sacramento, CA | On Site | Jul 12 |
+| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Human Capital](https://jobright.ai/jobs/info/6691c77455fdc8d51c7e4450?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6691a9795e5623ebe1a39d99?utm_source=1054&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Early Employment Intern (Fall 2024)](https://jobright.ai/jobs/info/6691b43acdd4fd0eb3caecc6?utm_source=1054&utm_campaign=git)** | Richmond, VA | Hybrid | Jul 12 |
 | **[902 Youth](http://www.902youth.com)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/6691a33c4c7d2eb620a7bb58?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 12 |
@@ -77,10 +80,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Nashville)](https://jobright.ai/jobs/info/6691342ae07fc9931619cd11?utm_source=1054&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/6691342ae07fc9931619cd27?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/669175c88a86121fc080d876?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c02?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c02?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426a7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426e4?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | **[CEMEX](http://www.cemex.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/667561d242bae55a9582833e?utm_source=1054&utm_campaign=git)** | Naples, FL | Hybrid | Jul 12 |
@@ -89,7 +92,6 @@ For a complete list, see the full spreadsheet below:
 | **[Equinix](http://www.equinix.com)** | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/6674e27efcd8d0122060edeb?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 12 |
 | ↳ | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/6674fffc38794d4dc1cac007?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/66751b471345ca9e335e72dd?utm_source=1054&utm_campaign=git)** | Chicago, IL | On Site | Jul 12 |
-| **[ASU Career Services](https://career.asu.edu/channels/employer-education-engagement/)** | **[Management Intern, Recruitment and Outreach](https://jobright.ai/jobs/info/66910c93ffc8ddb2f50b3a89?utm_source=1054&utm_campaign=git)** | Arizona, United States | Hybrid | Jul 12 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6690c2225c416734cd1faccb?utm_source=1054&utm_campaign=git)** | Purchase, NY | On Site | Jul 12 |
 | ↳ | **[2025 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6690c2395c416734cd1faea2?utm_source=1054&utm_campaign=git)** | Plano, TX | On Site | Jul 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Intern (UNPAID) Fall/Spring](https://jobright.ai/jobs/info/66915c502d2c286f89de10a2?utm_source=1054&utm_campaign=git)** | Wichita, KS | Hybrid | Jul 12 |
@@ -138,6 +140,7 @@ For a complete list, see the full spreadsheet below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Benefits](https://jobright.ai/jobs/info/6690a0fc43cab07c25cd0e03?utm_source=1054&utm_campaign=git)** | Tempe, AZ | Hybrid | Jul 11 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 CARTA Deans Off, Student Human Resources Office Assistant](https://jobright.ai/jobs/info/668fca54144e48d2af2c4d5c?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 11 |
 | **[MINISO USA](http://minisousaonline.com)** | **[人力资源实习生](https://jobright.ai/jobs/info/6690838bb61d5c4325325645?utm_source=1054&utm_campaign=git)** | West Covina, CA | On Site | Jul 11 |
+| **[IDEA Public Schools Enterprises](https://www.ideapublicschools.org/)** | **[Intern - Enrollment Field Operations (Immediate Opening)](https://jobright.ai/jobs/info/6691c9cbcf3c8abe59ab681d?utm_source=1054&utm_campaign=git)** | WESLACO, TEXAS, United States | On Site | Jul 11 |
 | **[BASF](http://www.basf.com)** | **[PhD Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c2d36dc14ede91846ad75?utm_source=1054&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 10 |
 | **[Generac Power Systems](http://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/668fe6b6c68e592406e06b60?utm_source=1054&utm_campaign=git)** | Waukesha, WI | On Site | Jul 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Immigration Casework Intern](https://jobright.ai/jobs/info/668fdaf822cfeb6ebf476106?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 10 |
@@ -199,4 +202,5 @@ For a complete list, see the full spreadsheet below:
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Human Resources Intern (Fall 2024)](https://jobright.ai/jobs/info/668a7c0c7804bc93ed496679?utm_source=1054&utm_campaign=git)** | Hunt Valley, MD | On Site | Jul 06 |
 | **[Tesa](http://www.tesa.com)** | **[Working Student - HR Business Partner (m/f/x)](https://jobright.ai/jobs/info/66800f57837d16e3277f4dfe?utm_source=1054&utm_campaign=git)** | Greater Hamburg Area | On Site | Jul 06 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Recruitment Outreach Intern](https://jobright.ai/jobs/info/6674595bec688fb28a95c376?utm_source=1054&utm_campaign=git)** | National, MD | On Site | Jul 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Employment Intern](https://jobright.ai/jobs/info/668489d72ca14dafe69a1cb6?utm_source=1054&utm_campaign=git)** | Tallahassee, FL | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
