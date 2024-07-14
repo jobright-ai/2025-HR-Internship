@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/6679552f39ca2f81c4370373?utm_source=1054&utm_campaign=git)** | Nueces County, TX | On Site | Jul 14 |
+| ↳ | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/6693585fb8fb7f3cf237c78e?utm_source=1054&utm_campaign=git)** | Nueces County, TX | Hybrid | Jul 14 |
 | **[Thrive Skilled Pediatric Care](https://www.thrivespc.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/66932d23a0c0c099afd55a20?utm_source=1054&utm_campaign=git)** | Temple, TX | On Site | Jul 14 |
 | **[YMCA of the Iowa Mississippi Valley](https://www.ymcaimv.org)** | **[Internship - Human Resources, Fall 2024](https://jobright.ai/jobs/info/6692ec8603742398df639aca?utm_source=1054&utm_campaign=git)** | Davenport, IA | Hybrid | Jul 13 |
 | **[First Student](http://www.firststudentinc.com)** | **[HR Talent Development Intern](https://jobright.ai/jobs/info/6692b68e689e08abc290f6e4?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 13 |
@@ -67,7 +69,6 @@ For a complete list, see the full spreadsheet below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[Technical Recruiter - New Grad](https://jobright.ai/jobs/info/65a7963f6f4ecd27cf3f9a88?utm_source=1054&utm_campaign=git)** | Mountain View, CA | On Site | Jul 13 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Empirical or Behavioral Research Fellows](https://jobright.ai/jobs/info/664e2b40fd06ab529d525914?utm_source=1054&utm_campaign=git)** | Evanston, IL | Hybrid | Jul 13 |
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Compensation & Benefits](https://jobright.ai/jobs/info/665922c0dc30f127d7d72412?utm_source=1054&utm_campaign=git)** | Reston, VA | On Site | Jul 13 |
-| **[lds.org](https://www.lds.org)** | **[Human Resources Paid Intern - Welfare and Self-Reliance Services](https://jobright.ai/jobs/info/66766b5b93b9404f41dd4cdf?utm_source=1054&utm_campaign=git)** | Salt Lake City, UT | Hybrid | Jul 13 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2025](https://jobright.ai/jobs/info/660da5cc5c72843175806651?utm_source=1054&utm_campaign=git)** | New York, United States | On Site | Jul 13 |
 | **[Elastic](https://www.elastic.co)** | **[DEI SkillBridge Intern](https://jobright.ai/jobs/info/66927d26f150b8623e1215a1?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 13 |
 | **[Altos Labs](https://altoslabs.com/)** | **[General Interest: Join Our Talent Community (San Francisco Bay Area)](https://jobright.ai/jobs/info/6677066facb63b6016fb09b6?utm_source=1054&utm_campaign=git)** | San Francisco, CA | On Site | Jul 13 |
@@ -103,8 +104,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/669175c88a86121fc080d876?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c02?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426a7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426e4?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | **[CEMEX](http://www.cemex.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/667561d242bae55a9582833e?utm_source=1054&utm_campaign=git)** | Naples, FL | Hybrid | Jul 12 |
