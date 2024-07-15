@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centers for Disease Control and Prevention](http://www.cdc.gov)** | **[Student Trainee (Human Resources Management)](https://jobright.ai/jobs/info/6694b13962a91d39f361c6e1?utm_source=1054&utm_campaign=git)** | Indiana, United States | On Site | Jul 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Financial Coaching & Economic Mobility Intern (Fall 2024)](https://jobright.ai/jobs/info/669498c2e2705b334f75286f?utm_source=1054&utm_campaign=git)** | Elizabeth, NJ | Hybrid | Jul 15 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 Student Affairs Vice President Office, Student HR Assistant](https://jobright.ai/jobs/info/66948cc39b439772614e02ad?utm_source=1054&utm_campaign=git)** | Miami, FL | On Site | Jul 15 |
 | **[Nabidios](www.nabidios.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6693f132b955d054cb033db5?utm_source=1054&utm_campaign=git)** | Florida, United States | On Site | Jul 14 |
@@ -117,10 +118,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Nashville)](https://jobright.ai/jobs/info/6691342ae07fc9931619cd11?utm_source=1054&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/6691342ae07fc9931619cd27?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/669175c88a86121fc080d876?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c02?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42c2c?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42bd8?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/66910b0bd91291d9c9d42be7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426a7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/66910fd22bb68a6da1e426e4?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
 | **[CEMEX](http://www.cemex.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/667561d242bae55a9582833e?utm_source=1054&utm_campaign=git)** | Naples, FL | Hybrid | Jul 12 |
@@ -129,6 +130,7 @@ For a complete list, see the full spreadsheet below:
 | **[Equinix](http://www.equinix.com)** | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/6674e27efcd8d0122060edeb?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 12 |
 | ↳ | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/6674fffc38794d4dc1cac007?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | ↳ | **[Workforce Development Operations intern](https://jobright.ai/jobs/info/66751b471345ca9e335e72dd?utm_source=1054&utm_campaign=git)** | Chicago, IL | On Site | Jul 12 |
+| **[Vibe Credit Union](http://vibecreditunion.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6694b13962a91d39f361c6e9?utm_source=1054&utm_campaign=git)** | Novi, MI | On Site | Jul 12 |
 | **[Bendix Commercial Vehicles Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources (Fall)](https://jobright.ai/jobs/info/668e3ef8440fe6927bebb08b?utm_source=1054&utm_campaign=git)** | Avon, OH | On Site | Jul 12 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6690c2225c416734cd1faccb?utm_source=1054&utm_campaign=git)** | Purchase, NY | On Site | Jul 12 |
 | ↳ | **[2025 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/6690c2395c416734cd1faea2?utm_source=1054&utm_campaign=git)** | Plano, TX | On Site | Jul 12 |
@@ -139,9 +141,9 @@ For a complete list, see the full spreadsheet below:
 | **[Kroger](http://www.thekrogerco.com)** | **[Fall 2024 HR People Analytics Intern](https://jobright.ai/jobs/info/6691a5f1a43939170f9647e3?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Fortune Bay Resort Casino](http://fortunebay.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6691b8f0cc90539b64763901?utm_source=1054&utm_campaign=git)** | Tower, MN | On Site | Jul 12 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Assistant Developmental FT 5794](https://jobright.ai/jobs/info/6691a35d4c7d2eb620a7be68?utm_source=1054&utm_campaign=git)** | Chesapeake, VA | On Site | Jul 12 |
-| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/6690e52417d057c6cd55ce26?utm_source=1054&utm_campaign=git)** | USA - New York - 1633 Broadway | Hybrid | Jul 12 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/6690e52417d057c6cd55ce14?utm_source=1054&utm_campaign=git)** | USA - Los Angeles - 777 S. Santa Fe Ave | Hybrid | Jul 12 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/6690e52417d057c6cd55ce2c?utm_source=1054&utm_campaign=git)** | USA - New York - 1633 Broadway | Hybrid | Jul 12 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/6690e52417d057c6cd55ce14?utm_source=1054&utm_campaign=git)** | USA - Los Angeles - 777 S. Santa Fe Ave | Hybrid | Jul 12 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Warner Music Group Corporate)](https://jobright.ai/jobs/info/6690e52417d057c6cd55ce26?utm_source=1054&utm_campaign=git)** | USA - New York - 1633 Broadway | Hybrid | Jul 12 |
 | **[Freeport Mcmoran](https://fcx.com)** | **[2024 School Year Internship - Part-time - Human Resources](https://jobright.ai/jobs/info/6690bf1e555345cb3108363b?utm_source=1054&utm_campaign=git)** | Bagdad, AZ | On Site | Jul 11 |
 | **[Union Pacific Corporation](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/6690a7b144ba5bf941b3504b?utm_source=1054&utm_campaign=git)** | Omaha, NE | Hybrid | Jul 11 |
 | **[OTG](http://www.otgexp.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6691309e25b61d926e4b53dd?utm_source=1054&utm_campaign=git)** | St Paul, MN | On Site | Jul 11 |
@@ -184,13 +186,13 @@ For a complete list, see the full spreadsheet below:
 | **[Generac Power Systems](http://www.generac.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/668fe6b6c68e592406e06b60?utm_source=1054&utm_campaign=git)** | Waukesha, WI | On Site | Jul 10 |
 | **[Marlborough School](https://www.marlborough.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6690271940a392ac7323eeb8?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 10 |
 | **[Bureau Veritas Primary Integration](https://group.bureauveritas.com)** | **[Talent Acquisition Coordinator II - Indianapolis, IN](https://jobright.ai/jobs/info/668ecbd0bf93d98adcfd43e7?utm_source=1054&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 10 |
+| **[Center for Justice Innovation](https://www.innovatingjustice.org)** | **[Human Resources Coordinator (Internship Focused)](https://jobright.ai/jobs/info/668ff9ba0f79b533b87299b5?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 10 |
 | **[City of Auburn (Washington)](http://www.auburnwa.gov)** | **[VIRTUAL "Networking in the City" with Next Step Auburn, Internship Program](https://jobright.ai/jobs/info/667b41046c645d774025fba2?utm_source=1054&utm_campaign=git)** | Greater Seattle Area | On Site | Jul 10 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Intern - Part time](https://jobright.ai/jobs/info/6693da5b393f9ec0e9b65677?utm_source=1054&utm_campaign=git)** | Boston, MA | Hybrid | Jul 10 |
 | **[PPL](https://www.pplweb.com/)** | **[HR Intern II, Louisville, KY](https://jobright.ai/jobs/info/66060855aee9ea7ac4837e23?utm_source=1054&utm_campaign=git)** | Louisville, KY | On Site | Jul 10 |
 | **[Keches Law Group](https://kecheslaw.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/668fdb3a22cfeb6ebf476754?utm_source=1054&utm_campaign=git)** | Bridgewater, MA | On Site | Jul 10 |
 | **[OCTA](https://www.octa.net/)** | **[College Intern- Talent Acquisition & Compensation](https://jobright.ai/jobs/info/668fd3a35bdf80a0306d7f5f?utm_source=1054&utm_campaign=git)** | Orange, CA | On Site | Jul 10 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Business Partner Co-op Fall 2024](https://jobright.ai/jobs/info/668e583152b35411f37d5f89?utm_source=1054&utm_campaign=git)** | Boston, MA | Hybrid | Jul 10 |
-| **[Center for Justice Innovation](https://www.innovatingjustice.org)** | **[Human Resources Coordinator (Internship Focused)](https://jobright.ai/jobs/info/668e2d3c8e5506fe35083b15?utm_source=1054&utm_campaign=git)** | Manhattan, NY | On Site | Jul 10 |
 | **[Pine Rest](https://www.pinerest.org/)** | **[Intern - Assessment & Testing - Psychological Consultation Center](https://jobright.ai/jobs/info/668e22495fdfea6c896710e0?utm_source=1054&utm_campaign=git)** | Byron Center, MI | On Site | Jul 10 |
 | **[Merck](http://www.merck.com)** | **[2024 University Recruiting - Final External Policy Execution Co-Op](https://jobright.ai/jobs/info/668e474ecbeee4b3b46330c9?utm_source=1054&utm_campaign=git)** | North Wales, PA | Hybrid | Jul 10 |
 | **[L'Oreal](https://www.loreal.com)** | **[Junior Human Resources Associate](https://jobright.ai/jobs/info/668e33d4e65d91eff5c9da79?utm_source=1054&utm_campaign=git)** | Somerset, NJ | Hybrid | Jul 10 |
@@ -223,5 +225,4 @@ For a complete list, see the full spreadsheet below:
 | **[Bauer Foundation Corp.](http://bauerfoundations.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/668c56186d9edb82d509e363?utm_source=1054&utm_campaign=git)** | Greater Tampa Bay Area | On Site | Jul 08 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Volunteer Services Administrative Intern](https://jobright.ai/jobs/info/668c59f2d12005586108e8e4?utm_source=1054&utm_campaign=git)** | Denver, CO | On Site | Jul 08 |
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Federal Work Study- Human Resources Office Support](https://jobright.ai/jobs/info/668d0eb75c1b1ddc8b193677?utm_source=1054&utm_campaign=git)** | Syracuse, NY | On Site | Jul 08 |
-| **[CASA](https://wearecasa.org)** | **[Americorp Workforce Development Specialist](https://jobright.ai/jobs/info/668d07f7b9491475384cbf2f?utm_source=1054&utm_campaign=git)** | York, PA | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
