@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Money & Advice Enterprise](https://moneyandadvice.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669e5f61255889f99435daf9?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 22 |
 | **[Roche](http://www.roche.com)** | **[HR Intern](https://jobright.ai/jobs/info/669e45c389c2dcd5697b5cf4?utm_source=1054&utm_campaign=git)** | Shanghai, VA | On Site | Jul 22 |
 | **[PanORama Michigan](https://www.linkedin.com/company/91372212)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669e246dc40edebdd21d3930?utm_source=1054&utm_campaign=git)** | Columbia, SC | On Site | Jul 22 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Resource Management Intern](https://jobright.ai/jobs/info/669dd0f33f074f7668a577cb?utm_source=1054&utm_campaign=git)** | Herndon, VA | On Site | Jul 21 |
@@ -87,6 +88,7 @@ For a complete list, see the full spreadsheet below:
 | **[First Student](http://www.firststudentinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/669d0edd882781b0ee6b936a?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 20 |
 | ↳ | **[HR Talent Development Intern](https://jobright.ai/jobs/info/669cf757e69f01075f023913?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Front Desk Student Worker](https://jobright.ai/jobs/info/66421cf970937fa3afb48dcc?utm_source=1054&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 20 |
+| **[Yeshiva University](https://www.yu.edu/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/669e5e2676c6144940234a70?utm_source=1054&utm_campaign=git)** | Bronx, NY | On Site | Jul 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Human Resources Intern](https://jobright.ai/jobs/info/669e468aca3e6aa92c887f0d?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/667cf4f3bfcdafe412391360?utm_source=1054&utm_campaign=git)** | Overland Park, KS | On Site | Jul 20 |
 | **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6675e606002960a5a8d1ac9a?utm_source=1054&utm_campaign=git)** | Culver City, CA | On Site | Jul 20 |
@@ -108,6 +110,7 @@ For a complete list, see the full spreadsheet below:
 | **[Allied OMS](https://www.alliedoms.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669a9e2b0b2ceb58a01ceb71?utm_source=1054&utm_campaign=git)** | Southlake, TX | On Site | Jul 19 |
 | **[JBIER](https://www.jbierboutique.com)** | **[Human Resources and Talent Acquisition Intern](https://jobright.ai/jobs/info/669a75b2824e7a194fd26d72?utm_source=1054&utm_campaign=git)** | NYC Metro Area | On Site | Jul 19 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[Early Talent Analyst, Direct Hire I](https://jobright.ai/jobs/info/669d17c0c5aabccbfcbf06e3?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 19 |
+| **[Motor City Wash Works](https://www.motorcitywashworks.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669e5e3076c6144940234ace?utm_source=1054&utm_campaign=git)** | Wixom, MI | On Site | Jul 19 |
 | **[Entertainment Technology Partners](http://www.etp.net/#etp)** | **[Professional Intern - Human Resources](https://jobright.ai/jobs/info/669bac86be8d79230df06be0?utm_source=1054&utm_campaign=git)** | Orlando, FL | On Site | Jul 19 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Human Resources Associate](https://jobright.ai/jobs/info/6660aed9185fa10b25d83319?utm_source=1054&utm_campaign=git)** | Topeka, KS | Hybrid | Jul 19 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Employer Engagement Coordinator](https://jobright.ai/jobs/info/6677d23797271e26801e2982?utm_source=1054&utm_campaign=git)** | Stillwater, OK | On Site | Jul 19 |
@@ -150,7 +153,7 @@ For a complete list, see the full spreadsheet below:
 | **[Austin Independent School District](https://www.austinisd.org)** | **[Specialist Student Records](https://jobright.ai/jobs/info/66904d41f7b84ac91aab617b?utm_source=1054&utm_campaign=git)** | Austin, TX | On Site | Jul 17 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2024 WMG Emerging Talent Associate Program (300 Elektra Entertainment)](https://jobright.ai/jobs/info/66985194fad1cebfe32922ad?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 17 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Atlantic Records)](https://jobright.ai/jobs/info/66984e7355864e15dfcb6496?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 17 |
-| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (300 Elektra Entertainment)](https://jobright.ai/jobs/info/66984e7e55864e15dfcb65a6?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 17 |
+| ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (300 Elektra Entertainment)](https://jobright.ai/jobs/info/66984e7355864e15dfcb64c7?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 17 |
 | ↳ | **[Fall 2024 WMG Emerging Talent Associate Program (Atlantic Records)](https://jobright.ai/jobs/info/66984e7e55864e15dfcb65a7?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | Hybrid | Jul 17 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Alumni Relations Intern](https://jobright.ai/jobs/info/6698417819b3a20daf3b90cb?utm_source=1054&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 17 |
 | **[DT Global](https://dt-global.com/)** | **[Intern, Recruiting - Business Development](https://jobright.ai/jobs/info/66984885bd2796cba11490c7?utm_source=1054&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 17 |
@@ -166,12 +169,12 @@ For a complete list, see the full spreadsheet below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Early Employment Intern (Fall 2024)](https://jobright.ai/jobs/info/6691b43acdd4fd0eb3caecc6?utm_source=1054&utm_campaign=git)** | Richmond, VA | Hybrid | Jul 17 |
 | **[OPmobility](https://www.opmobility.com/)** | **[SITE HR ADMINISTRATION TRAINEE](https://jobright.ai/jobs/info/6697ddb5c1957b47ad533de4?utm_source=1054&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 17 |
 | **[The Port Authority of NY & NJ](https://panynj.gov/port-authority/en/index.html)** | **[Intern - Diversity, Equity & Inclusion](https://jobright.ai/jobs/info/669d06128b644bfcaf127d29?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 17 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship](https://jobright.ai/jobs/info/667b596246c6f972c505d7cb?utm_source=1054&utm_campaign=git)** | Home, KS | On Site | Jul 17 |
+| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship](https://jobright.ai/jobs/info/667c3b690a9146e54461fbbe?utm_source=1054&utm_campaign=git)** | Home, KS | On Site | Jul 17 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Summer Intern - Early Career Program Development](https://jobright.ai/jobs/info/660349c981e1efe34539bb39?utm_source=1054&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 17 |
 | **[Marmon Aerospace & Defense](https://www.marmon-ad.com/)** | **[Hourly Future Openings- Employment Application](https://jobright.ai/jobs/info/664def3fcf7bdc8f73b3bd9c?utm_source=1054&utm_campaign=git)** | Manchester, NH | On Site | Jul 17 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Summer Intern - Early Career Program Development](https://jobright.ai/jobs/info/660349c981e1efe34539bb3f?utm_source=1054&utm_campaign=git)** | Florida, United States | On Site | Jul 17 |
+| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2025 2L Litigation Summer Associate](https://jobright.ai/jobs/info/6677d21497271e26801e2763?utm_source=1054&utm_campaign=git)** | Houston, TX | On Site | Jul 17 |
 | **[emeis](https://www.linkedin.com/company/103083507)** | **[Adjoint de direction en alternance à Olivet H/F](https://jobright.ai/jobs/info/6656fd51370b79848db90a21?utm_source=1054&utm_campaign=git)** | Olivet, IL | On Site | Jul 17 |
-| **[Winston & Strawn LLP](https://www.winston.com)** | **[Houston Office - 2025 2L Litigation Summer Associate](https://jobright.ai/jobs/info/6675b060242bc4c930f29ca5?utm_source=1054&utm_campaign=git)** | Houston, TX | On Site | Jul 17 |
 | **[Legends Hospitality](http://legends.net)** | **[Human Resources and Customer Service Intern at AT&T Stadium](https://jobright.ai/jobs/info/667b40ec6c645d774025fa12?utm_source=1054&utm_campaign=git)** | Arlington, TX | On Site | Jul 17 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[HR Intern](https://jobright.ai/jobs/info/66561c0daeb54c2aad038d6e?utm_source=1054&utm_campaign=git)** | Allen, TX | On Site | Jul 17 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/665e0c93bc5368a3b89e7652?utm_source=1054&utm_campaign=git)** | Reno, NV | On Site | Jul 17 |
