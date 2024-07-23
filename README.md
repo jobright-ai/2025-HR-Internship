@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bridge Investment Group](https://www.bridgeig.com)** | **[Summer Analyst - Human Resources](https://jobright.ai/jobs/info/669faf50777af561fd131061?utm_source=1054&utm_campaign=git)** | Sandy, UT | On Site | Jul 23 |
+| **[Unigen](https://www.unigen.com/)** | **[HR Intern](https://jobright.ai/jobs/info/669fb0c441059339a39c0de5?utm_source=1054&utm_campaign=git)** | Newark, CA | On Site | Jul 23 |
+| **[Konrad Technologies](https://www.konrad-technologies.com/en/)** | **[Summer Internship - Administrative Assistant](https://jobright.ai/jobs/info/669fa8a8ef9053e1471db49d?utm_source=1054&utm_campaign=git)** | Farmington Hills, MI | On Site | Jul 23 |
 | **[First Student](http://www.firststudentinc.com)** | **[HR Intern](https://jobright.ai/jobs/info/669f32e1cbb1e68b110604e4?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 23 |
 | ↳ | **[HR Talent Development Intern](https://jobright.ai/jobs/info/669f32e1cbb1e68b110604e2?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 23 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Pittsburgh](https://jobright.ai/jobs/info/669f09a3143434b9b84ee2fc?utm_source=1054&utm_campaign=git)** | Pittsburgh, PA | On Site | Jul 23 |
@@ -78,8 +81,8 @@ For a complete list, see the full spreadsheet below:
 | **[Illinois Tool Works](http://www.itw.com/)** | **[Human Resources Coordinator - Part Time](https://jobright.ai/jobs/info/6691dc713226e33592e22760?utm_source=1054&utm_campaign=git)** | Decatur, AL | On Site | Jul 22 |
 | **[Six Flags](https://www.sixflags.com)** | **[Human Resources Clerk (Entry-Level)](https://jobright.ai/jobs/info/669e9aaa3d28756ea8e0f0c3?utm_source=1054&utm_campaign=git)** | Marietta, GA | On Site | Jul 22 |
 | **[Eutelsat](http://www.eutelsat.com)** | **[Career Opportunities: Junior Global Recruiter (5254)](https://jobright.ai/jobs/info/669e9dd12291fa4c9cdd5241?utm_source=1054&utm_campaign=git)** | ID | On Site | Jul 22 |
-| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/6658ce5b61791d2e013536ae?utm_source=1054&utm_campaign=git)** | Washington, DC | On Site | Jul 22 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/669e68517143c599951dd9d9?utm_source=1054&utm_campaign=git)** | Calverton, NY | On Site | Jul 22 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Human Resources Intern](https://jobright.ai/jobs/info/669faf55409ac17305d784e1?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Roche](http://www.roche.com)** | **[HR Intern](https://jobright.ai/jobs/info/669e45c389c2dcd5697b5cf4?utm_source=1054&utm_campaign=git)** | Shanghai, VA | On Site | Jul 22 |
 | **[Circle K Corporation](http://www.circlek.com)** | **[Internal Manager in Training](https://jobright.ai/jobs/info/668fdc83b7836da1097c3bbe?utm_source=1054&utm_campaign=git)** | Tucson, AZ | On Site | Jul 22 |
 | **[PanORama Michigan](https://www.linkedin.com/company/91372212)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669e246dc40edebdd21d3930?utm_source=1054&utm_campaign=git)** | Columbia, SC | On Site | Jul 22 |
@@ -90,7 +93,8 @@ For a complete list, see the full spreadsheet below:
 | **[Sonoran University of Health Sciences](https://www.sonoran.edu)** | **[Admissions Student Recruiter - Hybrid Role](https://jobright.ai/jobs/info/669d7e189e71231a50a989fa?utm_source=1054&utm_campaign=git)** | Tempe, AZ | Hybrid | Jul 21 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Talent Development Intern](https://jobright.ai/jobs/info/669d167f35607f92f55d40d9?utm_source=1054&utm_campaign=git)** | New Jersey, United States | On Site | Jul 21 |
 | **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b8a4022d43fb7b68958b?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 21 |
-| ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b899022d43fb7b689544?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 21 |
+| **[First Student](http://www.firststudentinc.com)** | **[HR Talent Development Intern](https://jobright.ai/jobs/info/669f9b296b4d6a5840810269?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 21 |
+| **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b899022d43fb7b689544?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 21 |
 | ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/66452700089dfb7463bc3f53?utm_source=1054&utm_campaign=git)** | New York, United States | On Site | Jul 21 |
 | ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6677cd3e74ec1a95a89aefb3?utm_source=1054&utm_campaign=git)** | San Francisco, CA | On Site | Jul 21 |
 | ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6677d7e65793f82273cb4555?utm_source=1054&utm_campaign=git)** | Newport Beach, CA | On Site | Jul 21 |
@@ -147,7 +151,7 @@ For a complete list, see the full spreadsheet below:
 | **[Illinois Tool Works](http://www.itw.com/)** | **[Human Resources Coordinator](https://jobright.ai/jobs/info/6690aefb82892b382ec225bd?utm_source=1054&utm_campaign=git)** | Decatur, AL | On Site | Jul 18 |
 | **[Big Brothers Big Sisters of America](http://www.bbbs.org)** | **[AmeriCorps VISTAs : Communications and Learning & Development](https://jobright.ai/jobs/info/66761ae8127b183117fe856f?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Internship - Operations (Intra-Semester)](https://jobright.ai/jobs/info/66994a10788ef9279e8e8d0a?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 18 |
-| **[BNY Mellon](http://www.bnymellon.com)** | **[Early Talent Analyst, Direct Hire I](https://jobright.ai/jobs/info/66993b239da91113a5fcfe63?utm_source=1054&utm_campaign=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
+| **[BNY Mellon](http://www.bnymellon.com)** | **[Early Talent Analyst, Direct Hire I](https://jobright.ai/jobs/info/669940a52f564a8124d2e6c6?utm_source=1054&utm_campaign=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
 | **[Akkodis](https://www.akkodis.com)** | **[HR Assistant](https://jobright.ai/jobs/info/669925d1cd4eace260f0d84b?utm_source=1054&utm_campaign=git)** | St Petersburg, FL | Hybrid | Jul 18 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/669d0c889a5037d44da6fde0?utm_source=1054&utm_campaign=git)** | Cleveland, OH | On Site | Jul 18 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[HR Intern - Organizational Development](https://jobright.ai/jobs/info/669a4fa52885e142e98dec0b?utm_source=1054&utm_campaign=git)** | Buffalo, NY | On Site | Jul 18 |
@@ -175,7 +179,7 @@ For a complete list, see the full spreadsheet below:
 | **[Berry Plastics](https://www.berryglobal.com)** | **[Human Resources Intern (Year-Round) - Airport Warehouse](https://jobright.ai/jobs/info/6697feead087a5f02f46af29?utm_source=1054&utm_campaign=git)** | Evansville, IN | On Site | Jul 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Early Employment Intern (Fall 2024)](https://jobright.ai/jobs/info/6691b43acdd4fd0eb3caecc6?utm_source=1054&utm_campaign=git)** | Richmond, VA | Hybrid | Jul 17 |
 | **[OPmobility](https://www.opmobility.com/)** | **[SITE HR ADMINISTRATION TRAINEE](https://jobright.ai/jobs/info/6697ddb5c1957b47ad533de4?utm_source=1054&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 17 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship](https://jobright.ai/jobs/info/667b596246c6f972c505d7cb?utm_source=1054&utm_campaign=git)** | Home, KS | On Site | Jul 17 |
+| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship](https://jobright.ai/jobs/info/667c3b690a9146e54461fbbe?utm_source=1054&utm_campaign=git)** | Home, KS | On Site | Jul 17 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Summer Intern - Early Career Program Development](https://jobright.ai/jobs/info/660349c981e1efe34539bb39?utm_source=1054&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 17 |
 | **[Marmon Aerospace & Defense](https://www.marmon-ad.com/)** | **[Hourly Future Openings- Employment Application](https://jobright.ai/jobs/info/664def3fcf7bdc8f73b3bd9c?utm_source=1054&utm_campaign=git)** | Manchester, NH | On Site | Jul 17 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Summer Intern - Early Career Program Development](https://jobright.ai/jobs/info/660349c981e1efe34539bb3f?utm_source=1054&utm_campaign=git)** | Florida, United States | On Site | Jul 17 |
