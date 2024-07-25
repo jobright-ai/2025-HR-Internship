@@ -57,12 +57,13 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alix Partners](http://www.alixpartners.com)** | **[Talent Acquistion Intern](https://jobright.ai/jobs/info/668591fae861c76931c96af7?utm_source=1054&utm_campaign=git)** | Detroit, MI | Hybrid | Jul 25 |
 | **[SalesEra](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a1edb9757b9c9fcf4078c8?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 25 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Chattanooga](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f0?utm_source=1054&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Kansas](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89ef?utm_source=1054&utm_campaign=git)** | Overland Park, KS | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Phoenix](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f1?utm_source=1054&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 25 |
-| ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Philadelphia](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f7?utm_source=1054&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Farmington](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f3?utm_source=1054&utm_campaign=git)** | Farmington, CT | On Site | Jul 25 |
+| ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Philadelphia](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f7?utm_source=1054&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Intern - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/66a1d8d2921f2f675f88645b?utm_source=1054&utm_campaign=git)** | San Jose, CA | Hybrid | Jul 25 |
 | **[Forvia](https://www.faurecia.com/en)** | **[Year-Round HR Administration Intern](https://jobright.ai/jobs/info/66a191873191cdd15ad3fa24?utm_source=1054&utm_campaign=git)** | Auburn Hills, MI | On Site | Jul 24 |
 | **[Raytheon](https://www.rtx.com)** | **[Leadership Development Program Intern - Human Resources (Starts May 2025)](https://jobright.ai/jobs/info/66a194197c2a83b26eb62236?utm_source=1054&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 24 |
@@ -71,17 +72,17 @@ For a complete list, see the full spreadsheet below:
 | **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Compensation & Benefits](https://jobright.ai/jobs/info/665917eee3ecf9e1b0661bf6?utm_source=1054&utm_campaign=git)** | Palo Alto, CA | On Site | Jul 24 |
 | **[Nabidios](www.nabidios.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a1693890fc2c738502f639?utm_source=1054&utm_campaign=git)** | Wisconsin, United States | On Site | Jul 24 |
 | **[Toyoda Gosei North America Corporation](http://www.toyodagosei.com/)** | **[HR Specialist](https://jobright.ai/jobs/info/66a1e5e7496d539137aa5936?utm_source=1054&utm_campaign=git)** | Troy, MI | On Site | Jul 24 |
+| **[Cooley](http://www.cooley.com)** | **[2025 Summer Associate – Labor & Employment](https://jobright.ai/jobs/info/66a246bc6dde01000490c63d?utm_source=1054&utm_campaign=git)** | Washington, DC | On Site | Jul 24 |
 | **[BUCKS COUNTY IU 22 SCHOOL DISTRICT](https://www.linkedin.com/company/55768935)** | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a184dfe6f51d676c026d71?utm_source=1054&utm_campaign=git)** | Allentown, PA | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a1721b5c9c5c51b4894ea0?utm_source=1054&utm_campaign=git)** | Pittstown, NJ | On Site | Jul 24 |
+| ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a65619e?utm_source=1054&utm_campaign=git)** | Bath, PA | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561a5?utm_source=1054&utm_campaign=git)** | Aston, PA | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a1604fe2be5c244a6561af?utm_source=1054&utm_campaign=git)** | Doylestown, PA | On Site | Jul 24 |
-| ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a18e43cc283f3a593af6b5?utm_source=1054&utm_campaign=git)** | Bath, PA | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a1b13c360807c227c24cfb?utm_source=1054&utm_campaign=git)** | North Brunswick, NJ | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a301e?utm_source=1054&utm_campaign=git)** | Montgomery, PA | On Site | Jul 24 |
 | ↳ | **[Behavor Analyst - Excellent employee benefit plan](https://jobright.ai/jobs/info/66a15b8e85a92c36a39a3020?utm_source=1054&utm_campaign=git)** | Pennsauken, NJ | On Site | Jul 24 |
 | **[Choose](http://www.appchoose.io/)** | **[Influencer Recruiter](https://jobright.ai/jobs/info/66a148e753ccbd09bfe38030?utm_source=1054&utm_campaign=git)** | New York, NY | Hybrid | Jul 24 |
 | **[SalesEra](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a1436f59051cfbf53a7d7c?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 24 |
-| **[Agora](https://agora.unicef.org/)** | **[Internship: Organizational Culture, Diversity, Equity and Inclusion Intern, 6 months, DHR, NYC, Home Based](https://jobright.ai/jobs/info/66a10e7f77417df7b9f093fb?utm_source=1054&utm_campaign=git)** | New York, United States | On Site | Jul 24 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Crew Resources - Crew Bidding and Planning, (Spring, 2025)](https://jobright.ai/jobs/info/66a14648455c20085ada57ad?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 24 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Intern  - Fall 2024](https://jobright.ai/jobs/info/66a12bf834afed6024626d1f?utm_source=1054&utm_campaign=git)** | Cleveland, OH | On Site | Jul 24 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/66a1242d952485abf9abea90?utm_source=1054&utm_campaign=git)** | Calverton, NY | On Site | Jul 24 |
@@ -99,7 +100,6 @@ For a complete list, see the full spreadsheet below:
 | **[CALSTART](http://www.calstart.org)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/66a06f6b9c54df228f85e268?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 24 |
 | **[The Lincoln Center](https://thelincolncenter.com)** | **[Recruiter](https://jobright.ai/jobs/info/66a065bc0e159f780df65053?utm_source=1054&utm_campaign=git)** | Norristown, PA | On Site | Jul 24 |
 | **[Merritt Woodwork](http://merrittwoodwork.com)** | **[HR Intern - entry level](https://jobright.ai/jobs/info/66a1467168fdc09d476c7c9a?utm_source=1054&utm_campaign=git)** | Mentor, OH | On Site | Jul 24 |
-| **[First Command Financial Services](http://www.firstcommand.com)** | **[Talent Acquisition SkillBridge Intern](https://jobright.ai/jobs/info/66a03d612eac7ec3724e8c7b?utm_source=1054&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 23 |
 | **[Hugo Boss](https://www.hugoboss.com/)** | **[Fall 2024 - HRIS & Benefits](https://jobright.ai/jobs/info/66a03fc34138bf13e1d7513d?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits Intern (Unpaid)](https://jobright.ai/jobs/info/66a022e546b8641105c98b0a?utm_source=1054&utm_campaign=git)** | Tucson, AZ | Hybrid | Jul 23 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2024] Office of People and Culture Internship](https://jobright.ai/jobs/info/66a022ee46b8641105c98c29?utm_source=1054&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
@@ -153,7 +153,8 @@ For a complete list, see the full spreadsheet below:
 | **[Sonoran University of Health Sciences](https://www.sonoran.edu)** | **[Admissions Student Recruiter - Hybrid Role](https://jobright.ai/jobs/info/669d7e189e71231a50a989fa?utm_source=1054&utm_campaign=git)** | Tempe, AZ | Hybrid | Jul 21 |
 | **[Ferguson Construction Co.](http://ferguson-construction.com)** | **[Human Resources Co-op Fall 2024](https://jobright.ai/jobs/info/66a0e5b2b73fe09fb9e67aa2?utm_source=1054&utm_campaign=git)** | Dayton, OH | On Site | Jul 21 |
 | **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b8a4022d43fb7b68958b?utm_source=1054&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 21 |
-| ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b899022d43fb7b689544?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 21 |
+| **[First Student](http://www.firststudentinc.com)** | **[HR Talent Development Intern](https://jobright.ai/jobs/info/66a23288e578354a2d21575b?utm_source=1054&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 21 |
+| **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6676b899022d43fb7b689544?utm_source=1054&utm_campaign=git)** | Dallas, TX | On Site | Jul 21 |
 | **[Ferguson Construction Co.](http://ferguson-construction.com)** | **[Human Resources Co-op Fall 2024](https://jobright.ai/jobs/info/66a0de6428125a716783e44c?utm_source=1054&utm_campaign=git)** | Columbus, OH | On Site | Jul 21 |
 | **[O'Melveny & Myers](http://www.omm.com)** | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/66452700089dfb7463bc3f53?utm_source=1054&utm_campaign=git)** | New York, United States | On Site | Jul 21 |
 | ↳ | **[2025 2L Coleman Fellowship](https://jobright.ai/jobs/info/6677cd3e74ec1a95a89aefb3?utm_source=1054&utm_campaign=git)** | San Francisco, CA | On Site | Jul 21 |
@@ -200,5 +201,4 @@ For a complete list, see the full spreadsheet below:
 | **[Big Brothers Big Sisters of America](http://www.bbbs.org)** | **[AmeriCorps VISTAs : Communications and Learning & Development](https://jobright.ai/jobs/info/66761ae8127b183117fe856f?utm_source=1054&utm_campaign=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Internship - Operations (Intra-Semester)](https://jobright.ai/jobs/info/66994a10788ef9279e8e8d0a?utm_source=1054&utm_campaign=git)** | United States | Remote | Jul 18 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[Early Talent Analyst, Direct Hire I](https://jobright.ai/jobs/info/66993b239da91113a5fcfe63?utm_source=1054&utm_campaign=git)** | Pittsburgh, PA | Hybrid | Jul 18 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[HR Intern - Organizational Development](https://jobright.ai/jobs/info/669a4fa52885e142e98dec0b?utm_source=1054&utm_campaign=git)** | Buffalo, NY | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
