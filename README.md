@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant - HUBZone Program Coordinator (Remote)](https://jobright.ai/jobs/info/66a33359917c43a74c9e73fd?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
+| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant - HUBZone Program Coordinator (Remote)](https://jobright.ai/jobs/info/66a33359917c43a74c9e73fc?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/66a31117a876354708d31d9a?utm_campaign=1054&utm_source=git)** | Calverton, NY | On Site | Jul 26 |
 | **[Altig - American Income Life Insurance Company](http://www.altig.com)** | **[Veteran Benefits Representative](https://jobright.ai/jobs/info/66a30d0bc4c90e7837b86f26?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 26 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[HR Operations Intern](https://jobright.ai/jobs/info/66a2e2e6621b00551f36262c?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Jul 25 |
@@ -111,12 +111,12 @@ For a complete list, see the full spreadsheet below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Intern  - Fall 2024](https://jobright.ai/jobs/info/66a12bf834afed6024626d1f?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 24 |
 | **[American Plastics](https://www.americanplasticsllc.com/)** | **[Human Resources: Paid Internship](https://jobright.ai/jobs/info/66a1749eedfe0a13ffb3ca5a?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Jul 24 |
 | **[National Board For Certified Counselors](https://www.nbcc.org)** | **[HR Intern](https://jobright.ai/jobs/info/668dfe34e222ef0ee5977af8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jul 24 |
+| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66a24d9a0b034aa29c462808?utm_campaign=1054&utm_source=git)** | Nueces County, TX | On Site | Jul 24 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/6677bd9727c0e726e8f4ee4a?utm_campaign=1054&utm_source=git)** | Stillwater, OK | On Site | Jul 24 |
 | **[Dana TM4](https://www.danatm4.com)** | **[HR Intern](https://jobright.ai/jobs/info/6684acb9cd3f9c6e54b7636c?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Jul 24 |
 | **[Eaton - eMobility Business](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Co-Op: HR Associate Generalist - Carol Stream, IL](https://jobright.ai/jobs/info/66842fc9fb29648f2cae369a?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Jul 24 |
 | **[Checkers & Rally's](https://www.checkers.com/)** | **[Employee Engagement Specialist - Hybrid - Tampa](https://jobright.ai/jobs/info/668489b42ca14dafe69a19da?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jul 24 |
-| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/6679773a22283fc0c7337482?utm_campaign=1054&utm_source=git)** | Nueces County, TX | On Site | Jul 24 |
-| ↳ | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66a0a4810b28448f13ff9c98?utm_campaign=1054&utm_source=git)** | Nueces County, TX | Hybrid | Jul 24 |
+| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66a0a4810b28448f13ff9c98?utm_campaign=1054&utm_source=git)** | Nueces County, TX | Hybrid | Jul 24 |
 | **[Hugo Boss](https://www.hugoboss.com/)** | **[Fall 2024 - HRIS & Benefits Intern](https://jobright.ai/jobs/info/66a03fc34138bf13e1d7513d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Diversity & Inclusion Summit - San Francisco - College Program 2025](https://jobright.ai/jobs/info/66a09c1332a85301d982aac1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Benefits Intern](https://jobright.ai/jobs/info/66a0791df493ff248a60327b?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jul 24 |
@@ -196,4 +196,9 @@ For a complete list, see the full spreadsheet below:
 | **[Forvia](https://www.faurecia.com/en)** | **[Year-Round HR Intern](https://jobright.ai/jobs/info/669aa0e21550284ce029340e?utm_campaign=1054&utm_source=git)** | Spring Hill, TN | On Site | Jul 19 |
 | **[Allied OMS](https://www.alliedoms.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/669a9e2b0b2ceb58a01ceb71?utm_campaign=1054&utm_source=git)** | Southlake, TX | On Site | Jul 19 |
 | **[Entertainment Technology Partners](http://www.etp.net/#etp)** | **[Professional Intern - Human Resources](https://jobright.ai/jobs/info/66a260c397a3a7c64f0cc7c4?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
+| **[Motor City Wash Works](https://www.motorcitywashworks.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a25491c0e679b90829c104?utm_campaign=1054&utm_source=git)** | Wixom, MI | On Site | Jul 19 |
+| **[Security Benefit](https://securitybenefit.com)** | **[Internship - Human Resources Associate](https://jobright.ai/jobs/info/6660aed9185fa10b25d83319?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | Jul 19 |
+| **[Oklahoma State University](https://go.okstate.edu/)** | **[Employer Engagement Coordinator](https://jobright.ai/jobs/info/6677d23797271e26801e2982?utm_campaign=1054&utm_source=git)** | Stillwater, OK | On Site | Jul 19 |
+| **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Skillbridge Recruiting Intern (Transitioning Military)](https://jobright.ai/jobs/info/66609990281af5b1d64a6b90?utm_campaign=1054&utm_source=git)** | Chantilly, VA | Remote | Jul 19 |
+| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Fall 2024](https://jobright.ai/jobs/info/669a2077cb91786c1b388d77?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
