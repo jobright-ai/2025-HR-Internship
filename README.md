@@ -57,7 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant - HUBZone Program Coordinator (Remote)](https://jobright.ai/jobs/info/66a3300bcdfb7acdac7fb146?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
+| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant - HUBZone Program Coordinator (Remote)](https://jobright.ai/jobs/info/66a33359917c43a74c9e73fd?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/66a31117a876354708d31d9a?utm_campaign=1054&utm_source=git)** | Calverton, NY | On Site | Jul 26 |
 | **[Altig - American Income Life Insurance Company](http://www.altig.com)** | **[Veteran Benefits Representative](https://jobright.ai/jobs/info/66a30d0bc4c90e7837b86f26?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 26 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[HR Operations Intern](https://jobright.ai/jobs/info/66a2e2e6621b00551f36262c?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Jul 25 |
