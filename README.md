@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Intern- UNPAID](https://jobright.ai/jobs/info/66a46a443d73b8ffff0c4195?utm_campaign=1054&utm_source=git)** | Glendale, CA | Hybrid | Jul 27 |
+| ↳ | **[Fall Internship - Economic Empowerment Intern - Unpaid](https://jobright.ai/jobs/info/66a46a443d73b8ffff0c419a?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jul 27 |
 | **[Resort Lifestyle Communities](http://rlcommunities.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a43ca437b6e8b5afd1c135?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jul 26 |
 | **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant - HUBZone Program Coordinator (Remote)](https://jobright.ai/jobs/info/66a429976ddedef67926e613?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[IndeVets](https://indevets.com/)** | **[People Success (HR) Intern](https://jobright.ai/jobs/info/66a4133392c15a63eb8105d9?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 26 |
@@ -83,6 +85,8 @@ For a complete list, see the full spreadsheet below:
 | **[Forvia](https://www.faurecia.com/en)** | **[Year-Round HR Intern](https://jobright.ai/jobs/info/669aa0e21550284ce029340e?utm_campaign=1054&utm_source=git)** | Spring Hill, TN | On Site | Jul 26 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/66a31117a876354708d31d9a?utm_campaign=1054&utm_source=git)** | Calverton, NY | On Site | Jul 26 |
 | **[Metrolina Greenhouses INC](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern - Starts November 4, 2024!](https://jobright.ai/jobs/info/66a40dc1dfc0dce261462150?utm_campaign=1054&utm_source=git)** | York, SC | On Site | Jul 26 |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Cybersecurity Incident Response Analyst - Apprentice](https://jobright.ai/jobs/info/66a442d8408fbcb850a86de8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jul 26 |
+| ↳ | **[Cybersecurity Incident Response Analyst - Apprentice](https://jobright.ai/jobs/info/66a442d8408fbcb850a86e16?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 26 |
 | **[Altig - American Income Life Insurance Company](http://www.altig.com)** | **[Veteran Benefits Representative](https://jobright.ai/jobs/info/66a30d0bc4c90e7837b86f26?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 26 |
 | **[University of Florida](https://www.ufl.edu)** | **[STAS HR Intern](https://jobright.ai/jobs/info/66a3e88bb020465e7d35cfa8?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jul 26 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Diversity Summer Series: Crushing The Campus Recruiting Process](https://jobright.ai/jobs/info/66a43d5c0644a5a86c6e82b6?utm_campaign=1054&utm_source=git)** | New York - 1166 | Hybrid | Jul 26 |
@@ -116,8 +120,8 @@ For a complete list, see the full spreadsheet below:
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Chattanooga](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f0?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Kansas](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89ef?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Phoenix](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f1?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 25 |
-| ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Philadelphia](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Farmington](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f3?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Jul 25 |
+| ↳ | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Philadelphia](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Intern - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/66a1d8d2921f2f675f88645b?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jul 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment and Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/669addce1ba6433041419a9e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | Hybrid | Jul 25 |
 | **[Best Point](https://bestpoint.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a2cbf6327455bc297b1508?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
@@ -145,8 +149,8 @@ For a complete list, see the full spreadsheet below:
 | **[Eaton - eMobility Business](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Co-Op: HR Associate Generalist - Carol Stream, IL](https://jobright.ai/jobs/info/66842fc9fb29648f2cae369a?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Jul 24 |
 | **[Checkers & Rally's](https://www.checkers.com/)** | **[Employee Engagement Specialist - Hybrid - Tampa](https://jobright.ai/jobs/info/668489b42ca14dafe69a19da?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jul 24 |
 | **[Merritt Woodwork](http://merrittwoodwork.com)** | **[HR - entry level opportunity](https://jobright.ai/jobs/info/66a1467168fdc09d476c7c9a?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 24 |
-| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66794809f67c3c57c98b00c4?utm_campaign=1054&utm_source=git)** | Nueces County, TX | Hybrid | Jul 24 |
-| ↳ | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66a13c51814e5297466f0b4e?utm_campaign=1054&utm_source=git)** | Nueces County, TX | On Site | Jul 24 |
+| **[Huitt-Zollars](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/6679552f39ca2f81c4370373?utm_campaign=1054&utm_source=git)** | Nueces County, TX | On Site | Jul 24 |
+| ↳ | **[College Recruitment Internship/CO-OP Opportunities (For 2025)](https://jobright.ai/jobs/info/66a0a4810b28448f13ff9c98?utm_campaign=1054&utm_source=git)** | Nueces County, TX | Hybrid | Jul 24 |
 | **[Hugo Boss](https://www.hugoboss.com/)** | **[Fall 2024 - HRIS & Benefits Intern](https://jobright.ai/jobs/info/66a03fc34138bf13e1d7513d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Diversity & Inclusion Summit - San Francisco - College Program 2025](https://jobright.ai/jobs/info/66a09c1332a85301d982aac1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Benefits Intern](https://jobright.ai/jobs/info/66a0791df493ff248a60327b?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jul 24 |
