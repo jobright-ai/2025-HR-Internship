@@ -87,10 +87,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Selinsgrove](https://jobright.ai/jobs/info/66abc890b445cf05b70a5f6a?utm_campaign=1054&utm_source=git)** | Selinsgrove, PA | On Site | Aug 01 |
 | ↳ | **[Spring 2025 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/66abb89842e22dc66f68090d?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 01 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/66abb89842e22dc66f680913?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 01 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/66abb89842e22dc66f680919?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Aug 01 |
-| ↳ | **[Spring 2025 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/66abb89842e22dc66f680921?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Aug 01 |
-| ↳ | **[Summer 2025 Management Trainee Intern - York](https://jobright.ai/jobs/info/66abb89842e22dc66f68091d?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 01 |
 | ↳ | **[Spring 2025 Management Trainee Intern - York](https://jobright.ai/jobs/info/66abb89842e22dc66f680916?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 01 |
+| ↳ | **[Spring 2025 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/66abb89842e22dc66f680921?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Aug 01 |
+| ↳ | **[Summer 2025 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/66abb89842e22dc66f680919?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Aug 01 |
+| ↳ | **[Summer 2025 Management Trainee Intern - York](https://jobright.ai/jobs/info/66abb89842e22dc66f68091d?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 01 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Bethlehem](https://jobright.ai/jobs/info/66abb89842e22dc66f68091e?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | On Site | Aug 01 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/66abb89842e22dc66f68092b?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Aug 01 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/66abb89842e22dc66f68092f?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 01 |
@@ -174,8 +174,8 @@ For a complete list, see the full spreadsheet below:
 | **[Avancez](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66a79e71d66d276bab75ff19?utm_campaign=1054&utm_source=git)** | Roanoke, IN | On Site | Jul 27 |
 | **[United Parcel Service](http://www.ups.com)** | **[Seasonal HR Intern - Idaho](https://jobright.ai/jobs/info/66a541639c3ef3907d3dd250?utm_campaign=1054&utm_source=git)** | Garden City, ID | On Site | Jul 27 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Human Resources - Columbus, OH (Spring 2025)](https://jobright.ai/jobs/info/6675e1c9e95c1a0a225b920e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 27 |
-| **[United Parcel Service](http://www.ups.com)** | **[Seasonal HR Intern - Portland](https://jobright.ai/jobs/info/66a4d41cc3ac5744ab342abc?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Jul 27 |
-| ↳ | **[Seasonal HR Intern - Bozeman](https://jobright.ai/jobs/info/66a4d41cc3ac5744ab342aba?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Jul 27 |
+| **[United Parcel Service](http://www.ups.com)** | **[Seasonal HR Intern - Bozeman](https://jobright.ai/jobs/info/66a4d41cc3ac5744ab342aba?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Jul 27 |
+| ↳ | **[Seasonal HR Intern - Portland](https://jobright.ai/jobs/info/66a4d41cc3ac5744ab342abc?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Jul 27 |
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Human Resources - Columbus, OH (Spring 2025)](https://jobright.ai/jobs/info/666b7e94bb0d4daf8189d891?utm_campaign=1054&utm_source=git)** | Lima, OH | On Site | Jul 27 |
 | **[Moss & Associates](https://mosscm.com/)** | **[HR Analyst Internship](https://jobright.ai/jobs/info/66035492e592e25a4e883e65?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 27 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024 Economic Empowerment - Benefits Intern](https://jobright.ai/jobs/info/66a0791df493ff248a60327b?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jul 27 |
