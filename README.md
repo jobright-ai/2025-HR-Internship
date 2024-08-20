@@ -42,9 +42,9 @@
 <h4>
 Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
-For a complete list, see the full spreadsheet below:
+For a complete list, click the following sortable link below:
 </h4>
-<a href="https://intern-list.com/?selectedKey=👥%20Human%20Resources&utm_source=&utm_campaign=Human Resources">
+<a href="https://intern-list.com/?selectedKey=👥%20Human%20Resources&utm_source=1101&utm_campaign=Human Resources">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -270,5 +270,4 @@ For a complete list, see the full spreadsheet below:
 | **[Canidium](http://canidium.com)** | **[HR Intern](https://jobright.ai/jobs/info/66bbe9152286dc9102a00f0d?utm_campaign=1054&utm_source=git)** | Fort Collins Area | Hybrid | Aug 13 |
 | **[Truly Free](https://trulyfreehome.com)** | **[Scouting Talents: Upload your profile and join the team!](https://jobright.ai/jobs/info/667ec26554cf07d22d22878c?utm_campaign=1054&utm_source=git)** | Williamsburg, VA | On Site | Aug 13 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/66bbb722d7b1c3615bda61f8?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Aug 13 |
-| **[Colony Brands](http://www.colonybrands.com/)** | **[Employment Specialist Internship (Sun Prairie, WI)](https://jobright.ai/jobs/info/66bf9225a672167192498783?utm_campaign=1054&utm_source=git)** | Sun Prairie, WI | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
