@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Human Resources">
 <a href="https://intern-list.com/?selectedKey=👥%20Human%20Resources&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
 
@@ -75,7 +75,7 @@ For a complete list, see the full spreadsheet below:
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Human Resources Summer Intern](https://jobright.ai/jobs/info/66c3c2a10d00198ad37eb046?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 19 |
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/66c3ce8e276529eb7c37b108?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Intern, HRIS](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f3e5?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Aug 19 |
-| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant- Internship Operations Coordinator](https://jobright.ai/jobs/info/66c3d0749895200c1bd52a39?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 19 |
+| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant- Internship Operations Coordinator](https://jobright.ai/jobs/info/66c3cca72b7c7cc91f86ad48?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Intern [Video Interview Test #7]](https://jobright.ai/jobs/info/66bfb9d8a9c4e4121e642e95?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | On Site | Aug 19 |
 | **[Jerry](https://getjerry.com)** | **[People Ops Coordinator](https://jobright.ai/jobs/info/66c3bc823e168aa394695c9d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Aug 19 |
 | **[Copeland](https://www.copeland.com)** | **[Human Resources Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f541?utm_campaign=1054&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
