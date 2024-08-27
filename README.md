@@ -478,12 +478,4 @@ For a complete list, click the following sortable link below:
 | **[Cenovus Energy](http://www.cenovus.com)** | **[Student, Talent Acquisition - Dublin, OH (Spring 2025)](https://jobright.ai/jobs/info/666b7a9366a6b9b65997bbbb?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
 | **[AbbVie](http://www.abbvie.com)** | **[2025 Human Resources Intern](https://jobright.ai/jobs/info/66a7fe6047401dfcfbcf8ce7?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Aug 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resource Intern (Beginning Winter 2025)](https://jobright.ai/jobs/info/66be3603b0c1a71cd1ceb5e1?utm_campaign=1054&utm_source=git)** | Richland, MI | On Site | Aug 20 |
-| **[Jabil](https://www.jabil.com)** | **[EH&S / HR Intern](https://jobright.ai/jobs/info/66bf94bd685541ab8d23a485?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Aug 20 |
-| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66c443dc924243cee6672436?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Aug 19 |
-| **[Blackstone Group](http://blackstone.com)** | **[2024 Blackstone US Diverse Leaders Program](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5f95?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| ↳ | **[2024 Blackstone US Future Women Leaders Program](https://jobright.ai/jobs/info/66c42a3dbb4952a3bddf5f97?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[American Cast Iron Pipe Company](https://www.american-usa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66c811c4439a699bfd6f65d0?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Aug 19 |
-| **[Life Alive Café](http://www.lifealive.com)** | **[People & Culture (Human Resources) Fall Intern](https://jobright.ai/jobs/info/66c434179bb2703b62268a79?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Aug 19 |
-| **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/66c414672b25836098449e0d?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 19 |
-| **[QUE Technology Group](http://www.qtg-hq.com)** | **[HR Assistant- Internship Operations Coordinator](https://jobright.ai/jobs/info/66c420be813d52a8ccc022a7?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
