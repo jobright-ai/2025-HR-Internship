@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Cap](https://www.whitecap.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f14d168b0ec0c31f5c30be?utm_campaign=1054&utm_source=git)** | Norcross, GA | On Site | Sep 23 |
 | **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[People Analytics Intern](https://jobright.ai/jobs/info/66f1213d3a01faf31dd9a3b3?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Sep 23 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health and Benefits Internship](https://jobright.ai/jobs/info/66f1160aaa190db8471858a6?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 23 |
 | **[Hill’s Pet Nutrition](https://www.hillspet.com)** | **[Human Resources Co-Op (Year-round Intern)](https://jobright.ai/jobs/info/66f103181b75646c6a1f1da0?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Sep 22 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Talent Internship: Nuveen Asset Management](https://jobright.ai/jobs/info/66ef02b65aff61981c0a110f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | ↳ | **[Intern - Nuveen Responsible Investing & Corporate Strategy](https://jobright.ai/jobs/info/66ef05be44c9bab40f6b163f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | ↳ | **[2025 Early Talent Internship: Nuveen Real Estate & Real Assets](https://jobright.ai/jobs/info/66ef05be44c9bab40f6b1640?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 21 |
-| ↳ | **[Intern - Nuveen Responsible Investing & Corporate Strategy](https://jobright.ai/jobs/info/66ef02b65aff61981c0a117a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
 | ↳ | **[2025 Early Talent Internship: Nuveen Real Estate & Real Assets](https://jobright.ai/jobs/info/66ef02b65aff61981c0a117b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
+| ↳ | **[Intern - Nuveen Responsible Investing & Corporate Strategy](https://jobright.ai/jobs/info/66ef02b65aff61981c0a117a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
 | ↳ | **[2025 Early Talent Internship: Nuveen Real Estate & Real Assets](https://jobright.ai/jobs/info/66ef112b36d22739274e5046?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 21 |
 | ↳ | **[Early Talent Internship: Nuveen Asset Management](https://jobright.ai/jobs/info/66ef112b36d22739274e5047?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 21 |
 | ↳ | **[Intern - Nuveen Equities & Fixed Income](https://jobright.ai/jobs/info/66ef112b36d22739274e5048?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Outsourcing & Resource Solutions Intern](https://jobright.ai/jobs/info/66c581178ff0494bd674f1b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
 | **[Allied Universal](http://www.aus.com)** | **[Veteran Leadership Program](https://jobright.ai/jobs/info/66d25a988c5792405f3bf06a?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Sep 21 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/66d25a91f396c6f40612e602?utm_campaign=1054&utm_source=git)** | Madison, SD | On Site | Sep 21 |
-| **[Greif](http://greif.com)** | **[Global Talent Center Intern](https://jobright.ai/jobs/info/66e2f0f129c28bc5f090cc87?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Sep 21 |
 | **[Arvest Bank Group](https://www.arvest.com)** | **[Intern 2025 - Communications/Marketing/HR](https://jobright.ai/jobs/info/66d233a76453bb7f95b348f0?utm_campaign=1054&utm_source=git)** | Lowell, AR | On Site | Sep 21 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Summer Management Intern](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1ad68?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/66d2f99f38f67836c7268652?utm_campaign=1054&utm_source=git)** | Yemassee, SC | On Site | Sep 21 |
@@ -122,11 +122,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Management Intern](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1ad65?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Sep 21 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[Human Resources Data Analyst Intern](https://jobright.ai/jobs/info/66d241b443b3bddb651799fa?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 21 |
 | **[Domtar](http://www.domtar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66955b091c130559cedb647a?utm_campaign=1054&utm_source=git)** | Plymouth, NC | On Site | Sep 21 |
+| **[Greif](http://greif.com)** | **[Global Talent Center Intern](https://jobright.ai/jobs/info/66e2f0f129c28bc5f090cc8c?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Sep 21 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66d241b443b3bddb651799e6?utm_campaign=1054&utm_source=git)** | Carthage, MO | On Site | Sep 21 |
 | **[United Parcel Service](http://www.ups.com)** | **[MHR Internship Summer 2025](https://jobright.ai/jobs/info/66b6a3ff8cd6f5ea36ca7875?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 21 |
 | **[Greif](http://greif.com)** | **[Global Talent Center Intern](https://jobright.ai/jobs/info/66d208996315e47b51611b16?utm_campaign=1054&utm_source=git)** | Smyrna, GA | Hybrid | Sep 21 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2024](https://jobright.ai/jobs/info/66ee91b5e3152174f06e22d5?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Sep 21 |
-| **[Bimbo Bakeries](https://bimbobakeriesusa.com)** | **[Diversity Equity and Belonging Internship](https://jobright.ai/jobs/info/66ee9dfa55f7695c542c87ab?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)** | **[Internal Agency RN - Labor & Delivery](https://jobright.ai/jobs/info/66c58b854031dddaece8f4b2?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Sep 21 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/66ee8db861bdfcdbebb544e9?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Sep 21 |
 | **[Merck](http://www.merck.com)** | **[Regulatory Digital Health - Policy Execution Co-op](https://jobright.ai/jobs/info/66e5427403f91da06e73b42c?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 21 |
@@ -149,12 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Leidos holdings](https://www.leidos.com/)** | **[2025 Summer Intern: Human Resources (Process & Technology)](https://jobright.ai/jobs/info/66ee2897715bf585075c9aa2?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11372?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110b1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11377?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11373?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11377?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11385?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1137e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11379?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1137d?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1137e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11387?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11395?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
