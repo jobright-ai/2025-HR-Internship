@@ -57,10 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrated Measurement Systems](https://www.indianapolismotorspeedway.com/)** | **[Credentials Intern, College Program](https://jobright.ai/jobs/info/66f4d69320cb5636b4790d01?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
+| ↳ | **[Guest Experience Operations Intern](https://jobright.ai/jobs/info/66f4d69320cb5636b4790d04?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern Compensation Analyst](https://jobright.ai/jobs/info/66f4d69320cb5636b4790ce3?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Sep 25 |
+| **[Asante](https://asante.org)** | **[Office Assistant - Intern (Human Resources)](https://jobright.ai/jobs/info/66f4c8cc9addd2508018a7c0?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Sep 25 |
+| **[MEMIC](https://www.memic.com/)** | **[Human Resources Associate](https://jobright.ai/jobs/info/66f4b617a1003749c95c6560?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Sep 25 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Investment Banking Women's Insight Day](https://jobright.ai/jobs/info/66f4afef06eba23b4c0ee720?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
+| ↳ | **[Investment Banking Women's Insight Day](https://jobright.ai/jobs/info/66f4afef06eba23b4c0ee76a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 25 |
+| **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship](https://jobright.ai/jobs/info/66f4bbad422176ea4150913f?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 25 |
+| **[Two Six Technologies](https://twosixtech.com/)** | **[Skillbridge Internship](https://jobright.ai/jobs/info/66f4ad88483aad13e8889c32?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Sep 25 |
+| **[Link Logistics Real Estate](https://www.linklogistics.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f081f?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Sep 25 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Part-time Internship – HR (Campus Recruiting)](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07f6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[National Debt Relief](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/66f4a898570be7543e2981e8?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Rocket Lab](http://www.rocketlabusa.com)** | **[People and Culture Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a4fcd36cb57b159a2788?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Sep 25 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Office of Diversity, Equity, Inclusion, and Opportunity (ODEIO) Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a32516337ad?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
 | ↳ | **[Talent Acquisition Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a3251633788?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/66f4b3fc5408589b00161c3e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Compensation Analyst Intern](https://jobright.ai/jobs/info/66f490a824d15741f1a0a985?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
 | **[KBR](https://www.kbr.com)** | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f490a824d15741f1a0a97f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Sep 25 |
 | ↳ | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f496c95451b9ffcb5f8f49?utm_campaign=1054&utm_source=git)** | Beavercreek Township, OH | On Site | Sep 25 |
@@ -72,8 +84,6 @@ For a complete list, click the following sortable link below:
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Emerging Talent Specialist](https://jobright.ai/jobs/info/66f48f120e7e75b65d9771dd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 | **[Merck](http://www.merck.com)** | **[Global Market Access Intern](https://jobright.ai/jobs/info/66f48037cd230ae6052bec50?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 25 |
 | ↳ | **[Global Pharmacovigilance Case Management Summer Intern](https://jobright.ai/jobs/info/66f48037cd230ae6052bec4c?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 25 |
-| **[Hunter Wave](https://www.linkedin.com/company/31417617)** | **[Young Talent Internship Program](https://jobright.ai/jobs/info/66f491cc148c15acdfffa52a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
-| **[Vending Coast](https://www.linkedin.com/company/29342011)** | **[Intern](https://jobright.ai/jobs/info/66f48385a0ea161d7fc13b1a?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/66f48385a0ea161d7fc13a22?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 25 |
 | **[Swire Coca-Cola](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/66f475658970a11554b127c7?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 25 |
 | **[Revantage Corporate Services](https://www.revantage.com/)** | **[P&C Talent Acquisition Intern](https://jobright.ai/jobs/info/66f47323bca0e767fe612d7c?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 25 |
@@ -146,15 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant - Human Resources](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc022?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Sep 24 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Talent Management and Organizational Development](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac3d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
 | ↳ | **[Summer 2025 Internship - Compensation Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac79?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
-| ↳ | **[Summer 2025 Internship - Talent Acquisition](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac4e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
 | ↳ | **[People Strategy & Operations Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac6d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
-| **[Edwards Vacuum](http://www.edwardsvacuum.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/66f372f23eda050892fa962f?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Sep 24 |
-| **[University of Richmond](http://www.richmond.edu/)** | **[](https://jobright.ai/jobs/info/66f372f23eda050892fa99ea?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Sep 24 |
-| **[SALAM VOLUNTEERS PROGRAMME](https://www.linkedin.com/company/9105651)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f3e437b4dd7291e7a6ee39?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 24 |
-| **[KBR](https://www.kbr.com)** | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f496c95451b9ffcb5f8f64?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Sep 24 |
-| ↳ | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f496c95451b9ffcb5f8f68?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 24 |
-| ↳ | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f496c95451b9ffcb5f8f66?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Sep 24 |
-| **[Banterra Bank](http://banterra.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f4965a4f2115295d38b43f?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Sep 24 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/66f4965a4f2115295d38b54b?utm_campaign=1054&utm_source=git)** | Eldorado, IL | On Site | Sep 24 |
-| **[PotlatchDeltic](https://www.potlatchdeltic.com/)** | **[Forestry Intern](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10d6c?utm_campaign=1054&utm_source=git)** | Waldo, AR | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
