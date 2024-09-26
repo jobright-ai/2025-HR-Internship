@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Part-time Internship – HR (Campus Recruiting)](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f07f6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[National Debt Relief](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/66f4a898570be7543e2981e8?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Rocket Lab](http://www.rocketlabusa.com)** | **[People and Culture Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a4fcd36cb57b159a2788?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Sep 25 |
-| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Office of Diversity, Equity, Inclusion, and Opportunity (ODEIO) Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a32516337ad?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
-| ↳ | **[Talent Acquisition Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a3251633788?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
+| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Talent Acquisition Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a3251633788?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
+| ↳ | **[Office of Diversity, Equity, Inclusion, and Opportunity (ODEIO) Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a58ec34c5a32516337ad?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/66f4b3fc5408589b00161c3e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 25 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Compensation Analyst Intern](https://jobright.ai/jobs/info/66f490a824d15741f1a0a985?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
 | **[KBR](https://www.kbr.com)** | **[National Security Solutions (NSS) Human Resources Internship](https://jobright.ai/jobs/info/66f490a824d15741f1a0a97f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Sep 25 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant - Human Resources](https://jobright.ai/jobs/info/66f386f61ccbb24f245fc022?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Sep 24 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Talent Management and Organizational Development](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac3d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
 | ↳ | **[Summer 2025 Internship - Compensation Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac79?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
-| ↳ | **[People Strategy & Operations Intern](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac6d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
+| ↳ | **[Summer 2025 Internship - Talent Acquisition](https://jobright.ai/jobs/info/66f36ce9e77c6e2d9baaac4e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
