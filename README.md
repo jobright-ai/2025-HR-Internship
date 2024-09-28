@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f7599d7503016fff815f67?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 27 |
+| **[Dolgencorp](https://www.dollargeneral.com/)** | **[DC Supply Chain/HR Internship](https://jobright.ai/jobs/info/66f7599d7503016fff815f76?utm_campaign=1054&utm_source=git)** | Marion, IN | On Site | Sep 27 |
 | **[Mercedes-Benz Vans](https://mbvcharleston.com)** | **[Human Resources Communications Intern](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab647?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Sep 27 |
 | **[Santander Private Banking International](http://pb-santander.com)** | **[Intern - People/Talent Acquisition](https://jobright.ai/jobs/info/66f73e98aacd545852cc1342?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 27 |
 | **[State of Michigan](http://www.michigan.gov)** | **[MDOT Veteran Intern (General Office Assistant)](https://jobright.ai/jobs/info/66f72845d990f672ad7cd304?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Sep 27 |
@@ -67,8 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Assistant](https://jobright.ai/jobs/info/66f71fa17b1b41fc345f2c79?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Sep 27 |
 | **[Ohio Environmental Protection Agency](http://www.epa.state.oh.us)** | **[Hybrid Telework College Intern](https://jobright.ai/jobs/info/66f71cf59f4cd6681087feb4?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 27 |
 | **[J Public Relations](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/66f71cf59f4cd66810880165?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Sep 27 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f7167d53924c5339729ae7?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Sep 27 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/66f7258345eeeb72f0887e2a?utm_campaign=1054&utm_source=git)** | Bradenton, FL | On Site | Sep 27 |
 | **[McNeilus](https://mcneiluscompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f71294486db36d106f548c?utm_campaign=1054&utm_source=git)** | Dodge Center, MN | On Site | Sep 27 |
 | **[Lexington Medical Center](http://www.lexmed.com)** | **[Intern - Human Resources Workforce](https://jobright.ai/jobs/info/66f7001615c11d28e3d3ffb5?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Sep 27 |
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[Human Resources](https://jobright.ai/jobs/info/66f6f52586945f9bf459fa33?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Sep 27 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/66f619895b9edf2860f5240d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66f619895b9edf2860f52408?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Sep 26 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/66f619895b9edf2860f52431?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Sep 26 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66f619895b9edf2860f52437?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Sep 26 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/66f619895b9edf2860f52409?utm_campaign=1054&utm_source=git)** | Conroe, TX | On Site | Sep 26 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66f619895b9edf2860f52437?utm_campaign=1054&utm_source=git)** | Manassas, VA | On Site | Sep 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66f619895b9edf2860f523db?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Sep 26 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/66f619895b9edf2860f523b8?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Sep 26 |
 | **[PACCAR](http://www.paccar.com/)** | **[Corporate HR Internship - Summer 2025](https://jobright.ai/jobs/info/66f613159ba6eae8ef2eebb7?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Sep 26 |
@@ -143,8 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Fidelity](https://www.fidelity.com)** | **[Summer 2025 Undergraduate Internship - Human Resources](https://jobright.ai/jobs/info/66e8c619935aba7b8f7c0ccc?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Sep 26 |
 | ↳ | **[Summer 2025 Undergraduate Internship - Human Resources](https://jobright.ai/jobs/info/66e8cb9918a28c153fe45268?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 26 |
 | **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/66f6ed7c652a1e21dd59091a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
-| **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health and Benefits Intern](https://jobright.ai/jobs/info/66e4800655736f8b5d3ca584?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Sep 26 |
-| ↳ | **[Health and Benefits Internship](https://jobright.ai/jobs/info/66e4800655736f8b5d3ca57c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Sep 26 |
+| **[UPS Supply Chain Solutions](http://www.ups-scs.com)** | **[Seasonal HR Intern](https://jobright.ai/jobs/info/66f74df7b6d706d798086ce6?utm_campaign=1054&utm_source=git)** | US - ROCKFORD AIR HUB (ILRKF) | On Site | Sep 26 |
+| **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Health and Benefits Internship](https://jobright.ai/jobs/info/66e4800655736f8b5d3ca57c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Sep 26 |
+| ↳ | **[Health and Benefits Intern](https://jobright.ai/jobs/info/66e4800655736f8b5d3ca584?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Sep 26 |
 | ↳ | **[Health and Benefits Internship](https://jobright.ai/jobs/info/66e4800655736f8b5d3ca594?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Sep 26 |
 | **[Inclusive Legal Search LLC](http://www.inclusivelegal.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/66f600dfd0003dacf50b4e02?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 26 |
 | **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Locum Physician (MD/DO) - Internal Medicine](https://jobright.ai/jobs/info/66f692ded34edbe38a14d215?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant - Office of Human Resources](https://jobright.ai/jobs/info/66f5d9dccdab3f30888299d1?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Sep 26 |
 | **[Merck](http://www.merck.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/66f5c7a7cd6213ba41bc189d?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 26 |
 | ↳ | **[Global Security Internship - Physical Security and North America Investigations](https://jobright.ai/jobs/info/66f5c7a7cd6213ba41bc18d1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 26 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/66d9e43624e7ab8a317ff103?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
