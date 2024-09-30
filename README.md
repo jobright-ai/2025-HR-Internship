@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66fa718bd8e4f3992bbd03a0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
+| **[Oshkosh](https://www.oshkoshcorp.com/)** | **[Human Resources/Safety Intern](https://jobright.ai/jobs/info/66faa1f84ac930ecaa1d1ba9?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Sep 30 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66fa81da3f2fe34f6d6b14a5?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
+| **[Lhoist Group](http://www.lhoist.com)** | **[Field HR Intern](https://jobright.ai/jobs/info/66fa7f50b04b8494bf84a482?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
+| **[Tencent](https://www.tencent.com/en-us)** | **[Global Talent Sourcing Hub Intern](https://jobright.ai/jobs/info/66fa99c7bec2d3c7d58afad9?utm_campaign=1054&utm_source=git)** | US-Irvine | On Site | Sep 29 |
 | **[Nordex](http://www.nordex-online.com/en)** | **[Werkstudent People & Culture](https://jobright.ai/jobs/info/66f97f8b697e6663b3566fd8?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Sep 29 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Rotational Internship Program](https://jobright.ai/jobs/info/66f91f54aa158c017b66c6d7?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Sep 29 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Compensation Analyst Intern](https://jobright.ai/jobs/info/66f490a824d15741f1a0a985?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 28 |
@@ -98,9 +101,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Community](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab519?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Sep 28 |
 | **[Republic Airways Holdings](http://www.rjet.com)** | **[Human Resources Benefits Intern](https://jobright.ai/jobs/info/66e07fcf5892c2392fd9f657?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 28 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66f7cc286d9284e6e00ab5f7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 27 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66fa35bc1b6b5861e414d69c?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 27 |
-| ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/66fa35bc1b6b5861e414d6b2?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA | On Site | Sep 27 |
-| **[Oshkosh](https://www.oshkoshcorp.com/)** | **[Human Resources/Safety Intern](https://jobright.ai/jobs/info/66fa30de952ba29b17f08f5c?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Sep 27 |
 | **[Swire Coca-Cola](https://www.swirecc.com)** | **[Intern, Human Resources Field Support](https://jobright.ai/jobs/info/66f777dde2b64659fbe9b3a4?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 27 |
 | **[Loretto](https://lorettocny.org/)** | **[Social Work Intern](https://jobright.ai/jobs/info/66f7952494a79f129878ca83?utm_campaign=1054&utm_source=git)** | Syracuse, NY | Hybrid | Sep 27 |
 | **[United States Soccer Federation (USSF)](https://www.ussoccer.com)** | **[One Nation Internship](https://jobright.ai/jobs/info/66f772737dbcf81f17e3e425?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
