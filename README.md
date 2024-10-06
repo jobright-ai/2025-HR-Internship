@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle K](http://www.circlek.com)** | **[Internal Manager in Training 5636](https://jobright.ai/jobs/info/67028f2cab2062949a489a08?utm_campaign=1054&utm_source=git)** | Fostoria, OH | On Site | Oct 06 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/670262c0ad6a15653606b82f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 06 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Human Resources Intern, Business & Corporate HR Business Partner (Summer 2025)](https://jobright.ai/jobs/info/66e611ae6697c3dd72ba6897?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 06 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd677?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Oct 05 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/6701f9ed9cf579c06db9715f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
@@ -64,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[Case Western Fall Career Fair](https://jobright.ai/jobs/info/67022f9c5681da3e3aaade3e?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 05 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66e4838959e59f33b271027b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/670220f1eaba2e6f82747f09?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 05 |
-| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Houston Office](https://jobright.ai/jobs/info/670219416d195e071c0437ed?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
-| ↳ | **[Underwriting Trainee - Dallas Office](https://jobright.ai/jobs/info/670218a0b008196e3c70ed46?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Oct 05 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Dallas Office](https://jobright.ai/jobs/info/670218a0b008196e3c70ed46?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Oct 05 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiting Internship](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2efeb?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
 | **[O-I](http://www.o-i.com)** | **[People and Culture (HR) Development Program](https://jobright.ai/jobs/info/66e52bc7278cf8fa0a78ca36?utm_campaign=1054&utm_source=git)** | Auburn, NY | On Site | Oct 05 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/6700fedd9108a7282f477aae?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff22ce9c7304d211568670?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
 | **[UPS](http://www.ups.com)** | **[Toledo HR Intern / Coop](https://jobright.ai/jobs/info/66ff550e52f0b692677af642?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Oct 03 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Human Resources Operations Intern (Remote)](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348bbd?utm_campaign=1054&utm_source=git)** | Owings Mills, MD | On Site | Oct 03 |
-| **[PatientPoint®](http://patientpoint.com)** | **[HR Intern - Summer 2025](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f123?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
