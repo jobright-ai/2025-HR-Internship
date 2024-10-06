@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd677?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Oct 05 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/6701f9ed9cf579c06db9715f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Finance/Compensation Specialist Intern](https://jobright.ai/jobs/info/6701807238eb5f42d8ef3b21?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Dallas Office](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd6f6?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Oct 05 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66e4838959e59f33b271027b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
+| **[New College of Florida](http://www.ncf.edu/)** | **[Student Assistant, Human Resources (Federal Work Study)](https://jobright.ai/jobs/info/6701ffe15d68eb2d85dd7015?utm_campaign=1054&utm_source=git)** | Bay Shore Acres, FL | On Site | Oct 05 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Case Western Fall Career Fair](https://jobright.ai/jobs/info/6701f10eb6c60a8afe490cf5?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 05 |
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Houston Office](https://jobright.ai/jobs/info/6701811db7f59e12dae44e65?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/670129be58e5ef16462850d8?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 05 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiting Internship](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2efeb?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
@@ -66,7 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/6700fedd9108a7282f477aae?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Oct 04 |
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent (m/w/d) People & Culture im Fachbereich Ausbildung](https://jobright.ai/jobs/info/670173d7da19279f2853376b?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Oct 04 |
 | **[Valley View](http://www.vvh.org/)** | **[Speak with a Recruiter](https://jobright.ai/jobs/info/6700df1a2f1a6981b08b97be?utm_campaign=1054&utm_source=git)** | Glenwood Springs, CO | On Site | Oct 04 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Human Resources Intern, Summer 2025- Topeka, KS](https://jobright.ai/jobs/info/670204a2fc07f30b24f57361?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Oct 04 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6700b06a3bf801202c01702b?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Oct 04 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Philips People Services HR – Nashville, TN – Summer 2025](https://jobright.ai/jobs/info/6701f564834b8b485ecf09f9?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
+| **[Chick-fil-A Corporate Support Center](http://www.chick-fil-a.com/)** | **[International Benefits, 2025 Summer Intern](https://jobright.ai/jobs/info/6701f6050e504426229e5037?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e92ef?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 04 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e92e2?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2025](https://jobright.ai/jobs/info/670180184235543f083927d7?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 04 |
@@ -108,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Mandelbaum Barrett PC](http://lawfirm.ms)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ffe0cbc3d285d4fbe052b1?utm_campaign=1054&utm_source=git)** | Roseland, NJ | On Site | Oct 04 |
 | **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/66e3824af5b0e0bd9bd8784b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 04 |
 | ↳ | **[Internship - Summer 2025](https://jobright.ai/jobs/info/66e3824af5b0e0bd9bd87879?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Oct 04 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Human Resources Intern, Summer 2025- Topeka, KS](https://jobright.ai/jobs/info/6701110c9e26b6e1bec1af51?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Oct 04 |
 | **[WD-40 Company](https://www.wd40company.com/)** | **[Human Resources Intern (Part-Time)](https://jobright.ai/jobs/info/66e37633b5e74ba68c10114d?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Talent Acquisition Intern (NJUS)](https://jobright.ai/jobs/info/66ffb542fa8ee1d050836379?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | ↳ | **[Benefits Intern (NJUS)](https://jobright.ai/jobs/info/66ffb1eec109da515f32d1bc?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Human Resources Operations Intern (Remote)](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348bbd?utm_campaign=1054&utm_source=git)** | Owings Mills, MD | On Site | Oct 03 |
 | **[PatientPoint®](http://patientpoint.com)** | **[HR Intern - Summer 2025](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f123?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 03 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f5077?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Oct 03 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) – New York – Summer 2025](https://jobright.ai/jobs/info/66ff0d792c025c3c68222b15?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College- Federal Work Study Student- Human Resources Assistant](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f20f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
-| **[Bank Independent](http://bibank.com)** | **[Internship](https://jobright.ai/jobs/info/66ff02a69b5dc2a0f191cf19?utm_campaign=1054&utm_source=git)** | Sheffield, AL | On Site | Oct 03 |
-| **[CR Meyer](http://crmeyer.com)** | **[Human Resources Intern/Assistant (Part-time)](https://jobright.ai/jobs/info/66fee35407faac84fef62a46?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Oct 03 |
-| **[SpawGlass](https://www.spawglass.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66feee3675a67f6b3e3868b7?utm_campaign=1054&utm_source=git)** | Selma, TX | On Site | Oct 03 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66feeae9d535e7918522f9c0?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Oct 03 |
-| **[South Orange County Community College District](https://www.socccd.edu)** | **[Mental Health Intern (IVC - SHC)](https://jobright.ai/jobs/info/66fee6532564211df4981af4?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
