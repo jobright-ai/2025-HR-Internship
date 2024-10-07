@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/6701f9ed9cf579c06db9715f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Finance/Compensation Specialist Intern](https://jobright.ai/jobs/info/6701807238eb5f42d8ef3b21?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66e4838959e59f33b271027b?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/670220f1eaba2e6f82747f09?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 05 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Campus Recruiting Internship](https://jobright.ai/jobs/info/66c7b2e6749f595db9b2efeb?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
 | **[O-I](http://www.o-i.com)** | **[People and Culture (HR) Development Program](https://jobright.ai/jobs/info/66e52bc7278cf8fa0a78ca36?utm_campaign=1054&utm_source=git)** | Auburn, NY | On Site | Oct 05 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/6700fedd9108a7282f477aae?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Oct 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f5077?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Oct 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) – New York – Summer 2025](https://jobright.ai/jobs/info/66ff0d792c025c3c68222b15?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College- Federal Work Study Student- Human Resources Assistant](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f20f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
+| **[Bank Independent](http://bibank.com)** | **[Internship](https://jobright.ai/jobs/info/66ff02a69b5dc2a0f191cf19?utm_campaign=1054&utm_source=git)** | Sheffield, AL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
