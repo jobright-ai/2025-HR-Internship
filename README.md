@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Summer 2025 Intern - Talent Acquisition & Management](https://jobright.ai/jobs/info/6703daeed7005c374de66761?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
+| **[ABB](https://global.abb/group/en)** | **[2025 Discovery Program - Human Resources](https://jobright.ai/jobs/info/6703dd406a5a75739c24f113?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 07 |
+| ↳ | **[2025 Discovery Program - Human Resources](https://jobright.ai/jobs/info/6703dd406a5a75739c24f0ff?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Oct 07 |
+| ↳ | **[2025 Discovery Program - Human Resources](https://jobright.ai/jobs/info/6703dd406a5a75739c24f115?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
+| **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025 - Employee Relations Intern - 90382972 - Washington](https://jobright.ai/jobs/info/6703c4b23d544ff4bab3a866?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 07 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6703ad28c6c963ecbc785243?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Oct 07 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67037dc7c14bb996c928e237?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Oct 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Economic Security Intern - Unpaid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f642?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
 | ↳ | **[Refugee Support Services Intern - Unpaid/Hybrid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f671?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wolff Company](http://awolff.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/66ff5262646299eebce33b92?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ffc49fd24aa8196edc32c6?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/66ff4c2c0a55528d6ae9e6ce?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
-| **[Heritage Behavioral Health Center- HBHC](https://www.heritagenet.org/)** | **[Graduate Internships](https://jobright.ai/jobs/info/67007b2ef1b892d60a62da90?utm_campaign=1054&utm_source=git)** | Decatur, IL | On Site | Oct 03 |
-| **[State Street](http://www.statestreet.com)** | **[MIT Networking Night Talent Pipeline Requisition](https://jobright.ai/jobs/info/67006c42e06e74ade8b5057d?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts | Hybrid | Oct 03 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Winter 2024 Internship](https://jobright.ai/jobs/info/66ff2b63731b51c0a2c6fb48?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
-| **[Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)** | **[Johns Hopkins Internal Agency RN](https://jobright.ai/jobs/info/66c58b854031dddaece8f4b9?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
-| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff2b63731b51c0a2c6fc56?utm_campaign=1054&utm_source=git)** | Austell, GA | On Site | Oct 03 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Total Rewards, People Analytics Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff1a7a9e5a22b9227d0126?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
