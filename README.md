@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alside](https://www.alside.com/)** | **[Talent Pool - Ennis, TX](https://jobright.ai/jobs/info/670332bf5c72503741662d2f?utm_campaign=1054&utm_source=git)** | Ennis, TX | On Site | Oct 06 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6702c371e9c4200753cc78f8?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Oct 06 |
 | **[Circle K](http://www.circlek.com)** | **[Internal Manager in Training 5636](https://jobright.ai/jobs/info/67028f2cab2062949a489a08?utm_campaign=1054&utm_source=git)** | Fostoria, OH | On Site | Oct 06 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/670262c0ad6a15653606b82f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 06 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Attraction Intern - Summer 2025 - Franklin, TN](https://jobright.ai/jobs/info/6702e6d723e3cba174f45fcb?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Oct 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c1f8?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Oct 06 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Human Resources Intern, Business & Corporate HR Business Partner (Summer 2025)](https://jobright.ai/jobs/info/66e611ae6697c3dd72ba6897?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 06 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Houston Office](https://jobright.ai/jobs/info/6703494686fe9c54ac60efa5?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd677?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Oct 05 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/6701f9ed9cf579c06db9715f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Finance/Compensation Specialist Intern](https://jobright.ai/jobs/info/6701807238eb5f42d8ef3b21?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PatientPoint®](http://patientpoint.com)** | **[HR Intern - Summer 2025](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f123?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 03 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f5077?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Oct 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) – New York – Summer 2025](https://jobright.ai/jobs/info/66ff0d792c025c3c68222b15?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Harold Washington College- Federal Work Study Student- Human Resources Assistant](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f20f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 03 |
-| **[Bank Independent](http://bibank.com)** | **[Internship](https://jobright.ai/jobs/info/66ff02a69b5dc2a0f191cf19?utm_campaign=1054&utm_source=git)** | Sheffield, AL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
