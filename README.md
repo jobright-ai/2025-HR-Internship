@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67037dc7c14bb996c928e237?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Oct 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Economic Security Intern - Unpaid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f642?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
+| ↳ | **[Refugee Support Services Intern - Unpaid/Hybrid](https://jobright.ai/jobs/info/67035e4ec59fb5e42c87f671?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Oct 06 |
 | **[Alside](https://www.alside.com/)** | **[Talent Pool - Ennis, TX](https://jobright.ai/jobs/info/670332bf5c72503741662d2f?utm_campaign=1054&utm_source=git)** | Ennis, TX | On Site | Oct 06 |
 | **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6702c371e9c4200753cc78f8?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Oct 06 |
 | **[Circle K](http://www.circlek.com)** | **[Internal Manager in Training 5636](https://jobright.ai/jobs/info/67028f2cab2062949a489a08?utm_campaign=1054&utm_source=git)** | Fostoria, OH | On Site | Oct 06 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/670262c0ad6a15653606b82f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 06 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Attraction Intern - Summer 2025 - Franklin, TN](https://jobright.ai/jobs/info/6702e6d723e3cba174f45fcb?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Oct 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c1f8?utm_campaign=1054&utm_source=git)** | Folsom, CA | On Site | Oct 06 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Human Resources Intern, Business & Corporate HR Business Partner (Summer 2025)](https://jobright.ai/jobs/info/66e611ae6697c3dd72ba6897?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 06 |
-| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Houston Office](https://jobright.ai/jobs/info/6703494686fe9c54ac60efa5?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 05 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Attraction Intern - Summer 2025 - Franklin, TN](https://jobright.ai/jobs/info/67038120d51e6f9f37b441b1?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Oct 06 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/67036e1ed5b09eca3b7ac0da?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/6703694d0883b905cf159cfa?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 05 |
+| **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Underwriting Trainee - Dallas Office](https://jobright.ai/jobs/info/6703694d0883b905cf159d0f?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Oct 05 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Join our ATLANTA SPORTS Talent Community](https://jobright.ai/jobs/info/670360c7d4d2b84927ef4626?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 05 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6701e490875b3abb2d4bd677?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Oct 05 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/6701f9ed9cf579c06db9715f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 05 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Finance/Compensation Specialist Intern](https://jobright.ai/jobs/info/6701807238eb5f42d8ef3b21?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
@@ -74,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/6700fedd9108a7282f477aae?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Oct 04 |
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent (m/w/d) People & Culture im Fachbereich Ausbildung](https://jobright.ai/jobs/info/670173d7da19279f2853376b?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Oct 04 |
 | **[Valley View](http://www.vvh.org/)** | **[Speak with a Recruiter](https://jobright.ai/jobs/info/6700df1a2f1a6981b08b97be?utm_campaign=1054&utm_source=git)** | Glenwood Springs, CO | On Site | Oct 04 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Human Resources Intern, Summer 2025- Topeka, KS](https://jobright.ai/jobs/info/670360c7d4d2b84927ef479c?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Oct 04 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6700b06a3bf801202c01702b?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Oct 04 |
 | **[Chick-fil-A Corporate Support Center](http://www.chick-fil-a.com/)** | **[International Benefits, 2025 Summer Intern](https://jobright.ai/jobs/info/6701f6050e504426229e5037?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6700e677e58f4a16a96e92ef?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Medicine](https://www.hopkinsmedicine.org/)** | **[Johns Hopkins Internal Agency RN](https://jobright.ai/jobs/info/66c58b854031dddaece8f4b9?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 03 |
 | **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff2b63731b51c0a2c6fc56?utm_campaign=1054&utm_source=git)** | Austell, GA | On Site | Oct 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Total Rewards, People Analytics Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff1a7a9e5a22b9227d0126?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| ↳ | **[Summer 2025 Supplier Diversity Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff22ce9c7304d2115686ad?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| ↳ | **[Summer 2025 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/66ff22ce9c7304d211568670?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| **[UPS](http://www.ups.com)** | **[Toledo HR Intern / Coop](https://jobright.ai/jobs/info/66ff550e52f0b692677af642?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Oct 03 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Human Resources Operations Intern (Remote)](https://jobright.ai/jobs/info/66ff8b59e5e16db89a348bbd?utm_campaign=1054&utm_source=git)** | Owings Mills, MD | On Site | Oct 03 |
-| **[PatientPoint®](http://patientpoint.com)** | **[HR Intern - Summer 2025](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f123?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 03 |
-| **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f5077?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Oct 03 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Compensation Internship (Work and Rewards) – New York – Summer 2025](https://jobright.ai/jobs/info/66ff0d792c025c3c68222b15?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
