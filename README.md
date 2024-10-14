@@ -57,16 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/670c389c5537bc5bb7c0cdc9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - US Medical Affairs Health Systems Internship](https://jobright.ai/jobs/info/670c8e3ce6c2d2dbdf4fb3b4?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 13 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00f02?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| ↳ | **[Spring 2025 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/670c389c5537bc5bb7c0cdc9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Human Resources Intern, HR Shared Services (Summer 2025)](https://jobright.ai/jobs/info/670c647aff259b24f8cee6eb?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Oct 13 |
 | **[Verra Mobility](https://www.verramobility.com)** | **[Talent Pipeline - Program Management](https://jobright.ai/jobs/info/670bec214819c1b6be91e34b?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/66e02bfda1ab9ec5d53b90fc?utm_campaign=1054&utm_source=git)** | Show Low, AZ | On Site | Oct 13 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66ef42889f9f5f0ecd378f9c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Oct 13 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Michigan)](https://jobright.ai/jobs/info/66d2f8140e54b79f22852ebe?utm_campaign=1054&utm_source=git)** | Houghton Lake, MI | On Site | Oct 13 |
 | **[Cherry Bekaert](https://www.cbh.com)** | **[Summer 2025 Outsourcing & Resource Solutions Intern](https://jobright.ai/jobs/info/66c57c3d93207bfd55a327e4?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | Oct 13 |
 | ↳ | **[Summer 2025 Outsourcing & Resource Solutions Intern](https://jobright.ai/jobs/info/66c581178ff0494bd674f1b8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[HR INTERN/CO-OP (Valdosta)](https://jobright.ai/jobs/info/66d1f8e2de54287cb60f2d40?utm_campaign=1054&utm_source=git)** | Valdosta Area | On Site | Oct 13 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity and Belonging Internship](https://jobright.ai/jobs/info/670be8fba2e37f0621bf0a65?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 13 |
 | **[Greif](http://greif.com)** | **[Summer 2025 HR Intern - Global Talent Center](https://jobright.ai/jobs/info/66d208996315e47b51611b16?utm_campaign=1054&utm_source=git)** | Smyrna, GA | Hybrid | Oct 13 |
+| **[Axalta](https://www.axalta.com)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/66ee1398bf43ad2b8b411248?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 12 |
+| **[UPS](http://www.ups.com)** | **[MHR Internship Summer 2025](https://jobright.ai/jobs/info/66b6a3ff8cd6f5ea36ca7875?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 12 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[HR INTERN/CO-OP (Valdosta)](https://jobright.ai/jobs/info/66d1f0a105a4899c5e1d5aec?utm_campaign=1054&utm_source=git)** | Valdosta, GA | On Site | Oct 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 25 Management Trainee Intern](https://jobright.ai/jobs/info/66ee1060464c2252400edaa3?utm_campaign=1054&utm_source=git)** | Fort Walton Beach, FL | On Site | Oct 12 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/66edbf00a91b9941d72c8e15?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Oct 12 |
@@ -104,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Arvest Bank](https://www.arvest.com)** | **[Intern 2025 - Communications/Marketing/HR](https://jobright.ai/jobs/info/66d233a76453bb7f95b348f0?utm_campaign=1054&utm_source=git)** | Lowell, AR | On Site | Oct 12 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2025 Summer Human Resources Intern (Raeford, NC)](https://jobright.ai/jobs/info/66d241b443b3bddb651799ef?utm_campaign=1054&utm_source=git)** | Raeford, NC | On Site | Oct 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2024](https://jobright.ai/jobs/info/66ee91b5e3152174f06e22d5?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Oct 12 |
-| **[ASML](https://www.asml.com)** | **[Internship- People Operations Human Resources](https://jobright.ai/jobs/info/66edca888dd15997c630d4d9?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Oct 12 |
+| **[ASML](https://www.asml.com)** | **[Internship- People Operations Human Resources](https://jobright.ai/jobs/info/66edca888dd15997c630d5a5?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Oct 12 |
 | **[Greif](http://greif.com)** | **[Summer 2025 HR Intern - Global Talent Center](https://jobright.ai/jobs/info/670a4534d13a82a32efcae67?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66ee1060464c2252400edaa6?utm_campaign=1054&utm_source=git)** | Harrisonburg, VA | On Site | Oct 12 |
 | **[IBM](http://www.ibm.com)** | **[Workplace Experience and Safety Intern](https://jobright.ai/jobs/info/66ec18e840f57db699a6565b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Academy Sports + Outdoors](http://www.academy.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/66ec6f05e43ea9229b7572b3?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Oct 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2025 Management Intern Dallas](https://jobright.ai/jobs/info/66ec6aa128a0a4813586111d?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 11 |
 | ↳ | **[Summer 2025 Management Intern Dallas](https://jobright.ai/jobs/info/66ec6aa128a0a481358610fd?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 11 |
-| **[Microsoft](https://www.microsoft.com)** | **[Human Resources: Master's & MBA Internship Opportunities](https://jobright.ai/jobs/info/66ec99eccb3cad2d53acf5e2?utm_campaign=1054&utm_source=git)** | Redmond, WA | Hybrid | Oct 11 |
-| **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Human Resources Intern, Business & Corporate HR Business Partner (Summer 2025)](https://jobright.ai/jobs/info/66e611ae6697c3dd72ba6897?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 11 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/66d1ad44f3c7e39db89c9884?utm_campaign=1054&utm_source=git)** | ABQ-SF Metro Area | On Site | Oct 11 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Human Resources Intern](https://jobright.ai/jobs/info/66cf154c42479117251e1127?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 11 |
-| **[H&R Block](http://www.hrblock.com)** | **[Embark Summer 2025 Intern - Talent Acquisition](https://jobright.ai/jobs/info/66ecda991436fc8716de651a?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
