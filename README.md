@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67146bb3e2faf28a83aee5b9?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Oct 19 |
+| **[Neal Communities of Southwest Florida, Inc.](https://www.nealcommunities.com/)** | **[Apply here to submit your resume for future opportunities!](https://jobright.ai/jobs/info/67145b10fda47ee001e7a469?utm_campaign=1054&utm_source=git)** | Bonita Springs, FL | Hybrid | Oct 19 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Student Recruiting Assistant - Womens Track and Field](https://jobright.ai/jobs/info/67142ddbd036315f58b65851?utm_campaign=1054&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | ↳ | **[Student Recruiting Assistant - Mens Cross Country](https://jobright.ai/jobs/info/67142ddbd036315f58b65840?utm_campaign=1054&utm_source=git)** | Naperville, IL | On Site | Oct 19 |
 | **[Securiti](https://securiti.ai)** | **[Intern](https://jobright.ai/jobs/info/671428f682ad16b1d63f2eef?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Recruiting Internship - Summer 2025](https://jobright.ai/jobs/info/66d845f858305ec0c0be4a59?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Oct 18 |
 | ↳ | **[Human Resources Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc816?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 18 |
 | ↳ | **[Human Resources Recruiting Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d03?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 18 |
-| ↳ | **[Human Resources Recruiting Internship - Summer 2025](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0bc?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Oct 18 |
-| **[New York Life Insurance Company](http://www.newyorklife.com)** | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Kansas](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89ef?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
