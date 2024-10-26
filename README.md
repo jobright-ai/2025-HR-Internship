@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c248cb05a9d2b6031eeee?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/671c583f77c08f13dc8341d7?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 25 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c3a6f794d39b690d325f6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
+| ↳ | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c3a6f794d39b690d325f7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 25 |
+| ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c4dfd002b3612665de8c4?utm_campaign=1054&utm_source=git)** | Seaside, OR | On Site | Oct 25 |
+| ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c4dfd002b3612665de8c5?utm_campaign=1054&utm_source=git)** | McMinnville, OR | On Site | Oct 25 |
+| ↳ | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c248cb05a9d2b6031eeee?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c248cb05a9d2b6031efcb?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c31130a5b399cc436eb35?utm_campaign=1054&utm_source=git)** | Tangent, OR | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c31130a5b399cc436eb36?utm_campaign=1054&utm_source=git)** | United States | On Site | Oct 25 |
@@ -65,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Felsburg Holt & Ullevig](http://www.fhueng.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/671c3562299e103c6a54919f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking & Victim Services Intern (Unpaid)](https://jobright.ai/jobs/info/671c22270eae7b4519730448?utm_campaign=1054&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Intern- Bachelors- Bioinformatics, Computer Science, IT, Math, Statistics, Omics,](https://jobright.ai/jobs/info/671c134ae30ab2148149d831?utm_campaign=1054&utm_source=git)** | Hawthorne, NY | On Site | Oct 25 |
+| **[Columbus State University](http://www.columbusstate.edu/)** | **[Graduate Assistant-Office of Recruitment](https://jobright.ai/jobs/info/671c3d52e4761584c87b157e?utm_campaign=1054&utm_source=git)** | Columbus, GA | On Site | Oct 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c17ad8ee585060dd517d7?utm_campaign=1054&utm_source=git)** | Hermiston, OR | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c17ad8ee585060dd51875?utm_campaign=1054&utm_source=git)** | Beaverton, OR | On Site | Oct 25 |
 | **[First Security Bank](https://fsbank.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/671c134ae30ab2148149d7df?utm_campaign=1054&utm_source=git)** | Searcy, AR | Hybrid | Oct 25 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Diversity Program - Credentials Intern, 2025 Season](https://jobright.ai/jobs/info/671b31f1011fb26a9896ee43?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | ↳ | **[Diversity Program - Timing and Scoring Intern, 2025 Season](https://jobright.ai/jobs/info/671b31f1011fb26a9896ee1d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[Radian](https://www.radian.com/)** | **[People Team (HR) Intern (seeking 3) - 100% Remote, East Coast hours, US only](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce5406?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 24 |
-| **[Cintas](http://www.cintas.com)** | **[Intern - Talent Acquisition Marketing - Part-Time](https://jobright.ai/jobs/info/671afe68f80f5e6d07b6d1a3?utm_campaign=1054&utm_source=git)** | Mason, OH | On Site | Oct 24 |
-| **[Tectonic Engineering Consultants, Geologists & Land Surveyors, D.P.C.](http://tectonicengineering.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/671bea901d544086aa08436b?utm_campaign=1054&utm_source=git)** | Mountainville, NY | On Site | Oct 24 |
-| **[nVent](https://www.nvent.com/)** | **[Human Resources Internship – Summer 2025](https://jobright.ai/jobs/info/671af935e5a3eff6fc2cc2a4?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Oct 24 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/671af935e5a3eff6fc2cc285?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Oct 24 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2025 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/671ada0727b206ad4a020659?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Oct 24 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Dakota)](https://jobright.ai/jobs/info/671ad467ed20aadc1c8e3b7c?utm_campaign=1054&utm_source=git)** | Madison, SD | On Site | Oct 24 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corporate HR Intern](https://jobright.ai/jobs/info/671afe68f80f5e6d07b6d1e6?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | Remote | Oct 24 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Human Resources Leadership Development Intern - Louisville, KY](https://jobright.ai/jobs/info/671c4519a4e4718f45f9c146?utm_campaign=1054&utm_source=git)** | 10101 Linn Station Rd, Louisville, KY, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
