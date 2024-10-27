@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[South Orange County Community College District](https://www.socccd.edu)** | **[Mental Health Intern (IVC - SHC)](https://jobright.ai/jobs/info/671e9529e64f58b58c7d1fc5?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Oct 27 |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/671e8a657867dc49e8def1c2?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Oct 27 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/671e709d38d28c5327490062?utm_campaign=1054&utm_source=git)** | Yemassee, SC | On Site | Oct 27 |
+| **[Osmose](https://www.osmose.com/)** | **[Internship Talent Pool](https://jobright.ai/jobs/info/671e6e9bbf8481148822ee91?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Human Resources (Talent Acquisition)](https://jobright.ai/jobs/info/671e326dd7bab459765d7b41?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Oct 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/671e2064064c10f6dc16c6dd?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Oct 27 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b573?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Oct 27 |
@@ -85,9 +89,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b581?utm_campaign=1054&utm_source=git)** | Manhattan, KS | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b57c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 27 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/671e135631cd16306648fcc9?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 27 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a277?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a279?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Oct 27 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a277?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b574?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a279?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b568?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a272?utm_campaign=1054&utm_source=git)** | Lenexa, KS | Hybrid | Oct 27 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - US Medical Affairs Health Systems Internship](https://jobright.ai/jobs/info/671e048b8d90a954035cfac7?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 27 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/671cc9146627754d97069884?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Oct 26 |
 | ↳ | **[Spring 2025 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/671cef0b1c678e545241ae98?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Oct 26 |
 | ↳ | **[Summer 2025 Management Internship - Woburn area](https://jobright.ai/jobs/info/66e4dd5733a88141338b78ce?utm_campaign=1054&utm_source=git)** | Woburn, MA | On Site | Oct 26 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - US Medical Affairs Health Systems Internship](https://jobright.ai/jobs/info/671cb2e119b31b446e194a64?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 26 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/671cb7b259c2f61254e2c3b5?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Oct 26 |
 | **[Georgia Gwinnett College](http://www.ggc.edu)** | **[Student Assistant - Payroll](https://jobright.ai/jobs/info/671cc9146627754d9706991c?utm_campaign=1054&utm_source=git)** | Lawrenceville, GA | On Site | Oct 26 |
 | **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/66a31273ff35fbee3d69b1f5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 26 |
@@ -137,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/671c73f920c82ea5a3f5622a?utm_campaign=1054&utm_source=git)** | Garden City, GA | On Site | Oct 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Case Management Survivors of Torture Intern (Unpaid)](https://jobright.ai/jobs/info/671c719e608f8cab62458451?utm_campaign=1054&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/671c583f77c08f13dc8341d7?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 25 |
-| **[HCSS](http://hcss.nl)** | **[Talent Intern - Spring 2025](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee33?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
-| ↳ | **[HR Operations Intern - Spring 2025](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee3f?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
+| **[HCSS](http://hcss.nl)** | **[HR Operations Intern - Spring 2025](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee3f?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
+| ↳ | **[Talent Intern - Spring 2025](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ee33?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Oct 25 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2025 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/66c5d590b81f12915ae9b356?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ | On Site | Oct 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c3a6f794d39b690d325f6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c3a6f794d39b690d325f7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Anti-Trafficking & Victim Services Intern (Unpaid)](https://jobright.ai/jobs/info/671c22270eae7b4519730448?utm_campaign=1054&utm_source=git)** | Glendale, AZ | Hybrid | Oct 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2025 Intern- Bachelors- Bioinformatics, Computer Science, IT, Math, Statistics, Omics,](https://jobright.ai/jobs/info/671c134ae30ab2148149d831?utm_campaign=1054&utm_source=git)** | Hawthorne, NY | On Site | Oct 25 |
 | **[Columbus State University](http://www.columbusstate.edu/)** | **[Graduate Assistant-Office of Recruitment](https://jobright.ai/jobs/info/671c3d52e4761584c87b157e?utm_campaign=1054&utm_source=git)** | Columbus, GA | On Site | Oct 25 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c17ad8ee585060dd517d7?utm_campaign=1054&utm_source=git)** | Hermiston, OR | On Site | Oct 25 |
-| ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c17ad8ee585060dd51875?utm_campaign=1054&utm_source=git)** | Beaverton, OR | On Site | Oct 25 |
-| **[First Security Bank](https://fsbank.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/671c134ae30ab2148149d7df?utm_campaign=1054&utm_source=git)** | Searcy, AR | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
