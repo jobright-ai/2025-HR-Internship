@@ -92,10 +92,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b567?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b581?utm_campaign=1054&utm_source=git)** | Manhattan, KS | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b57c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 27 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – HR Technology (Year-Round)](https://jobright.ai/jobs/info/671e135631cd16306648fcc9?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 27 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a279?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Oct 27 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a277?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b574?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 27 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a279?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Oct 27 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a277?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b568?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Oct 27 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a272?utm_campaign=1054&utm_source=git)** | Lenexa, KS | Hybrid | Oct 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Internship - Natick Area](https://jobright.ai/jobs/info/66e4dd5733a88141338b78b6?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Oct 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c248cb05a9d2b6031efcb?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/671c31130a5b399cc436eb35?utm_campaign=1054&utm_source=git)** | Tangent, OR | On Site | Oct 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/671c31130a5b399cc436eb36?utm_campaign=1054&utm_source=git)** | United States | On Site | Oct 25 |
+| ↳ | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/671c31130a5b399cc436eb37?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
