@@ -90,19 +90,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a27?utm_campaign=1054&utm_source=git)** | North East, MD | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a4e?utm_campaign=1054&utm_source=git)** | Georgetown, DE | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a50?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
-| ↳ | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a2a?utm_campaign=1054&utm_source=git)** | Cowpens, SC | On Site | Nov 09 |
-| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a29?utm_campaign=1054&utm_source=git)** | New Bedford, MA | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a52?utm_campaign=1054&utm_source=git)** | Cortez, CO | On Site | Nov 09 |
+| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a29?utm_campaign=1054&utm_source=git)** | New Bedford, MA | On Site | Nov 09 |
+| ↳ | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/672f938a8c35947ebaeb3a2a?utm_campaign=1054&utm_source=git)** | Cowpens, SC | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/672f91d3c4d74cac67dba4fd?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 09 |
 | ↳ | **[Intern - HR Operations](https://jobright.ai/jobs/info/672f91d3c4d74cac67dba490?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Florida)](https://jobright.ai/jobs/info/672f8afa031899d0089a1182?utm_campaign=1054&utm_source=git)** | Riviera Beach, FL | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/672f8afa031899d0089a118a?utm_campaign=1054&utm_source=git)** | Osakis, MN | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/672f8afa031899d0089a1184?utm_campaign=1054&utm_source=git)** | Kalispell, MT | On Site | Nov 09 |
-| ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/672f8afa031899d0089a11a5?utm_campaign=1054&utm_source=git)** | Shelton, WA | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Connecticut)](https://jobright.ai/jobs/info/672f8afa031899d0089a11a6?utm_campaign=1054&utm_source=git)** | East Hartford, CT | On Site | Nov 09 |
-| ↳ | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/672f8afa031899d0089a1189?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Nov 09 |
+| ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/672f8afa031899d0089a11a5?utm_campaign=1054&utm_source=git)** | Shelton, WA | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/672f8afa031899d0089a1185?utm_campaign=1054&utm_source=git)** | Show Low, AZ | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/672f8afa031899d0089a1183?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Nov 09 |
+| ↳ | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/672f8afa031899d0089a1189?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Nov 09 |
 | ↳ | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/672f8afa031899d0089a1181?utm_campaign=1054&utm_source=git)** | Garden City, KS | On Site | Nov 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Paid Intern - 12 Months](https://jobright.ai/jobs/info/67251b779a1c0ae6dd201ec9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 09 |
 | **[Community Services and Employment Training (CSET)](https://www.cset.org/)** | **[INTERNAL CANDIDATES ONLY - Program Coordinator - Quality Assurance](https://jobright.ai/jobs/info/672f632c65e9bece21853cf6?utm_campaign=1054&utm_source=git)** | Tulare, CA | On Site | Nov 09 |
