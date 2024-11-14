@@ -57,11 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Timmons Group](http://www.timmons.com/)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/673570bed4f17ffc08d5aecb?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 13 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67356111b224d5897e4bfa7f?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Nov 13 |
+| ↳ | **[Summer 2025 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/67356111b224d5897e4bfa89?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Nov 13 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/673567c450ec35bd7b99a66a?utm_campaign=1054&utm_source=git)** | Saginaw, MI | On Site | Nov 13 |
+| **[Grady Health System](https://www.gradyhealth.org)** | **[Talent Talk Fest 2024](https://jobright.ai/jobs/info/67356581cd46d3c97e921949?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
+| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Fall Intern-SkillBridge](https://jobright.ai/jobs/info/673555bae16dd58f46516698?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Nov 13 |
+| **[Marqeta](https://www.marqeta.com)** | **[Unlock Your Future: Join our Intern Talent Network, #MarqetaShip, Ready for Takeoff!](https://jobright.ai/jobs/info/673555bae16dd58f465166ce?utm_campaign=1054&utm_source=git)** | Remote, USA | Remote | Nov 13 |
+| **[Align Technology](http://www.aligntech.com)** | **[Graduate Level Internships (United States)](https://jobright.ai/jobs/info/67354c8593885ed1da30c4d6?utm_campaign=1054&utm_source=git)** | Tempe, AZ | Hybrid | Nov 13 |
+| ↳ | **[Graduate Level Internships (United States)](https://jobright.ai/jobs/info/67354c8593885ed1da30c4d7?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 13 |
+| **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[HR Operations Intern (Summer 2025) - Talent Team](https://jobright.ai/jobs/info/673549e84f2931bd6e8490de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[Universal Service Administrative Co. (USAC)](https://www.usac.org/)** | **[Join Our Talent Pool for Future Internship Opportunities!](https://jobright.ai/jobs/info/673543b62f4aebd16538ce26?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 13 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[HR & Culture Internships - Summer 2025](https://jobright.ai/jobs/info/673543b62f4aebd16538ce54?utm_campaign=1054&utm_source=git)** | Universal City, CA | On Site | Nov 13 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6735392d87eb0198f1c43886?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Intern - HR Talent Acquisition](https://jobright.ai/jobs/info/6723b3df1aba5cffa653c92d?utm_campaign=1054&utm_source=git)** | Frisco, TX | Hybrid | Nov 13 |
 | **[Align Technology](http://www.aligntech.com)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/6735311170474b73c5cbbdd5?utm_campaign=1054&utm_source=git)** | Morrisville, NC | On Site | Nov 13 |
 | ↳ | **[Graduate Level Internships (United States)](https://jobright.ai/jobs/info/6735311170474b73c5cbbdd8?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Hybrid | Nov 13 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Internship](https://jobright.ai/jobs/info/6735392d87eb0198f1c43a1b?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Nov 13 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Human Resources Internship, Great American Ballpark](https://jobright.ai/jobs/info/6735392d87eb0198f1c43a29?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
+| **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Intern Summer 2025](https://jobright.ai/jobs/info/67354c65032bd122ee37f860?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Nov 13 |
 | **[GroupM](http://www.groupm.com/)** | **[Manager, Future Talent](https://jobright.ai/jobs/info/673511b21e662d8d0b182b8d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Human Intern Resources](https://jobright.ai/jobs/info/6735392d87eb0198f1c43a9e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 13 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67350f9a83daf00e557853a9?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 13 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[HR and TA Services Rotational Intern](https://jobright.ai/jobs/info/6732d3b1a15689a6a86482b4?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Nov 11 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Future Talent Opportunities - Polygraph Professionals (Cleared)](https://jobright.ai/jobs/info/6732de140e29f0593fb08bdf?utm_campaign=1054&utm_source=git)** | Washington Highlands, MD | On Site | Nov 11 |
 | **[Kinross Gold Corporation](http://kinross.com/)** | **[HR Internship - Winter](https://jobright.ai/jobs/info/6732cf1a9f773f7e297672f1?utm_campaign=1054&utm_source=git)** | Round Mountain, NV | On Site | Nov 11 |
-| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Human Resources Student Worker](https://jobright.ai/jobs/info/6732d7cb1c7a9a935b10b8c2?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Nov 11 |
-| **[Weber School District](http://wsd.net)** | **[Secondary Administrative Intern (25464)](https://jobright.ai/jobs/info/6733fdedb684b4ee0f9d4980?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Nov 11 |
-| **[PACE Engineers, Inc.](http://paceengrs.com)** | **[Prospective Talent](https://jobright.ai/jobs/info/6733fb05792c23eba984168f?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Nov 11 |
-| **[Union Public Schools](http://www.unionps.org)** | **[Child Nutrition Worker (6 Hrs/Day)](https://jobright.ai/jobs/info/6733f7dfad505cecf9aafbd8?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Nov 11 |
-| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/673292ce17fd7c97102cfff4?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 11 |
-| **[The Shyft Group](https://theshyftgroup.com/)** | **[Human Resources Intern- Summer 2025](https://jobright.ai/jobs/info/67329a3d21dd7c373d7f0d6a?utm_campaign=1054&utm_source=git)** | Bristol, IN | On Site | Nov 11 |
-| **[State of Missouri](http://mo.gov)** | **[Summer Human Resources Intern - Springfield](https://jobright.ai/jobs/info/6718b17d0880acfdaabb3c4d?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 11 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/673278d5b66f3c08ab3700a4?utm_campaign=1054&utm_source=git)** | Farmingdale, NY | Hybrid | Nov 11 |
-| **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67326f672cf203fd9047859a?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Nov 11 |
-| **[Nebraska Methodist Health System](https://bestcare.org/)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/67328c8168f8d81d1a58150d?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 11 |
-| **[Mobi Systems](https://www.mobi.ai)** | **[Don't see the role you're looking for? Join our Talent Pool!](https://jobright.ai/jobs/info/67326fb82734d36636f14d1c?utm_campaign=1054&utm_source=git)** | Somerville, MA | Hybrid | Nov 11 |
-| **[ECU Health](http://www.ECUHealth.org)** | **[Internal Travel RN - Central Staffing - Medical Center](https://jobright.ai/jobs/info/67326a08dcd8dc63ce57e131?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Nov 11 |
-| **[RF-SMART](http://rfsmart.com/)** | **[HR Intern](https://jobright.ai/jobs/info/673267093aeac0e21f533782?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Nov 11 |
-| **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67324d7b1a55f783a3382615?utm_campaign=1054&utm_source=git)** | South San Francisco, California, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
