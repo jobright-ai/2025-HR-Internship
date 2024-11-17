@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/66e4769e31753e919d60a245?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Nov 17 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/66e4ccc9b4f1b89f17b1cc32?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Nov 17 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/66e4ccc9b4f1b89f17b1cca2?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 17 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/66e4769e31753e919d60a21b?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Nov 17 |
+| **[Affirm](https://www.affirm.com)** | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffebf3?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 17 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[HR Internship - Spring 2025](https://jobright.ai/jobs/info/673975fd52ae7651de446cd5?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Nov 16 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6b9b?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Nov 16 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Eligibility Section](https://jobright.ai/jobs/info/673923cfccf94f728dd27cf4?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Nov 16 |
@@ -101,28 +106,29 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea9e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (ADA)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea9a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea99?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea9b?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (ADA)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb0f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb10?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea9c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb11?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb10?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb12?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb13?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb14?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Nashville)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa6?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb14?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb13?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb15?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb17?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb16?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb18?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb17?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Visual Media Licensing (VML))](https://jobright.ai/jobs/info/6737e878f443feae4fc9eab5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb18?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb19?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb1a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Director of International Recruitment](https://jobright.ai/jobs/info/6737e2e1c12c51ee8ea25cb8?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Nov 15 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/6737f59fb444791c5246a952?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Human Resources](https://jobright.ai/jobs/info/6737cf3df506dd626af13f42?utm_campaign=1054&utm_source=git)** | Warren, MI | Hybrid | Nov 15 |
-| **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (Visual Media Licensing (VML))](https://jobright.ai/jobs/info/6737d57af5d961254deace32?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Nashville)](https://jobright.ai/jobs/info/6737d57af5d961254deace2d?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Spring 2025](https://jobright.ai/jobs/info/6737d2939325e2ec27f27f84?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Nov 15 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Internship Opportunities for 2025](https://jobright.ai/jobs/info/6737c87e3b7754a21fa10a69?utm_campaign=1054&utm_source=git)** | South San Francisco, California, United States | On Site | Nov 15 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Join our G&A talent community!](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22c87f?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Nov 15 |
@@ -132,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Human Resources Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de99b?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (ADA)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018c9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (WMX & WRMGO)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018cd?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 15 |
-| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Nashville)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018db?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Rhino & Legal Shared Services)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018c7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018cf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
+| ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Visual Media Licensing (VML))](https://jobright.ai/jobs/info/6737cd73701eb2d098c018d0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018d6?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/6737cd73701eb2d098c018d7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Compensation & Data Excellence](https://jobright.ai/jobs/info/6737b969242b801a42bf2ebe?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[1L Tax Summer Associate, 2025 Summer Program](https://jobright.ai/jobs/info/67378ed75bea4bf9e15fe1f9?utm_campaign=1054&utm_source=git)** | Silicon Valley, CA | On Site | Nov 15 |
 | **[Herzog](https://www.herzog.com/)** | **[Internship](https://jobright.ai/jobs/info/6737e7754a5a7d93337eecb0?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Nov 15 |
 | ↳ | **[Internal Employee Application](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6eeca?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Nov 15 |
-| **[University of New Hampshire](https://www.unh.edu)** | **[Assistant Director of International Graduate Admission](https://jobright.ai/jobs/info/6737864927cbc30bf5ea4383?utm_campaign=1054&utm_source=git)** | Durham, NH | On Site | Nov 15 |
-| **[Carmeuse](https://www.carmeusena.com)** | **[HR Intern](https://jobright.ai/jobs/info/6737833a57172eca421a9a44?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 15 |
-| **[Circle K](http://www.circlek.com)** | **[Internal Manager In Training #2740648](https://jobright.ai/jobs/info/6738d39cca724ff25e6e5a63?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 15 |
-| **[Metrolina Greenhouses INC](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673775948cd2862215f5b9f5?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Nov 15 |
-| **[Midea America Corp](https://www.midea.com/us/)** | **[Intern - HR and Admin](https://jobright.ai/jobs/info/6737666623578d8bc6228379?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Nov 15 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – R&D Talent & Culture](https://jobright.ai/jobs/info/67376d17cd846815ea585bc3?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
