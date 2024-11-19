@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SSA Group](http://thessagroup.com)** | **[Talent Network](https://jobright.ai/jobs/info/673c5d179ea377557c689bcc?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 19 |
+| **[Jefferson Healthcare](https://www.jeffersonhealthcare.org)** | **[Job Shadow](https://jobright.ai/jobs/info/673c57344d2d37d9730ffea6?utm_campaign=1054&utm_source=git)** | Port Townsend, WA | On Site | Nov 18 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - mRNA-Display Co-Op](https://jobright.ai/jobs/info/673c19f9f94fa806ff2a2037?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 18 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[R&P Casework Intern](https://jobright.ai/jobs/info/673c27ffa9c14fe9ef0178a9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 18 |
+| ↳ | **[ICM and ECM Casework Intern](https://jobright.ai/jobs/info/673c27ffa9c14fe9ef017898?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 18 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corporate HR Benefits Intern](https://jobright.ai/jobs/info/673c06c058e6e4867df8e962?utm_campaign=1054&utm_source=git)** | Fairfield County, CT | Hybrid | Nov 18 |
 | ↳ | **[HR INTERN/CO-OP (Valdosta)](https://jobright.ai/jobs/info/673c06c058e6e4867df8e973?utm_campaign=1054&utm_source=git)** | Valdosta, GA | On Site | Nov 18 |
 | ↳ | **[Summer 2025 Human Resources Intern](https://jobright.ai/jobs/info/673c06c058e6e4867df8e9bb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Nov 18 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Human Resources](https://jobright.ai/jobs/info/673c1d44d3a8e0eea4cb4883?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Nov 18 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Skills-Based Talent Acquisition Strategy Internship](https://jobright.ai/jobs/info/673c0fce7b8ffc8e3a7687db?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 18 |
+| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, People](https://jobright.ai/jobs/info/673c24f7b7946a7221256081?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/673c04f81228e6620be15d8e?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Nov 18 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/673c01715079f8d820378e37?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Nov 18 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/673c01715079f8d820378e77?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 18 |
@@ -98,11 +106,13 @@ For a complete list, click the following sortable link below:
 | **[Fairbanks Morse Defense](https://www.fairbanksmorsedefense.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673b5582b69fdb5e1168ae03?utm_campaign=1054&utm_source=git)** | Beloit, WI | On Site | Nov 18 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/673b56066a3aec1c0fe9f465?utm_campaign=1054&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Nov 18 |
 | **[Rosewood Hotel Group](http://www.rosewoodhotelgroup.com/en/)** | **[Internship, Rosewood Bridges, AMER](https://jobright.ai/jobs/info/671a641bb929b3e67d8ab4ee?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 18 |
+| **[Circle K](http://www.circlek.com)** | **[Internal Manager in Training 5636](https://jobright.ai/jobs/info/673c41042844f9232490612d?utm_campaign=1054&utm_source=git)** | Fostoria, OH | On Site | Nov 18 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673af2e8fdfe081929e45e1c?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | Nov 17 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Human Resources](https://jobright.ai/jobs/info/673be708a46e087c34773988?utm_campaign=1054&utm_source=git)** | 100 W Oklahoma City Blvd., Oklahoma City, OK, US | On Site | Nov 17 |
 | **[Cellebrite](http://www.cellebrite.com)** | **[Global People Internal Communication Senior Director](https://jobright.ai/jobs/info/673ac333a308b04f029c9cf2?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | On Site | Nov 17 |
-| **[Jooble](https://jooble.org/)** | **[Internal Admissions Coordinator](https://jobright.ai/jobs/info/673bce4be3bc66b65fc79960?utm_campaign=1054&utm_source=git)** | Mount Dora, FL | On Site | Nov 17 |
+| **[Jooble](https://jooble.org/)** | **[Internal Admissions Coordinator](https://jobright.ai/jobs/info/673bb34e85052391fd33e7a5?utm_campaign=1054&utm_source=git)** | Mount Dora, FL | On Site | Nov 17 |
 | **[PJ Fitzpatrick](http://trustpj.com)** | **[Corporate Recruiter](https://jobright.ai/jobs/info/673abed3a65ff8512e5bc7a7?utm_campaign=1054&utm_source=git)** | Bowie, MD | On Site | Nov 17 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a27c?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | Nov 17 |
 | **[US Environmental Protection Agency (EPA)](http://www.epa.gov)** | **[Multi-Year Internship - Student Trainee (Administration)](https://jobright.ai/jobs/info/673aec4a753bd52eb30b1965?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 17 |
 | ↳ | **[Multi-Year Internship - Student Trainee (Administration)](https://jobright.ai/jobs/info/673aec4a753bd52eb30b1966?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Nov 17 |
 | ↳ | **[Multi-Year Internship- Student Trainee (Administration)](https://jobright.ai/jobs/info/673aec4a753bd52eb30b1976?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Nov 17 |
@@ -126,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[HR International Manager](https://jobright.ai/jobs/info/6700b5969cb8070f13895043?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Human Resources, Talent Acquisition](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36f3c?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 16 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e80e?utm_campaign=1054&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/6738a8d8ddf3770110e8e727?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 16 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Summer Intern, Employee Benefits - IMA Financial](https://jobright.ai/jobs/info/671bed81ac3b8e997a8e8f6d?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Calpoly SLO](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31e9?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 16 |
 | **[Affirm](https://www.affirm.com)** | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffec19?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Nov 16 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffec9d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Nov 16 |
 | ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d8e57757285ca3f8a68?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Nov 16 |
 | ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffebec?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Nov 16 |
-| ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffec45?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 16 |
-| ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffec46?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 16 |
-| ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d3420c9136da2ffed0e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 16 |
-| ↳ | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/66c72d8e57757285ca3f8a29?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 16 |
-| **[Lockton](https://global.lockton.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8c6?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
-| **[Midea America Corp](https://www.midea.com/us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6737666623578d8bc6228379?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Nov 16 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Summer 2025 - Charles Saunders](https://jobright.ai/jobs/info/673857edbf862905be81c6f0?utm_campaign=1054&utm_source=git)** | Schertz, TX | On Site | Nov 15 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Human Resources/Talent](https://jobright.ai/jobs/info/671a8c432faacaac1008d6c5?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Nov 15 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Human Resources Intern / 2025 Treasury Summer Internship Program](https://jobright.ai/jobs/info/673849e0093aaf89fcdb22f8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
