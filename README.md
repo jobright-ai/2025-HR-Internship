@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HelloFresh](https://www.hellofresh.com)** | **[Manager, Internal Communications](https://jobright.ai/jobs/info/673d5080e8f85a1f803bf85c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/673d8f6fc59c942dd2cffead?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
+| **[AT&T](https://www.att.com/)** | **[AT&T Internship Summer 2025 - Returning Interns](https://jobright.ai/jobs/info/673d7f815126aa81620bb910?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Nov 19 |
+| **[Lumen Technologies](https://news.lumen.com/home)** | **[Internal Communications Senior Manager](https://jobright.ai/jobs/info/673d6e7cb95fe6b8934e8386?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 19 |
+| **[HelloFresh](https://www.hellofresh.com)** | **[Manager, Internal Communications](https://jobright.ai/jobs/info/673d5f91da7d68dca1088071?utm_campaign=1054&utm_source=git)** | Boulder, CO | Hybrid | Nov 19 |
+| ↳ | **[Manager, Internal Communications](https://jobright.ai/jobs/info/673d5080e8f85a1f803bf85c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/673d4dad7519b60c6bf98f8a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Nov 19 |
 | ↳ | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/673d4dad7519b60c6bf98f9e?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Nov 19 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Spring 2025 (Georgia, United States)](https://jobright.ai/jobs/info/673d47e9756fa75c128fa972?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Nov 19 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy](https://www.ogilvy.com)** | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00ad95?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | ↳ | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00b001?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 19 |
 | ↳ | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00b002?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 19 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025 - Knowledge Management and Communications](https://jobright.ai/jobs/info/673d3e83d4ac23a7d38d664c?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Nov 19 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673d1a86c283b24ba7099f1f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[Appalachian Regional Healthcare (ARH)](https://arh.org)** | **[Workforce Development Coordinator](https://jobright.ai/jobs/info/673d29871263734819db57bf?utm_campaign=1054&utm_source=git)** | Hazard, KY | On Site | Nov 19 |
 | **[Enverus](https://www.enverus.com/)** | **[People Analytics Intern - 24476](https://jobright.ai/jobs/info/673d158aa4df26d21f556828?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 19 |
@@ -103,7 +106,8 @@ For a complete list, click the following sortable link below:
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/673cb19b6b8f58acfc5c79cc?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Nov 19 |
 | **[ADKF  |   with you all the way](https://www.adkf.com/)** | **[Paraprofessional Internship - Spring 2026](https://jobright.ai/jobs/info/673c855e9444c79e056ba597?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 19 |
 | **[Sparton](http://www.sparton.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67045e14a2f0e46be64b43d6?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Nov 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern- Central and Western NJ](https://jobright.ai/jobs/info/67046f7ecd0f5c77aee4d1e0?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Nov 19 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66da6709fb538750c3cddbc8?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Nov 19 |
+| ↳ | **[Summer 2025 Management Trainee Intern- Central and Western NJ](https://jobright.ai/jobs/info/67046f7ecd0f5c77aee4d1e0?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Nov 19 |
 | ↳ | **[Summer 25 Management Trainee Intern](https://jobright.ai/jobs/info/66ee1cf653ea12c12c3bfc88?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Nov 19 |
 | ↳ | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/66f51ca4a23df6db3bce3db6?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
 | ↳ | **[Management Trainee Intern  - Summer 2025 - Madison](https://jobright.ai/jobs/info/66eb6fb17b8112708d860e15?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Nov 19 |
@@ -122,6 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Barclays](https://home.barclays)** | **[2025 Empowering Leadership Fellowship](https://jobright.ai/jobs/info/673c6ca91979097c79681377?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[SSA Group](http://thessagroup.com)** | **[Talent Network](https://jobright.ai/jobs/info/673c5d179ea377557c689bcc?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 19 |
 | **[Jefferson Healthcare](https://www.jeffersonhealthcare.org)** | **[Job Shadow](https://jobright.ai/jobs/info/673c57344d2d37d9730ffea6?utm_campaign=1054&utm_source=git)** | Port Townsend, WA | On Site | Nov 18 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a275?utm_campaign=1054&utm_source=git)** | Salem, OH | Hybrid | Nov 18 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b56f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Nov 18 |
+| **[Philip Morris International](https://www.pmi.com)** | **[People & Culture HR Internship Summer 2025](https://jobright.ai/jobs/info/673d8d7499c1fa70e0e36c88?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Nov 18 |
 | **[Woolpert](http://www.woolpert.com)** | **[Human Resources Intern I](https://jobright.ai/jobs/info/673d3aba1097243e86ee4312?utm_campaign=1054&utm_source=git)** | 4711 S. LeJeune Road, Coral Gables, FL, US | On Site | Nov 18 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Human Resources Information Systems (HRIS) Intern](https://jobright.ai/jobs/info/673cea909320f9f033cbc93b?utm_campaign=1054&utm_source=git)** | 7500 Airline Dr., Minneapolis, MN, US | On Site | Nov 18 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/673cc1b18cf4fa49d8020034?utm_campaign=1054&utm_source=git)** | 6450 Poe Ave, Dayton, OH, US | On Site | Nov 18 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Air Force Research Laboratory](https://afresearchlab.com/)** | **[FY25 Premier College Internship Program (PCIP)](https://jobright.ai/jobs/info/673bd0f2a0410463cafef85a?utm_campaign=1054&utm_source=git)** | Dayton Metropolitan Area | On Site | Nov 18 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring 2025 - HR, Talent](https://jobright.ai/jobs/info/673bd451e8fcadc73f63a23f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[US Army Corps of Engineers](https://www.usace.army.mil/)** | **[Talent Management Specialist](https://jobright.ai/jobs/info/673bc8941474d21f8e40b2d3?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 18 |
-| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/673bb34e85052391fd33e5b3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
-| **[ITW Automotive](https://www.itwautomotive.com)** | **[HR Generalist](https://jobright.ai/jobs/info/673bba9f3fd76aabaeee6557?utm_campaign=1054&utm_source=git)** | Westminster, MA | On Site | Nov 18 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/673bb13fa8dcabe18128ea2b?utm_campaign=1054&utm_source=git)** | Byron Center, MI | Hybrid | Nov 18 |
-| ↳ | **[Benefits and Payroll Intern](https://jobright.ai/jobs/info/673bb13fa8dcabe18128ea32?utm_campaign=1054&utm_source=git)** | Byron Center, MI | Hybrid | Nov 18 |
-| **[Aon](http://www.aon.com)** | **[Aon's Corporate Apprenticeship Program - Bannockburn, IL](https://jobright.ai/jobs/info/673b322068bdbdb054bff40c?utm_campaign=1054&utm_source=git)** | Bannockburn, IL | On Site | Nov 18 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Human Resources Intern (Onsite/hybrid)](https://jobright.ai/jobs/info/673bd0f2a0410463cafefa2c?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Nov 18 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship – Northeast – Summer 2025](https://jobright.ai/jobs/info/66f7be00638607bb01d626ba?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
