@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MetOx International](http://www.metoxtech.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/67429fb74beef14da6c03a03?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67428c5ef4f578431e64a7bf?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 23 |
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge  Intern](https://jobright.ai/jobs/info/67426c89806d8135d15929a7?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Nov 23 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/67423f3beb2bb32df22f0ad1?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Nov 23 |
@@ -115,17 +114,17 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Human Resources - Global HR Services Intern](https://jobright.ai/jobs/info/67098422a4d8aae1de638a4f?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Nov 23 |
 | **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2025](https://jobright.ai/jobs/info/66d22aa4700fd5396cc1adca?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 23 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6724caeeecebeed66088ee61?utm_campaign=1054&utm_source=git)** | Romeoville, IL | On Site | Nov 23 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Human Resources Intern](https://jobright.ai/jobs/info/6741c8a4ed355d52a80df1f1?utm_campaign=1054&utm_source=git)** | Pueblo, CO | On Site | Nov 23 |
+| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/6725e5ec07478dc3368d917c?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Nov 23 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/66d117bd972be3ce72d51d2e?utm_campaign=1054&utm_source=git)** | Saukville, WI | On Site | Nov 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba096?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Nov 23 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/66edb8dcb29c8a3244eb9ab8?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Nov 23 |
 | **[HP](http://www.hp.com)** | **[Talent and Learning Intern](https://jobright.ai/jobs/info/6741b81e8b6a970dc959e055?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Nov 23 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/67096e98ac59c7aecb9d7d75?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Nov 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83255?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Nov 23 |
+| **[IEA Constructors LLC](https://ieaconstructors.com/)** | **[Safety Internship - 2025 Summer](https://jobright.ai/jobs/info/66ec9eb9e2ed5f97793ddd14?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Nov 22 |
 | **[Kairos Power](https://kairospower.com/)** | **[Talent Acquisition Intern - Summer 2025](https://jobright.ai/jobs/info/674160bfe2c843c79b870fcd?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Nov 22 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Diversity & Inclusion Intern](https://jobright.ai/jobs/info/674164562bdd7df83c487544?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 22 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/674169b0222271e39af6e254?utm_campaign=1054&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Human Resources Intern](https://jobright.ai/jobs/info/67429ee82e0245ac934b6d59?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Nov 22 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Talent Partner, Internships](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4ae1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Participate Learning](https://www.participatelearning.com)** | **[Human Resources Department Intern](https://jobright.ai/jobs/info/67414ad345dc59bf710e2fde?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Nov 22 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Guest Experience Corporate Internship - Orlando, FL](https://jobright.ai/jobs/info/67413cf8e7e7de43a2b9c032?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.metacareers.com/)** | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e0?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 22 |
 | ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e3?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
+| ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e4?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
