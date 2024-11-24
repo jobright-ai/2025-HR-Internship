@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/66edbf00a91b9941d72c8e15?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Nov 24 |
+| **[MetOx International](http://www.metoxtech.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/6743109ec45bb549c28c6615?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67428c5ef4f578431e64a7bf?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 23 |
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge  Intern](https://jobright.ai/jobs/info/67426c89806d8135d15929a7?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Nov 23 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/67423f3beb2bb32df22f0ad1?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Nov 23 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c961?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c960?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f28e8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c963?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c964?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics](https://jobright.ai/jobs/info/6740cd417d8ccabc46aab6cc?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Nov 22 |
 | **[Meta](https://www.metacareers.com/)** | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e0?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Nov 22 |
 | ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e2?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 22 |
-| ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e3?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
-| ↳ | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6740d020d609d48944f5f0e4?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
