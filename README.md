@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Talent Acquisition Summer 2025 Student Associate Program](https://jobright.ai/jobs/info/672612c8b0a32a09403aece5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6675e628002960a5a8d1af80?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 24 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/66edbf00a91b9941d72c8e15?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Nov 24 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6743dd93e267b6c7ac72aea2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Nov 23 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67428c5ef4f578431e64a7bf?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 23 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/67438b1e3765fe8c3dfbcccb?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Nov 23 |
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge  Intern](https://jobright.ai/jobs/info/67426c89806d8135d15929a7?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Nov 23 |
@@ -98,14 +99,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea8?utm_campaign=1054&utm_source=git)** | Norwalk, CT | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95e?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95f?utm_campaign=1054&utm_source=git)** | Dallas, TX | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c960?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c961?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c960?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f28e8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c963?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c963?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c964?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673e629f1e77af8f327b3bab?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Snyk](https://snyk.io)** | **[People Co-Op](https://jobright.ai/jobs/info/672a480ad293846a6f57dae0?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Nov 22 |
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[HR Intern (Temporary)](https://jobright.ai/jobs/info/6740e8cf750e1e2601632688?utm_campaign=1054&utm_source=git)** | Hicksville, NY | On Site | Nov 22 |
-| **[NEOGOV](http://www.neogov.com)** | **[Departmental Analyst (Trainee) 9-P11 - Field Services Bureau](https://jobright.ai/jobs/info/6740e1dd7fd783bfbdf96d2c?utm_campaign=1054&utm_source=git)** | Dimondale, MI | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
