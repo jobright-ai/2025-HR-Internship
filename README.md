@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Communications Design Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd40?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Corporate HR Business Partner Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/674372f6b9274bd04659f259?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
+| **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Talent Acquisition Summer 2025 Student Associate Program](https://jobright.ai/jobs/info/672612c8b0a32a09403aece5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[CEMEX USA](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6675e628002960a5a8d1af80?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 24 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/66edbf00a91b9941d72c8e15?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Nov 24 |
-| **[MetOx International](http://www.metoxtech.com)** | **[HR Coordinator](https://jobright.ai/jobs/info/6743109ec45bb549c28c6615?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67428c5ef4f578431e64a7bf?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Nov 23 |
+| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/67438b1e3765fe8c3dfbcccb?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Nov 23 |
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge  Intern](https://jobright.ai/jobs/info/67426c89806d8135d15929a7?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Nov 23 |
-| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/67423f3beb2bb32df22f0ad1?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Nov 23 |
+| **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/67099d3fcae5073aeb2c7c02?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Nov 23 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741e4e12172913d527a32d0?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741e4e12172913d527a32d1?utm_campaign=1054&utm_source=git)** | United, PA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/674200d1533e4c8240ebf9d1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Nov 23 |
@@ -96,14 +98,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea8?utm_campaign=1054&utm_source=git)** | Norwalk, CT | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95e?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95e?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95f?utm_campaign=1054&utm_source=git)** | Dallas, TX | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c961?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c960?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c961?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f28e8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c963?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Nov 23 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c964?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
@@ -137,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge Intern](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b26c0?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Nov 22 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[HR Connect - Summer Internship](https://jobright.ai/jobs/info/67412a1e5ddb3a5d8838a087?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | On Site | Nov 22 |
 | **[Formlabs](http://www.formlabs.com)** | **[Campus Recruiting Intern (Winter/Spring 2025)](https://jobright.ai/jobs/info/674124c7cf988b2e5c927825?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
-| **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - unpaid](https://jobright.ai/jobs/info/67412caa15d959b60176ad69?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 22 |
 | **[AXA XL](https://axaxl.com)** | **[HR Intern](https://jobright.ai/jobs/info/6741196f5843fcd03c9b795a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[University Recruiting Intern (Spring 2025)](https://jobright.ai/jobs/info/67411876ebaa782b51eef4ba?utm_campaign=1054&utm_source=git)** | Morrisville, NC | On Site | Nov 22 |
 | **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Talent Acquisition](https://jobright.ai/jobs/info/67411876ebaa782b51eef4cb?utm_campaign=1054&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 22 |
 | **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd5c8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Loretto](https://lorettocny.org/)** | **[Social Work Intern - unpaid](https://jobright.ai/jobs/info/67411be91c04d32a69f99c0d?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 22 |
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8e39?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 22 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[HR Intern - Birmingham](https://jobright.ai/jobs/info/674104c6e5ac7b4d9f12f176?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67410f7881d57c7ef9d3f397?utm_campaign=1054&utm_source=git)** | Richfield, OH | On Site | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Snyk](https://snyk.io)** | **[People Co-Op](https://jobright.ai/jobs/info/672a480ad293846a6f57dae0?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Nov 22 |
 | **[Clinical Pathology Laboratories](http://www.cpllabs.com)** | **[HR Intern (Temporary)](https://jobright.ai/jobs/info/6740e8cf750e1e2601632688?utm_campaign=1054&utm_source=git)** | Hicksville, NY | On Site | Nov 22 |
 | **[NEOGOV](http://www.neogov.com)** | **[Departmental Analyst (Trainee) 9-P11 - Field Services Bureau](https://jobright.ai/jobs/info/6740e1dd7fd783bfbdf96d2c?utm_campaign=1054&utm_source=git)** | Dimondale, MI | Hybrid | Nov 22 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Claims - Dallas, TX (Summer 2025)](https://jobright.ai/jobs/info/6740e96b0e636a08c25b51d6?utm_campaign=1054&utm_source=git)** | Addison, TX | Hybrid | Nov 22 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: People Analytics](https://jobright.ai/jobs/info/6740cd417d8ccabc46aab6cc?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
