@@ -57,14 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](http://www.coinbase.com)** | **[Total Rewards & Compensation Intern](https://jobright.ai/jobs/info/67453526f8bf3f316ec9dc81?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| ↳ | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/67453526f8bf3f316ec9dc82?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| **[Centric Brands](https://centricbrands.com)** | **[Human Resources Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15da5?utm_campaign=1054&utm_source=git)** | Greensboro, NC | Hybrid | Nov 25 |
+| **[84 Lumber](http://www.84lumber.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6745255fe5c8c3ddea0480ad?utm_campaign=1054&utm_source=git)** | Eighty Four, PA | On Site | Nov 25 |
+| **[Coinbase](http://www.coinbase.com)** | **[Talent Market Research Intern](https://jobright.ai/jobs/info/67451875be985695542713ca?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/67451875be985695542713b4?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| ↳ | **[People Analytics Intern](https://jobright.ai/jobs/info/67451875be985695542713b5?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| ↳ | **[Emerging Talent Program Intern](https://jobright.ai/jobs/info/67451875be985695542713a9?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Nov 25 |
+| **[DP World](https://www.dpworld.com/)** | **[Intern, HR](https://jobright.ai/jobs/info/674515ce48b3aa117f838ffd?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Nov 25 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Advantage Solutions-Human Resources-Summer Internship 2025](https://jobright.ai/jobs/info/674507140430d4a3d5a12064?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[Kairos Power](https://kairospower.com/)** | **[Organizational Development Intern - Summer 2025](https://jobright.ai/jobs/info/6744ff5c69ac708940ea7f11?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Nov 25 |
-| **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/67450a0df2d2a9f3a709fba5?utm_campaign=1054&utm_source=git)** | Lenox, MI | On Site | Nov 25 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[HR Internship](https://jobright.ai/jobs/info/6744f94a357f937f6502b2bb?utm_campaign=1054&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 25 |
 | **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79ced5?utm_campaign=1054&utm_source=git)** | Ypsilanti, MI | On Site | Nov 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Human Resources Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67450279095490c374fa69e4?utm_campaign=1054&utm_source=git)** | Greensboro, NC | Hybrid | Nov 25 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/6744ff5c69ac708940ea8004?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 25 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/6744eca5d01db1421b256794?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 25 |
+| **[C.A. Fortune](http://cafortune.com)** | **[Campus Recruiting General Application (Full-Time & Internship)](https://jobright.ai/jobs/info/67453692d9ea0e600cfcfc4f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
+| **[Harris Associates](https://www.harrisassoc.com)** | **[Talent Community - Discover Your Potential](https://jobright.ai/jobs/info/67453692d9ea0e600cfcfc5a?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Advantage Solutions-Human Resources-Summer Internship 2025](https://jobright.ai/jobs/info/6744f70d97d95701c36b59b7?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 25 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Backstage Pass Sophomore Leadership Program (Virtual) - Nationwide](https://jobright.ai/jobs/info/6744f70d97d95701c36b5a90?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Nov 25 |
 | ↳ | **[Backstage Pass Sophomore Leadership Program (Virtual) - Nationwide](https://jobright.ai/jobs/info/6744f70d97d95701c36b5a91?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 25 |
@@ -83,30 +92,33 @@ For a complete list, click the following sortable link below:
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Human Resources Internships](https://jobright.ai/jobs/info/6744de35d85ae582193c14e2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6744e00c904a477e2c0f29a2?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 25 |
 | ↳ | **[Human Resources Intern (Talent Acquisition Intern)](https://jobright.ai/jobs/info/6744e00c904a477e2c0f2998?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 25 |
-| **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277d9?utm_campaign=1054&utm_source=git)** | Commerce, MI | On Site | Nov 25 |
+| **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4276b1?utm_campaign=1054&utm_source=git)** | Carpenter Road - Ypsilanti, MI | On Site | Nov 25 |
+| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277db?utm_campaign=1054&utm_source=git)** | Zeeb Road - Ann Arbor, MI | On Site | Nov 25 |
+| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277dc?utm_campaign=1054&utm_source=git)** | Brighton, MI | On Site | Nov 25 |
+| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277d9?utm_campaign=1054&utm_source=git)** | Commerce, MI | On Site | Nov 25 |
 | ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277dd?utm_campaign=1054&utm_source=git)** | Westland, MI | On Site | Nov 25 |
 | ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277da?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Nov 25 |
-| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4276b1?utm_campaign=1054&utm_source=git)** | Carpenter Road - Ypsilanti, MI | On Site | Nov 25 |
-| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277dc?utm_campaign=1054&utm_source=git)** | Brighton, MI | On Site | Nov 25 |
-| ↳ | **[Store HR Intern (West, South Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744cf2b17757d023b4277db?utm_campaign=1054&utm_source=git)** | Zeeb Road - Ann Arbor, MI | On Site | Nov 25 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Project Intern- Employee Health](https://jobright.ai/jobs/info/6744cf2b17757d023b42768c?utm_campaign=1054&utm_source=git)** | Commerce, CA 90040 | On Site | Nov 25 |
-| **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668021e8?utm_campaign=1054&utm_source=git)** | Utica, MI | On Site | Nov 25 |
-| ↳ | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668022c4?utm_campaign=1054&utm_source=git)** | Roseville, MI | On Site | Nov 25 |
+| **[Coin Metrics](https://coinmetrics.io)** | **[JOIN COIN METRICS TALENT COMMUNITY](https://jobright.ai/jobs/info/67453ba35b0b43d01339e795?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Nov 25 |
+| **[Meijer](https://www.meijer.com/)** | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668022c4?utm_campaign=1054&utm_source=git)** | Roseville, MI | On Site | Nov 25 |
 | ↳ | **[Store HR Intern (Indianapolis)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668021d1?utm_campaign=1054&utm_source=git)** | Zionsville, IN | On Site | Nov 25 |
 | ↳ | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668022c3?utm_campaign=1054&utm_source=git)** | Washington Twp, MI | On Site | Nov 25 |
+| ↳ | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668021e8?utm_campaign=1054&utm_source=git)** | Utica, MI | On Site | Nov 25 |
+| ↳ | **[Store HR Intern (East, North Detroit)- Summer 2025](https://jobright.ai/jobs/info/6744c19453e96405668022c2?utm_campaign=1054&utm_source=git)** | Lenox, MI | On Site | Nov 25 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[HR Connect - Summer Internship](https://jobright.ai/jobs/info/6744c2a481368a5412dab56f?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Nov 25 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Co-Op Intern- Recruitment & Outreach](https://jobright.ai/jobs/info/6744eca5d01db1421b256aa0?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Nov 25 |
-| **[Benesch](https://www.benesch.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6744c06e07d526cc8f8cac67?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
 | **[The RealReal](http://www.therealreal.com)** | **[People Intern (Talent) - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc37?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Nov 25 |
 | ↳ | **[People Intern  (Talent Acquisition) - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc47?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 25 |
 | **[iPipeline](http://www.ipipeline.com)** | **[HR Intern](https://jobright.ai/jobs/info/6744ab2756921b442df3960a?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Nov 25 |
-| **[World Relief](https://worldrelief.org/)** | **[Employment Program Intern - 2024913](https://jobright.ai/jobs/info/6744ab2756921b442df39618?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 25 |
+| **[Benesch](https://www.benesch.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6744a6619aa3373934f7da3d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
+| **[World Relief](https://worldrelief.org/)** | **[Employment Program Intern - 2024913](https://jobright.ai/jobs/info/6744b090a4870be8131e9f42?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 25 |
 | **[Ingenico](http://www.ingenico.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6744a2b46737d94824c212ef?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Nov 25 |
 | **[Formlabs](http://www.formlabs.com)** | **[Campus Recruiting Intern (Winter/Spring 2025)](https://jobright.ai/jobs/info/6744a56bbcc5bdfd38d82db7?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Nov 25 |
 | **[Artera Services](https://www.artera.com/)** | **[Talent Acquisition Project Specialist Intern](https://jobright.ai/jobs/info/67448609f13cba9ec1c716bd?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/674480e4afc5dd0edb86b3b8?utm_campaign=1054&utm_source=git)** | Richfield, OH | On Site | Nov 25 |
 | **[Crane Aerospace & Electronics](http://www.craneae.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/674442e99af70744549878cf?utm_campaign=1054&utm_source=git)** | Lynnwood, WA | On Site | Nov 24 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources/Safety Intern (Summer 2025)](https://jobright.ai/jobs/info/6744439b1188077a2ffc673f?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Nov 24 |
+| **[Amp](https://www.ampagency.com/)** | **[Advantage Solutions-Human Resources-Summer Internship 2025](https://jobright.ai/jobs/info/67453889fdba9e6ea3b7d480?utm_campaign=1054&utm_source=git)** | St. Louis, MO, US | On Site | Nov 24 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[2025 AM General Internship](https://jobright.ai/jobs/info/674504acf14a2fcefb0b2757?utm_campaign=1054&utm_source=git)** | South Bend, IN | On Site | Nov 24 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Communications Design Co-op Spring 2025](https://jobright.ai/jobs/info/6743a73013a63081396fcd40?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Nov 24 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Corporate HR Business Partner Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/674372f6b9274bd04659f259?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd79?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7a?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Remote | Nov 23 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7b?utm_campaign=1054&utm_source=git)** | Illinois, United States | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7c?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7d?utm_campaign=1054&utm_source=git)** | Radnor, PA | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7e?utm_campaign=1054&utm_source=git)** | Burlington, MA | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea2?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea3?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea4?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea5?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea8?utm_campaign=1054&utm_source=git)** | Norwalk, CT | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95e?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Nov 23 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
