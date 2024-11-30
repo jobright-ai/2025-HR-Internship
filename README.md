@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMB Bank](https://www.umb.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/674a62887546b993cd836a80?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 29 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/674a43cf77f4631b23a612ba?utm_campaign=1054&utm_source=git)** | Loris, SC | On Site | Nov 29 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/674a43cf77f4631b23a612bb?utm_campaign=1054&utm_source=git)** | Johnson City, TN | On Site | Nov 29 |
 | ↳ | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/674a43cf77f4631b23a612bc?utm_campaign=1054&utm_source=git)** | Carbondale, CO | On Site | Nov 29 |
@@ -84,14 +85,15 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Recruiting Internship - Summer 2025](https://jobright.ai/jobs/info/66d845f858305ec0c0be4a5a?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Nov 29 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Human Resources Intern - Leadership Development - Louisville, KY](https://jobright.ai/jobs/info/672d771d8291ca0c3721f984?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Nov 29 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6711726ef22d66231823bfd4?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
+| **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[P&C Talent Acquisition Intern, Summer 2025](https://jobright.ai/jobs/info/66f47323bca0e767fe612d7c?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[TSMC](http://www.tsmc.com)** | **[[Summer 2025] Human Resources Intern](https://jobright.ai/jobs/info/66f514013c857adaa89b1212?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 29 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/672ccc0735027cccd5e8e4c0?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Nov 29 |
 | **[Lockton](https://global.lockton.com)** | **[Intern](https://jobright.ai/jobs/info/66d9125911a19720b28f5876?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[HR Intern](https://jobright.ai/jobs/info/672cff8b84f7bf8a4025b471?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Nov 29 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[People Analytics (HR) Intern (Summer 2025) - Greenville, SC](https://jobright.ai/jobs/info/6710277783c70d117f65808f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 29 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67499372762037e7dc1e995b?utm_campaign=1054&utm_source=git)** | Cortez, CO | On Site | Nov 29 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/674982f06f269ee713e36893?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 29 |
-| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/674982f06f269ee713e36892?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Nov 29 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/674982f06f269ee713e36892?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Nov 29 |
+| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/674982f06f269ee713e36893?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 29 |
 | ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/674982f06f269ee713e366a0?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Nov 29 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67495cc73b8cad706757350c?utm_campaign=1054&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Nov 28 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6749631c818aa0a84e669e04?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Nov 28 |
@@ -113,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Talent Acquisition Intern, Spring 2025](https://jobright.ai/jobs/info/6749503d6eb3c1e4f5e8a41f?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b66b223d491c0e24dbc4a?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc384?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Nov 28 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/6748a0fb2a6c0028cfdf6ece?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | On Site | Nov 28 |
-| ↳ | **[DoD SkillBridge Internship Application (South Dakota)](https://jobright.ai/jobs/info/6748a0fb2a6c0028cfdf6ecf?utm_campaign=1054&utm_source=git)** | Mitchell, SD | On Site | Nov 28 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Dakota)](https://jobright.ai/jobs/info/6748a0fb2a6c0028cfdf6ecf?utm_campaign=1054&utm_source=git)** | Mitchell, SD | On Site | Nov 28 |
 | ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/6748a0fb2a6c0028cfdf6ed0?utm_campaign=1054&utm_source=git)** | Show Low, AZ | On Site | Nov 28 |
 | ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6748a0fb2a6c0028cfdf6ed2?utm_campaign=1054&utm_source=git)** | Othello, WA | On Site | Nov 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[HR Intern (Summer 2025)](https://jobright.ai/jobs/info/6748adcf1694270e1d3febd4?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 28 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d42?utm_campaign=1054&utm_source=git)** | Middletown, DE | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d47?utm_campaign=1054&utm_source=git)** | Kalispell, MT | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d49?utm_campaign=1054&utm_source=git)** | Cottageville, WV | On Site | Nov 27 |
-| ↳ | **[DoD SkillBridge Internship Application (Indiana)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d4f?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Arkansas)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48cb3?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d64?utm_campaign=1054&utm_source=git)** | Rincon, GA | On Site | Nov 27 |
 | ↳ | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d6d?utm_campaign=1054&utm_source=git)** | Loris, SC | On Site | Nov 27 |
