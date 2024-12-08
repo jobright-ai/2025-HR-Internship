@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Human Resources Intern (Richmond, VA)](https://jobright.ai/jobs/info/6754d42168785f0a02bd8504?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Dec 07 |
 | **[Porchlight, Inc.](https://porchlightinc.org)** | **[Human Resources Support Intern](https://jobright.ai/jobs/info/6754bac87c73dd4ae59db017?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Dec 07 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[KD Human Resources Intern (Spring/Summer 2025)](https://jobright.ai/jobs/info/67547bf55999697241f926ee?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 07 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Summer Internship – Human Resources](https://jobright.ai/jobs/info/67550cc9c1bf6529533b2704?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/671ab35deea7d521a4acf5e7?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Dec 07 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a83?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 07 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[2025 Summer Internships at HPC-Industrial](https://jobright.ai/jobs/info/675425722557cc521c9ba8b1?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | Dec 07 |
@@ -111,17 +112,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf62?utm_campaign=1054&utm_source=git)** | Mandan, ND | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf64?utm_campaign=1054&utm_source=git)** | Yemassee, SC | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf65?utm_campaign=1054&utm_source=git)** | Wenatchee, WA | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf67?utm_campaign=1054&utm_source=git)** | Millwood, WV | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf68?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf67?utm_campaign=1054&utm_source=git)** | Millwood, WV | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Connecticut)](https://jobright.ai/jobs/info/6753b88ac0b82779c56821cf?utm_campaign=1054&utm_source=git)** | Oxford, CT | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Kentucky)](https://jobright.ai/jobs/info/67538ceeba1e3a7a82493a70?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b5?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b6?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b7?utm_campaign=1054&utm_source=git)** | Sidney, MT | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b8?utm_campaign=1054&utm_source=git)** | Ticonderoga, NY | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b9?utm_campaign=1054&utm_source=git)** | Gardner, MA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bb?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/675337098aa41e895d5be2ba?utm_campaign=1054&utm_source=git)** | Kimberly, ID | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b9?utm_campaign=1054&utm_source=git)** | Gardner, MA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bc?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2be?utm_campaign=1054&utm_source=git)** | Bayport, NY | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bd?utm_campaign=1054&utm_source=git)** | Mahopac, NY | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Iowa)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8c?utm_campaign=1054&utm_source=git)** | Walker, IA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8d?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8f?utm_campaign=1054&utm_source=git)** | Fleming, GA | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a91?utm_campaign=1054&utm_source=git)** | Gray, TN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
