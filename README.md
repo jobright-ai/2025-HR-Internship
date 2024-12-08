@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6754d275771e49833aec3c5b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Dec 07 |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Human Resources Intern (Richmond, VA)](https://jobright.ai/jobs/info/6754d42168785f0a02bd8504?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Dec 07 |
+| **[Porchlight, Inc.](https://porchlightinc.org)** | **[Human Resources Support Intern](https://jobright.ai/jobs/info/6754bac87c73dd4ae59db017?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Dec 07 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[KD Human Resources Intern (Spring/Summer 2025)](https://jobright.ai/jobs/info/67547bf55999697241f926ee?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/671ab35deea7d521a4acf5e7?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Dec 07 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a83?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 07 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Talent Acquisition - 2025 Summer Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e6d4?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Dec 06 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Human Resources Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/675351c422e7edc5728f38e9?utm_campaign=1054&utm_source=git)** | Branchville, NJ | Hybrid | Dec 06 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[HR Talent/Learning Intern](https://jobright.ai/jobs/info/6753450928695013fe1cb305?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Dec 06 |
-| **[Valeo](http://www.valeo.com/en/)** | **[HR Trainee](https://jobright.ai/jobs/info/67533907bd95015ea60ba0bf?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Dec 06 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/675353f01be52cc021e07256?utm_campaign=1054&utm_source=git)** | Winnebago, NE | On Site | Dec 06 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Trainee](https://jobright.ai/jobs/info/67532e891db11a542cdb27ba?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Dec 06 |
 | **[Babson College](http://www.babson.edu)** | **[HR Student Office Assistant](https://jobright.ai/jobs/info/67532b821d81dd4fc5e5803a?utm_campaign=1054&utm_source=git)** | Wellesley MA | On Site | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf5d?utm_campaign=1054&utm_source=git)** | Brainerd, MN | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf5f?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Dec 06 |
@@ -120,12 +123,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bb?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/675337098aa41e895d5be2ba?utm_campaign=1054&utm_source=git)** | Kimberly, ID | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bc?utm_campaign=1054&utm_source=git)** | Mount Holly, NJ | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bd?utm_campaign=1054&utm_source=git)** | Mahopac, NY | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2be?utm_campaign=1054&utm_source=git)** | Bayport, NY | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (New York)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bd?utm_campaign=1054&utm_source=git)** | Mahopac, NY | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/675337098aa41e895d5be2bf?utm_campaign=1054&utm_source=git)** | Tangent, OR | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c1?utm_campaign=1054&utm_source=git)** | Kingston, MA | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c2?utm_campaign=1054&utm_source=git)** | Chubbuck, ID | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Alabama)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c0?utm_campaign=1054&utm_source=git)** | Opelika, AL | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c2?utm_campaign=1054&utm_source=git)** | Chubbuck, ID | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c1?utm_campaign=1054&utm_source=git)** | Kingston, MA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/675337098aa41e895d5be2c3?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/6753a4fef29ad8625d2efee8?utm_campaign=1054&utm_source=git)** | Tullahoma, TN | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/6753a4fef29ad8625d2efeea?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 06 |
@@ -136,17 +139,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/6753b24a69cec6aa1bfb2809?utm_campaign=1054&utm_source=git)** | Georgetown, DE | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/6753b24a69cec6aa1bfb280a?utm_campaign=1054&utm_source=git)** | Mount Carmel, TN | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a78?utm_campaign=1054&utm_source=git)** | Forest Grove, OR | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a79?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7b?utm_campaign=1054&utm_source=git)** | Valley Center, KS | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7d?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a79?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7e?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7d?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Florida)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a7f?utm_campaign=1054&utm_source=git)** | Navarre, FL | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a82?utm_campaign=1054&utm_source=git)** | Little Falls, MN | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a83?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a84?utm_campaign=1054&utm_source=git)** | Midway, GA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a85?utm_campaign=1054&utm_source=git)** | Annapolis, MD | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a88?utm_campaign=1054&utm_source=git)** | Montevideo, MN | On Site | Dec 06 |
+| ↳ | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a89?utm_campaign=1054&utm_source=git)** | Wahpeton, ND | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8a?utm_campaign=1054&utm_source=git)** | Carbondale, CO | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (South Carolina)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8b?utm_campaign=1054&utm_source=git)** | Ridgeland, SC | On Site | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8d?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a8f?utm_campaign=1054&utm_source=git)** | Fleming, GA | On Site | Dec 06 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a91?utm_campaign=1054&utm_source=git)** | Gray, TN | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Michigan)](https://jobright.ai/jobs/info/6753026408744769687830bc?utm_campaign=1054&utm_source=git)** | Houghton Lake, MI | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/6753026408744769687830bd?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 06 |
-| ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/6753026408744769687830be?utm_campaign=1054&utm_source=git)** | Berlin, MA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
