@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673bd0f2a0410463cafefa2c?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Dec 10 |
+| **[Ulta Beauty](https://www.ulta.com)** | **[Intern People Success (HR)](https://jobright.ai/jobs/info/67581efcca5299883525e1f3?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 10 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Insurance Operation Intern - Summer 2025](https://jobright.ai/jobs/info/675810dc6f7dcdc3034e7150?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 10 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Talent Acquisition Intern - Employer Brand](https://jobright.ai/jobs/info/675800125e953855bde65e0e?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Dec 09 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/6757d9a6ba4fd49049b5ad78?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Employer Development Manager](https://jobright.ai/jobs/info/6757d24a911c87e334021998?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Dec 09 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Early Careers: Health and Benefits Northeastern Co-Op Internship - Spring 2025](https://jobright.ai/jobs/info/67578d541ad863d4ff53ca21?utm_campaign=1054&utm_source=git)** | 75 Arlington Street, Boston, MA, 02116, US | On Site | Dec 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[RN Student Nursing Intern - Float Staffing](https://jobright.ai/jobs/info/67579fb8637511196b5f146a?utm_campaign=1054&utm_source=git)** | Anderson, IN | On Site | Dec 09 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67579d644e6eeacb74fef8de?utm_campaign=1054&utm_source=git)** | Bellevue, NE | On Site | Dec 09 |
-| **[Zoetis](https://www.zoetis.com)** | **[HR Intern](https://jobright.ai/jobs/info/67577d4f7ae9a90890a200bb?utm_campaign=1054&utm_source=git)** | Union City | On Site | Dec 09 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/67577d4f7ae9a90890a20087?utm_campaign=1054&utm_source=git)** | Union City | On Site | Dec 09 |
+| **[Zoetis](https://www.zoetis.com)** | **[HR Intern](https://jobright.ai/jobs/info/67577d4f7ae9a90890a20087?utm_campaign=1054&utm_source=git)** | Union City | On Site | Dec 09 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/67577d4f7ae9a90890a200bb?utm_campaign=1054&utm_source=git)** | Union City | On Site | Dec 09 |
 | **[Arkansas Blue Cross and Blue Shield](http://www.arkansasbluecross.com)** | **[Summer Intern HR Compensation and Benefits](https://jobright.ai/jobs/info/67577aae5a201f7b3f73c328?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Dec 09 |
 | **[Zel Technologies LLC](https://www.zeltech.com/)** | **[Recruiter/HR Department Skillbridge Intern](https://jobright.ai/jobs/info/675776074ab1bdc46b2e7924?utm_campaign=1054&utm_source=git)** | Hampton, VA | Hybrid | Dec 09 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6757700708afc79cdcba0e41?utm_campaign=1054&utm_source=git)** | Aiken | Hybrid | Dec 09 |
@@ -91,13 +94,14 @@ For a complete list, click the following sortable link below:
 | **[Clayton](http://www.claytonhomes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67574e097485969a147c954b?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship – Chicago – Summer 2025](https://jobright.ai/jobs/info/6757382298eb5fc4578ebb8e?utm_campaign=1054&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 09 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern People Success (HR)](https://jobright.ai/jobs/info/67573a6ec84622a58414a5e2?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 09 |
-| **[Avnet](https://www.avnet.com)** | **[Undergraduate Sales Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5c4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
+| **[Avnet](https://www.avnet.com)** | **[Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ee?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
+| ↳ | **[Undergraduate Sales Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5c4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate GIS Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ef?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
-| ↳ | **[Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ee?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate Business Intelligence Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate Supply Chain Intern (Sales)](https://jobright.ai/jobs/info/67573a6ec84622a58414a5f2?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb1a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 09 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/67572fef22928e522f4787c1?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Dec 09 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern - Recruitment](https://jobright.ai/jobs/info/6737ca7c569d13879f014491?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 09 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Finance  Internship](https://jobright.ai/jobs/info/67570b4a04700ab36f38c386?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 09 |
 | **[Philip Morris International](https://www.pmi.com)** | **[People & Culture HR Internship Summer 2025](https://jobright.ai/jobs/info/675184aee4db8bcf1a9dbbb6?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Dec 09 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/6756fdc1b0f0c9ef0b439dd3?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 09 |
@@ -131,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Summer Internship – Human Resources](https://jobright.ai/jobs/info/67550cc9c1bf6529533b2704?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Global Internship Roster (Multiple Locations)](https://jobright.ai/jobs/info/66c792beed91fc885ebcce18?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 07 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb12?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[2025 U.S. Summer Program - 1L Candidates (Private Equity)](https://jobright.ai/jobs/info/67469fd856d29d06e3408f04?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/671ab35deea7d521a4acf5e7?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Dec 07 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a83?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 07 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Internship, Miami - Onsite](https://jobright.ai/jobs/info/6753adebfb239d9ad7214a53?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Dec 06 |
 | **[MCHS Family of Services](https://www.mchsmi.org)** | **[Human Services Internship](https://jobright.ai/jobs/info/6753bad32355f8d7bc1022f3?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Norwood Human Resources Department](https://jobright.ai/jobs/info/6753bad32355f8d7bc102357?utm_campaign=1054&utm_source=git)** | Norwood, MA | On Site | Dec 06 |
-| **[Benesch](https://www.benesch.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6753939afd6632f8796a0573?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 06 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Talent Acquisition - 2025 Summer Intern](https://jobright.ai/jobs/info/67538ceeba1e3a7a824939a3?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Dec 06 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Human Resources Assistant (Sealaska)](https://jobright.ai/jobs/info/675395ea938a78c26faf5d31?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[PJT Partners](https://www.pjtpartners.com/)** | **[University of Michigan - Information Session - 2026 Summer Analyst Recruiting](https://jobright.ai/jobs/info/67538778fd1a25161c52f864?utm_campaign=1054&utm_source=git)** | New York | On Site | Dec 06 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/675381ecd3534fe1f8c29f34?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
