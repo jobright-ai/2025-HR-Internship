@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Provider Recruitment](https://jobright.ai/jobs/info/675992385527b42b58ca5b2c?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 11 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2025 Management Trainee Internship- Northern Kentucky](https://jobright.ai/jobs/info/66f4551b27e58f9b72c879ac?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Dec 11 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Workplace Development Intern](https://jobright.ai/jobs/info/6704664e46134d8704479fb1?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 11 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[HR- Learning and Development Intern-Corporate](https://jobright.ai/jobs/info/673d4dad7519b60c6bf98f8a?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Dec 11 |
+| ↳ | **[HRIS Intern-Corporate](https://jobright.ai/jobs/info/673d4dad7519b60c6bf98f9e?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Dec 11 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[P&E Employee Engagement - Summer Internship](https://jobright.ai/jobs/info/673d2e79a26057e285faca7a?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Dec 11 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/673d47e9756fa75c128fa972?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 11 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Duluth, MN](https://jobright.ai/jobs/info/6711cf971e7233b7822506c3?utm_campaign=1054&utm_source=git)** | Duluth, MN | On Site | Dec 11 |
+| ↳ | **[Summer 2025 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a3e8?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | On Site | Dec 11 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00b001?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Dec 11 |
+| ↳ | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00ad95?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 11 |
+| ↳ | **[2025 Ogilvy Summer Internship / General](https://jobright.ai/jobs/info/673d23092e8f99ef3d00b002?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6759352af98883261ce8bac4?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Dec 10 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/6759352af98883261ce8bb0f?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Dec 10 |
 | **[Meta](https://www.metacareers.com/)** | **[Internship Program Manager (Short Term Employee)](https://jobright.ai/jobs/info/6759262018450f0971f095e5?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Dec 10 |
@@ -84,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67584cc0afdd73c6809074f7?utm_campaign=1054&utm_source=git)** | 1415 Vantage Pk Dr, CHARLOTTE, NC, 28203, US | On Site | Dec 10 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a2b2?utm_campaign=1054&utm_source=git)** | Wilmington, NC | Hybrid | Dec 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66ee130e1126d8f8bcb4b78a?utm_campaign=1054&utm_source=git)** | Blacksburg, VA | On Site | Dec 10 |
+| **[Alside](https://www.alside.com/)** | **[Talent Pool - Ennis, TX](https://jobright.ai/jobs/info/670332bf5c72503741662d2f?utm_campaign=1054&utm_source=git)** | Ennis, TX | On Site | Dec 10 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/673bd0f2a0410463cafefa2c?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Dec 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/66e09cd58f64d1b3355dbb0b?utm_campaign=1054&utm_source=git)** | Blackwood, NJ | On Site | Dec 10 |
 | ↳ | **[Summer 2025 Management Internship - Manchester, Nashua, Concord  NH](https://jobright.ai/jobs/info/66cfd04b194a9e4eb28b7f90?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Dec 10 |
@@ -122,16 +135,14 @@ For a complete list, click the following sortable link below:
 | **[Crawford, Murphy & Tilly](http://cmtengr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67576ad883532e10dd7c5f2e?utm_campaign=1054&utm_source=git)** | Springfield, IL | On Site | Dec 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/675768682ce5e5ffa7673360?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 09 |
 | **[Air Methods](http://airmethods.com)** | **[Talent Acquisition Sourcer](https://jobright.ai/jobs/info/67576ad883532e10dd7c5d84?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Dec 09 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/675768682ce5e5ffa76736f5?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Dec 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Internship - Talent Acquisition](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c1c?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Dec 09 |
 | **[Windquest Group](http://windquest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60de9?utm_campaign=1054&utm_source=git)** | Grand Rapids Metro | On Site | Dec 09 |
 | **[Exos](http://www.teamexos.com/)** | **[Corporate Wellness Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60bab?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | On Site | Dec 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship](https://jobright.ai/jobs/info/67575990031ba1a6f0c60c91?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67574e097485969a147c954b?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship – Chicago – Summer 2025](https://jobright.ai/jobs/info/6757382298eb5fc4578ebb8e?utm_campaign=1054&utm_source=git)** | Willis Tower, Chicago, IL, 60606, US | On Site | Dec 09 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[Intern People Success (HR)](https://jobright.ai/jobs/info/67573a6ec84622a58414a5e2?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 09 |
-| **[Avnet](https://www.avnet.com)** | **[Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ee?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
-| ↳ | **[Undergraduate Sales Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5c4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
+| **[Avnet](https://www.avnet.com)** | **[Undergraduate Sales Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5c4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
+| ↳ | **[Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ee?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate GIS Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ef?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate Business Intelligence Intern](https://jobright.ai/jobs/info/67573a6ec84622a58414a5ec?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
 | ↳ | **[Undergraduate Supply Chain Intern (Sales)](https://jobright.ai/jobs/info/67573a6ec84622a58414a5f2?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 09 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2025](https://jobright.ai/jobs/info/660da5cc5c72843175806651?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 09 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b56b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Dec 09 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b57d?utm_campaign=1054&utm_source=git)** | Grand Island, NE | Hybrid | Dec 09 |
-| **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Intern - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a136268c4e04059695708?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Dec 09 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a276?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Dec 09 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b57c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Dec 09 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a272?utm_campaign=1054&utm_source=git)** | Lenexa, KS | Hybrid | Dec 09 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Talent Acquisition Intern - Employer Brand](https://jobright.ai/jobs/info/6756af394ca735705a27167d?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Dec 08 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Employee Engagement](https://jobright.ai/jobs/info/66e473d1528094fdb03c0c60?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Dec 08 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/67562550ad3474e1ac1df968?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
-| **[Cider](https://shop.shopcider.com)** | **[Cider / Student Intern - Global Talent Recruitment & Administrative Support / los angeles, ca](https://jobright.ai/jobs/info/6755cacf73f5b75b4c229bc0?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Giorgio Armani / Human Resources Internship: Spring 2025 / new york city, ny](https://jobright.ai/jobs/info/6755bcca6dd348b547f7d8fb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Jenner & Block](http://jenner.com/)** | **[Jenner & Block / Talent & Strategy Intern / new york city, ny](https://jobright.ai/jobs/info/6755c044f3a488c6e510d8d7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| ↳ | **[Jenner & Block / Talent & Strategy Intern / los angeles, ca](https://jobright.ai/jobs/info/6755c044f3a488c6e510d8d2?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
