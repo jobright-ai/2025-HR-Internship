@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Internship: Orginizational Development](https://jobright.ai/jobs/info/674e52498265abba464c2d19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0aa?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cb69?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6723018d0c7bf578e897512b?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83240?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba096?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cb5f?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea8326e?utm_campaign=1054&utm_source=git)** | Gastonia, NC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea8326f?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Dec 14 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/675d303da3466ccc3a324e08?utm_campaign=1054&utm_source=git)** | Englewood, CO | Hybrid | Dec 13 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/675d1b0bfa6e879d611d904f?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/675d1b0bfa6e879d611d9097?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Dec 13 |
@@ -113,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[NEXCOM INTERNSHIP (OPERATIONS/RETAIL)](https://jobright.ai/jobs/info/675c641e8800c3e16752aae7?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 13 |
 | **[UBS](https://www.ubs.com)** | **[2025 Tomorrow’s Talent Program – Investment Banking Insights Day](https://jobright.ai/jobs/info/675c5d00e07c74a702589034?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Human Resources Recruiting Intern – Summer 2025](https://jobright.ai/jobs/info/675c4b2ea85a84599533c718?utm_campaign=1054&utm_source=git)** | Cincinnati, OH (USA) | On Site | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca29?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533c7ac?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
+| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533c7ac?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
+| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca29?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/675c4a3513a303fff5e86aee?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 13 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/675c4412fcf074dc3638d88f?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 13 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[People Analytics Intern-Summer 2025- Franklin, TN](https://jobright.ai/jobs/info/675c2ef2b886572b1ebf5fe0?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Dec 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University of Texas Spring 2025 Career Fair Internships](https://jobright.ai/jobs/info/675b88ceb2c30fb1301425ef?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Dec 12 |
 | ↳ | **[UT - San Antonio Spring 2025 Career Fair Internships](https://jobright.ai/jobs/info/675b88ceb2c30fb1301425ee?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Dec 12 |
 | **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/675b723dfee435ee24b08d09?utm_campaign=1054&utm_source=git)** | Belk, AL | On Site | Dec 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/675b723dfee435ee24b08cf2?utm_campaign=1054&utm_source=git)** | Eatonton, GA | On Site | Dec 12 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/675b723dfee435ee24b08d13?utm_campaign=1054&utm_source=git)** | Perry, GA | On Site | Dec 12 |
-| **[MetLife](http://www.metlife.com)** | **[Workforce Engagement Intern](https://jobright.ai/jobs/info/675b723dfee435ee24b08d14?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 12 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-University Hotel-Service Staff Assistant (10 positions)](https://jobright.ai/jobs/info/675b6d4e467b06d4d233142b?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Dec 12 |
-| **[Miami-Dade County](http://miamidade.gov)** | **[College Intern - Spring 2025](https://jobright.ai/jobs/info/675b69cb61cf69f125c84687?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 12 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee- CJ Internships & Careers Office](https://jobright.ai/jobs/info/675b622580ddca27c1bfa6ae?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Dec 12 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Human Resources Intern (Science Hill Students Only)](https://jobright.ai/jobs/info/675b622580ddca27c1bfa6b4?utm_campaign=1054&utm_source=git)** | Johnson City, TN | On Site | Dec 12 |
-| **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR Intern Summer 2025](https://jobright.ai/jobs/info/675b5e780acd51807c6e9a8b?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Dec 12 |
-| ↳ | **[HR Intern Summer 2025](https://jobright.ai/jobs/info/675b5e780acd51807c6e9a91?utm_campaign=1054&utm_source=git)** | Spring Hill, TN | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
