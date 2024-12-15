@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Locusview](https://www.locusview.com/)** | **[HR Admin - Intern](https://jobright.ai/jobs/info/675ed927297987c1d4b472b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
+| **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/675ec74dd67d89faa6752a05?utm_campaign=1054&utm_source=git)** | Columbia, MD | Remote | Dec 15 |
+| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66edda5a0cc179ad9ea23be7?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Dec 15 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0b2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Human Resources Program Assistant VISTA](https://jobright.ai/jobs/info/675e7d5d47e453fe2c9420e2?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Dec 14 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/675da64b34d98de503b1c645?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | ↳ | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/675d98c741350306ae8da48e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea8326e?utm_campaign=1054&utm_source=git)** | Gastonia, NC | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea8326f?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Dec 14 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83255?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0a0?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Dec 14 |
 | **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674adc7d97abc5e2f3aba3f3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/6725e5ec07478dc3368d917c?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Dec 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/675d98c741350306ae8da117?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Dec 14 |
@@ -98,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22845?utm_campaign=1054&utm_source=git)** | Brooklyn, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/675cef83cc9cad31fae22819?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae2284f?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Dec 13 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae2283b?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/675cef83cc9cad31fae22856?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 13 |
+| ↳ | **[Summer 2025 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae2283b?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/675cef83cc9cad31fae22869?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae22859?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22857?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 13 |
@@ -130,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[Student General - Dean's Office/HR Assistant](https://jobright.ai/jobs/info/675d3a85e559d89bab35def6?utm_campaign=1054&utm_source=git)** | Bottineau, ND | On Site | Dec 13 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Talent Programs Intern](https://jobright.ai/jobs/info/675c83586e8412d93b2db744?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Talent Programs Intern](https://jobright.ai/jobs/info/675c7e83133fd95d68d48d6d?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Dec 13 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[HUMAN RESOURCES INTERN (Indianapolis)](https://jobright.ai/jobs/info/675dc945a1e934d40b2d1d0c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 13 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/675c812111609f5f651af778?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 13 |
 | **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[College Aide - DMT](https://jobright.ai/jobs/info/675d3a85e559d89bab35df2f?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Dec 13 |
 | **[NEOGOV](http://www.neogov.com)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/675c72df6d223e31f5bba835?utm_campaign=1054&utm_source=git)** | Black Hawk County Courthouse, IA | On Site | Dec 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern (Richmond, VA)](https://jobright.ai/jobs/info/675c204889de2926334dfae0?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/675c17f443dc1f5a08ef726f?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Dec 13 |
 | **[Chobani](http://www.chobani.com)** | **[Intern- People Team (HR)](https://jobright.ai/jobs/info/67400368c9f7842c49aa80b8?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Dec 13 |
-| **[State of Missouri](http://mo.gov)** | **[MOVERS Intern](https://jobright.ai/jobs/info/675c021c9e37c4982620c3df?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Dec 13 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Skills-Based Talent Acquisition Strategy Internship](https://jobright.ai/jobs/info/675bf92f6a4f8dcbcaafb210?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Dec 13 |
-| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[2025 Summer Intern- Human Resources/ General Affairs](https://jobright.ai/jobs/info/66ea160fdacbf442e5c9ae23?utm_campaign=1054&utm_source=git)** | Newberry, SC | On Site | Dec 12 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Backstage Pass Sophomore Leadership Program (Virtual) - Nationwide](https://jobright.ai/jobs/info/6744f70d97d95701c36b5a93?utm_campaign=1054&utm_source=git)** | Illinois, United States | Remote | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
