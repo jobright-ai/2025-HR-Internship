@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/675ee3ec4e750311d56d7eed?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 15 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/675ef27128baa6c498d52c7e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 15 |
 | **[Locusview](https://www.locusview.com/)** | **[HR Admin - Intern](https://jobright.ai/jobs/info/675ed927297987c1d4b472b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2ad1?utm_campaign=1054&utm_source=git)** | Washington, United States | On Site | Dec 15 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acf?utm_campaign=1054&utm_source=git)** | Maryland, United States | On Site | Dec 15 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern with Security Clearance](https://jobright.ai/jobs/info/675ec74dd67d89faa6752a05?utm_campaign=1054&utm_source=git)** | Columbia, MD | Remote | Dec 15 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Dec 15 |
+| **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - Emerging Companies & Venture Capital - Palo Alto](https://jobright.ai/jobs/info/67374c229924e7a7fdb9229f?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 15 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 15 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66edda5a0cc179ad9ea23be7?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Dec 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0b2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Human Resources Program Assistant VISTA](https://jobright.ai/jobs/info/675e7d5d47e453fe2c9420e2?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Dec 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67243b380bae6a537cc65e99?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Dec 14 |
+| **[Philip Morris International](https://www.pmi.com)** | **[People & Culture HR Internship Summer 2025](https://jobright.ai/jobs/info/6751538ddd395250885d6509?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Dec 14 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/675da64b34d98de503b1c645?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | ↳ | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/675d98c741350306ae8da48e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Internship: Orginizational Development](https://jobright.ai/jobs/info/674e52498265abba464c2d19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 14 |
@@ -69,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/672544e7a35b4815191b7648?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0aa?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cb69?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6723018d0c7bf578e897512b?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83240?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6723018d0c7bf578e897512b?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 14 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern (Summer 2025)](https://jobright.ai/jobs/info/66ec7edd02ebb58662cdb69b?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Dec 14 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba096?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cb5f?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Dec 14 |
@@ -103,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22845?utm_campaign=1054&utm_source=git)** | Brooklyn, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/675cef83cc9cad31fae22819?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae2284f?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Dec 13 |
-| ↳ | **[Summer 2025 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/675cef83cc9cad31fae22856?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae2283b?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 13 |
+| ↳ | **[Summer 2025 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/675cef83cc9cad31fae22856?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/675cef83cc9cad31fae22869?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae22859?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22857?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca29?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533c7ac?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Want to be considered for future INTERNSHIPS (all locations)?](https://jobright.ai/jobs/info/674d8aa55eda1a0222bc018b?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Dec 13 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[People Analytics Intern-Summer 2025- Franklin, TN](https://jobright.ai/jobs/info/675c2ef2b886572b1ebf5fe0?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Dec 13 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Talent, Intern](https://jobright.ai/jobs/info/675c28b58e937f72ec21bc4d?utm_campaign=1054&utm_source=git)** | Schenectady, NY | Hybrid | Dec 13 |
-| **[FOX Sports](http://foxsports.com)** | **[Summer 2025 FOX Sports Internship Program - Los Angeles](https://jobright.ai/jobs/info/6708e29b5d3446a0702c76cc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| **[Intel Corporation](http://www.intel.com)** | **[Business HR Internship](https://jobright.ai/jobs/info/66cdc5273048b53896b896d0?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 13 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6722bd8def4e3415202a538d?utm_campaign=1054&utm_source=git)** | Orange Park, FL | On Site | Dec 13 |
-| **[Crinetics Pharmaceuticals](http://www.crinetics.com)** | **[Commercial Talent Community](https://jobright.ai/jobs/info/673fa00d554a5512bed7471d?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 13 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern (Richmond, VA)](https://jobright.ai/jobs/info/675c204889de2926334dfae0?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Dec 13 |
-| **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/675c17f443dc1f5a08ef726f?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Dec 13 |
-| **[Chobani](http://www.chobani.com)** | **[Intern- People Team (HR)](https://jobright.ai/jobs/info/67400368c9f7842c49aa80b8?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
