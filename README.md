@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/675d98c741350306ae8da48e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Internship: Orginizational Development](https://jobright.ai/jobs/info/674e52498265abba464c2d19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 14 |
 | **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[SkillBridge Operations Fellow](https://jobright.ai/jobs/info/67252f61d83f730c468354b9?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0aa?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/672544e7a35b4815191b7648?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Dec 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0aa?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cb69?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 14 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6723018d0c7bf578e897512b?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83240?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Dec 14 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/675cef83cc9cad31fae22859?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22857?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - East Hartford/Glastonbury/Manchester/Colchester, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae2284a?utm_campaign=1054&utm_source=git)** | East Hartford, CT | On Site | Dec 13 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (ADA)](https://jobright.ai/jobs/info/6737e878f443feae4fc9ea9a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/675ccab34cbc8d3372a4f939?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Dec 13 |
 | **[Haynes and Boone, LLP](http://www.haynesboone.com)** | **[Attorney Recruitment and Business Development Intern](https://jobright.ai/jobs/info/675cc612c76d8aae61950bff?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 13 |
 | **[Withum](http://www.withum.com)** | **[Human Resource Intern- 2025](https://jobright.ai/jobs/info/675cc612c76d8aae61950c5b?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Dec 13 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[NEXCOM INTERNSHIP (OPERATIONS/RETAIL)](https://jobright.ai/jobs/info/675c641e8800c3e16752aae7?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 13 |
 | **[UBS](https://www.ubs.com)** | **[2025 Tomorrow’s Talent Program – Investment Banking Insights Day](https://jobright.ai/jobs/info/675c5d00e07c74a702589034?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Human Resources Recruiting Intern – Summer 2025](https://jobright.ai/jobs/info/675c4b2ea85a84599533c718?utm_campaign=1054&utm_source=git)** | Cincinnati, OH (USA) | On Site | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533c7ac?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca29?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca29?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c4b2ea85a84599533c7ac?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
 | **[axogen](http://www.axogeninc.com)** | **[Want to be considered for future INTERNSHIPS (all locations)?](https://jobright.ai/jobs/info/674d8aa55eda1a0222bc018b?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Dec 13 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[People Analytics Intern-Summer 2025- Franklin, TN](https://jobright.ai/jobs/info/675c2ef2b886572b1ebf5fe0?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Dec 13 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Talent, Intern](https://jobright.ai/jobs/info/675c28b58e937f72ec21bc4d?utm_campaign=1054&utm_source=git)** | Schenectady, NY | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backstage Pass Sophomore Leadership Program (Virtual) - Nationwide](https://jobright.ai/jobs/info/6744e45b392e9fd4a5648aba?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Dec 12 |
 | ↳ | **[Backstage Pass Sophomore Leadership Program (Virtual) - Nationwide](https://jobright.ai/jobs/info/6744e11b064ae0231144eac5?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 12 |
 | **[University of California, Davis](http://ucdavis.edu)** | **[K TO 14 ACAD PREP SPEC 2/HR only not for recruitment](https://jobright.ai/jobs/info/675c17f443dc1f5a08ef7365?utm_campaign=1054&utm_source=git)** | Davis, CA | On Site | Dec 12 |
-| **[Management Sciences for Health](https://www.msh.org)** | **[Human Resources Intern - Talent Acquisition](https://jobright.ai/jobs/info/675bce0eeafeb498027a6004?utm_campaign=1054&utm_source=git)** | Medford, MA | Remote | Dec 12 |
-| ↳ | **[Human Resources Intern - Talent Acquisition](https://jobright.ai/jobs/info/675bbe718bfaff8814a652d0?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
