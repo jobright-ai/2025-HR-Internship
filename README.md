@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Dec 15 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - Emerging Companies & Venture Capital - Palo Alto](https://jobright.ai/jobs/info/67374c229924e7a7fdb9229f?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 15 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 15 |
+| **[HP](http://www.hp.com)** | **[Talent and Learning Intern](https://jobright.ai/jobs/info/675f95ad932740eb8943064e?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 15 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66edda5a0cc179ad9ea23be7?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Dec 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0b2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
 | **[AmeriCorps](https://www.nationalservice.gov)** | **[Human Resources Program Assistant VISTA](https://jobright.ai/jobs/info/675e7d5d47e453fe2c9420e2?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/675c72df6d223e31f5bba891?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 13 |
 | **[New York City Office of Technology & Innovation](http://www.nyc.gov/doitt)** | **[College Aide - DMT](https://jobright.ai/jobs/info/675cdf6ad3aa14462e11bbfe?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Dec 13 |
 | **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/675c72624e05fdda122c97da?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Non-Profit Administration, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763ab?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
