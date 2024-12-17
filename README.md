@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[identifeye HEALTH](https://www.identifeye.health)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/676159ee64a25fac13d15feb?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 17 |
+| **[MSC ](https://www.linkedin.com/company/34048588)** | **[Intern, HR](https://jobright.ai/jobs/info/676167926250b9733990392a?utm_campaign=1054&utm_source=git)** | Davidson, NC | On Site | Dec 17 |
 | **[Vectra AI](https://vectra.ai/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/6761221054538aa566b29328?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[Rio Tinto](http://www.riotinto.com)** | **[Intern - L&D](https://jobright.ai/jobs/info/6760fc6b75072d57be09ed63?utm_campaign=1054&utm_source=git)** | Superior, AZ | On Site | Dec 16 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6760ec901059320b81dcee0a?utm_campaign=1054&utm_source=git)** | Marlborough, MA | On Site | Dec 16 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Intern (Summer 2025)](https://jobright.ai/jobs/info/6760d30c2f1bfd3403427fda?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 16 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Payroll & Benefits Intern](https://jobright.ai/jobs/info/6760dc658e66463aceef20db?utm_campaign=1054&utm_source=git)** | Sinton, TX | On Site | Dec 16 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid College Internships/Human Resources - District 6 - Summer 2025](https://jobright.ai/jobs/info/6760d30c2f1bfd34034280be?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Dec 16 |
-| **[Entegris](http://www.entegris.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6760cd14c0050523e6aecc3e?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Dec 16 |
 | **[Xometry](https://www.xometry.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6760bd337ad883ffa056a405?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 16 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/6760c6885b70b97e593bdc29?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
@@ -105,18 +106,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[[Summer 2025] Human Resources Intern, IINE Manchester](https://jobright.ai/jobs/info/67607c3dedbfb7eb4ecd5f00?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Ascend Intern - Internal Communications](https://jobright.ai/jobs/info/676079c354adc52e4ab40989?utm_campaign=1054&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 16 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Program Benefits & Administration Intern, IINE Lowell](https://jobright.ai/jobs/info/67607b14c7f3f01598e88b3d?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 16 |
-| **[Sirva](https://www.sirva.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6761221054538aa566b29628?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 16 |
-| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Employment Services Intern, IINE Lowell](https://jobright.ai/jobs/info/676078cc3c2278a24a6642cb?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 16 |
+| ↳ | **[[Summer 2025] Employment Services Intern, IINE Lowell](https://jobright.ai/jobs/info/676078cc3c2278a24a6642cb?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 16 |
 | ↳ | **[[Summer 2025] Human Resources Intern, IINE Boston](https://jobright.ai/jobs/info/67608ced64e1d6dea13e4302?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Spring 2024 Human Resources Intern - On site](https://jobright.ai/jobs/info/6760c6885b70b97e593bdd0e?utm_campaign=1054&utm_source=git)** | Chippewa Falls, WI | On Site | Dec 16 |
-| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Program Benefits & Administration Intern, IINE Boston](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bc1?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
+| ↳ | **[[Summer 2025] Program Benefits & Administration Intern, IINE Boston](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bc1?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 | ↳ | **[[Summer 2025] Employment Services Intern, IINE Boston](https://jobright.ai/jobs/info/676073eccc873a43e73edb85?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 | ↳ | **[[Summer 2025] Volunteer Coordinator Intern, IINE Boston](https://jobright.ai/jobs/info/676073eccc873a43e73edba2?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 | ↳ | **[[Summer 2025] Development Research Intern, IINE Boston](https://jobright.ai/jobs/info/67606ff551ef1a2243f48117?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
+| **[Entegris](http://www.entegris.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67606c2a0097212fee48d19d?utm_campaign=1054&utm_source=git)** | Billerica, MA | On Site | Dec 16 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67612e4282c0535764f132e1?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Dec 16 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Philadelphia, PA](https://jobright.ai/jobs/info/6760734f6b1289b69f4ee85a?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 16 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern - 1st Shift](https://jobright.ai/jobs/info/676110f8babc49bdd19daf2e?utm_campaign=1054&utm_source=git)** | Harper Woods, MI | On Site | Dec 16 |
-| **[Morgan Truck Body](http://morgancorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6760c6885b70b97e593bdd14?utm_campaign=1054&utm_source=git)** | Orrville, OH | On Site | Dec 16 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern - 2nd Shift](https://jobright.ai/jobs/info/6760c6885b70b97e593bdd2e?utm_campaign=1054&utm_source=git)** | Harper Woods, MI | On Site | Dec 16 |
 | **[Valeo](http://www.valeo.com/en/)** | **[Human Resources Generalist VIE](https://jobright.ai/jobs/info/6760611372bc751b8bca66ba?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Dec 16 |
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67606ff551ef1a2243f4822d?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Dec 16 |
@@ -129,11 +127,14 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/676032d217623245bc66fa3e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 16 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/676032d217623245bc66fa59?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 16 |
 | **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f36?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f37?utm_campaign=1054&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 16 |
 | ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f35?utm_campaign=1054&utm_source=git)** | Mountain View, CA, USA | On Site | Dec 16 |
 | ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Dec 16 |
-| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f37?utm_campaign=1054&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 16 |
 | ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f20?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
+| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66b6a55ee460494057a850f7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Dec 16 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Business HR Internship](https://jobright.ai/jobs/info/6739a27009f9adfd40ead53e?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Dec 16 |
+| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Dec 16 |
+| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c964?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Dec 16 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba087?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Dec 15 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7c?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Dec 15 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Payroll & Benefits Intern](https://jobright.ai/jobs/info/6760d746ada994ceea780f19?utm_campaign=1054&utm_source=git)** | 8534 Highway 89, Sinton, TX, US | On Site | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea7?utm_campaign=1054&utm_source=git)** | Arizona, United States | Remote | Dec 15 |
 | **[Perkins Coie](http://www.perkinscoie.com)** | **[2025 1L Diversity & Inclusion Fellowship - Emerging Companies & Venture Capital - Palo Alto](https://jobright.ai/jobs/info/67374c229924e7a7fdb9229f?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 15 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd75?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acb?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
