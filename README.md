@@ -57,18 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Talent & Culture](https://jobright.ai/jobs/info/6761fc9d30dcf6c5c5ff549c?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Development Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f763?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
+| ↳ | **[Refugee Cash Assistance (RCA) Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f76a?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Dec 17 |
+| ↳ | **[Services for Older Refugees (SOR) Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f70f?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Dec 17 |
+| **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern - Human Resources](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4e56?utm_campaign=1054&utm_source=git)** | Herndon, VA | On Site | Dec 17 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[General Case Management (GCM) Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f81c?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Dec 17 |
+| **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - Data Analytics](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff514e?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
+| **[First Bank & Trust](http://bankeasy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e5199d0?utm_campaign=1054&utm_source=git)** | Brookings, SD (East) | On Site | Dec 17 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e519a16?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD (Main) | On Site | Dec 17 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Internal Communications](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4fbd?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 17 |
+| **[Saint-Gobain](http://www.saint-gobain.com)** | **[HR Strategy & Optimization Intern](https://jobright.ai/jobs/info/6761eb396dcf139f63740c41?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Dec 17 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff5357?utm_campaign=1054&utm_source=git)** | Campbell, CA | Hybrid | Dec 17 |
+| **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Employment Services Intern](https://jobright.ai/jobs/info/6761e2d58ba3813cd91c4063?utm_campaign=1054&utm_source=git)** | Elk Grove Village, IL | On Site | Dec 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[SU Human Resources](https://jobright.ai/jobs/info/6761d3aac50d2469d7af6011?utm_campaign=1054&utm_source=git)** | UCMO - Warrensburg, MO | On Site | Dec 17 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bd6?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 17 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bdf?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 17 |
+| **[Citi](https://www.citi.com)** | **[NAM Human Resources, Summer Associate - New York (North America - 2025)](https://jobright.ai/jobs/info/6761ebc59b64623bf3761e62?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Mary Washington Healthcare](https://www.marywashingtonhealthcare.com/)** | **[Clerical Intern-Imaging-PRN Days (Must Be Enrolled In High School)](https://jobright.ai/jobs/info/6761b7569375da545e29a6f6?utm_campaign=1054&utm_source=git)** | Hill, AR | On Site | Dec 17 |
-| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb679c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
-| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb67aa?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Claims Workers Comp Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6761d319e8928bfac5a9bebe?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Dec 17 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb67aa?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
+| ↳ | **[Talent Operations Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb679c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
+| **[Selective Insurance](https://www.selective.com/)** | **[Human Resources Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6761d8f40dad611914d07818?utm_campaign=1054&utm_source=git)** | Branchville, NJ | Hybrid | Dec 17 |
+| ↳ | **[Claims Workers Comp Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6761d319e8928bfac5a9bebe?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Dec 17 |
 | **[Chenega Corporation](https://www.chenega.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/67619f233349c7cd2cd253bd?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Dec 17 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676182c035b095fe17b8a9a2?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 17 |
 | ↳ | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/676182c035b095fe17b8a9a4?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 17 |
 | **[identifeye HEALTH](https://www.identifeye.health)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/676159ee64a25fac13d15feb?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 17 |
 | **[MSC ](https://www.linkedin.com/company/34048588)** | **[Intern, HR](https://jobright.ai/jobs/info/676167926250b9733990392a?utm_campaign=1054&utm_source=git)** | Davidson, NC | On Site | Dec 17 |
 | **[Vectra AI](https://vectra.ai/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/6761221054538aa566b29328?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
-| **[Rio Tinto](http://www.riotinto.com)** | **[Intern - L&D](https://jobright.ai/jobs/info/6760fc6b75072d57be09ed63?utm_campaign=1054&utm_source=git)** | Superior, AZ | On Site | Dec 16 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6760ec901059320b81dcee0a?utm_campaign=1054&utm_source=git)** | Marlborough, MA | On Site | Dec 16 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/6760eb2d136e02433cb1ed31?utm_campaign=1054&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | On Site | Dec 16 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[HR Compliance Intern](https://jobright.ai/jobs/info/6760f5bf36e6f5b3fe0fe207?utm_campaign=1054&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
@@ -131,30 +147,14 @@ For a complete list, click the following sortable link below:
 | **[University of Richmond](http://www.richmond.edu/)** | **[Temporary Position - 300008](https://jobright.ai/jobs/info/67604c3b81e190c199818738?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Dec 16 |
 | **[Green Plains Inc.](http://www.gpreinc.com)** | **[Learning and Development HR Intern](https://jobright.ai/jobs/info/67603d1c48009e452ea95bf3?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 16 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/676032d217623245bc66fa3e?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 16 |
-| **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f20?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
+| **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Dec 16 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f20?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | On Site | Dec 16 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f37?utm_campaign=1054&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 16 |
 | ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f36?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Dec 16 |
 | ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f35?utm_campaign=1054&utm_source=git)** | Mountain View, CA, USA | On Site | Dec 16 |
-| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f38?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Dec 16 |
-| ↳ | **[People Analytics Intern, PhD, Summer 2025](https://jobright.ai/jobs/info/6760123dcf38e03274aa2f37?utm_campaign=1054&utm_source=git)** | San Francisco, CA, USA | On Site | Dec 16 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/66b6a55ee460494057a850f7?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Dec 16 |
 | **[UPL](http://www.upl-ltd.com/)** | **[Business HR Internship](https://jobright.ai/jobs/info/6739a27009f9adfd40ead53e?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Dec 16 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c962?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Dec 16 |
 | ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c964?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Dec 16 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba087?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Dec 15 |
-| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd7c?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Dec 15 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Payroll & Benefits Intern](https://jobright.ai/jobs/info/6760d746ada994ceea780f19?utm_campaign=1054&utm_source=git)** | 8534 Highway 89, Sinton, TX, US | On Site | Dec 15 |
-| **[AssuredPartners](https://www.assuredpartners.com)** | **[Employee Relations Intern- Summer 2025](https://jobright.ai/jobs/info/6760924492f9ebe179a1e3be?utm_campaign=1054&utm_source=git)** | Orlando, FL, US | On Site | Dec 15 |
-| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd6c?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Dec 15 |
-| **[3D Systems Corporation](http://www.3dsystems.com)** | **[Human Resources Intern - Rock Hill, SC](https://jobright.ai/jobs/info/670eda6da7f67092d18d3f64?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 15 |
-| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acc?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd72?utm_campaign=1054&utm_source=git)** | Houston, TX | Remote | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d40d6083a2b32f55c95d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Remote | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741d68af0029c6a0a254ea6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Dec 15 |
-| **[Locusview](https://www.locusview.com/)** | **[HR Admin - Intern](https://jobright.ai/jobs/info/675ed927297987c1d4b472b8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 15 |
-| **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741dc985ed9933df379dd6d?utm_campaign=1054&utm_source=git)** | Berkeley Heights, NJ | Remote | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f28e8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2acd?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/6741cd869d137dd7d63f2ad1?utm_campaign=1054&utm_source=git)** | Washington, United States | On Site | Dec 15 |
-| ↳ | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/674200d1533e4c8240ebf9d1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 15 |
-| **[Woolpert](http://www.woolpert.com)** | **[People & Culture Coordinator Internship](https://jobright.ai/jobs/info/6709d59f94577e621e19014d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
