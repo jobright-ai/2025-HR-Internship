@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Parkersburg, WV](https://jobright.ai/jobs/info/6762921949127b9611a7eb41?utm_campaign=1054&utm_source=git)** | Parkersburg, WV | On Site | Dec 18 |
+| **[Uline](http://www.uline.com)** | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762ba403bfe29485ae40867?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 18 |
+| ↳ | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762ba403bfe29485ae4086e?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 18 |
+| **[People Incorporated](https://peopleincfr.org/)** | **[Internship](https://jobright.ai/jobs/info/6762b47c8faec14cbd1a562f?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Dec 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Portsmouth, OH](https://jobright.ai/jobs/info/6762addbb0bc29b3e268829d?utm_campaign=1054&utm_source=git)** | Portsmouth, OH | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Ashland, KY](https://jobright.ai/jobs/info/6762addbb0bc29b3e2688286?utm_campaign=1054&utm_source=git)** | Ashland, KY | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/6762c87aebc2b4204bbfd057?utm_campaign=1054&utm_source=git)** | Beckley, WV | On Site | Dec 18 |
+| ↳ | **[Summer 2025 Management Internship - Lowell, MA](https://jobright.ai/jobs/info/6762a306e885464c44ca5e5a?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/6762a306e885464c44ca5e3f?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/6762a306e885464c44ca60b0?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Parkersburg, WV](https://jobright.ai/jobs/info/6762921949127b9611a7eb41?utm_campaign=1054&utm_source=git)** | Parkersburg, WV | On Site | Dec 18 |
 | ↳ | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/6762921949127b9611a7ea9d?utm_campaign=1054&utm_source=git)** | Princeton, WV | On Site | Dec 18 |
 | ↳ | **[Management Trainee Intern - Cumberland, MD](https://jobright.ai/jobs/info/6762921949127b9611a7eb0a?utm_campaign=1054&utm_source=git)** | Cumberland, MD | On Site | Dec 18 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676287bb1d111031fbb7c575?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | Dec 17 |
@@ -69,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/6762470b875716bda6ec6981?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 17 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[HR Operations Intern](https://jobright.ai/jobs/info/67623de9e5905bd959fc3294?utm_campaign=1054&utm_source=git)** | Campbell, CA | On Site | Dec 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Winter Internship Salem](https://jobright.ai/jobs/info/6762423846af3380dd8a67a6?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Dec 17 |
-| ↳ | **[Management Trainee Internship- Spring 2025 (Clarksville, TN)](https://jobright.ai/jobs/info/6762423846af3380dd8a6731?utm_campaign=1054&utm_source=git)** | Clarksville, TN | On Site | Dec 17 |
 | ↳ | **[Management Trainee Internship- Spring 2025 (Franklin, TN)](https://jobright.ai/jobs/info/6762423846af3380dd8a6703?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Dec 17 |
+| ↳ | **[Management Trainee Internship- Spring 2025 (Clarksville, TN)](https://jobright.ai/jobs/info/6762423846af3380dd8a6731?utm_campaign=1054&utm_source=git)** | Clarksville, TN | On Site | Dec 17 |
 | ↳ | **[Management Trainee Internship- Spring 2025 (Hermitage, TN)](https://jobright.ai/jobs/info/6762423846af3380dd8a6788?utm_campaign=1054&utm_source=git)** | Hendersonville, TN | On Site | Dec 17 |
 | **[Android Industries](http://www.android-ind.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67621cac0845f28fd3365c1d?utm_campaign=1054&utm_source=git)** | Lansing Plant, Lansing, Michigan, United States of America | On Site | Dec 17 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67624b46a0358d61b542edc1?utm_campaign=1054&utm_source=git)** | Greater Lansing | On Site | Dec 17 |
@@ -84,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern - Human Resources](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4e56?utm_campaign=1054&utm_source=git)** | Herndon, VA | On Site | Dec 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[General Case Management (GCM) Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f81c?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Dec 17 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - Data Analytics](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff514e?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 17 |
-| **[First Bank & Trust](http://bankeasy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e5199d0?utm_campaign=1054&utm_source=git)** | Brookings, SD (East) | On Site | Dec 17 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e519a16?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD (Main) | On Site | Dec 17 |
+| **[First Bank & Trust](http://bankeasy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e519a16?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD (Main) | On Site | Dec 17 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/6761e21c74f458336e5199d0?utm_campaign=1054&utm_source=git)** | Brookings, SD (East) | On Site | Dec 17 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Internal Communications](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4fbd?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 17 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5cbdd?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Dec 17 |
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[HR Strategy & Optimization Intern](https://jobright.ai/jobs/info/6761eb396dcf139f63740c41?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Dec 17 |
@@ -96,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bdf?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 17 |
 | **[Citi](https://www.citi.com)** | **[NAM Human Resources, Summer Associate - New York (North America - 2025)](https://jobright.ai/jobs/info/6761ebc59b64623bf3761e62?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Mary Washington Healthcare](https://www.marywashingtonhealthcare.com/)** | **[Clerical Intern-Imaging-PRN Days (Must Be Enrolled In High School)](https://jobright.ai/jobs/info/6761b7569375da545e29a6f6?utm_campaign=1054&utm_source=git)** | Hill, AR | On Site | Dec 17 |
-| **[Xometry](https://www.xometry.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb67aa?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
-| ↳ | **[Talent Operations Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb679c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb679c?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/6761a466d26427498aeb67aa?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 17 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Human Resources Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6761d8f40dad611914d07818?utm_campaign=1054&utm_source=git)** | Branchville, NJ | Hybrid | Dec 17 |
 | ↳ | **[Claims Workers Comp Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/6761d319e8928bfac5a9bebe?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Dec 17 |
 | **[Chenega Corporation](https://www.chenega.com/)** | **[DoD Skillbridge Intern](https://jobright.ai/jobs/info/67619f233349c7cd2cd253bd?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Dec 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/67608160c784557d23a53614?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Human Resources Intern (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/67607ec2b3f05bc935e12020?utm_campaign=1054&utm_source=git)** | McLean, VA | Hybrid | Dec 16 |
 | **[East Carolina University](http://www.ecu.edu/)** | **[Self Help - International Admissions Recruitment and Outreach Assistant](https://jobright.ai/jobs/info/67608e43730ab6c61af4d61e?utm_campaign=1054&utm_source=git)** | NC | On Site | Dec 16 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Internship: Orginizational Development](https://jobright.ai/jobs/info/674e52498265abba464c2d19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
-| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Employment Services Intern, IINE Manchester](https://jobright.ai/jobs/info/67607f319a91d1d75bc7377a?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Dec 16 |
-| ↳ | **[[Summer 2025] Human Resources Intern, IINE Manchester](https://jobright.ai/jobs/info/67607c3dedbfb7eb4ecd5f00?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Dec 16 |
-| **[NEOGOV](http://www.neogov.com)** | **[Ascend Intern - Internal Communications](https://jobright.ai/jobs/info/676079c354adc52e4ab40989?utm_campaign=1054&utm_source=git)** | City of Sioux Falls, SD | On Site | Dec 16 |
-| **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Program Benefits & Administration Intern, IINE Lowell](https://jobright.ai/jobs/info/67607b14c7f3f01598e88b3d?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 16 |
-| ↳ | **[[Summer 2025] Employment Services Intern, IINE Lowell](https://jobright.ai/jobs/info/676078cc3c2278a24a6642cb?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Dec 16 |
-| ↳ | **[[Summer 2025] Human Resources Intern, IINE Boston](https://jobright.ai/jobs/info/67608ced64e1d6dea13e4302?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
-| ↳ | **[[Summer 2025] Program Benefits & Administration Intern, IINE Boston](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bc1?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
-| ↳ | **[[Summer 2025] Employment Services Intern, IINE Boston](https://jobright.ai/jobs/info/676073eccc873a43e73edb85?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
