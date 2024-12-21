@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regeneron](http://www.regeneron.com)** | **[Regeneron 2025 Summer Intern](https://jobright.ai/jobs/info/6766fe6509e0c964e39c2878?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Dec 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Clinical Site Startup & Engagement, Patient Recruitment &](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 21 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Sports (Baseball/Golf/Property Solutions)](https://jobright.ai/jobs/info/6766d9912906fc32a63ffbd6?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Basketball](https://jobright.ai/jobs/info/6766dcda82d672f3cbfd7b32?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 21 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399c13?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Basketball](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a4d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | ↳ | **[Intern, WME - Sports (Baseball/Golf/Property Solutions)](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a4f?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern SITEC 3 (Europe)](https://jobright.ai/jobs/info/67667229c41754d893366a0a?utm_campaign=1054&utm_source=git)** | Stuttgart, AR | Hybrid | Dec 20 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Staffing Summer Intern - Boston](https://jobright.ai/jobs/info/6766589522fa4a9ad09e774d?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 20 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/676649845cdf91cf57522ffe?utm_campaign=1054&utm_source=git)** | Des Plaines, IL | On Site | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Staffing Summer Intern - Rockland](https://jobright.ai/jobs/info/6766372fb5554c9f968a1182?utm_campaign=1054&utm_source=git)** | Rockland, MA | On Site | Dec 20 |
-| **[NetApp](http://netapp.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/676629b0c272fa59136eb5bb?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
 | **[Geo Owl](https://www.geoowl.com/)** | **[Talent Acquisition/HR DOD SkillBridge Internship](https://jobright.ai/jobs/info/67662bfdaae55ce1797fff69?utm_campaign=1054&utm_source=git)** | Wilmington, NC | Hybrid | Dec 20 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/67660acc2f8753201f1308da?utm_campaign=1054&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, California, United States | On Site | Dec 20 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Knowledge Management Summer Internship 2025](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3eca17?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 20 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[PCCA](http://www.pccarx.com/)** | **[Public Affairs & Human Relations Intern](https://jobright.ai/jobs/info/6760a21199e202c4ad574caf?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Specialist Intern (Spring 2025)](https://jobright.ai/jobs/info/6765e71af6406944246cdaf4?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Dec 20 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Student Extern - Human Resources](https://jobright.ai/jobs/info/6765e71af6406944246cdb50?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 20 |
-| **[Scoular](http://www.scoular.com/)** | **[Internship](https://jobright.ai/jobs/info/6765e3038e465cac3b7b1208?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 20 |
 | **[AMD](http://www.amd.com)** | **[Seeking 2025 Internship Opportunities](https://jobright.ai/jobs/info/6765ffd84d2faf67130792bc?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Dec 20 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[2025 KLUTCH Summer Internship](https://jobright.ai/jobs/info/6765e101ab58d452fdf93a6f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | ↳ | **[2025 KLUTCH Summer Internship](https://jobright.ai/jobs/info/6765e101ab58d452fdf93da9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Seattle 1L Diversity Fellowship](https://jobright.ai/jobs/info/6765a3cc20d5d417b2ed8a83?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/676591fa1e61a05e7ab35ad0?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 20 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[ICG HR Intern (Jacksonville, FL and Green Cove Springs, FL)](https://jobright.ai/jobs/info/67659804b15b298207dc1fcc?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Dec 20 |
-| **[AMD](http://www.amd.com)** | **[December 2024 US Graduates](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d0f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern, Talent Management - Spring 2025 - Franklin, TN](https://jobright.ai/jobs/info/67656713a949b3d32a477d5b?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/67656537ae31c9fafd497e4f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT, HR Intern](https://jobright.ai/jobs/info/67655e3db1d20da530b36048?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Dec 20 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Structure Tone](http://structuretone.com/)** | **[Intern](https://jobright.ai/jobs/info/6747a5a09b4663e8065e28c6?utm_campaign=1054&utm_source=git)** | Woodbridge, NJ | On Site | Dec 20 |
 | **[The RealReal](http://www.therealreal.com)** | **[People Intern  (Talent Acquisition) - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc47?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern - Natchitoches, LA](https://jobright.ai/jobs/info/676549bca805b8c5692eaf4c?utm_campaign=1054&utm_source=git)** | Natchitoches, LA | On Site | Dec 20 |
-| **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6766583d30cfca35a6f7b7b7?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | On Site | Dec 19 |
 | **[Federal Law Enforcement Training Centers](http://www.fletc.gov)** | **[Student Trainee (Human Resources)](https://jobright.ai/jobs/info/676503c8180a04fae8c239ec?utm_campaign=1054&utm_source=git)** | Brunswick, GA | On Site | Dec 19 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Senior Administrative Intern - HR](https://jobright.ai/jobs/info/676587d260d9be1023fe25a8?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Texas Southmost College](http://www.tsc.edu)** | **[Student Recruitment Specialist](https://jobright.ai/jobs/info/6764f1366947a2863db05478?utm_campaign=1054&utm_source=git)** | Brownsville, TX | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Marketing Rotation and Intern Program Manager](https://jobright.ai/jobs/info/67642a0c115f009458e110c1?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 19 |
 | ↳ | **[Sales and Marketing Rotation and Intern Program Manager](https://jobright.ai/jobs/info/67642a0c115f009458e11312?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 19 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6764186632075729dbc62b72?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Dec 19 |
-| **[TSMC](http://www.tsmc.com)** | **[[Spring Recruitment] TSMC Career Opportunities (Arizona/ California/ Texas / Washington / Canada)](https://jobright.ai/jobs/info/6766b6386f66deaa6926296b?utm_campaign=1054&utm_source=git)** | Greater Prescott, AZ Area | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
