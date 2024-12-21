@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor](http://www.endeavorco.com/)** | **[Intern, WME - Basketball](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a4d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 21 |
+| ↳ | **[Intern, WME - Sports (Baseball/Golf/Property Solutions)](https://jobright.ai/jobs/info/67669c1adfbd40990ec34a4f?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Dec 21 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern SITEC 3 (Europe)](https://jobright.ai/jobs/info/67667229c41754d893366a0a?utm_campaign=1054&utm_source=git)** | Stuttgart, AR | Hybrid | Dec 20 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67664a2d4358e4d0d045b0ce?utm_campaign=1054&utm_source=git)** | Hilton Hawaiian Village2005 Kalia Road | On Site | Dec 20 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern SITEC 3 (CONUS)](https://jobright.ai/jobs/info/67664eed14e7aa8fb2444a2f?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 20 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6765c28137c87dfe5ac0c51f?utm_campaign=1054&utm_source=git)** | 19200 W EIGHT MILE ROAD, SOUTHFIELD, MI, 48075, US | On Site | Dec 20 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Knowledge Management Summer Internship 2025](https://jobright.ai/jobs/info/6765c28137c87dfe5ac0c56e?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Field Operations Incentive Compensation Intern](https://jobright.ai/jobs/info/6765cb630789f736863d133f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
-| **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Corporate Intern ](https://jobright.ai/jobs/info/6765bf54540f349cd660f20a?utm_campaign=1054&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Dec 20 |
 | **[Juniata College](http://www.juniata.edu)** | **[Assistant Cross-Country & Track and Field Coach /Recruiting Coordinator](https://jobright.ai/jobs/info/6765dd80a428dd24202fe9e0?utm_campaign=1054&utm_source=git)** | Huntingdon, PA | On Site | Dec 20 |
 | **[Global Partners LP](http://www.globalp.com)** | **[HR Intern](https://jobright.ai/jobs/info/6765c38b19f4f1aa339d25ea?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Dec 20 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[Summer 2025 Intern - Human Resources](https://jobright.ai/jobs/info/6765aebfb68df18d3bea3a69?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Dec 20 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Seattle 1L Diversity Fellowship](https://jobright.ai/jobs/info/6765a3cc20d5d417b2ed8a83?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/676591fa1e61a05e7ab35ad0?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 20 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[ICG HR Intern (Jacksonville, FL and Green Cove Springs, FL)](https://jobright.ai/jobs/info/67659804b15b298207dc1fcc?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Dec 20 |
+| **[AMD](http://www.amd.com)** | **[December 2024 US Graduates](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d0f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern, Talent Management - Spring 2025 - Franklin, TN](https://jobright.ai/jobs/info/67656713a949b3d32a477d5b?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/67656537ae31c9fafd497e4f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT, HR Intern](https://jobright.ai/jobs/info/67655e3db1d20da530b36048?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Dec 20 |
@@ -121,10 +123,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eb12?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Human Resources (Huna Totem)](https://jobright.ai/jobs/info/6764bba662795f5ff50cc431?utm_campaign=1054&utm_source=git)** | Hoonah, AK | On Site | Dec 19 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Operations Internship](https://jobright.ai/jobs/info/6764c83c003b3d0d89d93614?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Dec 19 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILIATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6764b358de5de22bcf91babf?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILIATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6764b358de5de22bcf91bac3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d082?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Dec 19 |
 | **[University of Nebraska at Omaha](http://unomaha.edu)** | **[Graduate Assistant – Case Manager](https://jobright.ai/jobs/info/6764a4e41f56095357bbb570?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 19 |
-| **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR General Affairs Intern](https://jobright.ai/jobs/info/67649e15b126d690350ae2f3?utm_campaign=1054&utm_source=git)** | Warren, OH | On Site | Dec 19 |
 | **[California State University, Fullerton](https://linktr.ee/csufofficial)** | **[Employer Relations Associate (Student Services Professional II)](https://jobright.ai/jobs/info/67658b49563cfbd6e1a989bc?utm_campaign=1054&utm_source=git)** | Fullerton, CA | On Site | Dec 19 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[HR Omni Care Internship - January 2025](https://jobright.ai/jobs/info/67649e15b126d690350ae375?utm_campaign=1054&utm_source=git)** | Frisco, TX | On Site | Dec 19 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Worker's Compensation Claims](https://jobright.ai/jobs/info/676486e01ad0132e15515598?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 19 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales and Marketing Rotation and Intern Program Manager](https://jobright.ai/jobs/info/67642a0c115f009458e110c1?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 19 |
 | ↳ | **[Sales and Marketing Rotation and Intern Program Manager](https://jobright.ai/jobs/info/67642a0c115f009458e11312?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 19 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/6764186632075729dbc62b72?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Remote | Dec 19 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/67466e4b8d9659caa553f66f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Holland](https://jobright.ai/jobs/info/674685d6c4822ce719096317?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Dec 19 |
+| **[TSMC](http://www.tsmc.com)** | **[[Spring Recruitment] TSMC Career Opportunities (Arizona/ California/ Texas / Washington / Canada)](https://jobright.ai/jobs/info/6766b6386f66deaa6926296b?utm_campaign=1054&utm_source=git)** | Greater Prescott, AZ Area | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
