@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/676629b0c272fa59136eb5bb?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 20 |
+| **[Geo Owl](https://www.geoowl.com/)** | **[Talent Acquisition/HR DOD SkillBridge Internship](https://jobright.ai/jobs/info/67662bfdaae55ce1797fff69?utm_campaign=1054&utm_source=git)** | Wilmington, NC | Hybrid | Dec 20 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/67660acc2f8753201f1308da?utm_campaign=1054&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, California, United States | On Site | Dec 20 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Knowledge Management Summer Internship 2025](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3eca17?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 20 |
+| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67660d9c52a93b9f2e3eca05?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Dec 20 |
 | **[WM](https://www.wm.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/676602fbbdc134c63a8a5df1?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Staffing Summer Intern - Boston](https://jobright.ai/jobs/info/6765f10025e8d1d15a8205ac?utm_campaign=1054&utm_source=git)** | 1134 Washington St, Boston, MA, 02118, US | On Site | Dec 20 |
 | ↳ | **[Retail Staffing Summer Intern - Rockland](https://jobright.ai/jobs/info/6765f10025e8d1d15a820583?utm_campaign=1054&utm_source=git)** | 288 Union St, Rockland, MA, 02370, US | On Site | Dec 20 |
@@ -85,12 +90,12 @@ For a complete list, click the following sortable link below:
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/676591fa1e61a05e7ab35ad0?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 20 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[ICG HR Intern (Jacksonville, FL and Green Cove Springs, FL)](https://jobright.ai/jobs/info/67659804b15b298207dc1fcc?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Dec 20 |
 | **[AMD](http://www.amd.com)** | **[May -June 2025 US Graduate](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d04?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 20 |
-| ↳ | **[December 2024 US Graduates](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d0f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern, Talent Management - Spring 2025 - Franklin, TN](https://jobright.ai/jobs/info/67656713a949b3d32a477d5b?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/67656537ae31c9fafd497e4f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT, HR Intern](https://jobright.ai/jobs/info/67655e3db1d20da530b36048?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Dec 20 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/676599b6b4132a977e769075?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Dec 20 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/674480e4afc5dd0edb86b3b8?utm_campaign=1054&utm_source=git)** | Richfield, OH | On Site | Dec 20 |
+| **[Structure Tone](http://structuretone.com/)** | **[Intern](https://jobright.ai/jobs/info/6747a5a09b4663e8065e28c6?utm_campaign=1054&utm_source=git)** | Woodbridge, NJ | On Site | Dec 20 |
 | **[The RealReal](http://www.therealreal.com)** | **[People Intern  (Talent Acquisition) - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc47?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern - Natchitoches, LA](https://jobright.ai/jobs/info/676549bca805b8c5692eaf4c?utm_campaign=1054&utm_source=git)** | Natchitoches, LA | On Site | Dec 20 |
 | **[Federal Law Enforcement Training Centers](http://www.fletc.gov)** | **[Student Trainee (Human Resources)](https://jobright.ai/jobs/info/676503c8180a04fae8c239ec?utm_campaign=1054&utm_source=git)** | Brunswick, GA | On Site | Dec 19 |
@@ -100,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6764d9519fb77033c6858bd6?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Internship Opportunity, Executive Search - New York City](https://jobright.ai/jobs/info/6764c6b4d18324dfc2372c27?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| **[Bank of Hope](http://bankofhope.com)** | **[HR Coordinator Intern](https://jobright.ai/jobs/info/6764c14bd27ec6dcedc65c52?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Post Holdings](http://postholdings.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6764ba7881163bf7bd190259?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
 | **[Auctane](https://auctane.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6764bef01eb8fc08e6858e99?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6764c6b4d18324dfc2372da5?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Trainee (Administrative) CG-3/4/5](https://jobright.ai/jobs/info/6763e33d140bc10714420738?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[2025 Summer Intern: Corporate - Human Resources](https://jobright.ai/jobs/info/6763e7171de2dab34b8f664d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 18 |
 | ↳ | **[2025 Summer Intern: Corporate - Human Resources](https://jobright.ai/jobs/info/6763defaed6f46ffc3fa0e9a?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 18 |
-| **[AutoNation](http://autonation.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6763d96c66244d67ec6b9cb4?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 18 |
-| **[UPL](http://www.upl-ltd.com/)** | **[Business HR Internship](https://jobright.ai/jobs/info/6739a27009f9adfd40ead53e?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Dec 18 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Internship - Danvers, MA](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd2ec?utm_campaign=1054&utm_source=git)** | Danvers, MA | On Site | Dec 18 |
-| **[SEO (Sponsors for Educational Opportunity)](http://www.seo-usa.org)** | **[Career Development Advisor, Markets](https://jobright.ai/jobs/info/6733db43b62e2c2cfa04717b?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
