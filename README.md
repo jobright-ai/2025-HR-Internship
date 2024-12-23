@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Performance Data Management Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b89?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Business Insights & Analytics Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b91?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Market Research Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8b?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Market Research Intern - HHDDA](https://jobright.ai/jobs/info/6768d72ac40dd21301146b93?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Pharma Data Strategy and Governance Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b88?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern Talent Pool](https://jobright.ai/jobs/info/6768d9cbdf94409fb74cfdca?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Dec 22 |
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/676898eefa037f15b86f68f7?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Clinical Site Startup & Engagement, Patient Recruitment &](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Human Resource and Talent Management Intern](https://jobright.ai/jobs/info/6767e09ea7518ef178fdbeb4?utm_campaign=1054&utm_source=git)** | Chaska, MN | On Site | Dec 22 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6767affc1bf6cee59def7272?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 21 |
 | **[Community College of Aurora](http://www.ccaurora.edu/)** | **[Human Resources Partner](https://jobright.ai/jobs/info/676792bf160f75eca0ef8157?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Dec 21 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/67673fa00cd691df8933592f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 21 |
 | **[LanzaTech](http://www.lanzatech.com)** | **[People Intern](https://jobright.ai/jobs/info/67674a44a09fdb391c4b0945?utm_campaign=1054&utm_source=git)** | Skokie, IL | On Site | Dec 21 |
 | **[Radio Flyer](http://radioflyer.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67673fa00cd691df893358cd?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 21 |
 | **[Regeneron](http://www.regeneron.com)** | **[Regeneron 2025 Summer Intern](https://jobright.ai/jobs/info/6766fe6509e0c964e39c2878?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Dec 21 |
@@ -113,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Seattle 1L Diversity Fellowship](https://jobright.ai/jobs/info/6765a3cc20d5d417b2ed8a83?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[People & Culture Summer 2025 Intern - (Pulte Mortgage)](https://jobright.ai/jobs/info/676591fa1e61a05e7ab35ad0?utm_campaign=1054&utm_source=git)** | Denver Metropolitan Area | Hybrid | Dec 20 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[ICG HR Intern (Jacksonville, FL and Green Cove Springs, FL)](https://jobright.ai/jobs/info/67659804b15b298207dc1fcc?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Dec 20 |
-| **[AMD](http://www.amd.com)** | **[May -June 2025 US Graduate](https://jobright.ai/jobs/info/6765b86a630721dffc3e0d04?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Ultium Cells LLC](https://www.ultiumcell.com)** | **[HR General Affairs Intern](https://jobright.ai/jobs/info/676825d3a2344da6df12bb13?utm_campaign=1054&utm_source=git)** | Warren, OH | On Site | Dec 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern, Talent Management - Spring 2025 - Franklin, TN](https://jobright.ai/jobs/info/67656713a949b3d32a477d5b?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Dec 20 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/67656537ae31c9fafd497e4f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
@@ -140,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Sealaska](http://www.sealaska.com/)** | **[Shareholder Development - Intern - Human Resources (Huna Totem)](https://jobright.ai/jobs/info/6764bba662795f5ff50cc431?utm_campaign=1054&utm_source=git)** | Hoonah, AK | On Site | Dec 19 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Operations Internship](https://jobright.ai/jobs/info/6764c83c003b3d0d89d93614?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Dec 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/672c22d522899dd8921d528d?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Dec 19 |
-| **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILIATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6764b358de5de22bcf91bac3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILIATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6764b358de5de22bcf91babf?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/67649a56fcd4c27283a8d082?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Dec 19 |
 | **[University of Nebraska at Omaha](http://unomaha.edu)** | **[Graduate Assistant – Case Manager](https://jobright.ai/jobs/info/6764a4e41f56095357bbb570?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Amarillo](https://jobright.ai/jobs/info/67293da5af5e36be8d76a3ee?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Dec 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Operations Internship](https://jobright.ai/jobs/info/67646fae9d97c201e7efa056?utm_campaign=1054&utm_source=git)** | Remote (Colorado) | Remote | Dec 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Kalamazoo](https://jobright.ai/jobs/info/67468293b63c3de5cf21f2b7?utm_campaign=1054&utm_source=git)** | Kalamazoo, MI | On Site | Dec 19 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Human Resources Intern, Talent Management - Spring 2025 - Franklin, TN](https://jobright.ai/jobs/info/676468990bf5d1565fc5f6e4?utm_campaign=1054&utm_source=git)** | Franklin, Tennessee - United States of America | Hybrid | Dec 19 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Americas HR Service Center](https://jobright.ai/jobs/info/676461d1218f5899844905ec?utm_campaign=1054&utm_source=git)** | Canonsburg, PA | On Site | Dec 19 |
-| **[Skanska](http://skanska.com)** | **[2025 Summer Internship (Heavy Civil)](https://jobright.ai/jobs/info/67198c40a03f990a63422c82?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 19 |
-| **[PlushCare](http://www.plushcare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67646eb4a82c0007fef3b1ad?utm_campaign=1054&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 19 |
-| **[NEOGOV](http://www.neogov.com)** | **[HBCU Safety & Risk Management and Workers’ Compensation Unit Intern](https://jobright.ai/jobs/info/67645d6e8cd72b190f62e79a?utm_campaign=1054&utm_source=git)** | Wake County, NC | On Site | Dec 19 |
-| **[Michigan State University](http://msu.edu)** | **[Professional Aide](https://jobright.ai/jobs/info/6764a4e41f56095357bbb715?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2025 Intern](https://jobright.ai/jobs/info/66c53bc933e3d96dc7763461?utm_campaign=1054&utm_source=git)** | Columbia, NC | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
