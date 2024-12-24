@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Talent Acquisition Admin Assistant (Seasonal)](https://jobright.ai/jobs/info/676a18ccd28e90b53236ec06?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/674e0fb6f3696eca0d8f0593?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 23 |
+| **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/674c86d11fe66fea4b60f2f5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
 | **[Microbiologics](http://www.microbiologics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6769f988b58e9412cc69d8ef?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Dec 23 |
+| **[Nightingale College](https://nightingale.edu/)** | **[Recruiting Intern/Talent Acquisition (Part-time)](https://jobright.ai/jobs/info/676a12016b31bf6852400dca?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Remote | Dec 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[Compensation and HR Shared Services Internship - Summer 2025](https://jobright.ai/jobs/info/6769f6c01e52150666493c81?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 23 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Operations Staffing Intern - Spring/Summer](https://jobright.ai/jobs/info/6769ea9dc9820df451e359c7?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Dec 23 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Alumni Relations & Annual Giving-Engagement Ambassador (multiple positions to fill)](https://jobright.ai/jobs/info/6769f11e058373b622eb7729?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Dec 23 |
@@ -92,12 +96,12 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67516bca913b556684ad9575?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Dec 23 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[HR Intern](https://jobright.ai/jobs/info/6747ac708a9982adad286948?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Dec 23 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/66867a056360097fa699e921?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 23 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27d?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Business Insights & Analytics Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a23f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Business Insights & Analytics Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a23f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27d?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Strategy Realization Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a24f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a238?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a233?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768f45495509ef25cf0a254?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a233?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768f45495509ef25cf0a20f?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/6769054055210114c3d4ecca?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e0?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5df?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e3?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Business Insights and Analytics Rare Disease Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dda?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Data Science Business Analyst Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Data Science Business Analyst Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Oncology Data Strategy and Innovation Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dde?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Forecasting Capabilities and Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78ddd?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dd9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
@@ -118,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Pharma Data Strategy and Governance Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b88?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| **[BioSpace](http://www.biospace.com/)** | **[Regeneron 2025 Summer Intern](https://jobright.ai/jobs/info/676a1ca975c73be8bf6525c9?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Dec 22 |
 | **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67699238aea909bccd4f4d61?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Dec 22 |
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/676898eefa037f15b86f68f7?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Clinical Site Startup & Engagement, Patient Recruitment &](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WM](https://www.wm.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/676602fbbdc134c63a8a5df1?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 20 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Staffing Summer Intern - Boston](https://jobright.ai/jobs/info/6765f10025e8d1d15a8205ac?utm_campaign=1054&utm_source=git)** | 1134 Washington St, Boston, MA, 02118, US | On Site | Dec 20 |
 | ↳ | **[Retail Staffing Summer Intern - Rockland](https://jobright.ai/jobs/info/6765f10025e8d1d15a820583?utm_campaign=1054&utm_source=git)** | 288 Union St, Rockland, MA, 02370, US | On Site | Dec 20 |
-| **[XPO](https://www.xpo.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6765f1026e5f0c50725a8ad5?utm_campaign=1054&utm_source=git)** | Lawrenceville, GA | On Site | Dec 20 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6765f1026e5f0c50725a8b54?utm_campaign=1054&utm_source=git)** | Franklin, WI | On Site | Dec 20 |
-| **[PCCA](http://www.pccarx.com/)** | **[Public Affairs & Human Relations Intern](https://jobright.ai/jobs/info/6760a21199e202c4ad574caf?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Specialist Intern (Spring 2025)](https://jobright.ai/jobs/info/6765e71af6406944246cdaf4?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Dec 20 |
-| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Student Extern - Human Resources](https://jobright.ai/jobs/info/6765e71af6406944246cdb50?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
