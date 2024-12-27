@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Pennsylvania)](https://jobright.ai/jobs/info/6751d2fc769592cf26829b5d?utm_campaign=1054&utm_source=git)** | Paradise, PA | On Site | Dec 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Danbury, CT](https://jobright.ai/jobs/info/676e6b4e6bb0d426b1db6a62?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | Dec 26 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Specialist Intern (Spring 2025)](https://jobright.ai/jobs/info/676e2a82ec977db967a2e022?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Dec 26 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[HR Internship - Spring 2025](https://jobright.ai/jobs/info/676e24b7cf9953e7d8039713?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Dec 26 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Analytics Internship](https://jobright.ai/jobs/info/676ddfc41ddf428ee566de4a?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Dec 26 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/676dd6b48de2235e5396721f?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Dec 26 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Nurse Case Manager](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dad83?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
-| **[FEG Investment Advisors](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dad4f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
+| **[FEG Investment Advisors ](http://www.feg.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dad4f?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Analytics Internship](https://jobright.ai/jobs/info/676da3a164c7b39ab8f0394c?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Dec 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern to Intern conversion only- Pension outsourcing Internship- Spring 2025](https://jobright.ai/jobs/info/676d83b003c5db4e0108ebbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b81bcbef4d0d02447785f?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL INTERNSHIP DEVELOPMENT CORPORATE STRATEGIC PLANNING](https://jobright.ai/jobs/info/66da42cf1f6b031ec57c93ff?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[City of Mountain View](http://mountainview.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b7bf1d01af3d6c4924d13?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Human Resources (Full-Time)](https://jobright.ai/jobs/info/676a3707863d720902c9d331?utm_campaign=1054&utm_source=git)** | Branson, MO | On Site | Dec 23 |
-| **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Talent Acquisition Admin Assistant (Seasonal)](https://jobright.ai/jobs/info/676a18ccd28e90b53236ec06?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
+| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Talent Acquisition Admin Assistant (Seasonal)](https://jobright.ai/jobs/info/676a18ccd28e90b53236ec06?utm_campaign=1054&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
 | **[ChampionX](https://www.championx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66db7ef734482f517983a5f6?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Dec 23 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/674e0fb6f3696eca0d8f0593?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 23 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/674c86d11fe66fea4b60f2f5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6769a878f0469ca0d38a970a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 23 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/6769ae629fd3a4d58f9ab865?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | On Site | Dec 23 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/67699238aea909bccd4f4d57?utm_campaign=1054&utm_source=git)** | South Carolina, United States | Hybrid | Dec 23 |
-| **[Lumbermen's Inc.](http://lumbermens-inc.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6769aab57a3f72f95600e004?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
 | **[Moody's Corporation](www.moodys.com)** | **[Employee Communications Internship](https://jobright.ai/jobs/info/676978f813de130954e36998?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Intern - Employee Benefits](https://jobright.ai/jobs/info/6769782d114a386d267efe7d?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 23 |
 | ↳ | **[Employee Benefits - Intern](https://jobright.ai/jobs/info/676970103d723cde2d5a6130?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
@@ -135,19 +135,19 @@ For a complete list, click the following sortable link below:
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/66867a056360097fa699e921?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 23 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Business Insights & Analytics Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a23f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Strategy Realization Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a24f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27d?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a238?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768f45495509ef25cf0a254?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a233?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27d?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768f45495509ef25cf0a20f?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a233?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768f45495509ef25cf0a254?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/6769054055210114c3d4ecca?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e0?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Strategy Realization Intern](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e5?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5df?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e3?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Business Insights and Analytics Rare Disease Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dda?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Business Analyst Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Forecasting Capabilities and Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78ddd?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Oncology Data Strategy and Innovation Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dde?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dd9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
