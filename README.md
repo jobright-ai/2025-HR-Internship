@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Recreation)/Seasonal Employment](https://jobright.ai/jobs/info/676e1939ce6777f4b6dc6e8e?utm_campaign=1054&utm_source=git)** | Chautauqua, NY | On Site | Dec 26 |
+| **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/676e0a1a41299871972ecac5?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Dec 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverCommerce - People Analytics Internship](https://jobright.ai/jobs/info/676ddfc41ddf428ee566de4a?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Dec 26 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/676dd6b48de2235e5396721f?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Dec 26 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Nurse Case Manager](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dad83?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
@@ -76,13 +78,13 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - NA Demand Generation Support](https://jobright.ai/jobs/info/6763c3553ae881bc1b3da60a?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 25 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Underwriting Summer Internship Program - Farmington](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d89f3?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Dec 24 |
 | **[Vectra AI](https://vectra.ai/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/676b9ca94b9d8f292b870bf3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
+| **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[HR, Human Resources Internship (Multifamily Housing Industry) (Spring or Summer 2025)](https://jobright.ai/jobs/info/676e1f45248dd5acab4c19e8?utm_campaign=1054&utm_source=git)** | Franktown, CO | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4658?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Diversity & Inclusion](https://jobright.ai/jobs/info/676b407c54236f5277b72eb4?utm_campaign=1054&utm_source=git)** | Morristown, NJ | Remote | Dec 24 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[Advisor, Intern Programs & Events](https://jobright.ai/jobs/info/676b2a7ea961e2e129279045?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad3?utm_campaign=1054&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b1ebf089183105d2de6aa?utm_campaign=1054&utm_source=git)** | Plainville, CT | On Site | Dec 24 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Diversity & Inclusion](https://jobright.ai/jobs/info/676b0b2e50a2d75b508671ea?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
-| ↳ | **[Intern - Talent Development & Enterprise Learning](https://jobright.ai/jobs/info/676b2ac369245ad150af1d6e?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Development & Enterprise Learning](https://jobright.ai/jobs/info/676b2ac369245ad150af1d6e?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2025 Internship Program Opportunities](https://jobright.ai/jobs/info/676adc6dbbba7a7591979033?utm_campaign=1054&utm_source=git)** | Franklin, OH | On Site | Dec 24 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/676ac9d958164cc77ab5aab7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Dec 24 |
 | **[PrizePicks](https://app.prizepicks.com/sign-up?invite_code=PR-GPG7ZCL)** | **[Internal Communications Specialist](https://jobright.ai/jobs/info/672cfb7408629ca3cc360be8?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 24 |
@@ -131,11 +133,11 @@ For a complete list, click the following sortable link below:
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/66867a056360097fa699e921?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Dec 23 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Business Insights & Analytics Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a23f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Strategy Realization Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a24f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a238?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27d?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/6768f45495509ef25cf0a238?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Market Research Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a233?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768f45495509ef25cf0a20f?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data & Analytics Intern - Data Solutions](https://jobright.ai/jobs/info/6768f45495509ef25cf0a254?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768f45495509ef25cf0a20f?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/6769054055210114c3d4ecca?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Pipeline Analytics Intern - HIV](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e0?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Strategy Realization Intern](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e5?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 University Recruiting - Business Insights and Analytics Rare Disease Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dda?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Business Analyst Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
-| ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dd9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Oncology Data Strategy and Innovation Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dde?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
+| ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78dd9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Forecasting Capabilities and Data Science Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78ddd?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Transformation & Change Management Delivery Intern](https://jobright.ai/jobs/info/67690303fb8fece3e45d39fa?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Performance Data Management Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b89?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Pharma Data Strategy and Governance Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b88?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Data Science Intern](https://jobright.ai/jobs/info/6768d72ac40dd21301146b8c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 22 |
-| **[BioSpace](http://www.biospace.com/)** | **[Regeneron 2025 Summer Intern](https://jobright.ai/jobs/info/676a1ca975c73be8bf6525c9?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Dec 22 |
-| **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67699238aea909bccd4f4d61?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
