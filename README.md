@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILIATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/67707bae571751265be171f6?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 28 |
 | **[PBMares, LLP](http://pbmares.com)** | **[Human Resources Intern- Summer 2025](https://jobright.ai/jobs/info/66e0a673fec6cad6f585b187?utm_campaign=1054&utm_source=git)** | Newport News, VA | Hybrid | Dec 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/675bf92f6a4f8dcbcaafb257?utm_campaign=1054&utm_source=git)** | Layton, UT | On Site | Dec 28 |
 | ↳ | **[DoD SkillBridge Internship Application (Texas)](https://jobright.ai/jobs/info/6752c5e2b232437059babde3?utm_campaign=1054&utm_source=git)** | Rockport, TX | On Site | Dec 28 |
@@ -66,9 +67,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4bd?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4be?utm_campaign=1054&utm_source=git)** | United, LA | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4bf?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c2?utm_campaign=1054&utm_source=git)** | Indiana, United States | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c1?utm_campaign=1054&utm_source=git)** | Illinois, United States | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c0?utm_campaign=1054&utm_source=git)** | Kentucky, United States | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c2?utm_campaign=1054&utm_source=git)** | Indiana, United States | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c3?utm_campaign=1054&utm_source=git)** | Oklahoma, United States | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676fa4a1362a6db40cfaf4c4?utm_campaign=1054&utm_source=git)** | South Carolina, United States | On Site | Dec 27 |
 | **[Litmus](http://litmus.com)** | **[Join our talent community](https://jobright.ai/jobs/info/676f82e3cec4b163ef6c047a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Dec 27 |
@@ -76,19 +77,19 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Wisconsin)](https://jobright.ai/jobs/info/676f7f609c6e458410026ad1?utm_campaign=1054&utm_source=git)** | Greenwood, WI | On Site | Dec 27 |
 | **[RYNO Strategic Solutions, LLC](https://rynoss.com)** | **[General Talent Pipeline](https://jobright.ai/jobs/info/676f43ade175c1911da96a44?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Human Resources](https://jobright.ai/jobs/info/676f2dda4a44bca53ad1e976?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Dec 27 |
-| **[Humana](http://www.humana.com)** | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf206538891?utm_campaign=1054&utm_source=git)** | Remote Wisconsin | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d2?utm_campaign=1054&utm_source=git)** | Remote Ohio | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d5?utm_campaign=1054&utm_source=git)** | Remote South Carolina | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d3?utm_campaign=1054&utm_source=git)** | Remote Illinois | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d6?utm_campaign=1054&utm_source=git)** | Remote Indiana | On Site | Dec 27 |
+| **[Humana](http://www.humana.com)** | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d5?utm_campaign=1054&utm_source=git)** | Remote South Carolina | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d8?utm_campaign=1054&utm_source=git)** | Remote Oklahoma | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d1?utm_campaign=1054&utm_source=git)** | Remote Kentucky | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d4?utm_campaign=1054&utm_source=git)** | Remote Louisiana | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d6?utm_campaign=1054&utm_source=git)** | Remote Indiana | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d1?utm_campaign=1054&utm_source=git)** | Remote Kentucky | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf206538891?utm_campaign=1054&utm_source=git)** | Remote Wisconsin | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d2?utm_campaign=1054&utm_source=git)** | Remote Ohio | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d3?utm_campaign=1054&utm_source=git)** | Remote Illinois | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/676f1d19a9d3fdf2065388d7?utm_campaign=1054&utm_source=git)** | Remote Florida | On Site | Dec 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a88?utm_campaign=1054&utm_source=git)** | Montevideo, MN | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Wyoming)](https://jobright.ai/jobs/info/675ba8d778fe11db0cad9261?utm_campaign=1054&utm_source=git)** | Cody, WY | On Site | Dec 27 |
-| ↳ | **[DoD SkillBridge Internship Application (Wisconsin)](https://jobright.ai/jobs/info/6752c5e2b232437059babde4?utm_campaign=1054&utm_source=git)** | Germantown, WI | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6752c5e2b232437059babde7?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Dec 27 |
+| ↳ | **[DoD SkillBridge Internship Application (Wisconsin)](https://jobright.ai/jobs/info/6752c5e2b232437059babde4?utm_campaign=1054&utm_source=git)** | Germantown, WI | On Site | Dec 27 |
 | ↳ | **[DoD SkillBridge Internship Application (Iowa)](https://jobright.ai/jobs/info/6752c5e2b232437059babe22?utm_campaign=1054&utm_source=git)** | Iowa Falls, IA | On Site | Dec 27 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[People & Culture (HR) Intern - Clique Hospitality](https://jobright.ai/jobs/info/676f0f6645c6f289f6a678a3?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Dec 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2025](https://jobright.ai/jobs/info/6735cbe941a171c9e68d8908?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Dec 27 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[Advisor, Intern Programs & Events](https://jobright.ai/jobs/info/676b2a7ea961e2e129279045?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad3?utm_campaign=1054&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Loureiro Engineering Associates, Inc.](http://www.Loureiro.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/676b1ebf089183105d2de6aa?utm_campaign=1054&utm_source=git)** | Plainville, CT | On Site | Dec 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/674e79dde6a5b665f02e0991?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Dec 24 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2025 Internship Program Opportunities](https://jobright.ai/jobs/info/676adc6dbbba7a7591979033?utm_campaign=1054&utm_source=git)** | Franklin, OH | On Site | Dec 24 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/676ac9d958164cc77ab5aab7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Dec 24 |
 | **[PrizePicks](https://app.prizepicks.com/sign-up?invite_code=PR-GPG7ZCL)** | **[Internal Communications Specialist](https://jobright.ai/jobs/info/672cfb7408629ca3cc360be8?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ChampionX](https://www.championx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/66db7ef734482f517983a5f6?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Dec 23 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/674e0fb6f3696eca0d8f0593?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 23 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/674c86d11fe66fea4b60f2f5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
-| **[AssuredPartners](https://www.assuredpartners.com)** | **[Employee Benefits Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/672e9d81ea67f2e5905aa417?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 23 |
-| **[Microbiologics](http://www.microbiologics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6769f988b58e9412cc69d8ef?utm_campaign=1054&utm_source=git)** | St Cloud, MN | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
