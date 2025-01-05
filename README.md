@@ -99,23 +99,24 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2025] Employee Experience Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af28fce?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | ↳ | **[[Summer 2025] Total Rewards Internship](https://jobright.ai/jobs/info/6778a265bcaf60756af29006?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/6778862a853e83ad6ca5fa12?utm_campaign=1054&utm_source=git)** | Danville, VA, United States | On Site | Jan 03 |
+| **[Camping World](http://www.campingworld.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/67501fa4ad315bb3b9bfb26f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 03 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67787f2ff890158c9c1268b4?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | **[FINRA](http://www.finra.org)** | **[Human Resources Internships - Graduate and Undergraduate](https://jobright.ai/jobs/info/677884182274cb9baaf8da85?utm_campaign=1054&utm_source=git)** | Rockville, MD | Hybrid | Jan 03 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern 2025 SITEC 3 (CONUS)](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd6a5?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jan 03 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d859?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85b?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d861?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d858?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d804?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85a?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 03 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d857?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 03 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85f?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 03 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d862?utm_campaign=1054&utm_source=git)** | Kansas City, MO | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d804?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d858?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d863?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85a?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85e?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 03 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 03 |
-| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d861?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d863?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d859?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85b?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 03 |
 | ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d860?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Jan 03 |
+| ↳ | **[Summer Internship](https://jobright.ai/jobs/info/67786fd79ccd6c44a204d85d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Talent Acquisition Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c126812?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern 2025 SITEC 3 (Pacific)](https://jobright.ai/jobs/info/67787b8235304a2158b436e9?utm_campaign=1054&utm_source=git)** | Smith, IN | On Site | Jan 03 |
 | **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Food and Beverage Staffing Intern- Spring/Summer](https://jobright.ai/jobs/info/67787a514cffab6a1b900941?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BrandStar](http://www.brandstar.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/6778196b18bc3811042aaf1e?utm_campaign=1054&utm_source=git)** | Deerfield Beach, FL | On Site | Jan 03 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[HR Student Office Assistant](https://jobright.ai/jobs/info/6778196b18bc3811042aaf1c?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Jan 03 |
 | **[Faith Technologies](http://www.faithtechnologies.com)** | **[HR Intern - Talent Acquisition](https://jobright.ai/jobs/info/677843f4bef9047dd92a2a7e?utm_campaign=1054&utm_source=git)** | Menasha, WI | On Site | Jan 03 |
-| **[Vesuvius](http://www.vesuvius.com/)** | **[HR Intern](https://jobright.ai/jobs/info/677831079a60e2e8d5135107?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
