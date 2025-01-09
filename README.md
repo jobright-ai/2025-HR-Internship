@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Talent Acquisition, Industrial](https://jobright.ai/jobs/info/677fc0131b4f3f51f4d9dd8e?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jan 09 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Spring Intern - Human Resources](https://jobright.ai/jobs/info/677fa5e84fa8f5280e297695?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jan 09 |
+| **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/677fac85566cd8920f796972?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jan 09 |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Human Resources, Learning & Development, and Office Services](https://jobright.ai/jobs/info/677fbf0f7975d4e1ee38f784?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Jan 09 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Data Science Business Analyst Intern](https://jobright.ai/jobs/info/6768e4f227c28cd7c7c78de1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 08 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Admissions Student Recruiter/Tour Guide](https://jobright.ai/jobs/info/677f4a704e89e251ead2002a?utm_campaign=1054&utm_source=git)** | Berklee College of Music - Boston | On Site | Jan 08 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[HRIS Intern](https://jobright.ai/jobs/info/677f4c3951c3d305aca9e9cb?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Jan 08 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[HR Intern x2](https://jobright.ai/jobs/info/677f3e054eb85c2a87796f98?utm_campaign=1054&utm_source=git)** | Red Dog Mine, AK | Hybrid | Jan 08 |
@@ -65,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Human Resources, Learning & Development, and Office Services](https://jobright.ai/jobs/info/677f304001a758a0a68b6ed6?utm_campaign=1054&utm_source=git)** | San Mateo, California, United States | On Site | Jan 08 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/677f2fa333336373bf18f145?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | Jan 08 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[HR Compliance & Employee Relations Intern Summer 2025](https://jobright.ai/jobs/info/677f26018ad0a3c6bed1f4d2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
+| **[University of Pennsylvania](http://www.upenn.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67787f2ff890158c9c1268b4?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 | **[Zscaler](https://www.zscaler.com)** | **[Employee Engagement Communications Intern - People & Culture (HR)](https://jobright.ai/jobs/info/677f1428bc51ea562dd5bf86?utm_campaign=1054&utm_source=git)** | San Jose, California, United States | On Site | Jan 08 |
 | ↳ | **[Employee Engagement Communications Intern - People & Culture (HR)](https://jobright.ai/jobs/info/677f1cdf01f3754e61adc7df?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Employee Experience Capabilities](https://jobright.ai/jobs/info/677f0c25ac2a9e3337acfbc9?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 08 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Drury Hotels](http://www.druryhotels.com)** | **[Hospitality Summer Intern](https://jobright.ai/jobs/info/677ecc5b3fb27c2abea905d7?utm_campaign=1054&utm_source=git)** | 160 State Farm Parkway, Birmingham, AL 35209 | On Site | Jan 08 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern](https://jobright.ai/jobs/info/677ed31123a6c81cfa00f33a?utm_campaign=1054&utm_source=git)** | Gainesville, FL | Hybrid | Jan 08 |
 | **[Bosch](http://www.bosch.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/677ec91325adaa9e5a703014?utm_campaign=1054&utm_source=git)** | 15000 Haggerty Rd, Plymouth, MI 48170, USA | On Site | Jan 08 |
-| **[Gypsum Management and Supply](http://www.gms.com/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/677f587aed9abe223e765f7f?utm_campaign=1054&utm_source=git)** | Tucker, GA | On Site | Jan 08 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Human Resources - Diversity and Inclusion](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee943?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 08 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Binghamton](https://jobright.ai/jobs/info/66e420d25186d990fe6aed2a?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Jan 08 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Human Resources - Compensation and Benefits](https://jobright.ai/jobs/info/677ebefa347e1ce446878b82?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 08 |
@@ -101,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[STANDOUT - Human Resources Emerging Leaders Camp](https://jobright.ai/jobs/info/677e9a6947dea2363003e2ec?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jan 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/677e96a545d951b43e8350b9?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 08 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/677e931e4d0537f22b6b1164?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 08 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems (Spring  2025)](https://jobright.ai/jobs/info/677d3fb336741b082c34f134?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jan 08 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677e7531dbad72822198c53e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Summer Internship Program](https://jobright.ai/jobs/info/677e76c14e4eb700d471ff80?utm_campaign=1054&utm_source=git)** | Greater Billings Area | On Site | Jan 08 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/6761de5ddf0b8d5afc225bdf?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 08 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/677dc44fd013d5748650e28d?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jan 07 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Employee Experience, Engagement & Wellbeing](https://jobright.ai/jobs/info/677de2a6085cd6f7f416a43c?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 07 |
 | ↳ | **[Intern, Employee Experience, Engagement & Wellbeing](https://jobright.ai/jobs/info/677dc41346b16e0d9a6bbc7d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 07 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c358?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Jan 07 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Philadelphia, PA](https://jobright.ai/jobs/info/677dd81f3eb9c6d049648fb4?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 07 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/677dbc345b7415515c0a0703?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Jan 07 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Human Resources - Digital, Data & IT](https://jobright.ai/jobs/info/677db839efa1091c08848399?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | ↳ | **[Internship - Incentives and Compensation Insights Analysis](https://jobright.ai/jobs/info/677dbd8ff3efbd68212f7874?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | ↳ | **[Internship - Human Resources - Talent Management](https://jobright.ai/jobs/info/677dbd8ff3efbd68212f7828?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 07 |
 | **[ORAU](https://www.orau.org/)** | **[DEIA Intern](https://jobright.ai/jobs/info/677dc6cf90954611917e9ae9?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | Hybrid | Jan 07 |
-| **[Aerosonic](https://www.aerosonic.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/677dc1ce9eee636397610820?utm_campaign=1054&utm_source=git)** | Clearwater, FL | On Site | Jan 07 |
-| **[Warner Music Group](http://www.wmg.com)** | **[Spring 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
-| **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/677dbf6b58dc3e9d2e2a4f33?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Jan 07 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/6752c5e2b232437059babdf2?utm_campaign=1054&utm_source=git)** | Windsor, CO | On Site | Jan 07 |
-| **[Chewy](https://www.chewy.com)** | **[HRBP Intern](https://jobright.ai/jobs/info/677da984a21f444aca192f86?utm_campaign=1054&utm_source=git)** | Belton, MO | On Site | Jan 07 |
-| ↳ | **[HRBP Intern](https://jobright.ai/jobs/info/677da984a21f444aca192fa0?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 07 |
-| ↳ | **[HRBP Intern](https://jobright.ai/jobs/info/677da984a21f444aca192f43?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
