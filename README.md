@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Human Resources - Operations and Strategic Projects](https://jobright.ai/jobs/info/6782a607b950c9bb99317fdd?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Human Resources - Diversity and Inclusion](https://jobright.ai/jobs/info/6782a607b950c9bb9931801c?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Employee Experience Capabilities](https://jobright.ai/jobs/info/6782933fc94f4f5a9ffdb0b8?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
+| **[PCCA](http://www.pccarx.com/)** | **[Public Affairs & Human Relations Intern](https://jobright.ai/jobs/info/6760a21199e202c4ad574caf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Ally](http://www.allycf.com)** | **[Summer 2025 Internship - Risk](https://jobright.ai/jobs/info/67825d9c6d64cbf683e51f50?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jan 11 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Part-Time, HR Intern](https://jobright.ai/jobs/info/67655e3db1d20da530b36048?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Jan 11 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/67825c30373b3d8b74036b27?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 11 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leadership Development Intern](https://jobright.ai/jobs/info/6781bf4049e85fd67ed681e7?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 10 |
 | **[Aya Healthcare](https://www.ayahealthcare.com)** | **[Permanent Staff Administrative RN job in Charlottesville, VA - Make $36 to $57/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efe6?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Corvallis, OR - Make $1/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efea?utm_campaign=1054&utm_source=git)** | Corvallis, OR | On Site | Jan 10 |
+| ↳ | **[Permanent Staff Administrative RN job in Fort Lauderdale, FL - Make $31 to $45/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8f037?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Charlottesville, VA - Make $38 to $61/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efef?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Maryville, IL - Make $30 to $52/hour](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2d5?utm_campaign=1054&utm_source=git)** | Maryville, IL | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Cardiac Stress Testing RN job in Charlottesville, VA - Make $38 to $50/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8eff2?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/67810a851802a17d07e001db?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 10 |
 | **[Uline](http://www.uline.com)** | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762ba403bfe29485ae40867?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/674c8dda5bc19f60d3121856?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| **[Skanska](http://skanska.com)** | **[2025 Summer Internship (Heavy Civil)](https://jobright.ai/jobs/info/66c552f0308e79c9bcc145bd?utm_campaign=1054&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 10 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern - Little Rock Metro](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c353?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
