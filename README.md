@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/678301c6e245bf8582bc63d3?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
+| **[Hilcorp](http://www.hilcorp.com)** | **[I-2568 Human Resources - Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9758?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Jan 11 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Volunteer Coordinator Intern, IINE Boston](https://jobright.ai/jobs/info/6782aa6311328bc4a26ab1f7?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Human Resources - Compensation and Benefits](https://jobright.ai/jobs/info/6782c496ddf20e20b8a5a021?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Human Resources - Operations and Strategic Projects](https://jobright.ai/jobs/info/6782a607b950c9bb99317fdd?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Human Resources - Diversity and Inclusion](https://jobright.ai/jobs/info/6782a607b950c9bb9931801c?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Employee Experience Capabilities](https://jobright.ai/jobs/info/6782933fc94f4f5a9ffdb0b8?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | **[Ally](http://www.allycf.com)** | **[Summer 2025 Internship - Risk](https://jobright.ai/jobs/info/67825d9c6d64cbf683e51f50?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jan 11 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Part-Time, HR Intern](https://jobright.ai/jobs/info/67655e3db1d20da530b36048?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Jan 11 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/67825c30373b3d8b74036b27?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 11 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6782446195a57c0d6b7e465b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Jan 11 |
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[ATS & Onboarding Systems Intern](https://jobright.ai/jobs/info/6782368e85acbf16976e0f92?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Jan 11 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Leadership Development Intern](https://jobright.ai/jobs/info/6781bf4049e85fd67ed681e7?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Jan 10 |
 | **[Aya Healthcare](https://www.ayahealthcare.com)** | **[Permanent Staff Administrative RN job in Charlottesville, VA - Make $36 to $57/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efe6?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Corvallis, OR - Make $1/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efea?utm_campaign=1054&utm_source=git)** | Corvallis, OR | On Site | Jan 10 |
-| ↳ | **[Permanent Staff Administrative RN job in Fort Lauderdale, FL - Make $31 to $45/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8f037?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Charlottesville, VA - Make $38 to $61/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8efef?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Administrative RN job in Maryville, IL - Make $30 to $52/hour](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f2d5?utm_campaign=1054&utm_source=git)** | Maryville, IL | On Site | Jan 10 |
 | ↳ | **[Permanent Staff Cardiac Stress Testing RN job in Charlottesville, VA - Make $38 to $50/hour](https://jobright.ai/jobs/info/6781db2cea0e47a286e8eff2?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jan 10 |
@@ -99,10 +101,15 @@ For a complete list, click the following sortable link below:
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Employee Benefits Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e8a6?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Jan 10 |
 | **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/6781b1df84b707759e45e575?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Jan 10 |
 | **[The RMR Group](http://www.rmrgroup.com/)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/6781a0ee84ffa38208618b46?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Jan 10 |
+| **[KFC](https://global.kfc.com/)** | **[Join Our Talent Pool!](https://jobright.ai/jobs/info/66eaf6a18abef43f3eeb058d?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
 | **[People Incorporated](https://peopleincfr.org/)** | **[Internship](https://jobright.ai/jobs/info/6781aa5fa579baa35f01726e?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Jan 10 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/672c22d522899dd8921d528d?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jan 10 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67819cc6218265a08db178c8?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Jan 10 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6781a69c8022d38cfb063a0b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Operator Recruitment](https://jobright.ai/jobs/info/6733e342ebd5e951cc742afe?utm_campaign=1054&utm_source=git)** | Emeryville, CA | Hybrid | Jan 10 |
 | **[allnex](http://allnex.com)** | **[HR Intern](https://jobright.ai/jobs/info/6781a6ee1e1cf31a3b9f44fe?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Jan 10 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[People Analytics (HR) Intern (Summer 2025) - Greenville, SC](https://jobright.ai/jobs/info/6710277783c70d117f65808f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Jan 10 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b66b223d491c0e24dbc4a?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/6781af443319a2e1673c9b44?utm_campaign=1054&utm_source=git)** | Garden City, KS | On Site | Jan 10 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - US Commercial Operations Internship](https://jobright.ai/jobs/info/6781ad202042b81de84f6fd5?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Jan 10 |
 | ↳ | **[2025 University Recruiting - Global Marketing - Beef Solutions (6-month Co-Op)](https://jobright.ai/jobs/info/67819074ce8a46cd10474cca?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Jan 10 |
@@ -116,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Operations/METROLift](https://jobright.ai/jobs/info/67818025b626cc1b733228b3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Georgia Southern University](http://www.georgiasouthern.edu)** | **[Work Study Student - Human Resources - Front Desk Assistant (Spring 2025)](https://jobright.ai/jobs/info/67818a8500b8f514b4fe0759?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Jan 10 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2025 - IMA Financial](https://jobright.ai/jobs/info/678171709465b2502404aac3?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 10 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/6752c5e2b232437059babde5?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/67818f7bf83f99b126091ae5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
 | ↳ | **[Spring Intern, Employee Engagement](https://jobright.ai/jobs/info/67818f7bf83f99b126091ae7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/678164c960e5929536971f64?utm_campaign=1054&utm_source=git)** | 600 Kawneer Drive, Springdale, AR, 72764, US | On Site | Jan 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/674c8dda5bc19f60d3121856?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Skanska](http://skanska.com)** | **[2025 Summer Internship (Heavy Civil)](https://jobright.ai/jobs/info/66c552f0308e79c9bcc145bd?utm_campaign=1054&utm_source=git)** | Jurupa Valley, CA | On Site | Jan 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern - Little Rock Metro](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c353?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 10 |
-| **[O'Melveny & Myers LLP](http://www.omm.com)** | **[2025 1L Coleman Fellowship](https://jobright.ai/jobs/info/6757c595da61b76353e985fe?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Georgia)](https://jobright.ai/jobs/info/6780e597c1e0d0cca2126797?utm_campaign=1054&utm_source=git)** | Garden City, GA | On Site | Jan 10 |
-| **[Rio Tinto](http://www.riotinto.com)** | **[Intern - L&D](https://jobright.ai/jobs/info/67822af35e690e3aa215989a?utm_campaign=1054&utm_source=git)** | Superior, AZ | On Site | Jan 09 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Engineer, HR Technology](https://jobright.ai/jobs/info/6780d81064d58f9ea96117f9?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Jan 09 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/6780e69d6a88f4d7ce317f07?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 09 |
-| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/6780e69d6a88f4d7ce318048?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 09 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Workforce Planning Analytics - 2025 Summer Intern](https://jobright.ai/jobs/info/6780b435046104e6789974a3?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Jan 09 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Employee Experience Intern (Summer 2025)](https://jobright.ai/jobs/info/6780a6b6db23b9c2bc14f861?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
