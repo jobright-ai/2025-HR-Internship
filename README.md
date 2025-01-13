@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Acquisition Operations Intern](https://jobright.ai/jobs/info/6783888b7917ec9703c47966?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Jan 12 |
 | **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Organization & Talent Development Intern](https://jobright.ai/jobs/info/67803199494396bc3dbd6c72?utm_campaign=1054&utm_source=git)** | Hiram, OH | On Site | Jan 12 |
 | **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Summer 2025 Tax Internship](https://jobright.ai/jobs/info/6783888b7917ec9703c4794e?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677caa774e38575917c1f1e2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 11 |
-| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 11 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 11 |
+| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677caa774e38575917c1f1e2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 11 |
 | ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe09b2?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Jan 11 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Solutions Graduate Intern](https://jobright.ai/jobs/info/67836dcab20bfbd1e834b06f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/678301c6e245bf8582bc63d3?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/67821869df4ab20619144abe?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/672d7de8c25c4f26a7df89e4?utm_campaign=1054&utm_source=git)** | New Rochelle, NY | On Site | Jan 10 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Global Marketing - Beef Solutions (6-month Co-Op)](https://jobright.ai/jobs/info/678212b4e0db9713672ff606?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 10 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1022)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7ddc?utm_campaign=1054&utm_source=git)** | Palmer, MA | On Site | Jan 10 |
-| ↳ | **[Safety Intern (Req #: 1014)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7dc7?utm_campaign=1054&utm_source=git)** | Pleasant Valley, NY | On Site | Jan 10 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Safety Intern (Req #: 1014)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7dc7?utm_campaign=1054&utm_source=git)** | Pleasant Valley, NY | On Site | Jan 10 |
+| ↳ | **[Estimating Intern (Req #: 1022)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7ddc?utm_campaign=1054&utm_source=git)** | Palmer, MA | On Site | Jan 10 |
 | ↳ | **[Safety Intern (Req #: 1015)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7dda?utm_campaign=1054&utm_source=git)** | Athens, NY | On Site | Jan 10 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources Field Support](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542d1b?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Jan 10 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a47?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 10 |
@@ -108,6 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfe8?utm_campaign=1054&utm_source=git)** | Langhorne, PA | On Site | Jan 10 |
 | **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542c4a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 | **[Activision](https://www.activision.com/)** | **[2024 Summer Intern Conversions](https://jobright.ai/jobs/info/6781d3351bfdfdbb2ae16494?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Jan 10 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67358b26966432d5c593a4b0?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Jan 10 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Human Resources](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f48a?utm_campaign=1054&utm_source=git)** | Columbus, MS | On Site | Jan 10 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Leadership Development Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f558?utm_campaign=1054&utm_source=git)** | Remote NE | Hybrid | Jan 10 |
 | ↳ | **[Leadership Development Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f6dd?utm_campaign=1054&utm_source=git)** | Omaha NE | Hybrid | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Incentives and Compensation Insights Analysis](https://jobright.ai/jobs/info/678141580cba5bc01e4ca9d4?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
 | ↳ | **[Internship - Human Resources - Digital, Data & IT](https://jobright.ai/jobs/info/67815d8f13d73abd0356098d?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
 | ↳ | **[Internship - Human Resources - Talent Management](https://jobright.ai/jobs/info/67815d8f13d73abd0356097f?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/672443cd7f8b2a8d36983447?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
