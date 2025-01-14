@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship- Greater Columbus](https://jobright.ai/jobs/info/6785c952cb29b49eafc33309?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jan 13 |
+| ↳ | **[Summer 2025 Management Trainee Intern SRQ Sarasot Airport](https://jobright.ai/jobs/info/6785c952cb29b49eafc33232?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jan 13 |
+| ↳ | **[Management Trainee Intern Summer 2025](https://jobright.ai/jobs/info/6785c952cb29b49eafc33283?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Jan 13 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6785c3118dcb770df20629f0?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 13 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Midwest Region 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c0e?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
+| ↳ | **[Safety Internship Program - Washington, DC and Virginia Beach, VA 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c5d?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Jan 13 |
+| ↳ | **[Safety Internship Program - Louisville, KY 2024-2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c1a?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 13 |
+| **[Lamar University](http://www.lamar.edu/)** | **[FWS Student Assistant – Human Resources](https://jobright.ai/jobs/info/6785be7e27c916c0f842c9c5?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Jan 13 |
+| **[Citizant](https://citizant.com)** | **[SkillBridge Internship: Human Resources - 100% Remote (REF1735W)**](https://jobright.ai/jobs/info/6785b1af06b3a83b0c8ad0c4?utm_campaign=1054&utm_source=git)** | VA-28, Chantilly, VA, USA | Remote | Jan 13 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6785af97fdb824d239bfb335?utm_campaign=1054&utm_source=git)** | Santa Clara | On Site | Jan 13 |
+| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 13th through Feb. 28, 2025 only!](https://jobright.ai/jobs/info/6785b2fe3df7ff8fd893176b?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jan 13 |
 | **[Marsh McLennan](http://www.mmc.com/)** | **[Executive Benefits and Compensation Summer Intern- Louisville Kentucky- College Program 2025](https://jobright.ai/jobs/info/678596d5346ff8e82a3d4d46?utm_campaign=1054&utm_source=git)** | Louisville - West Market | Hybrid | Jan 13 |
 | **[Beautiful.ai](https://www.beautiful.ai)** | **[People Operations Coordinator](https://jobright.ai/jobs/info/67644c648960e70a61c2bc44?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 13 |
 | **[UBS](https://www.ubs.com)** | **[2025 Tomorrow’s Talent Program – Asset Management Insights Day](https://jobright.ai/jobs/info/67859cf3c3d8186b668b2a8a?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jan 13 |
@@ -74,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, HR Business Partners](https://jobright.ai/jobs/info/6785580c3ede4c93816ae8a4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 13 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/677118046b8644af9c44e0a4?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 13 |
 | **[Cartier](http://www.cartier.com)** | **[HR Data Analytics Intern](https://jobright.ai/jobs/info/67854d43d21f5b159baf2e55?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
+| **[Brunello Cucinelli](http://www.brunellocucinelli.com/en/)** | **[Solomeo Talent Academy](https://jobright.ai/jobs/info/6762e5233c9396404eff203c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 13 |
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67854648ac2dd1dfa5b6e9e5?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Jan 13 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[HR Enablement Intern - Summer 2025](https://jobright.ai/jobs/info/678543ce8dca791d7b484954?utm_campaign=1054&utm_source=git)** | Atlanta GA | On Site | Jan 13 |
 | ↳ | **[Workplace Experience Intern - Summer 2025](https://jobright.ai/jobs/info/678543ce8dca791d7b484961?utm_campaign=1054&utm_source=git)** | Atlanta GA | On Site | Jan 13 |
@@ -123,10 +135,9 @@ For a complete list, click the following sortable link below:
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[2025 Summer Internship Program](https://jobright.ai/jobs/info/67838a6459a679614b8d03d9?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Jan 12 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Talent Acquisition Operations Intern](https://jobright.ai/jobs/info/678393463989599cf080f05f?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Jan 12 |
 | **[Great Lakes Cheese](http://www.greatlakescheese.com)** | **[Organization & Talent Development Intern](https://jobright.ai/jobs/info/67803199494396bc3dbd6c72?utm_campaign=1054&utm_source=git)** | Hiram, OH | On Site | Jan 12 |
-| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Summer 2025 Tax Internship](https://jobright.ai/jobs/info/6783888b7917ec9703c4794e?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677caa774e38575917c1f1e2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 11 |
-| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 11 |
-| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe09b2?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Jan 11 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/67838a6459a679614b8d045b?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Jan 12 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677c7fc5d850e747aabe08dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 11 |
+| ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677caa774e38575917c1f1e2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 11 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Solutions Graduate Intern](https://jobright.ai/jobs/info/67836dcab20bfbd1e834b06f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Workforce Development](https://jobright.ai/jobs/info/678301c6e245bf8582bc63d3?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Jan 11 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, People and Culture](https://jobright.ai/jobs/info/67804796db07aa0f3ce4d6fd?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jan 11 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Internship - Human Resource](https://jobright.ai/jobs/info/678221d4fbfb9886b601065b?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jan 10 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Human Resources Intern - Leadership Development - Louisville, KY](https://jobright.ai/jobs/info/674d1be653413169b0842453?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/67821869df4ab20619144abe?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Global Marketing - Beef Solutions (6-month Co-Op)](https://jobright.ai/jobs/info/678212b4e0db9713672ff606?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 10 |
-| **[Peckham Industries, Inc.](http://peckham.com)** | **[Estimating Intern (Req #: 1022)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7ddc?utm_campaign=1054&utm_source=git)** | Palmer, MA | On Site | Jan 10 |
-| ↳ | **[Safety Intern (Req #: 1015)](https://jobright.ai/jobs/info/6781fa91710886a62f4f7dda?utm_campaign=1054&utm_source=git)** | Athens, NY | On Site | Jan 10 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources Field Support](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542d1b?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Jan 10 |
-| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a47?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 10 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781fa91710886a62f4f7f00?utm_campaign=1054&utm_source=git)** | Springfield, PA | On Site | Jan 10 |
-| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781fa91710886a62f4f7f0b?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Jan 10 |
-| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfbf?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | On Site | Jan 10 |
-| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781e781ef69c8b14442cab3?utm_campaign=1054&utm_source=git)** | Abington, PA | On Site | Jan 10 |
-| ↳ | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6781e66aef69c8b14442bfe8?utm_campaign=1054&utm_source=git)** | Langhorne, PA | On Site | Jan 10 |
-| **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Human Resources](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542c4a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
