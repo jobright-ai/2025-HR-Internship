@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Specialist - Temporary, Hourly, INTERNAL ONLY RECRUITMENT](https://jobright.ai/jobs/info/678780f16c8aad98ef9e9588?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Jan 14 |
+| **[Heidelberg University](http://www.heidelberg.edu)** | **[Assistant Director of Transfer, Graduate, and International Admission](https://jobright.ai/jobs/info/67876c77f680067e82cf739c?utm_campaign=1054&utm_source=git)** | Tiffin, OH | On Site | Jan 14 |
+| **[Gulf Copper and Manufacturing](http://gulfcopper.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67876b11f680067e82cf6cfb?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Jan 14 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Summer 2025)](https://jobright.ai/jobs/info/678735e7409e258690bd6c16?utm_campaign=1054&utm_source=git)** | Draper, Utah | On Site | Jan 14 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Iowa)](https://jobright.ai/jobs/info/678727e651ba95ce6ba2b8cd?utm_campaign=1054&utm_source=git)** | Iowa Falls, IA | On Site | Jan 14 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/6787206c5fd6de8e14772a62?utm_campaign=1054&utm_source=git)** | Rochester, NH | Hybrid | Jan 14 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Intern](https://jobright.ai/jobs/info/67871b7c8646aa928544eeef?utm_campaign=1054&utm_source=git)** | West Orange, NJ | Hybrid | Jan 14 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/67871b7c8646aa928544eed1?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Jan 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/67872e67aa7b3854899e243f?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Jan 14 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/67872e67aa7b3854899e2441?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Jan 14 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/67872e67aa7b3854899e2442?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jan 14 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/678738c465f18e8873d1ba31?utm_campaign=1054&utm_source=git)** | Martinsburg, WV | On Site | Jan 14 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Assistant - Summer 2025](https://jobright.ai/jobs/info/678710aa82a495158be72e17?utm_campaign=1054&utm_source=git)** | Loves Park, IL | On Site | Jan 14 |
 | ↳ | **[HR Assistant - Summer 2025](https://jobright.ai/jobs/info/678708ff67595eaa780a839c?utm_campaign=1054&utm_source=git)** | Loves Park, IL | On Site | Jan 14 |
 | **[AMBA](https://amba.info)** | **[AMBA 2025 Internship Opportunities](https://jobright.ai/jobs/info/6786ff62f76c0a5f09925a1a?utm_campaign=1054&utm_source=git)** | Austin, Phoenix,  Salt Lake City, Urbandale, IA, USA | Hybrid | Jan 14 |
@@ -95,12 +103,14 @@ For a complete list, click the following sortable link below:
 | **[EOG Resources](http://www.eogresources.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67868d4fc7368f895722faf7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 14 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Human Resources Intern (Summer 2025)](https://jobright.ai/jobs/info/67181c82dd3b144bfc93047d?utm_campaign=1054&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Mental Health Counselor- Licensed/Registered Intern (AFSP) - Bilingual Required](https://jobright.ai/jobs/info/67864d9308ff26ece8ffbd37?utm_campaign=1054&utm_source=git)** | Napa, CA | On Site | Jan 14 |
+| **[Intel Corporation](http://www.intel.com)** | **[Business HR Internship](https://jobright.ai/jobs/info/66cdc5273048b53896b896d0?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jan 14 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[ICG HR Intern](https://jobright.ai/jobs/info/67659804b15b298207dc1fcc?utm_campaign=1054&utm_source=git)** | Metro Jacksonville | On Site | Jan 14 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf5d?utm_campaign=1054&utm_source=git)** | Brainerd, MN | On Site | Jan 14 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67651a99450c5edacefc22bd?utm_campaign=1054&utm_source=git)** | Tullahoma, TN | On Site | Jan 14 |
 | ↳ | **[DoD SkillBridge Internship Application (Texas)](https://jobright.ai/jobs/info/6752fc4785ba71ad4af7f9f1?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Jan 14 |
 | ↳ | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/6752c5e2b232437059babe15?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Jan 14 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2025 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/67463ef0c7ee6e3d2b78f7ec?utm_campaign=1054&utm_source=git)** | Richland, WA | Hybrid | Jan 14 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Talent Acquisition Internship - Summer 2025](https://jobright.ai/jobs/info/675099231d709c23fbe59704?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Jan 14 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Internship - Portsmouth, NH](https://jobright.ai/jobs/info/676393e351c652cce3c95313?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Jan 14 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/672ae182045e5b6940687262?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Jan 14 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2025](https://jobright.ai/jobs/info/67863bff6c6bc72c2c080892?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Jan 14 |
@@ -108,12 +118,14 @@ For a complete list, click the following sortable link below:
 | **[Hipcamp](http://www.hipcamp.com)** | **[Join Our Talent Pool!](https://jobright.ai/jobs/info/678637436660e6e64e63c160?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/678614876886ca6e43e76a36?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | On Site | Jan 13 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6786106b2c0dd251ddabf7c7?utm_campaign=1054&utm_source=git)** | Alaska, United States | On Site | Jan 13 |
+| **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6758d65cba7fe80510aaa06a?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jan 13 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Talent Acquisition](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7776?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Summer 2025 Clinical Wellbeing Intern](https://jobright.ai/jobs/info/6785fb58a1266341a55a6815?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 13 |
 | **[WeRide](https://www.weride.ai)** | **[HR Intern](https://jobright.ai/jobs/info/6785ebc1994c85533e6747e6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 13 |
 | **[Atwell, LLC](https://www.atwell-group.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/6785f659540079ebea2c6d12?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Jan 13 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Intern 2025 - Employee Relations](https://jobright.ai/jobs/info/6785e17071b7e269e611a144?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 13 |
 | ↳ | **[Summer Intern 2025 - Workforce Planning, Store Operations](https://jobright.ai/jobs/info/6785e17071b7e269e611a14d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jan 13 |
+| **[Uline](http://www.uline.com)** | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762dc80facab55967b8b3cd?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Jan 13 |
 | **[Sempra](http://www.sempra.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/6785e17071b7e269e611a122?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Jan 13 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6785e10ead3793e32eefdce5?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
 | ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6785e10ead3793e32eefdbe9?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
@@ -122,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern SRQ Sarasot Airport](https://jobright.ai/jobs/info/6785c952cb29b49eafc33232?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jan 13 |
 | ↳ | **[Management Trainee Intern Summer 2025](https://jobright.ai/jobs/info/6785c952cb29b49eafc33283?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Jan 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6785c3118dcb770df20629f0?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Jan 13 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Midwest Region 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c0e?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
-| ↳ | **[Safety Internship Program - Washington, DC and Virginia Beach, VA 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c5d?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Jan 13 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Washington, DC and Virginia Beach, VA 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c5d?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Jan 13 |
+| ↳ | **[Safety Internship Program - Midwest Region 2024 - 2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c0e?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jan 13 |
 | ↳ | **[Safety Internship Program - Louisville, KY 2024-2025](https://jobright.ai/jobs/info/6785c169d4458b21b2341c1a?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jan 13 |
 | **[Lamar University](http://www.lamar.edu/)** | **[FWS Student Assistant – Human Resources](https://jobright.ai/jobs/info/6785be7e27c916c0f842c9c5?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Jan 13 |
 | **[Citizant](https://citizant.com)** | **[SkillBridge Internship: Human Resources - 100% Remote (REF1735W)**](https://jobright.ai/jobs/info/6785b1af06b3a83b0c8ad0c4?utm_campaign=1054&utm_source=git)** | VA-28, Chantilly, VA, USA | Remote | Jan 13 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/67859413c7eee4021e8aed16?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jan 13 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[People Technology Intern](https://jobright.ai/jobs/info/6774d94cccfe6b659fdf28a6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 13 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, HR Business Partners](https://jobright.ai/jobs/info/6785580c3ede4c93816ae8a4?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 13 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/677118046b8644af9c44e0a4?utm_campaign=1054&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 13 |
-| **[Cartier](http://www.cartier.com)** | **[HR Data Analytics Intern](https://jobright.ai/jobs/info/67854d43d21f5b159baf2e55?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
-| **[Brunello Cucinelli](http://www.brunellocucinelli.com/en/)** | **[Solomeo Talent Academy](https://jobright.ai/jobs/info/6762e5233c9396404eff203c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| **[Bel](https://www.groupe-bel.com/)** | **[Human Resources Internship: Orginizational Development](https://jobright.ai/jobs/info/674e52498265abba464c2d19?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Jan 13 |
-| **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67854648ac2dd1dfa5b6e9e5?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Jan 13 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Workplace Experience Intern - Summer 2025](https://jobright.ai/jobs/info/678543ce8dca791d7b484961?utm_campaign=1054&utm_source=git)** | Atlanta GA | On Site | Jan 13 |
-| ↳ | **[HR Enablement Intern - Summer 2025](https://jobright.ai/jobs/info/678543ce8dca791d7b484954?utm_campaign=1054&utm_source=git)** | Atlanta GA | On Site | Jan 13 |
-| **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - People Analytics](https://jobright.ai/jobs/info/6785401fe14f063b49a38c46?utm_campaign=1054&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 13 |
-| ↳ | **[2025 Summer Internship Program - People Analytics](https://jobright.ai/jobs/info/678541c084dc6896a0dd19e5?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jan 13 |
-| **[NEOGOV](http://www.neogov.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67853d8fbe13a3736726d177?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Jan 13 |
-| **[UBS](https://www.ubs.com)** | **[2025 Tomorrow’s Talent Program – Global Markets Insights Day](https://jobright.ai/jobs/info/67853b59d7ee53276bf990e5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 13 |
-| ↳ | **[2025 Tomorrow’s Talent Program – Equity Research Insights Day](https://jobright.ai/jobs/info/67853b59d7ee53276bf990e3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
