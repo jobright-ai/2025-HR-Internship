@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SetPoint Medical](http://www.setpointmedical.com)** | **[Internship/Co-Op Opportunities](https://jobright.ai/jobs/info/678c32510019a0c0f1a81ed7?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jan 18 |
 | **[AdventHealth University](http://www.ahu.edu/)** | **[Student Worker, HR Office, AHU, PRN](https://jobright.ai/jobs/info/678bf2c7530ab76e7ec2bd87?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 18 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Student Worker, HR Office, AHU, PRN](https://jobright.ai/jobs/info/678bf6dba258dc34b112634d?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 18 |
 | **[D.A. Collins Family of Companies](http://dacollins.com)** | **[Future Employment Opportunities](https://jobright.ai/jobs/info/678bb06977a8119c0081d945?utm_campaign=1054&utm_source=git)** | Wilton, NY | On Site | Jan 18 |
@@ -103,13 +104,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/678accf5c065c1ead5f74f0e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/678ac4cf1e564f59b35ca603?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jan 17 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Internship Summer 2025](https://jobright.ai/jobs/info/678ac55f2ebe47a6694fe680?utm_campaign=1054&utm_source=git)** | Herndon, VA | On Site | Jan 17 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/677caa774e38575917c1f1e2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jan 17 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Human Resources HRBP Programs](https://jobright.ai/jobs/info/678ab226955e8ef6f9d45361?utm_campaign=1054&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Jan 17 |
 | ↳ | **[F.I.T. Intern Human Resources DEI/TM](https://jobright.ai/jobs/info/678ab226955e8ef6f9d45373?utm_campaign=1054&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Jan 17 |
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Human Resources Internship Summer 2025](https://jobright.ai/jobs/info/678aefd941240f32e1254524?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI | On Site | Jan 17 |
 | **[Continental](https://www.continental.com)** | **[ESH Internship - Summer](https://jobright.ai/jobs/info/678aa71f6f4d376b3ae4ef5b?utm_campaign=1054&utm_source=git)** | 160 Aldora St, Barnesville, GA 30204, USA | On Site | Jan 17 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Research and Development Sourcing and Procurement Co-op](https://jobright.ai/jobs/info/678aaefb49093b65cb3dc0e6?utm_campaign=1054&utm_source=git)** | West Point, PA | Hybrid | Jan 17 |
-| ↳ | **[2025 University Recruiting - Research Laboratories Communications Intern](https://jobright.ai/jobs/info/678aa9ce38441d83de661b9e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 17 |
 | ↳ | **[2025 University Recruitment - Global Supplier Management Group- Procurement Strategic Operations Co-Op](https://jobright.ai/jobs/info/678aa9ce38441d83de661b94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 17 |
+| ↳ | **[2025 University Recruiting - Research Laboratories Communications Intern](https://jobright.ai/jobs/info/678aa9ce38441d83de661b9e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 17 |
 | **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Summer 2025 Human Resources Information Systems Intern](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c1f2d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Shared Services Center - Payroll)](https://jobright.ai/jobs/info/678aa0907e7a43dab407cb15?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Jan 17 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[People Technology Intern](https://jobright.ai/jobs/info/6774d94cccfe6b659fdf28a6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Graduate Student Recruitment & Admissions Coordinator, Self-Support Programs](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0cabd?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Jan 16 |
 | **[Mainstay Life Services](https://mainstaylifeservices.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/678b6955caf09692ceb221be?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Jan 16 |
 | **[Munich Re](https://www.munichre.com)** | **[DEI and CSR Intern](https://jobright.ai/jobs/info/6789bed16b5b0fabddb9f26d?utm_campaign=1054&utm_source=git)** | Princeton, NJ | On Site | Jan 16 |
-| **[Trackonomy](https://trackonomysystems.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6789c8afbb29aba916d1761f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
-| **[RHA Health Services, LLC](https://rhahealthservices.org/)** | **[Clinical Mental Health Intern](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0cb22?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
