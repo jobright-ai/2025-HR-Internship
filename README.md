@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stantec](http://www.stantec.com)** | **[Intern, Talent Acquisition](https://jobright.ai/jobs/info/678fa02c21dd0327b054db44?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jan 21 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Human Resources Internship (12 Month Term)](https://jobright.ai/jobs/info/678f8814766d6644bb311984?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Nurse Case Manager](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dad83?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 | **[ONEOK](http://www.oneok.com)** | **[Intern - Field](https://jobright.ai/jobs/info/678f5ebe22600e616f6e231c?utm_campaign=1054&utm_source=git)** | Medford, NY | On Site | Jan 21 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rosen College Hospitality Intern Opportunities](https://jobright.ai/jobs/info/678f6598ba57b20fd0fb9d27?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/678f4a9cdd981f79710440c5?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Jan 20 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Provider Recruitment](https://jobright.ai/jobs/info/678e45e98222eb78ad7562cd?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Jan 20 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a83?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Jan 20 |
 | **[ORAU](https://www.orau.org/)** | **[DEIA Intern](https://jobright.ai/jobs/info/678e44922316300ad4789f8a?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | Hybrid | Jan 20 |
+| **[Price Industries](https://www.priceindustries.com)** | **[Internship - Fall 24' / Spring 25' - Human Resource Administrator](https://jobright.ai/jobs/info/674f19965d1ce5fe0dd74ba9?utm_campaign=1054&utm_source=git)** | Winder, GA | On Site | Jan 20 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/673c01715079f8d820378e37?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jan 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Internship - TA, Recruiting, and Training](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1c1c?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Jan 20 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/6752c5e2b232437059babe01?utm_campaign=1054&utm_source=git)** | Queen Creek, AZ | On Site | Jan 20 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship/ Human Resources 2025](https://jobright.ai/jobs/info/678b1d7902fd787705518b6a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Recruiting, HBCU Pathways Internship](https://jobright.ai/jobs/info/674e520890521cb6c1e5f526?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | **[Abt Global](http://www.abtassociates.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69c19?utm_campaign=1054&utm_source=git)** | Durham, NC | Remote | Jan 17 |
-| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/678b0fd82f4fee8e35a6a5a8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jan 17 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/678b0fd82f4fee8e35a6a5a7?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Jan 17 |
+| ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/678b0fd82f4fee8e35a6a5a8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Jan 17 |
 | ↳ | **[Learning and Development Intern](https://jobright.ai/jobs/info/678b0fd82f4fee8e35a6a5a9?utm_campaign=1054&utm_source=git)** | Rockville, MD | Remote | Jan 17 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69bad?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Jan 17 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Employment & Taxation Coordinator](https://jobright.ai/jobs/info/678afe0d6437822261e95181?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 17 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Human Resources Internship Summer 2025](https://jobright.ai/jobs/info/678aefd941240f32e1254524?utm_campaign=1054&utm_source=git)** | Wisconsin Dells, WI | On Site | Jan 17 |
 | **[Continental](https://www.continental.com)** | **[ESH Internship - Summer](https://jobright.ai/jobs/info/678aa71f6f4d376b3ae4ef5b?utm_campaign=1054&utm_source=git)** | 160 Aldora St, Barnesville, GA 30204, USA | On Site | Jan 17 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Research and Development Sourcing and Procurement Co-op](https://jobright.ai/jobs/info/678aaefb49093b65cb3dc0e6?utm_campaign=1054&utm_source=git)** | West Point, PA | Hybrid | Jan 17 |
-| ↳ | **[2025 University Recruitment - Global Supplier Management Group- Procurement Strategic Operations Co-Op](https://jobright.ai/jobs/info/678aa9ce38441d83de661b94?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 17 |
 | ↳ | **[2025 University Recruiting - Research Laboratories Communications Intern](https://jobright.ai/jobs/info/678aa9ce38441d83de661b9e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jan 17 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Summer 2025 Human Resources Information Systems Intern](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c1f2d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Shared Services Center - Payroll)](https://jobright.ai/jobs/info/678aa0907e7a43dab407cb15?utm_campaign=1054&utm_source=git)** | Vienna, VA, United States | On Site | Jan 17 |
-| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Research Laboratories Communications Intern](https://jobright.ai/jobs/info/678a92b8edc2670de0628080?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
