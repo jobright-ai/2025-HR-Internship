@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MRC Global](http://www.mrcglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6792434d4468d984f1870163?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 23 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[People and Culture Intern, Spring 2025](https://jobright.ai/jobs/info/67923d79b1444cbdde538a84?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Jan 23 |
+| **[Amazon](https://amazon.com)** | **[2025 HR Generalist Intern](https://jobright.ai/jobs/info/679213659c2b2bda4173d794?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
+| **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, Learning to Work (LTW), Manhattan](https://jobright.ai/jobs/info/67921944070ef840223b424b?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jan 23 |
+| **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/67921944070ef840223b426b?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jan 23 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/67921422ab4e61bdb52aef4c?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jan 23 |
+| ↳ | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/67921422ab4e61bdb52aef57?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jan 23 |
+| **[Kurt J. Lesker Company](http://lesker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67920d76b7d99d82de0ff0ba?utm_campaign=1054&utm_source=git)** | Clairton, PA | On Site | Jan 22 |
 | **[Aptima](http://aptima.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6792069e95f91a6d0f554890?utm_campaign=1054&utm_source=git)** | Woburn, MA | On Site | Jan 22 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/6791dc753811f9aa219a119a?utm_campaign=1054&utm_source=git)** | AUSTIN, Texas | On Site | Jan 22 |
-| ↳ | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/6791dc753811f9aa219a1193?utm_campaign=1054&utm_source=git)** | Sparks, Nevada | On Site | Jan 22 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/6791dc753811f9aa219a1193?utm_campaign=1054&utm_source=git)** | Sparks, Nevada | On Site | Jan 22 |
+| ↳ | **[Internship, Recruiting (Summer 2025)](https://jobright.ai/jobs/info/6791dc753811f9aa219a119a?utm_campaign=1054&utm_source=git)** | AUSTIN, Texas | On Site | Jan 22 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/6791d7684c80cf3c3d1d5543?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Jan 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Workforce Development Volunteer](https://jobright.ai/jobs/info/6791d7684c80cf3c3d1d4f83?utm_campaign=1054&utm_source=git)** | Glendale, CA | On Site | Jan 22 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Corporate HR Benefits Intern](https://jobright.ai/jobs/info/6791c18b7cd0e97f030a8040?utm_campaign=1054&utm_source=git)** | Fairfield County, CT | Hybrid | Jan 22 |
@@ -80,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship-Salem, OR](https://jobright.ai/jobs/info/6791ae97205b2d6e6bb3739c?utm_campaign=1054&utm_source=git)** | Salem, OR | On Site | Jan 22 |
 | **[Tolmar](http://tolmar.com)** | **[Intern - HR](https://jobright.ai/jobs/info/6791c844da14e71efe852a0d?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Jan 22 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Sophomore Actuarial Mentorship Program](https://jobright.ai/jobs/info/674200d1533e4c8240ebf9d2?utm_campaign=1054&utm_source=git)** | Missouri, United States | Remote | Jan 22 |
+| **[Kurt J. Lesker Company](http://lesker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6792284b27fa636b772eb066?utm_campaign=1054&utm_source=git)** | Jefferson, PA | On Site | Jan 22 |
 | **[Power Integrations](https://www.power.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6791977b88811196958f8662?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[Amazon](https://amazon.com)** | **[2025 HR Generalist Intern](https://jobright.ai/jobs/info/67918b45c5e696f083b0eb10?utm_campaign=1054&utm_source=git)** | Seattle, Washington, USA | On Site | Jan 22 |
 | **[The National Bank of Indianapolis](https://www.nbofi.com/)** | **[Summer Internship 2025](https://jobright.ai/jobs/info/6791c9f6da14e71efe8531b6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 22 |
@@ -112,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Emera Maine](https://versantpower.com/)** | **[2025 Internship Program General Application](https://jobright.ai/jobs/info/67916161f423193ea2838218?utm_campaign=1054&utm_source=git)** | Bangor, ME | On Site | Jan 22 |
 | **[Formlabs](http://www.formlabs.com)** | **[Workplace Experience Intern (Summer 2025) ](https://jobright.ai/jobs/info/6791551d4159a4243531dab9?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Jan 22 |
 | **[Snyk](https://snyk.io)** | **[People Co-op](https://jobright.ai/jobs/info/6791551d4159a4243531da8d?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Jan 22 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/6791583432551cdb503de7c2?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 22 |
-| ↳ | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/6791583432551cdb503de7af?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 22 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/6791583432551cdb503de7af?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jan 22 |
+| ↳ | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/6791583432551cdb503de7c2?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 22 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Traverse City](https://jobright.ai/jobs/info/6791583432551cdb503de7fe?utm_campaign=1054&utm_source=git)** | Traverse City, MI | On Site | Jan 22 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[People Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6791ddeff83d5fecda5d1908?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Jan 22 |
 | **[MRC Global](http://www.mrcglobal.com)** | **[Summer Intern- Human Resources](https://jobright.ai/jobs/info/67914798599983d89b89fdd6?utm_campaign=1054&utm_source=git)** | TX,HSTN HQ;012A HQ | On Site | Jan 22 |
@@ -123,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Aptima](http://aptima.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67913b0df48b7b325daa0bea?utm_campaign=1054&utm_source=git)** | WOBURN, MA, USA | On Site | Jan 22 |
 | **[Arkansas Blue Cross and Blue Shield](http://www.arkansasbluecross.com)** | **[Summer Intern HR Compensation and Benefits](https://jobright.ai/jobs/info/67914173d61fe8e922305330?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jan 22 |
 | **[Voya Financial](https://www.voya.com/)** | **[Social Impact and Inclusion Reporting and Engagement Intern](https://jobright.ai/jobs/info/6791377c9da5eb622cef4a16?utm_campaign=1054&utm_source=git)** | United States-Remote | Remote | Jan 22 |
-| **[BASF](http://www.basf.com)** | **[2025 Summer Internship - Learning & Development/ HR - Geismar, LA](https://jobright.ai/jobs/info/6791e4347f3f253557b0476b?utm_campaign=1054&utm_source=git)** | Geismar, LA | Hybrid | Jan 22 |
 | **[Family Residences and Essential Enterprises, Inc. (FREE)](https://www.familyres.org/)** | **[Intern](https://jobright.ai/jobs/info/67911cae2326ba502d4e5e70?utm_campaign=1054&utm_source=git)** | Oakdale, NY | On Site | Jan 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/675bf92f6a4f8dcbcaafb257?utm_campaign=1054&utm_source=git)** | Layton, UT | On Site | Jan 22 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/66d117bd972be3ce72d51d2e?utm_campaign=1054&utm_source=git)** | Saukville, WI | On Site | Jan 22 |
@@ -136,6 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Intern Dallas](https://jobright.ai/jobs/info/66ec6aa128a0a481358610fd?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jan 22 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a275?utm_campaign=1054&utm_source=git)** | Salem, OH | Hybrid | Jan 22 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c9426515b65f9bb830a278?utm_campaign=1054&utm_source=git)** | Neenah, WI | Hybrid | Jan 22 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/675d15852ccde1c9801fdcaf?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Jan 22 |
+| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Summer 2025 Human Resources Information Systems Intern](https://jobright.ai/jobs/info/678ab6bfbcd21d0af91c1f2d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Research and Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/67909625f6f9d7b36a6827d1?utm_campaign=1054&utm_source=git)** | West Point, PA | Hybrid | Jan 21 |
 | **[NEOGOV](http://www.neogov.com)** | **[Summer Internship Opportunities - Columbia, SC - Paid](https://jobright.ai/jobs/info/679094a13a95d15521d34968?utm_campaign=1054&utm_source=git)** | Richland County, SC | Hybrid | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Health & Welfare Benefits Intern](https://jobright.ai/jobs/info/679080c676881c4ee4193fbd?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://flex.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67904bdc08240df23e82a6d5?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[GOBankingRates](http://www.consumertrack.com)** | **[People Analytics Intern (100% Remote)](https://jobright.ai/jobs/info/67905e5e842c40e854deed03?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jan 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[2025 Summer Internship - People Team](https://jobright.ai/jobs/info/67905e5e842c40e854deedde?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
-| **[SRAM](https://www.sram.com/en/quarq)** | **[Human Resources Internship](https://jobright.ai/jobs/info/679047b7cd7768d7ed830cd8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Safety Internship Program - Ashville, NC 2024 - 2025](https://jobright.ai/jobs/info/6790540fb6937f05d44a4859?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Jan 21 |
-| **[PSA BDP](http://www.bdpinternational.com/)** | **[TED Intern](https://jobright.ai/jobs/info/679044e7305e0cf8aa8178f3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Jan 21 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/679042b4b221b05435cdfcb5?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jan 21 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Program Intern, People and Culture](https://jobright.ai/jobs/info/67903cb30e4c05facb5a5b46?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jan 21 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2025 Spring Internship - Human Resources - Talent Development](https://jobright.ai/jobs/info/67902b7379d50788a42cbd50?utm_campaign=1054&utm_source=git)** | Phoenix, AZ USA 85004-2121 | On Site | Jan 21 |
-| **[Fortrea](https://www.fortrea.com)** | **[Global Rewards Intern](https://jobright.ai/jobs/info/67902b7379d50788a42cbd3b?utm_campaign=1054&utm_source=git)** | Durham NC | On Site | Jan 21 |
-| **[Baker Group](http://thebakergroup.com)** | **[Intern - HR Talent Acquisition](https://jobright.ai/jobs/info/679038765d97fc1dbf7f7a60?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Jan 21 |
-| **[Extra Space Storage](http://www.extraspace.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/67902bc155f6971375289852?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
-| **[GOBankingRates](http://www.consumertrack.com)** | **[People Analytics Intern (100% Remote)](https://jobright.ai/jobs/info/67901ccc52e143626865f2d5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
