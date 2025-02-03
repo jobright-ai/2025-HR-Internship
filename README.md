@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Android Industries](http://www.android-ind.com/)** | **[Team Member Relations Intern](https://jobright.ai/jobs/info/67a0394359663c8c5d433818?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 02 |
 | **[Balchem Corporation](http://balchem.com)** | **[HR Intern](https://jobright.ai/jobs/info/679ff675903a2fcf684a311c?utm_campaign=1054&utm_source=git)** | Montvale, NJ | On Site | Feb 02 |
 | **[Midwest BankCentre](http://www.midwestbankcentre.com)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/679fec81e822b27b07cbfa16?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/679fd2ba31aec714ea6e70de?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Feb 02 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/679faeba2a90834ba235790b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Feb 02 |
 | ↳ | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/679fa5e7563fe292db374e4b?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Feb 02 |
+| **[Novelis](http://novelis.com)** | **[Global HR System Analyst Intern](https://jobright.ai/jobs/info/67a02e4c0e49233202714076?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Human Resources - Summer 2025 - New York](https://jobright.ai/jobs/info/6789c8afbb29aba916d1745f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Grand Hotel](http://www.grandhotel.com)** | **[Seasonal/Intern/Summer Employment 2025- College Recruiting](https://jobright.ai/jobs/info/679ea69898e3b51a41fdf796?utm_campaign=1054&utm_source=git)** | Mackinac Island, MI | On Site | Feb 01 |
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Payroll Intern](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a4135?utm_campaign=1054&utm_source=git)** | Centennial, CO | On Site | Feb 01 |
@@ -89,11 +91,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0082e9?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Jan 31 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern 24-25 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/679d84ba1465a01d0f39e0de?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Jan 31 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0086b1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 31 |
-| ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00837a?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e008375?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
+| ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00837a?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jan 31 |
 | ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e00836e?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
-| ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0086b2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e008365?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
+| ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0086b2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | ↳ | **[Intern, Entry Level Recruiting](https://jobright.ai/jobs/info/679d8e0cfb70aafac7ccab06?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[PAID Business College Internship, PN 20079736](https://jobright.ai/jobs/info/679d7423b552082da72d3ca4?utm_campaign=1054&utm_source=git)** | Hamilton County, OH | On Site | Jan 31 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[International Employment & Taxation Coordinator](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9b47?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Jan 31 |
@@ -118,18 +120,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UCLA ITE Career Fair](https://jobright.ai/jobs/info/679d57b9acf37c2ab6d40d34?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | ↳ | **[UCLA ITE Career Fair](https://jobright.ai/jobs/info/679d57b9acf37c2ab6d40d35?utm_campaign=1054&utm_source=git)** | Riverside, CA | On Site | Jan 31 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Human Resources Summer Intern (Remote/Hybrid)](https://jobright.ai/jobs/info/679d3f292b41d95c68e3baff?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Jan 31 |
-| **[Davenport University](http://www.davenport.edu/)** | **[HR Payroll and Work Study Site Intern - copy](https://jobright.ai/jobs/info/679d4672959d2712b230ac0f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jan 31 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d70d096badb40019c95fd?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Jan 31 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern Talent Pool](https://jobright.ai/jobs/info/679d536d59a5d6568d6eef2e?utm_campaign=1054&utm_source=git)** | Nevada, United States | Remote | Jan 31 |
 | **[Public Company Accounting Oversight Board (PCAOB)](https://pcaobus.org)** | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d14?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d16?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d6520a7522eddbcb66d17?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f60fa?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6383?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6381?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6383?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f638c?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f6390?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jan 31 |
 | ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f638a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
-| ↳ | **[Fall 2025 Human Resources Intern](https://jobright.ai/jobs/info/679d4224657c8876743f638c?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jan 31 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Human Resources / Omni Care Intern- Spring 2025 (April Start)](https://jobright.ai/jobs/info/679d4224657c8876743f614d?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jan 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/679d3424e65c3946b3264ac6?utm_campaign=1054&utm_source=git)** | Millsboro, DE | On Site | Jan 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern- Central and Western NJ](https://jobright.ai/jobs/info/679d2fc137ceb576ab10c968?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/679db8a1c9d71e2ba9b93a4e?utm_campaign=1054&utm_source=git)** | Great Mills, MD | On Site | Jan 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Amarillo](https://jobright.ai/jobs/info/67293da5af5e36be8d76a3ee?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Jan 31 |
 | ↳ | **[Management Trainee Intern - Clarksburg, WV](https://jobright.ai/jobs/info/6762dc80facab55967b8b1fd?utm_campaign=1054&utm_source=git)** | Clarksburg, WV | On Site | Jan 31 |
-| **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/679cadff9ea7d773cf694fa2?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
