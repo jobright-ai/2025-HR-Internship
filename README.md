@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank Independent](http://bibank.com)** | **[Internship](https://jobright.ai/jobs/info/67a2128b64ed233b0112246d?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Feb 04 |
+| **[SageSure](https://www.sagesure.com/)** | **[Intern - Claims Administrator](https://jobright.ai/jobs/info/677ef9d4e0336989ef57e032?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Feb 04 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b572?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Feb 04 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b57e?utm_campaign=1054&utm_source=git)** | Kansas City, KS | Hybrid | Feb 04 |
+| **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677d2af1f6932fce99a26160?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 04 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b581?utm_campaign=1054&utm_source=git)** | Manhattan, KS | Hybrid | Feb 04 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/66c931a44ccaa7a75b32b568?utm_campaign=1054&utm_source=git)** | Madison, WI | Hybrid | Feb 04 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, WME - Basketball](https://jobright.ai/jobs/info/6766dcda82d672f3cbfd7b32?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 04 |
+| **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/67a20127fdf955b6ca036364?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | On Site | Feb 04 |
+| **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Internship- Apply January 13th through Feb. 28, 2025 only!](https://jobright.ai/jobs/info/6785b2fe3df7ff8fd893176b?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Feb 04 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Labor & Employee Relations Summer Intern](https://jobright.ai/jobs/info/67a1e6b6f5ab036257986ae3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67a1c8bccabcda3393a7b186?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Feb 03 |
 | **[UPS](http://www.ups.com)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/67a1b68794b8c158ebb94ac6?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Feb 03 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern - Talent Connections](https://jobright.ai/jobs/info/67a1b86c9a85e7b6239f1045?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 03 |
@@ -117,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/67a1376e42238d0fb2291513?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Feb 03 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, People Solutions](https://jobright.ai/jobs/info/67a136c0e7db86fb63db34e3?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 03 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer Associate - Kennedy Township, PA](https://jobright.ai/jobs/info/67a141af3e6f7fca926d18df?utm_campaign=1054&utm_source=git)** | McKees Rocks, PA | On Site | Feb 03 |
-| **[Leidos](https://www.leidos.com/)** | **[Talent Acquisition Intern Coordinator](https://jobright.ai/jobs/info/67a136c0e7db86fb63db354e?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 03 |
 | **[ONEOK](http://www.oneok.com)** | **[Intern - Field](https://jobright.ai/jobs/info/67a1337d09ec24ddd9f3a58c?utm_campaign=1054&utm_source=git)** | Medford, NY | On Site | Feb 03 |
 | **[UPS](http://www.ups.com)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/67a127e5c90df92968a479f9?utm_campaign=1054&utm_source=git)** | US - I.S. PARSIPPANY (NJPRS) | On Site | Feb 03 |
 | **[LandSouth Construction, LLC](http://landsouth.com)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/67a128ce9507f7eb888beb47?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Feb 03 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/67a0db3e4ad71d45f08bcc75?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Feb 03 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/67a0cbe12a0e6f790b57df70?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Feb 03 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677d19d95af5709da255b610?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 03 |
-| ↳ | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677e7531dbad72822198c53e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Employee Engagement](https://jobright.ai/jobs/info/67818f7bf83f99b126091ae5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[People Services Delivery Intern](https://jobright.ai/jobs/info/67a08cb5d80eb57af8eb14d2?utm_campaign=1054&utm_source=git)** | Provo, UT | Hybrid | Feb 03 |
-| **[Nelnet](https://nelnetinc.com)** | **[Pathway Intern - HR - Starting August 2024](https://jobright.ai/jobs/info/67a095a9d5b756bdb798a11d?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Feb 03 |
-| **[ONEOK](http://www.oneok.com)** | **[Intern - Field](https://jobright.ai/jobs/info/67a08080c54af0abafee94d6?utm_campaign=1054&utm_source=git)** | Bushton, KS | On Site | Feb 03 |
-| **[Android Industries](http://www.android-ind.com/)** | **[Team Member Relations Intern](https://jobright.ai/jobs/info/67a068f73fdf8f88f99bb8c9?utm_campaign=1054&utm_source=git)** | Auburn Hills, Auburn Hills, Michigan, United States of America | On Site | Feb 02 |
-| **[Merck](http://www.merck.com)** | **[IT Emerging Talent Rotational (ETR) Program: In 2 Years, Explore 3 Roles](https://jobright.ai/jobs/info/67a068614e3feb2233a08219?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Feb 02 |
-| ↳ | **[2025 University Recruiting - IT Emerging Talent Summer Intern Program](https://jobright.ai/jobs/info/67a068614e3feb2233a0822a?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Feb 02 |
-| **[Crown Equipment Corporation](http://www.crown.com)** | **[Leave Administration/HR Co-Op](https://jobright.ai/jobs/info/67a071db8546b803b7a4d9a3?utm_campaign=1054&utm_source=git)** | New Bremen, OH | On Site | Feb 02 |
-| **[Android Industries](http://www.android-ind.com/)** | **[Team Member Relations Intern](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800657?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
