@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent College Grads](https://jobright.ai/jobs/info/67a6af32fec5ac2a9e6fbe49?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Feb 07 |
+| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[2025 Kiawah Island Golf Resort Internship/Externship Opportunity](https://jobright.ai/jobs/info/67a6a91926f6aa2b1ee7953e?utm_campaign=1054&utm_source=git)** | 1 Sanctuary Beach Dr, Kiawah Island, SC 29455, USA | On Site | Feb 07 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Contributions and Employee Impact Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67a6b2074877c04b173da2cf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
+| **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits Internship - Summer 2025](https://jobright.ai/jobs/info/67a6b181795f7458c37d95e4?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | **[OMEGA Engineering](https://www.omega.com)** | **[HR Intern](https://jobright.ai/jobs/info/67a6a3ba2a0c84ecbe0e4a82?utm_campaign=1054&utm_source=git)** | Swedesboro, NJ, USA | On Site | Feb 07 |
+| **[Trackonomy](https://trackonomysystems.com/)** | **[Human Resources Intern - Graduate/Masters](https://jobright.ai/jobs/info/67a6b4613adb707c4f3cffd0?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 07 |
+| **[Sound Community Services, Inc.](http://soundcommunityservices.org)** | **[HR Internship](https://jobright.ai/jobs/info/67a6b2074877c04b173da369?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Feb 07 |
+| **[DigitalBridge](https://www.digitalbridge.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/67a6a58360e063810fdce8f1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[dwell design studio, llc](http://dwelldesignstudio.com)** | **[Summer Internship](https://jobright.ai/jobs/info/67a69ee09d9cd9a5c93fbbe4?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Feb 07 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Employer Engagement Specialist](https://jobright.ai/jobs/info/67a699bd702de8b3308e1900?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Feb 07 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern – Learning & Talent Development, Human Resources](https://jobright.ai/jobs/info/67a68f53a62b8d2d7d919ead?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Feb 07 |
+| **[ASML](https://www.asml.com)** | **[Internship- Community & Employee Engagement](https://jobright.ai/jobs/info/67a6a8aa78714921bf5fa53f?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Feb 07 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67a699a660923d69619601b8?utm_campaign=1054&utm_source=git)** | Wheeling, WV | Hybrid | Feb 07 |
 | **[Huber Engineered Materials](https://www.hubermaterials.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67a6946d79b36d0547ca0c8c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/67a67db64a500824a7cde335?utm_campaign=1054&utm_source=git)** | North Miami Beach, FL | On Site | Feb 07 |
@@ -76,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Horton, Inc.](http://hortonww.com)** | **[Human Resources Intern (Summer 2025)](https://jobright.ai/jobs/info/67a68265e637700e388e54dc?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Feb 07 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/67a68027c563a6679496f8fb?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[ONEOK](http://www.oneok.com)** | **[Intern - Field](https://jobright.ai/jobs/info/67a67f076ed84c03cd0bbfe7?utm_campaign=1054&utm_source=git)** | Medford, NY | On Site | Feb 07 |
-| **[ALLY Energy](http://www.allyenergy.com)** | **[– Resources Internship Human Summer (United 2025 States) Opportunities](https://jobright.ai/jobs/info/67a67c80a86cfbf66f0b55e4?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Recruitment Intern -Talent Management](https://jobright.ai/jobs/info/67a66fa5f8ca1e73b0dce84d?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Feb 07 |
 | ↳ | **[Labor Relations Intern](https://jobright.ai/jobs/info/67a66fa5f8ca1e73b0dce80e?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Feb 07 |
 | **[Foley & Lardner LLP](http://www.foley.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/67a67871e02c178401dffcd0?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern 2025](https://jobright.ai/jobs/info/67a55cf8321b29116320f77a?utm_campaign=1054&utm_source=git)** | Graniteville, SC | On Site | Feb 06 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Human Resources Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/67a54c6da9385b70f9353e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67a54862941c8b2841325845?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Feb 06 |
-| **[Dime Community Bank](https://www.dime.com)** | **[Intern - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/67a54636db412da1358947c3?utm_campaign=1054&utm_source=git)** | Hauppauge, NY | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2025 North America Experienced Human Resources Leadership Development Program (E-HRLDP) Internship](https://jobright.ai/jobs/info/67a5485309537b2b10f77536?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Feb 06 |
-| ↳ | **[2025 North America Experienced Human Resources Leadership Development Program (E-HRLDP) Internship](https://jobright.ai/jobs/info/67a5485309537b2b10f775c9?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Feb 06 |
-| **[NetApp](http://netapp.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67a5485309537b2b10f775b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
-| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Talent Acquisition Intern, Corporate / Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/67a5441850c7e785a41649c1?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67a5441850c7e785a416480e?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| ↳ | **[Compensation Intern](https://jobright.ai/jobs/info/67a53a8f4af964493847e86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
