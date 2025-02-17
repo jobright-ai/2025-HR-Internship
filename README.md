@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Glass Industries](http://www.cardinalcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67b2af7bb5eec95151a3b3b3?utm_campaign=1054&utm_source=git)** | Statesboro, GA | On Site | Feb 16 |
+| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Human Resources (HR) Analyst - Intern (Plano, TX)](https://jobright.ai/jobs/info/67b296c97c58775936ffba6a?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Feb 16 |
+| **[Sol de Janeiro](https://soldejaneiro.com/)** | **[People Experience (HR) Intern](https://jobright.ai/jobs/info/67b296c97c58775936ffba50?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/67b2746e28de7d85c307b710?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[People Experience (HR) Intern](https://jobright.ai/jobs/info/67b265b8846f62513053426e?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Feb 16 |
 | **[California Water Service](https://www.calwater.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67b26509b78d9a94a737b836?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Feb 16 |
 | **[Mobi.AI](https://www.mobi.ai)** | **[Don't see the role you're looking for? Join our Talent Pool!](https://jobright.ai/jobs/info/676d15f4f7c9f7f29308e908?utm_campaign=1054&utm_source=git)** | Somerville, MA | Hybrid | Feb 16 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/679c9243cf6df852f4bc8c36?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Feb 16 |
 | **[Magna International](http://www.magna.com/)** | **[Talent Attraction and Employer Branding Intern](https://jobright.ai/jobs/info/6794441eb7295d867fc5bf77?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Feb 16 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/679d969df937d6f1f4b1513f?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Feb 16 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Account Management, Employee Benefits Intern - Summer 2025](https://jobright.ai/jobs/info/6777b9ecd911a8f0aa8f5600?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | ↳ | **[Employee Benefits Account Management Intern - Summer 2025](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3e5a?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Feb 16 |
 | ↳ | **[Financial Services Intern - Summer 2025](https://jobright.ai/jobs/info/677732e3f1041a685e18d877?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Feb 16 |
@@ -72,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67b1a3a5a90691bc85b54b36?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Feb 15 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Engineer, HR Technology](https://jobright.ai/jobs/info/67b1a56bd07d5789f0fc2dac?utm_campaign=1054&utm_source=git)** | Irving, TX | Hybrid | Feb 15 |
 | **[Cleo](http://www.cleo.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67aec22474a2d021f4e0beec?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 15 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a88?utm_campaign=1054&utm_source=git)** | Montevideo, MN | On Site | Feb 15 |
+| **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Feb 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/674e79dde6a5b665f02e0991?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Feb 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent Acquisition Marketing Account Management Intern, Remote, Summer/Fall 2025](https://jobright.ai/jobs/info/67b1208295427bc4dbcef6ee?utm_campaign=1054&utm_source=git)** | Winter Garden, FL, USA | Remote | Feb 15 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Internship Program Coordinator](https://jobright.ai/jobs/info/67807899307cd9b9168f45c6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 15 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[HR/Administrative Assistant Intern - Summer 2025](https://jobright.ai/jobs/info/6736a1dfab852eddcbb3af10?utm_campaign=1054&utm_source=git)** | Indio, CA | On Site | Feb 15 |
 | **[Emerson](http://www.emerson.com)** | **[HR Generalist](https://jobright.ai/jobs/info/66f5ce04404a6d7a6026d80b?utm_campaign=1054&utm_source=git)** | Elyria, OH | On Site | Feb 15 |
 | **[Holcim Building Envelope](https://www.holcimbe.com/en)** | **[Human Resources Internship](https://jobright.ai/jobs/info/674e26357e8ca4f651011953?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66e28fdd0b58cc61742aa5ef?utm_campaign=1054&utm_source=git)** | Suffolk, VA | On Site | Feb 15 |
-| ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6785e10ead3793e32eefdbe9?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Feb 15 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6785e10ead3793e32eefdbe9?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Feb 15 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66e28fdd0b58cc61742aa5ef?utm_campaign=1054&utm_source=git)** | Suffolk, VA | On Site | Feb 15 |
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6794336d610b7a9487043546?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Feb 15 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/6791bfa6dd5b04676b67ee22?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Feb 15 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/675114b85787c17a5367caab?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Feb 15 |
-| **[Extra Space Storage](http://www.extraspace.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/67b09522ee638d5423ea2b1f?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Feb 15 |
-| **[Firaxis Games](http://www.firaxis.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6742bff0ee6b309d21c160bc?utm_campaign=1054&utm_source=git)** | Sparks Glencoe, MD | On Site | Feb 15 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6725cd4c70c7389dd2dba0b2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
-| ↳ | **[Management Trainee Intern - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e098b?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
