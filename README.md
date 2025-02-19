@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - People Experience](https://jobright.ai/jobs/info/67b5d363420df966f53f8e65?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 19 |
+| ↳ | **[Summer Non-Clinical Internship - People Experience](https://jobright.ai/jobs/info/67b5d363420df966f53f8e9e?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Feb 19 |
+| **[The Tatitlek Corporation](https://www.tatitlek.com/)** | **[AP Apprentice](https://jobright.ai/jobs/info/67b5c2395b1e2044fd826772?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Feb 19 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - HR Services](https://jobright.ai/jobs/info/67b5796b78ae9bd7b1718d72?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Feb 18 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern (BP Recruiting)](https://jobright.ai/jobs/info/67b5717c92ed731214386999?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Feb 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67b568e6b0968c0cc1a04e51?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 18 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - People Strategy](https://jobright.ai/jobs/info/67b5717c92ed731214386a37?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 18 |
 | **[Tempus AI](https://www.tempus.com)** | **[People Operations Summer Analyst](https://jobright.ai/jobs/info/67b5617cbf1710c200d6fd35?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
-| **[Unqork](https://www.unqork.com)** | **[Join Our Talent Network](https://jobright.ai/jobs/info/67b5717c92ed731214386aa1?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 18 |
+| **[Unqork](https://www.unqork.com)** | **[Join Our Talent Network](https://jobright.ai/jobs/info/67b5717c92ed731214386ab3?utm_campaign=1054&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Associa](http://www.associaonline.com)** | **[HR Intern](https://jobright.ai/jobs/info/67b56a7d73a5ab0882d50212?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Feb 18 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/67b56a7d73a5ab0882d5023b?utm_campaign=1054&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
 | **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/67b56a7d73a5ab0882d5028f?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Feb 18 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Clozd](https://www.clozd.com)** | **[Associate](https://jobright.ai/jobs/info/67b527374c38f4be5f8be286?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Feb 18 |
 | **[First Mid](http://firstmid.com)** | **[Retirement Services Intern](https://jobright.ai/jobs/info/67b542439d12813fd8fdfa6b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Feb 18 |
 | **[Tempus AI](https://www.tempus.com)** | **[People Operations Summer Analyst](https://jobright.ai/jobs/info/67b525026626c36238fae729?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Feb 18 |
-| **[Jencap](https://jencapgroup.com)** | **[2025 Summer Insurance Internships- Houston, TX](https://jobright.ai/jobs/info/673f6db4d60e20cf95b695a1?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
-| ↳ | **[2025 Summer Insurance Internships- Atlanta, GA ](https://jobright.ai/jobs/info/673f816f22eb3a0e4d9791b7?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
+| **[Jencap](https://jencapgroup.com)** | **[2025 Summer Insurance Internships- Atlanta, GA ](https://jobright.ai/jobs/info/673f816f22eb3a0e4d9791b7?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 18 |
+| ↳ | **[2025 Summer Insurance Internships- Houston, TX](https://jobright.ai/jobs/info/673f6db4d60e20cf95b695a1?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[Republic Airways](http://www.rjet.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67b52001df61224db41f823c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 18 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Recruiting and Employer Connections Coordinator - Gies College of Business](https://jobright.ai/jobs/info/67b52d66d3564e54ea01d23c?utm_campaign=1054&utm_source=git)** | Urbana, IL | On Site | Feb 18 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - People Experiences](https://jobright.ai/jobs/info/67b51ec5ba9a10217b3ce6a9?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Feb 18 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[ReEMERGE: Return to Work Program (Non-Technical Internship)](https://jobright.ai/jobs/info/67b4e32548146a0aaf7a958d?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | Hybrid | Feb 18 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67b4d40e54f58f5d26f4801d?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Feb 18 |
 | **[Yahoo](http://www.yahoo.com)** | **[Emerging Careers & Learning Intern](https://jobright.ai/jobs/info/67b4d756ce7967563039bd8a?utm_campaign=1054&utm_source=git)** | United States of America | On Site | Feb 18 |
-| **[ChristianaCare](http://christianacare.org)** | **[Intern - HR Operations](https://jobright.ai/jobs/info/67b4d756ce7967563039bf55?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Feb 18 |
-| ↳ | **[Intern - HR Operations](https://jobright.ai/jobs/info/67b4d95fce7967563039c869?utm_campaign=1054&utm_source=git)** | Newark, DE | On Site | Feb 18 |
+| **[ChristianaCare](http://christianacare.org)** | **[Intern - HR Operations](https://jobright.ai/jobs/info/67b4d95fce7967563039c869?utm_campaign=1054&utm_source=git)** | Newark, DE | On Site | Feb 18 |
+| ↳ | **[Intern - HR Operations](https://jobright.ai/jobs/info/67b4d756ce7967563039bf55?utm_campaign=1054&utm_source=git)** | Wilmington, DE | On Site | Feb 18 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67b4dd277d0663fc75137b28?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Feb 18 |
 | **[Republic Airways](http://www.rjet.com)** | **[Fall 2025 Talent Operations Intern- Fulltime](https://jobright.ai/jobs/info/678e98b89d6308ded8109f28?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 18 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/67b4d9b71f49d3682bc7b7d4?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highgate](https://www.highgate.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67b449fd36ebb02c44c3ab55?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Feb 17 |
 | **[Charlie Health](https://www.charliehealth.com)** | **[Manager of Operations, University Talent](https://jobright.ai/jobs/info/666c4553b3b6eb3a161cb6bb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[City of Houston](http://www.houstontx.gov)** | **[STUDENT INTERN II](https://jobright.ai/jobs/info/67b439a06de6b108e3d52161?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/67b4148ba4125fe26e0a35bc?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
-| **[Amcor](http://www.amcor.com/)** | **[HR Intern ARP](https://jobright.ai/jobs/info/67b402d6280da5e852505c4c?utm_campaign=1054&utm_source=git)** | Blythewood, SC | On Site | Feb 17 |
-| **[Family Residences and Essential Enterprises, Inc. (FREE)](https://www.familyres.org/)** | **[Intern](https://jobright.ai/jobs/info/67b41c58832bba3c241aa565?utm_campaign=1054&utm_source=git)** | Oakdale, NY | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
