@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c308b91ffaf4ff5d228029?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
+| **[Balchem Corporation](http://balchem.com)** | **[HR Intern](https://jobright.ai/jobs/info/67c33a78d4b9062570dfac1c?utm_campaign=1054&utm_source=git)** | Montvale, NJ | On Site | Mar 01 |
+| **[TSMC](http://www.tsmc.com)** | **[[Spring Recruitment] TSMC Career Opportunities (Arizona/ California/ Texas / Washington / Canada)](https://jobright.ai/jobs/info/6766b6386f66deaa6926296b?utm_campaign=1054&utm_source=git)** | Greater Prescott, AZ Area | On Site | Mar 01 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[HR Summer Internship (South Boston, VA)](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08fad?utm_campaign=1054&utm_source=git)** | South Boston, VA | On Site | Mar 01 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Executive Talent Acquisition (Research) - Beachwood, OH](https://jobright.ai/jobs/info/67c31f69e33ac9811a431cd2?utm_campaign=1054&utm_source=git)** | Beachwood, OH | Hybrid | Mar 01 |
+| **[TSMC](http://www.tsmc.com)** | **[2025 Summer Intern - HR](https://jobright.ai/jobs/info/67a70b86ec4c8892382e34bc?utm_campaign=1054&utm_source=git)** | Camas, WA | On Site | Mar 01 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c31f69e33ac9811a431cec?utm_campaign=1054&utm_source=git)** | Grand Island, NE | Hybrid | Mar 01 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c31f69e33ac9811a431ced?utm_campaign=1054&utm_source=git)** | Wichita, KS | Hybrid | Mar 01 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c308b91ffaf4ff5d228029?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Mar 01 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c308b91ffaf4ff5d22802a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 01 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Plattsburgh, NY](https://jobright.ai/jobs/info/67a6cd9650ad618aee3975fc?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Mar 01 |
+| **[Uline](http://www.uline.com)** | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762e84b376ef29750cc4d26?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Mar 01 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Skills-Based Hiring and Workforce Intelligence](https://jobright.ai/jobs/info/67a63ce3b27ed474bead43a7?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Coral Springs, FL](https://jobright.ai/jobs/info/67a6cd9650ad618aee39762c?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Mar 01 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae2284f?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Mar 01 |
@@ -104,7 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/679430910bba2157cf579ffb?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Feb 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90631a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 28 |
 | ↳ | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906497?utm_campaign=1054&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
-| ↳ | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782da5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/67249c10cd7eb892139470b6?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Feb 28 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782da5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Human Resources Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/67a54c6da9385b70f9353e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Osborn Engineering](http://osborn-eng.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c1f3b71b295cc66bb249a8?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Feb 28 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Total Rewards Intern (Summer 2025)](https://jobright.ai/jobs/info/67c1e52244e18298f680db6e?utm_campaign=1054&utm_source=git)** | Remote - Colorado | Remote | Feb 28 |
@@ -139,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2025)](https://jobright.ai/jobs/info/67c1738b15b553aadc8403a5?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Feb 27 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/67c17c3d58704ba42713e8c9?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Feb 27 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[2025 Leadership Development Conference (Supply Chain)](https://jobright.ai/jobs/info/67c157bfc32520b31f19eabd?utm_campaign=1054&utm_source=git)** | USA - Howe Street | On Site | Feb 27 |
-| ↳ | **[2025 Leadership Development Conference (Human Resources)](https://jobright.ai/jobs/info/67c157bfc32520b31f19ed86?utm_campaign=1054&utm_source=git)** | USA - Howe Street | On Site | Feb 27 |
+| ↳ | **[2025 Leadership Development Conference (Human Resources)](https://jobright.ai/jobs/info/67c157bfc32520b31f19eb10?utm_campaign=1054&utm_source=git)** | USA - Howe Street | On Site | Feb 27 |
 | **[Rakuten International](http://rakuten.us)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/67c151c0978bc6fed314e953?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[Shape Corp.](https://www.shapecorp.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67c2b33122f4c4ddf5e546ce?utm_campaign=1054&utm_source=git)** | Trenton, OH | On Site | Feb 27 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES TALENT ACQUISITION CO-OP](https://jobright.ai/jobs/info/67c17c3d58704ba42713e6c2?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Feb 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Total Rewards Intern - Summer 2025](https://jobright.ai/jobs/info/67c1384f7fed5092647818ee?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Feb 27 |
 | **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[HR Internship - Fall 2025](https://jobright.ai/jobs/info/67c1417cb7381318d0647769?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Feb 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Total Rewards Intern - Summer 2025](https://jobright.ai/jobs/info/67c1384f7fed509264781b93?utm_campaign=1054&utm_source=git)** | Shelton, CT | Hybrid | Feb 27 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern  - Summer 2025 - Wausau](https://jobright.ai/jobs/info/67c127637b2c41627cf26e13?utm_campaign=1054&utm_source=git)** | Wausau, WI | On Site | Feb 27 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Rochester, MN](https://jobright.ai/jobs/info/67c127637b2c41627cf26e18?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Feb 27 |
-| **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/67c1332ed1d460cbb9a68992?utm_campaign=1054&utm_source=git)** | Ridgefield, CT | Hybrid | Feb 27 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Summer 2025](https://jobright.ai/jobs/info/67c10f966960d7b9771fa356?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Feb 27 |
-| **[Rakuten](http://global.rakuten.com)** | **[Intern - Employee Relations](https://jobright.ai/jobs/info/67c17f6043645891bee6d3d1?utm_campaign=1054&utm_source=git)** | San Mateo, California | On Site | Feb 27 |
-| ↳ | **[Intern - Employee Relations](https://jobright.ai/jobs/info/67c17f6043645891bee6d493?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | Feb 27 |
-| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[HR Generalist - Intern](https://jobright.ai/jobs/info/67c1146075735852bc5d6fe7?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Feb 27 |
-| **[BrandSafway](https://www.brandsafway.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67c1164975735852bc5d7882?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
-| **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[HR Intern](https://jobright.ai/jobs/info/67c1146075735852bc5d7089?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Feb 27 |
-| **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern Human Resources and Risk Management SEA](https://jobright.ai/jobs/info/67c26387f9278ff2fa739dea?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
