@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa22e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | Hybrid | Mar 02 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa22f?utm_campaign=1054&utm_source=git)** | Pottsville, PA | Hybrid | Mar 02 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa233?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
+| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[2025 Summer Internship Program](https://jobright.ai/jobs/info/67838a6459a679614b8d03d9?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Mar 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22857?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Mar 02 |
+| ↳ | **[Summer 2025 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/675d1b0bfa6e879d611d9097?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Mar 02 |
+| **[Avon Community School Corporation](https://www.avon-schools.org)** | **[Payroll Coordinator (40 Hrs) **INTERNAL ONLY**](https://jobright.ai/jobs/info/67c430872aaff622093f9e9f?utm_campaign=1054&utm_source=git)** | Avon, IN | On Site | Mar 01 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/67c39d4fbfdb9a4cf48f57d0?utm_campaign=1054&utm_source=git)** | Agoura Hills, CA | On Site | Mar 01 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[2025 Leadership Development Conference (Research, Development, & Engineering)](https://jobright.ai/jobs/info/67c3771afeab1af2147379fe?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Mar 01 |
 | ↳ | **[2025 Leadership Development Conference (Supply Chain)](https://jobright.ai/jobs/info/67c365ed8ab6543c74b1c812?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Mar 01 |
@@ -90,6 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Restaurant Brands International](http://rbi.com/en)** | **[Leadership Development Program Associate, General Track, Jacksonville Intern](https://jobright.ai/jobs/info/67aede056ebbaeb11d71e2b0?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Mar 01 |
 | **[Macy's](http://www.macysjobs.com)** | **[Human Resources - Internship (Hybrid New York)](https://jobright.ai/jobs/info/67c2e290e28f46eefac18f06?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
 | **[Allstate](http://www.allstate.com)** | **[Talent Acquisition Apprentice Program](https://jobright.ai/jobs/info/67c2d226d6a2bea63537b456?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 01 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[2025 HR LEAD Internship Program](https://jobright.ai/jobs/info/677d9434e6373cf79d0ab517?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
+| **[The National Bank of Indianapolis](https://www.nbofi.com/)** | **[Summer Internship 2025](https://jobright.ai/jobs/info/67c438c76a4a90abe723599a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/6788b038cff83b425aad3518?utm_campaign=1054&utm_source=git)** | Brainerd, MN | On Site | Feb 28 |
 | **[PERMA-PIPE](http://www.permapipe.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c2bd67618a3dc643413efa?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Feb 28 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: People Org Strategy Intern](https://jobright.ai/jobs/info/67c2a28520395eaa6ab303ed?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Feb 28 |
@@ -126,14 +135,14 @@ For a complete list, click the following sortable link below:
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Intern – Youth and Family Support Services](https://jobright.ai/jobs/info/67c2387b695f970b79747ea2?utm_campaign=1054&utm_source=git)** | Granite City, IL | On Site | Feb 28 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate (Internship Summer 2025 – Full Time)](https://jobright.ai/jobs/info/67c2161c3a8d47ca9eecedb6?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Feb 28 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Employee Relations Business Partner](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34b838?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Feb 28 |
-| **[Athena Mental Health](https://athenapsych.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34be8b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Athena](https://athenapsych.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34be8b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Allstate](http://www.allstate.com)** | **[Talent Acquisition Apprentice Program](https://jobright.ai/jobs/info/67c205a3f269898f16b66c0e?utm_campaign=1054&utm_source=git)** | USA - IL (Remote) | Remote | Feb 28 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34bb34?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Feb 28 |
 | ↳ | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34bb24?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c201f4fa8213764905de45?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 28 |
 | **[Cerrowire](http://cerrowire.com)** | **[HR Intern](https://jobright.ai/jobs/info/679430910bba2157cf579ffb?utm_campaign=1054&utm_source=git)** | Hartselle, AL | On Site | Feb 28 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906497?utm_campaign=1054&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
-| ↳ | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90631a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 28 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af90631a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Feb 28 |
+| ↳ | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1f0764c128bd2af906497?utm_campaign=1054&utm_source=git)** | New York, New York | Hybrid | Feb 28 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Human Resources (Summer 2025)](https://jobright.ai/jobs/info/67249c10cd7eb892139470b6?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Feb 28 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Experiences Intern](https://jobright.ai/jobs/info/67c1ecab94a1d0514d782da5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Human Resources Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/67a54c6da9385b70f9353e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Feb 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Human Resources - Internship (Hybrid New York)](https://jobright.ai/jobs/info/67c1c84e3f1fe86efe96df33?utm_campaign=1054&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | Hybrid | Feb 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/6752c5e2b232437059babe15?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Feb 28 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - University of Arizona](https://jobright.ai/jobs/info/67a4fbec8fa256232b739a89?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Feb 28 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Diversity & Inclusion](https://jobright.ai/jobs/info/67a82001d2ab7f4b89c73b82?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Feb 28 |
-| **[Simon Group Holdings](http://simongroupholdings.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c1bc957c2e39d61d151a6c?utm_campaign=1054&utm_source=git)** | Birmingham, MI | Hybrid | Feb 28 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c1dc3c1b65c5ee35a9b05f?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | Hybrid | Feb 28 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c1dc3c1b65c5ee35a9b060?utm_campaign=1054&utm_source=git)** | East Lansing, MI | Hybrid | Feb 28 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c1dc3c1b65c5ee35a9b061?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | Feb 28 |
-| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Human Resources Summer Internship - Fernley, NV](https://jobright.ai/jobs/info/67a4e88a16febca1fbaf6d61?utm_campaign=1054&utm_source=git)** | Fernley, NV | On Site | Feb 28 |
-| **[Five Below](http://www.fivebelow.com)** | **[Summer Intern 2025 Store Operations Workforce Planning](https://jobright.ai/jobs/info/6785e17071b7e269e611a14d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
-| **[Peraton](https://www.peraton.com/)** | **[SkillBridge Intern 2025 SITEC 3 (Pacific)](https://jobright.ai/jobs/info/6790a5bc44b71b61b274c277?utm_campaign=1054&utm_source=git)** | Mahinahina Camp, HI | Remote | Feb 28 |
-| **[Sasser Family Companies](https://www.sasser.com/)** | **[2025 Summer Intern General Consideration](https://jobright.ai/jobs/info/67a53499f8b2e75730b90daa?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
