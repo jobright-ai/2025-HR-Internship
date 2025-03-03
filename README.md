@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Organizational Development, Human Resources (Fall 2025)](https://jobright.ai/jobs/info/67c57c1e465115b1ee6582d0?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 03 |
+| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Facility Operations Intern](https://jobright.ai/jobs/info/67c583a22f4670f8d269e1c6?utm_campaign=1054&utm_source=git)** | Chapel Hill, NC | On Site | Mar 02 |
 | **[Quantum Workplace](http://www.quantumworkplace.com)** | **[Human Resources (People Operations) Intern (Summer 2025)](https://jobright.ai/jobs/info/67c4e1e169424f8dd4864e90?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Mar 02 |
 | **[International Institute of New England](https://iine.org/)** | **[[Summer 2025] Employment Services Intern, IINE Boston](https://jobright.ai/jobs/info/67c4dfc54d0bb2d1bd63b6c0?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Mar 02 |
 | ↳ | **[[Summer 2025] Employment Services Intern, IINE Lowell](https://jobright.ai/jobs/info/67c4dfc54d0bb2d1bd63b6b5?utm_campaign=1054&utm_source=git)** | Lowell, MA | Hybrid | Mar 02 |
@@ -69,10 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6753905f88dd9c82760daf67?utm_campaign=1054&utm_source=git)** | Millwood, WV | On Site | Mar 02 |
 | ↳ | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/67c4c9c2b80608dc7b5ed408?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Mar 02 |
 | ↳ | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/67c4c5a89ada932a5aa3e851?utm_campaign=1054&utm_source=git)** | Manassas Park, VA | On Site | Mar 02 |
+| **[RaceTrac](http://www.racetrac.com/)** | **[HR Intern (Talent Acquisition) - Summer 2025](https://jobright.ai/jobs/info/6778a70a1348604ae24f4524?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/67c472813fbcfbfbe36e921f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa22e?utm_campaign=1054&utm_source=git)** | Wilmington, NC | Hybrid | Mar 02 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa22f?utm_campaign=1054&utm_source=git)** | Pottsville, PA | Hybrid | Mar 02 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa233?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/6752c5e2b232437059babdf5?utm_campaign=1054&utm_source=git)** | El Cajon, CA | On Site | Mar 02 |
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[2025 Summer Internship Program](https://jobright.ai/jobs/info/67838a6459a679614b8d03d9?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Mar 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67243b380bae6a537cc65e99?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Mar 02 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6777e16730fbc6a66441b3f2?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Mar 02 |
@@ -80,6 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22857?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Mar 02 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/675d1b0bfa6e879d611d9097?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Mar 02 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6711726ef22d66231823bfd4?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Human Resources - Compensation and Benefits](https://jobright.ai/jobs/info/677ebefa347e1ce446878b82?utm_campaign=1054&utm_source=git)** | Plainsboro, NJ | On Site | Mar 02 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Employee Engagement](https://jobright.ai/jobs/info/66e4681942a2a3d5bb30ac33?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Mar 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Hudson, NY](https://jobright.ai/jobs/info/67a6c1a90c077387b3e49d37?utm_campaign=1054&utm_source=git)** | Hudson, NY | On Site | Mar 02 |
 | **[Avon Community School Corporation](https://www.avon-schools.org)** | **[Payroll Coordinator (40 Hrs) **INTERNAL ONLY**](https://jobright.ai/jobs/info/67c430872aaff622093f9e9f?utm_campaign=1054&utm_source=git)** | Avon, IN | On Site | Mar 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Glens Falls, NY](https://jobright.ai/jobs/info/67a6e1de3fa670fc0881d96d?utm_campaign=1054&utm_source=git)** | Glens Falls, NY | On Site | Mar 01 |
 | **[Harris | Oakmark](https://www.harrisassoc.com)** | **[Talent Community - Discover Your Potential](https://jobright.ai/jobs/info/67494e099f7da9d1b4398481?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maranatha Baptist University](https://www.mbu.edu/)** | **[Graduate Assistant Opportunities](https://jobright.ai/jobs/info/67c2487791071ab781795de8?utm_campaign=1054&utm_source=git)** | Watertown, WI | On Site | Feb 28 |
 | **[Jabil](https://www.jabil.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/67c253379be1c0b1cce868c0?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Feb 28 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67c23671695f970b79747818?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[HR Operations Intern (Remote)](https://jobright.ai/jobs/info/67c228a4aeb22291b01f4927?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | Remote | Feb 28 |
-| **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Work Study - Human Resources Office Assistant](https://jobright.ai/jobs/info/67c2487791071ab781795fe5?utm_campaign=1054&utm_source=git)** | Longview, WA | On Site | Feb 28 |
-| **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c25a5ad2661494a617d158?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Feb 28 |
-| **[Dwyer Instruments](http://www.dwyer-inst.com)** | **[HR Intern](https://jobright.ai/jobs/info/67c2487791071ab781796054?utm_campaign=1054&utm_source=git)** | Swedesboro, NJ | On Site | Feb 28 |
-| **[Indiana Donor Network](http://www.indianadonornetwork.org)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67ad18d86d3232459b3ecb03?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
-| **[JRM Construction Management](http://jrmcm.com)** | **[Join our Talent Network](https://jobright.ai/jobs/info/674973e29a71c8abf4986754?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Feb 28 |
-| **[WorkSmart](http://worksmart.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c21dca09aff7f410a2fd03?utm_campaign=1054&utm_source=git)** | Raleigh-Durham, NC | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
