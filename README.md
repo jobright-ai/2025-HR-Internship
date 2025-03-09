@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67ccd57895d5fd7ac5c2080c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 08 |
+| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Human Resources (Summer 2025)](https://jobright.ai/jobs/info/67cd0470ac0d80bdfd67a49a?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 08 |
 | **[Central States](https://centralstatesco.com)** | **[HR Intern](https://jobright.ai/jobs/info/67ccc0252851862db86f0004?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Mar 08 |
 | **[MultiTech](https://www.multitech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f2ca?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Mar 08 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Mar 08 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Arkansas Children's](http://archildrens.org)** | **[Elevate Summer Internship 2025- Human Resources](https://jobright.ai/jobs/info/67cc332b30fac953124a4dc4?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Mar 07 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2025 - Human Resources](https://jobright.ai/jobs/info/67cb4bc070beb07923e2efb1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 07 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Compensation Analyst - Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/67cb3af53f3ca9aa53679422?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
-| ↳ | **[Compensation Analyst - Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/67cb2e6a11ffdc293752e6ea?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 07 |
+| ↳ | **[Compensation Analyst - Summer 2025 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/67cb2e6a11ffdc293752e4c8?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Mar 07 |
 | **[US LBM](http://uslbm.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67cb3274e8e9122c125be711?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67ca58e59cfa8fc578491bbd?utm_campaign=1054&utm_source=git)** | Gray, TN | On Site | Mar 07 |
 | **[AMBA](https://amba.info)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6786b0541c2c3630fbcafdbb?utm_campaign=1054&utm_source=git)** | Iowa, United States | Hybrid | Mar 07 |
@@ -138,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Kemper](http://kemper.com)** | **[Talent Acquisition Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67ae998f77054b965490eaed?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Organizational Effectiveness Intern](https://jobright.ai/jobs/info/67cb10d6f2145135fa8beba8?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 07 |
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Human Resource 2025 Summer Internship](https://jobright.ai/jobs/info/67ae9de5eb4e4d9757997110?utm_campaign=1054&utm_source=git)** | New Brighton, MN | On Site | Mar 07 |
-| **[Huhtamaki](http://huhtamaki.com/)** | **[Human Resource Co-op](https://jobright.ai/jobs/info/67caf1df891bf9c7ac93561b?utm_campaign=1054&utm_source=git)** | Fulton, NY, USA | On Site | Mar 07 |
+| **[Huhtamaki](http://huhtamaki.com/)** | **[Human Resource Co-op](https://jobright.ai/jobs/info/67caf1df891bf9c7ac9355fd?utm_campaign=1054&utm_source=git)** | Fulton, NY, USA | On Site | Mar 07 |
 | ↳ | **[Human Resource Co-op](https://jobright.ai/jobs/info/67caf0326485428bf2c165ea?utm_campaign=1054&utm_source=git)** | Fulton, NY | On Site | Mar 07 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67cb023b173ced65a3e80542?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Mar 07 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67cb023b173ced65a3e80543?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 07 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67aebd2cdce96657fb0e4e38?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Mar 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Development Intern](https://jobright.ai/jobs/info/67cadd5904d5765ed5b13c18?utm_campaign=1054&utm_source=git)** | West Valley City, UT | On Site | Mar 07 |
 | **[SoLa Impact](https://www.solaimpact.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/67c642c21b567a40d4f545ab?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 07 |
-| **[Centerfield](http://www.centerfield.com)** | **[People and Learning Operations Intern, Summer 2025](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c17?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Auburn University at Montgomery](http://www.aum.edu/)** | **[Working Warhawk I - Warhawk Recruiter (Tour Guide)](https://jobright.ai/jobs/info/67cb9eb5faa575407403fb41?utm_campaign=1054&utm_source=git)** | Montgomery, AL | On Site | Mar 06 |
+| **[Centerfield](http://www.centerfield.com)** | **[People and Learning Operations Intern, Summer 2025](https://jobright.ai/jobs/info/67ca9ee8ab2e108e8576a776?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Ameren](http://ameren.com)** | **[Leadership and Organizational Effectiveness Intern/Co-op](https://jobright.ai/jobs/info/67ca72c355a6afae10584506?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 06 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67ca845b19fb030270a346ff?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67ca739e5ddc17f5b2454715?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Mar 06 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Arena Talent Experience - Summer 2025](https://jobright.ai/jobs/info/67ca6ae6bf3449f60e1bce3f?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Labor Relations Intern - Summer 2025](https://jobright.ai/jobs/info/67ca52375dc203c4065cacc7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/67ca6ae6bf3449f60e1bcf52?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
