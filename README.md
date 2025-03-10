@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clear Channel Outdoor](http://clearchanneloutdoor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67ce75c759c327c662ec7464?utm_campaign=1054&utm_source=git)** | San Antonio, TX (North Loop 1604) | On Site | Mar 09 |
 | **[CMA CGM](https://www.cma-cgm.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67ce5797949cd5d8db446cc7?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Mar 09 |
 | **[Five Star Home Health Care](http://fshhc.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67ce0d17021ab4a1c8a1eaca?utm_campaign=1054&utm_source=git)** | Fairfax, VA | On Site | Mar 09 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67cda163fdd55490ff891131?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Mar 09 |
@@ -64,7 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/67cd43a20caae888b7df46dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 08 |
 | ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/67cd43a20caae888b7df46dd?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Mar 08 |
 | ↳ | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/67cd406deedf402d758654e2?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Mar 08 |
+| **[C.H. Guenther & Son](http://www.chg.com)** | **[Talent Management Intern (Human Resources) - CH Guenther & Son](https://jobright.ai/jobs/info/6799d8e43903bea2489e8fd5?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 08 |
 | **[The National Bank of Indianapolis](https://www.nbofi.com/)** | **[Summer Internship 2025](https://jobright.ai/jobs/info/67cd8196216f57a6a01fc762?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 08 |
+| **[ASML](https://www.asml.com)** | **[Internship- People Operations Human Resources](https://jobright.ai/jobs/info/67afd45914bd94af4065ae91?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Mar 08 |
 | **[The Lockwood Group](https://thelockwoodgroupllc.com)** | **[HR Intern](https://jobright.ai/jobs/info/67cd1ec075e3984c9ae5ae65?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 08 |
 | **[Uline](http://www.uline.com)** | **[Recruitment Advertising Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/6762f39077e1fc4303451e9d?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Mar 08 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Summer Internship - Human Resources Intern](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac8cbb?utm_campaign=1054&utm_source=git)** | Pittsburgh Region | On Site | Mar 08 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Click Therapeutics, Inc.](http://www.clicktherapeutics.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67ccd57895d5fd7ac5c2080c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 08 |
 | **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Human Resources (Summer 2025)](https://jobright.ai/jobs/info/67cd0470ac0d80bdfd67a49a?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 08 |
 | **[Central States](https://centralstatesco.com)** | **[HR Intern](https://jobright.ai/jobs/info/67ccc0252851862db86f0004?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Mar 08 |
-| **[MultiTech](https://www.multitech.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f2ca?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Mar 08 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/67b4dd277d0663fc75137a2d?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Mar 08 |
 | **[HITT Contracting Inc.](http://www.hitt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67aff60b58d417f686244b38?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Mar 08 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[HR Solutions Intern](https://jobright.ai/jobs/info/6791701a3942a4ef61f84ef5?utm_campaign=1054&utm_source=git)** | Camden, NJ | Hybrid | Mar 08 |
@@ -105,14 +107,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/675cfd69d1fb7a81584205b6?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Mar 08 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/67cc332b30fac953124a4f4c?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Mar 08 |
 | ↳ | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/6762a306e885464c44ca60b0?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Mar 08 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Talent Systems & Analytics, Internship](https://jobright.ai/jobs/info/67caef55afb7a4fca339ee21?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Mar 08 |
-| ↳ | **[Digital Workplace, Internship](https://jobright.ai/jobs/info/67cae5cfe953660b836a75e0?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Mar 08 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/67cc1d1e821e2393759d18af?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 08 |
+| ↳ | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/67cc1d1e821e2393759d18af?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Mar 08 |
 | **[Constellation Technologies, Inc](https://www.cti-md.com)** | **[SkillBridge Internship (military)](https://jobright.ai/jobs/info/67cc1b61821e2393759d1086?utm_campaign=1054&utm_source=git)** | Maryland, United States | On Site | Mar 08 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 Summer Internship - Human Resources - Virtual](https://jobright.ai/jobs/info/67cc0a8f84e8404ac382e283?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Mar 08 |
 | **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Human Resources Intern  Paid Internship](https://jobright.ai/jobs/info/67cc1d1e821e2393759d19a9?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Mar 07 |
 | **[University of Louisville](http://louisville.edu/research/offices/technology-transfer/)** | **[Temporary Housing Summer Conference Intern (Part-Time)](https://jobright.ai/jobs/info/6777b05b0e32e4aae2d7af64?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Mar 07 |
 | **[ASML](https://www.asml.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/67cbce66b56f112160c8d599?utm_campaign=1054&utm_source=git)** | Hillsboro, OR | On Site | Mar 07 |
+| **[nLIGHT, Inc. ](http://www.nlight.net)** | **[Human Resources Internship - Operations](https://jobright.ai/jobs/info/67ce66a0ed64b51ea57a96b6?utm_campaign=1054&utm_source=git)** | Camas, WA | On Site | Mar 07 |
 | **[IMO Health](https://www.imohealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f135d6?utm_campaign=1054&utm_source=git)** | Rosemont, IL | Hybrid | Mar 07 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 Summer Internship - Human Resources - Virtual](https://jobright.ai/jobs/info/67cbb87517c4b2e9b42368bb?utm_campaign=1054&utm_source=git)** | Phoenix, AZ USA 85004-2121 | On Site | Mar 07 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - El Centro](https://jobright.ai/jobs/info/67ccb41a929358f094b790f7?utm_campaign=1054&utm_source=git)** | El Centro, CA | On Site | Mar 07 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[WestRock Company](http://www.westrock.com)** | **[HR Internship](https://jobright.ai/jobs/info/67cb67001215c5a846dcd066?utm_campaign=1054&utm_source=git)** | Covington, VA | On Site | Mar 07 |
 | **[Semtech](http://www.semtech.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67cb572c476c9ac947ce1183?utm_campaign=1054&utm_source=git)** | USA - CA Remote | Remote | Mar 07 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67cb5535e9963f0b3a0f2258?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Mar 07 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Digital Workplace, Internship](https://jobright.ai/jobs/info/67caed9aafb7a4fca339e642?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Mar 07 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Lateral Recruiting](https://jobright.ai/jobs/info/67cb5552dd2741bba6336fdb?utm_campaign=1054&utm_source=git)** | Austin, Texas, USA | On Site | Mar 07 |
 | ↳ | **[Intern, Lateral Recruiting](https://jobright.ai/jobs/info/67cb5552dd2741bba6336e1d?utm_campaign=1054&utm_source=git)** | Houston, Texas, USA | On Site | Mar 07 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[People Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67cb5535e9963f0b3a0f2261?utm_campaign=1054&utm_source=git)** | Burlington, NJ | Hybrid | Mar 07 |
