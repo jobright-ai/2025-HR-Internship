@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - HR System Documentation](https://jobright.ai/jobs/info/67d815973a657fb8b27d1cf5?utm_campaign=1054&utm_source=git)** | 5000 Ericsson Drive, Warrendale, PA, 15086, US | On Site | Mar 17 |
+| **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Summer Associate - Human Resources (Bala Cynwyd, PA)](https://jobright.ai/jobs/info/67d81dbf07f076f471abc4d3?utm_campaign=1054&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Mar 17 |
+| ↳ | **[Summer Associate - Human Resources - Training & Development (Bala Cynwyd, PA)](https://jobright.ai/jobs/info/67d81dbf07f076f471abc4e3?utm_campaign=1054&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Mar 17 |
+| **[Cornerstone Research](https://www.cornerstone.com)** | **[Talent - Operations Intern](https://jobright.ai/jobs/info/67d803cfda4d434cb771114c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 17 |
+| ↳ | **[Talent - Operations Intern](https://jobright.ai/jobs/info/67d7f90ef450b7f6f00f5f3c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Mar 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship- Summer 2025 (Hendersonville, TN)](https://jobright.ai/jobs/info/67d7ed5297e99ab8f577a1be?utm_campaign=1054&utm_source=git)** | Hendersonville, TN | On Site | Mar 17 |
 | ↳ | **[Management Trainee Internship- Summer 2025 (Murfreesboro,TN)](https://jobright.ai/jobs/info/67d7ed5297e99ab8f577a159?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Mar 17 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Human Resources - New York, NY - Corporate Office](https://jobright.ai/jobs/info/67d7c9c47708d1cebc43c027?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Harbin Clinic](http://www.harbinclinic.com)** | **[Intern](https://jobright.ai/jobs/info/67d74e66fc75bac29b2b1afd?utm_campaign=1054&utm_source=git)** | Rome, GA | On Site | Mar 16 |
+| **[Interfor](http://www.interfor.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67c569a1966ee65242e51f6c?utm_campaign=1054&utm_source=git)** | Belk, AL | On Site | Mar 16 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Professional Intern](https://jobright.ai/jobs/info/679d92d4ffced95ccd0a126d?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 16 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677d19d95af5709da255b614?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Mar 16 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0082f0?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | Mar 16 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0082eb?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Mar 16 |
 | ↳ | **[Summer 2025 Management Trainee Intern- Central and Western NJ](https://jobright.ai/jobs/info/679d2fc137ceb576ab10c968?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Mar 16 |
 | ↳ | **[Summer Management Trainee Intern 2025](https://jobright.ai/jobs/info/67808c5e06d514bb3766a34c?utm_campaign=1054&utm_source=git)** | San Juan, TX | On Site | Mar 16 |
+| **[Kairos Power](https://kairospower.com/)** | **[People Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67b90bb6462845fc17bf7e64?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Mar 16 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d267?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Mar 16 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d265?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Mar 15 |
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Internal Communications & Employee Experience Intern](https://jobright.ai/jobs/info/679bbbd263d736cdc8eaad31?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Mar 15 |
@@ -81,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[DoD SkillBridge or Military Spouse Fellowship Expanded Benefits Consumer Intern](https://jobright.ai/jobs/info/679c3455211c722b4aaff1c3?utm_campaign=1054&utm_source=git)** | Illinois, United States | On Site | Mar 15 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d266?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 15 |
 | **[Brose Group](https://www.brose.com/)** | **[Human Resources Intern (Year Round)](https://jobright.ai/jobs/info/67d5ba7d77eb4e20fc177297?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | Hybrid | Mar 15 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/678b49a152f2db2696151fc6?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Mar 15 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Seasonal Recruiting Intern (Lateral Partner Recruiting)](https://jobright.ai/jobs/info/67b95bc63880833109e4fc26?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Mar 15 |
 | **[Sparton](http://www.sparton.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67045e14a2f0e46be64b43d6?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Mar 15 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Human Resources (Learning & Development)](https://jobright.ai/jobs/info/67d583b4c4361070aefa0bf6?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Mar 15 |
@@ -113,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Home Office Support Intern](https://jobright.ai/jobs/info/67d64c4cc4d4e95cad7fd1b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/67d508eec07748907adfeb69?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/67d4eb949ee560f25fa17960?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Integration Intern (unpaid)](https://jobright.ai/jobs/info/67d798ddc6aa7cb60efff3de?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Mar 14 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2025 Summer Benefits Tech Analyst Internship](https://jobright.ai/jobs/info/67d4f8c90bf82764a918d9f9?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Mar 14 |
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67d4e65e6b716febb730dda2?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Mar 14 |
 | **[Epicor](http://www.epicor.com)** | **[HRBP Internship](https://jobright.ai/jobs/info/67d4e25c55a26a84e1203f46?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 14 |
@@ -129,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern (HRIS)](https://jobright.ai/jobs/info/67d4a97c02e486a419bf3cec?utm_campaign=1054&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Mar 14 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Staff Recruitment Team (Immediate Opening)](https://jobright.ai/jobs/info/67d4bb9a3625cd29742e6ae0?utm_campaign=1054&utm_source=git)** | Weslaco, TX | On Site | Mar 14 |
 | ↳ | **[Intern - Staff Selection Team (Immediate Opening)](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51d43?utm_campaign=1054&utm_source=git)** | Weslaco, TX | On Site | Mar 14 |
-| ↳ | **[Intern - Staff Recruitment Team (Immediate Opening)](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51d5c?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | Mar 14 |
 | ↳ | **[Intern - Staff Selection Team (Immediate Opening)](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51d3d?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | Mar 14 |
+| ↳ | **[Intern - Staff Recruitment Team (Immediate Opening)](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51d5c?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | Mar 14 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d4a8af782a9941c1acc538?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 14 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruitment Coordinator Intern](https://jobright.ai/jobs/info/67d4b5dc908dbdca69f51e59?utm_campaign=1054&utm_source=git)** | Duluth, MN | Hybrid | Mar 14 |
 | **[Crawford, Murphy & Tilly](http://cmtengr.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d4b5dd908dbdca69f51e97?utm_campaign=1054&utm_source=git)** | Springfield, IL | On Site | Mar 14 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/67d49b190fb231c2e4d70093?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/67d49b190fb231c2e4d7003a?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern -  New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c852?utm_campaign=1054&utm_source=git)** | New Britain, CT | On Site | Mar 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c83d?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c860?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c84f?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c83d?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/67d49b190fb231c2e4d70038?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c840?utm_campaign=1054&utm_source=git)** | Brooklyn, CT | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c879?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c83e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c846?utm_campaign=1054&utm_source=git)** | South Dartmouth, MA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
