@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Human Resources Intern, Summer 2025](https://jobright.ai/jobs/info/67d8e94f5d93b9472fa62774?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 17 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Miami Lakes](https://jobright.ai/jobs/info/67d8d86677c0d1fb34faca85?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Mar 17 |
+| ↳ | **[Summer 2025 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/67d8e91c0bc13c664da173cb?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 17 |
+| **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - People Analytics](https://jobright.ai/jobs/info/67d8d2934282608286757690?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Mar 17 |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Human Resources Intern, Summer 2025](https://jobright.ai/jobs/info/67d8db1cbe6e015ae2d5c719?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Mar 17 |
+| **[Tolmar](http://tolmar.com)** | **[Intern - HR](https://jobright.ai/jobs/info/67d8d119d81d12a5f1fae671?utm_campaign=1054&utm_source=git)** | Buffalo Grove, IL | On Site | Mar 17 |
+| **[Macmillan](http://macmillan.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/67d8c7b56a6b5ebeb27928eb?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Mar 17 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/67d8c57a2dda00d53fd97854?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Mar 17 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Corporate Travel)](https://jobright.ai/jobs/info/67d8d119d81d12a5f1fae72d?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Mar 17 |
+| **[New Braunfels Utilities](https://www.nbutexas.com/)** | **[Summer Hire](https://jobright.ai/jobs/info/67d8c7b56a6b5ebeb27929b5?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Mar 17 |
 | **[Clarke](https://clarke.com)** | **[Human Resources/Recruiter Intern](https://jobright.ai/jobs/info/67d8b44b488343f4432602e5?utm_campaign=1054&utm_source=git)** | Roselle, IL | Hybrid | Mar 17 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[HR Intern](https://jobright.ai/jobs/info/67d8b3800780f60a64d406c1?utm_campaign=1054&utm_source=git)** | Remote, United States | Remote | Mar 17 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/67d8b22187a0341b5fb284a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 17 |
@@ -70,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/67d891163d12b6ab5c20e7d7?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Mar 17 |
 | ↳ | **[2025 University Recruiting - AI / Machine Learning Internship](https://jobright.ai/jobs/info/67d891163d12b6ab5c20e8ff?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Mar 17 |
 | **[Blackstone](http://blackstone.com)** | **[2025 HR-SIG Summer Analyst, Strategic Incentives Group](https://jobright.ai/jobs/info/67d89d6797613ad7e18a72b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 17 |
+| **[HERE Technologies](https://www.here.com)** | **[HR Intern](https://jobright.ai/jobs/info/67d8e91c0bc13c664da177bc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Recruiting / Omni Care Internship- Summer 2024](https://jobright.ai/jobs/info/67d899afe4064f56d5a672da?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 17 |
 | **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (Local, Year-Round) (f/m/d)](https://jobright.ai/jobs/info/67d8801f25b342c709a1a3d3?utm_campaign=1054&utm_source=git)** | Aurora, IL | Hybrid | Mar 17 |
 | **[Benchmark](http://www.bench.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/67d87f3fde8c4fea65317230?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Mar 17 |
@@ -145,16 +156,5 @@ For a complete list, click the following sortable link below:
 | **[V3 Companies](http://v3co.com)** | **[Internship Summer 2025](https://jobright.ai/jobs/info/67d52132a563c7713f03f251?utm_campaign=1054&utm_source=git)** | Woodridge, IL | On Site | Mar 14 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Benefits Intern](https://jobright.ai/jobs/info/67d5408d365977a90a4e72ce?utm_campaign=1054&utm_source=git)** | Peoria, IL | Hybrid | Mar 14 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Cash Assistance (RCA) Intern (unpaid)](https://jobright.ai/jobs/info/67d7a6c42697f8e9d668c563?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Mar 14 |
-| ↳ | **[Services for Older Refugees (SOR) Intern](https://jobright.ai/jobs/info/67d79f870d5ce63945b0b8b8?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Mar 14 |
 | ↳ | **[Career Pathways Intern](https://jobright.ai/jobs/info/67d79f870d5ce63945b0b8ed?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Mar 14 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Home Office Support Intern](https://jobright.ai/jobs/info/67d64c4cc4d4e95cad7fd1b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Summer 2025 Human Resources (HR) Undergraduate Internship](https://jobright.ai/jobs/info/67d508eec07748907adfeb69?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[S&P Global](https://www.spglobal.com)** | **[People Team Intern](https://jobright.ai/jobs/info/67d4eb949ee560f25fa17960?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2025 Summer Benefits Tech Analyst Internship](https://jobright.ai/jobs/info/67d4f8c90bf82764a918d9f9?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Mar 14 |
-| **[Epicor](http://www.epicor.com)** | **[HRBP Internship](https://jobright.ai/jobs/info/67d4e25c55a26a84e1203f46?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Mar 14 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern (Summer 2025)](https://jobright.ai/jobs/info/67d4ddb81132b908714ff01b?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Mar 14 |
-| **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d4e25c55a26a84e1203f4d?utm_campaign=1054&utm_source=git)** | Melville, NY | Hybrid | Mar 14 |
-| **[Staples](http://www.staples.com)** | **[Talent Acquisition Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67d4d0c5c70916c7bce47ad3?utm_campaign=1054&utm_source=git)** | Framingham, MA | Hybrid | Mar 14 |
-| **[Gregory Poole Equipment Company](http://www.gregorypoole.com)** | **[HR Corporate Intern ](https://jobright.ai/jobs/info/67d4ce5b0454078fa8e21d27?utm_campaign=1054&utm_source=git)** | 4807 Beryl Rd, Raleigh, NC 27606, USA | On Site | Mar 14 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Human Resources Information Systems](https://jobright.ai/jobs/info/67d4c7b89c489c8d0f206f0e?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
