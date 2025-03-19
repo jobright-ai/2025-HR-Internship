@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Palm Bay, FL)](https://jobright.ai/jobs/info/67be4acdb91289ab6ebfb4ae?utm_campaign=1054&utm_source=git)** | Palm Bay, FL | On Site | Mar 19 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/67da97abe1ac454ac9674198?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Mar 19 |
 | **[Transformations Care Network](https://www.transformationsnetwork.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67da8c9b76d728bbaf9731a1?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67da6c64b8bdd2f6d99ca856?utm_campaign=1054&utm_source=git)** | Russellville, AR | On Site | Mar 18 |
 | **[SK hynix](http://www.skhynix.com)** | **[Intern, HR Coordinator](https://jobright.ai/jobs/info/67da739672aee451457d0472?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Flynn Group of Companies](https://flynncompanies.com/)** | **[INTERNSHIP OPPORTUNITIES](https://jobright.ai/jobs/info/67da1f5737118ce899db6d89?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Mar 18 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[Incentive Compensation Intern](https://jobright.ai/jobs/info/67da12487c27ce0112cc09c6?utm_campaign=1054&utm_source=git)** | US - CA - San Diego - Summers Ridge | On Site | Mar 18 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[University Relations HR Intern, Summer 2025](https://jobright.ai/jobs/info/67da0e11c12176ee958e7c61?utm_campaign=1054&utm_source=git)** | USA IRV-1472 Alton/DBC6-7 | On Site | Mar 18 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2025 Human Resources Summer Intern](https://jobright.ai/jobs/info/67da11225f7dfec81e168215?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/67da132965ccd0761397aa79?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Mar 18 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2025](https://jobright.ai/jobs/info/67d9f7ee50665efbecc1305d?utm_campaign=1054&utm_source=git)** | San Francisco | On Site | Mar 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986055?utm_campaign=1054&utm_source=git)** | Russellville, Arkansas | On Site | Mar 18 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Global Impact](https://www.charity.org)** | **[Onboarding Support Intern, HR & Administration](https://jobright.ai/jobs/info/67da32f8c86c1571a608a786?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
 | **[Sunsweet Growers Inc.](http://www.sunsweet.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d9fd0fb5d76c452c27d62f?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Mar 18 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Legal Regulatory Internship](https://jobright.ai/jobs/info/67d9e3ec31ecfc1590cb05d9?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Mar 18 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2025 Human Resources Summer Intern](https://jobright.ai/jobs/info/67d9e3ec31ecfc1590cb05fb?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/67d9f7ee50665efbecc1314d?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Mar 18 |
 | **[Beyond](https://beyondpricing.com)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/67da020f2f2f75f813a35389?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Mar 18 |
 | **[The Hartford](http://www.thehartford.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d9ebba51c701435b4de730?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Mar 18 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[People Services Delivery Intern](https://jobright.ai/jobs/info/67a08cb5d80eb57af8eb14d2?utm_campaign=1054&utm_source=git)** | Provo, UT | Hybrid | Mar 18 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Human Resources Intern - Global](https://jobright.ai/jobs/info/67d94a10710806c96f47f471?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 18 |
 | ↳ | **[Human Resources Intern- Learning & Development](https://jobright.ai/jobs/info/67d94a10710806c96f47f479?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 18 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2025 Internship - Binghamton](https://jobright.ai/jobs/info/67bbb2dd7ddc0eb46e2f7ef3?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Mar 18 |
 | **[GradGuard - College Life Protected](https://gradguard.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67cf1f69d18eaba142794c19?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Mar 17 |
 | **[Formlabs](http://www.formlabs.com)** | **[Workplace Experience Intern (Fall 2025 co-op)](https://jobright.ai/jobs/info/67d4b10c747ec1c14d1f25d8?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Mar 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Healthcare Navigation Intern](https://jobright.ai/jobs/info/67da490c0f8c033477f5d330?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freudenberg Home and Cleaning Solutions](http://www.vileda.com/au/)** | **[Human Resources Intern (Local, Year-Round) (f/m/d)](https://jobright.ai/jobs/info/67d8801f25b342c709a1a3d3?utm_campaign=1054&utm_source=git)** | Aurora, IL | Hybrid | Mar 17 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[Paid College Internship/Employee Health & Safety Department](https://jobright.ai/jobs/info/67d88372512794d230737003?utm_campaign=1054&utm_source=git)** | Delaware, OH | On Site | Mar 17 |
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d8793ef532731edc96316f?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Mar 17 |
-| **[Alstom](https://www.alstom.com/)** | **[HR Intern (Summer 2025)](https://jobright.ai/jobs/info/67d21ddbf93a6f2ac64f6d9e?utm_campaign=1054&utm_source=git)** | West Mifflin, PA | On Site | Mar 17 |
-| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/67d870282f33852699c4caf4?utm_campaign=1054&utm_source=git)** | Tampa Florida United States | On Site | Mar 17 |
-| **[National Safety Apparel](http://thinknsa.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67d873e4704ce00ffa82efbc?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
