@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Intern （TikTok-Product and Design） - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/67e2a38d20ad41d19f2a7792?utm_campaign=1054&utm_source=git)** | Los Angeles | On Site | Mar 25 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Human Resources Summer Internship - Fernley, NV](https://jobright.ai/jobs/info/67e29a01795f8b15f7c2e13e?utm_campaign=1054&utm_source=git)** | Fernley, NV | On Site | Mar 25 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern](https://jobright.ai/jobs/info/67e26b5742141269f4f9b385?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Mar 25 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/67e23b5c6ce65b92bd11a203?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Compensation](https://jobright.ai/jobs/info/67e22b2e49e4e292e1ce373f?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 24 |
 | ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/67e22b2e49e4e292e1ce3743?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 24 |
 | **[Marcus Hotels & Resorts](https://www.marcushotels.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e23bf5e19ea1ea3b2c67ff?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Mar 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, Talent Acquisition Coordinator](https://jobright.ai/jobs/info/67e22e5a24677cbf633db4d1?utm_campaign=1054&utm_source=git)** | Warrendale, PA | On Site | Mar 24 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 HSPRS Casework Intern](https://jobright.ai/jobs/info/67e23bf5e19ea1ea3b2c6825?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 24 |
-| ↳ | **[Summer 2025 Development & Volunteer Intern](https://jobright.ai/jobs/info/67e233080affd81df7c5dcfb?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | On Site | Mar 24 |
 | **[Spectrum](https://www.spectrum.com)** | **[HR Data Reporting Analyst Summer Intern 2025 - Field Service](https://jobright.ai/jobs/info/67e233080affd81df7c5ddb8?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Mar 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/67e233080affd81df7c5ded8?utm_campaign=1054&utm_source=git)** | New Albany, IN | On Site | Mar 24 |
 | ↳ | **[Summer Management Intern Dallas](https://jobright.ai/jobs/info/67e234f10affd81df7c5e325?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Human Resources Intern (Hybrid)](https://jobright.ai/jobs/info/67e1e23c6c5a6aabb24632a7?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Human Resources Fall 2025 Internship](https://jobright.ai/jobs/info/67e1dc646fb4f469239f24b2?utm_campaign=1054&utm_source=git)** | Austin, TX, USA | On Site | Mar 24 |
 | **[Bone Dry Roofing](https://www.bonedry.com/indianapolis/)** | **[HR Internship-Summer 2025](https://jobright.ai/jobs/info/67e1e23c6c5a6aabb24634be?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Mar 24 |
-| **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[HR People Analytics Intern](https://jobright.ai/jobs/info/67e1d860654a63ab6a8dba0e?utm_campaign=1054&utm_source=git)** | Malvern, PA | On Site | Mar 24 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e1d9b9deaef06bb385855a?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Mar 24 |
 | **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67e1eb23520d884fcbf070ae?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Mar 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2025 Human Resources Summer Internship - Massillon, OH](https://jobright.ai/jobs/info/67e1cf411b4eccfbe1cdc9e0?utm_campaign=1054&utm_source=git)** | Massillon, OH | On Site | Mar 24 |
@@ -103,8 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Sage Solutions Group](https://www.sagesolutionsgroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e16427acab250d9f37ba99?utm_campaign=1054&utm_source=git)** | Livonia, MI | On Site | Mar 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/66f4a86ad58a4dae080b558d?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Mar 24 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/66db41c3e9f063610bd08773?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Mar 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/66f1b23763f3e243696b2c41?utm_campaign=1054&utm_source=git)** | Albany, GA | On Site | Mar 24 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c458163647aced5e8aa22f?utm_campaign=1054&utm_source=git)** | Pottsville, PA | Hybrid | Mar 24 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/6762c87aebc2b4204bbfd057?utm_campaign=1054&utm_source=git)** | Beckley, WV | On Site | Mar 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6785e10ead3793e32eefdce5?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Mar 24 |
+| ↳ | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/6762c87aebc2b4204bbfd057?utm_campaign=1054&utm_source=git)** | Beckley, WV | On Site | Mar 24 |
 | **[Harris | Oakmark](https://www.harrisassoc.com)** | **[Talent Community - Discover Your Potential](https://jobright.ai/jobs/info/67494e099f7da9d1b4398481?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/67e22880e3cce584fc4f8fcc?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Mar 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Hudson, NY](https://jobright.ai/jobs/info/67a6c1a90c077387b3e49d37?utm_campaign=1054&utm_source=git)** | Hudson, NY | On Site | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/66b6488ab1bcf32becade2bc?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Mar 22 |
 | **[JRM Construction Management](http://jrmcm.com)** | **[Join our Talent Network](https://jobright.ai/jobs/info/674973e29a71c8abf4986754?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Mar 22 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Diversity & Inclusion](https://jobright.ai/jobs/info/67a82001d2ab7f4b89c73b82?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Mar 22 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/679df1cb6f0cdfa7177c1aaf?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
