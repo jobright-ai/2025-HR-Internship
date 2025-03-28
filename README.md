@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eulerity](https://www.eulerity.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67e614e5597918f59e166a06?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Mar 27 |
+| **[Share Creators](http://www.sharecreators.com)** | **[Recruiter](https://jobright.ai/jobs/info/67e481c938df783307099445?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 27 |
+| **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Admissions Counselor Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256faf74?utm_campaign=1054&utm_source=git)** | Eugene, OR | On Site | Mar 27 |
 | **[NetSPI](https://www.netspi.com)** | **[PeopleOps Intern](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b509b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[Eulerity](https://www.eulerity.com)** | **[Recruiting Intern ](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a55af?utm_campaign=1054&utm_source=git)** | new york, new york | On Site | Mar 27 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Talent Acquisition Intern, Summer 2025](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5675?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Mar 27 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Associate, Talent Management](https://jobright.ai/jobs/info/67e5cff2508ddaa9dab36cf0?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | On Site | Mar 27 |
 | **[AssuredPartners](https://www.assuredpartners.com)** | **[Human Resources Intern- Summer 2025](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5c73?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Mar 27 |
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[HR Intern](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5760?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2025 Employment Casework Intern](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b5281?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Grand View University](http://www.grandview.edu/)** | **[Career Center Graduate Assistant](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b5271?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[Pillsbury Winthrop Shaw Pittman LLP](http://www.pillsburylaw.com)** | **[HR Intern](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b52bf?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
 | **[Cooper Machinery Services](http://cooperservices.com/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b5378?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Mar 27 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (ADA)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb20823?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 | **[G2](https://www.g2.com)** | **[Employee Success Intern (Human Resources)](https://jobright.ai/jobs/info/67c91ed428275c956169ba02?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb20825?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Mar 27 |
+| ↳ | **[Summer 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb2084b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[People (HR) Process Improvement Intern](https://jobright.ai/jobs/info/67abb7fefb26143c0bb819b6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Mar 27 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb20832?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Mar 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399c13?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Mar 27 |
@@ -118,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/67e4ca62e0d3d98dc8698f6f?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Mar 26 |
 | ↳ | **[Summer 2025 Management Trainee Intern Jupiter](https://jobright.ai/jobs/info/67e4ca62e0d3d98dc8698f27?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Mar 26 |
 | **[RLS Radiopharmacies](https://rls.bio/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e4ca62e0d3d98dc8698f95?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Mar 26 |
+| **[Allstate](http://www.allstate.com)** | **[D3 Talent Development Associate Apprentice](https://jobright.ai/jobs/info/67c7882dbdd23b04662b8634?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Mar 26 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/67e4c0cd6101947f0861e234?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[Jewish Federation of Cincinnati](https://www.jfedcin.org)** | **[Human Resource Intern](https://jobright.ai/jobs/info/67e5a934c881d3ed390e5a09?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[U.S. Xpress, Inc.](https://www.usxpress.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/67e5a934c881d3ed390e5a5a?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | Hybrid | Mar 26 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Tenneco](https://www.tenneco.com/)** | **[HR System Optimization Intern](https://jobright.ai/jobs/info/67e48bcd30c6703a6d0e0d9e?utm_campaign=1054&utm_source=git)** | Northville, MI | On Site | Mar 26 |
 | **[Citizant](https://citizant.com)** | **[SkillBridge Internship: Recruiter - 100% Remote (REF1733C)**](https://jobright.ai/jobs/info/67e495c01150bea9019e1b55?utm_campaign=1054&utm_source=git)** | Chantilly, VA | Remote | Mar 26 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Part-time Internship – HR (Learning & Development)](https://jobright.ai/jobs/info/67e478827eb7981958978b6a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Mar 26 |
-| **[Share Creators](http://www.sharecreators.com)** | **[Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/67e481c938df783307099445?utm_campaign=1054&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Innophos](http://www.innophos.com/)** | **[Talent Acquisition/HR Intern-Summer 2025](https://jobright.ai/jobs/info/67e46e503d2fa58f318dbe7f?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | On Site | Mar 26 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/67809cc0a9801fb15a7a37ad?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Mar 26 |
 | **[Patterson Companies, Inc.](http://pattersoncompanies.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e4555d2a2d6b82e674d510?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[General Interest Application - Obsidian Talent Community](https://jobright.ai/jobs/info/67e43723bb5d5b697303fc1e?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
 | **[Morton Salt](https://www.mortonsalt.com/)** | **[Human Resources Intern - Summer/Fall 2025](https://jobright.ai/jobs/info/67c8cea7292b154b836576bb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Mar 26 |
 | **[Turck USA](https://www.turck.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67e42dc9728278dc9e47db3d?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Mar 26 |
-| **[Fleet Services by Cox Automotive](http://dickinsonfleet.com/)** | **[Talent Development Specialist Intern](https://jobright.ai/jobs/info/67e43723bb5d5b697303f8ee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 26 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Talent Development Specialist Itern](https://jobright.ai/jobs/info/67e40f8863236cf4943ae78c?utm_campaign=1054&utm_source=git)** | Indianapolis IN | On Site | Mar 26 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67c7a56ef6b701660f019625?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
