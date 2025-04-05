@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - White Bear Lake](https://jobright.ai/jobs/info/67f101ee994402990d45fccc?utm_campaign=1054&utm_source=git)** | White Bear Lake, MN | On Site | Apr 05 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/67f0d6d144306c2816717c9b?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 04 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Intern LGA](https://jobright.ai/jobs/info/67f0bea51815b408de353837?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Human Resources Intern Home Office](https://jobright.ai/jobs/info/67f0bea51815b408de353d2f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Northern Queens](https://jobright.ai/jobs/info/679ae213f25fbc5b7bac86d6?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Apr 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6765317099809c8f20da84d3?utm_campaign=1054&utm_source=git)** | Wenatchee, WA | On Site | Apr 04 |
 | **[Aon](http://www.aon.com)** | **[Early Careers Health & Benefits Intern](https://jobright.ai/jobs/info/677d2af1f6932fce99a2615b?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/67d3212c6c0be35861f156e4?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Apr 04 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/67efe6dfff8106897340e4c9?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d3bbe2055ee3c2bbe103c6?utm_campaign=1054&utm_source=git)** | Lake Forest, CA | On Site | Apr 04 |
 | **[ConnectiveRx](http://www.connectiverx.com/)** | **[Intern - Compensation and Benefits](https://jobright.ai/jobs/info/679aa3e5ee377f0f20ccbc91?utm_campaign=1054&utm_source=git)** | Whippany, NJ | On Site | Apr 04 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Shake Shack](http://shakeshack.com)** | **[Hospitality Operations Intern](https://jobright.ai/jobs/info/67efa76fde60ac569bbf45b0?utm_campaign=1054&utm_source=git)** | Newark, DE | On Site | Apr 04 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[People and Culture (HR) Intern - Hotel Commonwealth](https://jobright.ai/jobs/info/67ef94987def267c1c758021?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 03 |
 | **[Alside](https://www.alside.com/)** | **[Talent Pool - Cuyahoga Falls, OH](https://jobright.ai/jobs/info/674d6938f8eb13f28cb6df19?utm_campaign=1054&utm_source=git)** | Cuyahoga Falls, OH | On Site | Apr 03 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/67f0ca80cec7b97db7d9c93e?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Apr 03 |
 | **[Sparq](https://www.teamsparq.com)** | **[Talent Network](https://jobright.ai/jobs/info/67f0c0b21815b408de353fca?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/67f0c0b21815b408de35402a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall Anti-Trafficking and Victim Services Case Management Intern](https://jobright.ai/jobs/info/67f0ea933020ba740fe24a75?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Registered Mental Health Intern](https://jobright.ai/jobs/info/67ef3201e0b9b5b9f804ff85?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 03 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Human Resources Intern - Summer 2025](https://jobright.ai/jobs/info/67ef0948b351fb114fa67016?utm_campaign=1054&utm_source=git)** | West Hartford, CT | Hybrid | Apr 03 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[General People Intern App](https://jobright.ai/jobs/info/67eeec132683908e871188f5?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 03 |
-| **[True Homes](https://truehomesusa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67eef3b02998919d2fdafb51?utm_campaign=1054&utm_source=git)** | Monroe, NC | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
