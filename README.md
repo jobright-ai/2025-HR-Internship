@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Human Resources Intern (Starting May 2025!)](https://jobright.ai/jobs/info/67f2f5892979b0a889a4c02d?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Apr 06 |
+| **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Intern](https://jobright.ai/jobs/info/67f2eaf88df02f2f7557a26c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0082eb?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 06 |
 | **[Urban Engineers](http://urbanengineers.com)** | **[Internship General Expression of Interest (38608)](https://jobright.ai/jobs/info/67f240866afff48b6fc3b1dd?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
+| **[GradGuard - College Life Protected](https://gradguard.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67cf1f69d18eaba142794c19?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 05 |
 | **[Country Meadows Retirement Communities](https://www.countrymeadows.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67f205c368570be852bed4f9?utm_campaign=1054&utm_source=git)** | Hershey, PA | On Site | Apr 05 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2f47?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Apr 05 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c84f?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Apr 05 |
 | **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/67f1a2010039e84cbaa27291?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Apr 05 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2eb3?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 05 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[HR Intern, Employee Experience & Engagement Summer 2025](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053f9e7?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
@@ -93,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Burlington, VT](https://jobright.ai/jobs/info/679ae213f25fbc5b7bac86d8?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Economic Security Intern - Unpaid](https://jobright.ai/jobs/info/67f227aa011d88d7eeb087ba?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/67f0d6d144306c2816717c9b?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 04 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Intern LGA](https://jobright.ai/jobs/info/67f20fcdc8a9a40b7f48434c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Human Resources Intern Home Office](https://jobright.ai/jobs/info/67f0bea51815b408de353d2f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Intern Home Office](https://jobright.ai/jobs/info/67f0bea51815b408de353d2f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67f0a7fea1e833b015b0d0e1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 04 |
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce69a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Dakota)](https://jobright.ai/jobs/info/67c5129a789f5abd57ec1234?utm_campaign=1054&utm_source=git)** | Harrisburg, SD | On Site | Apr 04 |
@@ -141,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f035cf1d9a7812443fd21f?utm_campaign=1054&utm_source=git)** | USA - Austin, TX | Hybrid | Apr 04 |
 | **[ATI Worksite Solutions](https://www.atiworksitesolutions.com/)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6d52?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Apr 04 |
 | **[E-J Electric Installation Co.](http://ej1899.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67f069e560e8529beed5830b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/6752c5e2b232437059babdde?utm_campaign=1054&utm_source=git)** | Fort Lupton, CO | On Site | Apr 04 |
 | **[Roux](http://www.rouxinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67da255e2250eda994c383b7?utm_campaign=1054&utm_source=git)** | Islandia, NY | On Site | Apr 04 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship – Southeast – Summer 2025](https://jobright.ai/jobs/info/67f032916f4a550284a23935?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 04 |
 | **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/67f06e1fdae99516da4abc27?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Howmet Aerospace](https://www.howmet.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/67b76e40d7fabd8c2c464cd4?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Apr 04 |
 | **[Color](https://www.color.com)** | **[Talent Pool](https://jobright.ai/jobs/info/67f01708ba92eb874814fa9e?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/67c5195fcc174cbdc90d6abc?utm_campaign=1054&utm_source=git)** | Dickinson, ND | On Site | Apr 04 |
-| ↳ | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/67d28c25c0958ec7442b57c8?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Apr 04 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[HR Project Intern](https://jobright.ai/jobs/info/67f00d66c906e086f59cf03e?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | Hybrid | Apr 04 |
-| **[Wonderful Orchards](http://wonderfulorchards.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a449406?utm_campaign=1054&utm_source=git)** | Shafter, CA | On Site | Apr 04 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Summer Internship](https://jobright.ai/jobs/info/67efea7a59f59bf6232ef6e6?utm_campaign=1054&utm_source=git)** | 2001 Maywell Street, Richmond, VA, 23230, US | On Site | Apr 04 |
-| **[RaganSmith](http://www.ragansmith.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67d3774d07a744828d3a460e?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
-| **[Wonderful College Prep Academy](http://www.wonderfulcollegeprepacademy.org/)** | **[Wonderful College Scholar Summer Internship, Human Resources (WCPA)](https://jobright.ai/jobs/info/67d375e11862f52749a2ee11?utm_campaign=1054&utm_source=git)** | Delano, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
