@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/67f37f94868123ce21469d6a?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Apr 06 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67f337b3a0dbc1305fa55780?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 06 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Human Resources Intern (Starting May 2025!)](https://jobright.ai/jobs/info/67f2f5892979b0a889a4c02d?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Apr 06 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Intern](https://jobright.ai/jobs/info/67f2eaf88df02f2f7557a26c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Apr 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679d8787e3b57e1a4e0082eb?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Apr 06 |
 | **[Urban Engineers](http://urbanengineers.com)** | **[Internship General Expression of Interest (38608)](https://jobright.ai/jobs/info/67f240866afff48b6fc3b1dd?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Apr 06 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Amarillo](https://jobright.ai/jobs/info/67293da5af5e36be8d76a3ee?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Apr 05 |
 | **[GradGuard - College Life Protected](https://gradguard.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67cf1f69d18eaba142794c19?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Apr 05 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Cash Assistance (RCA) Intern (unpaid)](https://jobright.ai/jobs/info/67f35af89135512b93ef54cd?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Apr 05 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2eb4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 05 |
 | **[Country Meadows Retirement Communities](https://www.countrymeadows.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67f205c368570be852bed4f9?utm_campaign=1054&utm_source=git)** | Hershey, PA | On Site | Apr 05 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2f4d?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Apr 05 |
 | **[IGT](http://igt.com)** | **[Workforce Planning Intern](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb57839?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Apr 05 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d267?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 05 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8c62a376337f33e3c1227?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 05 |
@@ -103,7 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Burlington, VT](https://jobright.ai/jobs/info/679ae213f25fbc5b7bac86d8?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Apr 04 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Economic Security Intern - Unpaid](https://jobright.ai/jobs/info/67f227aa011d88d7eeb087ba?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern - Culture & DEI](https://jobright.ai/jobs/info/67f0d6d144306c2816717c9b?utm_campaign=1054&utm_source=git)** | El Segundo, CA | Hybrid | Apr 04 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Intern Home Office](https://jobright.ai/jobs/info/67f0bea51815b408de353d2f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
+| **[LMI](http://www.lmi.org)** | **[Internship and Fellowship Programs Specialist](https://jobright.ai/jobs/info/67eda3c8893aa408234fb8ed?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Apr 04 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Resettlement Intern - Unpaid](https://jobright.ai/jobs/info/67f36512d9bb15f647c062d0?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 04 |
+| **[OTG Management](http://www.otgexp.com/)** | **[Human Resources Intern LGA](https://jobright.ai/jobs/info/67f35af89135512b93ef5587?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Human Resources Intern Home Office](https://jobright.ai/jobs/info/67f0bea51815b408de353d2f?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67f0a7fea1e833b015b0d0e1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 04 |
 | **[SpyCloud](https://spycloud.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce69a4?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (South Dakota)](https://jobright.ai/jobs/info/67c5129a789f5abd57ec1234?utm_campaign=1054&utm_source=git)** | Harrisburg, SD | On Site | Apr 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/67f04909b28d69b1ebfd5479?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | **[Reingold, Inc.](http://reingold.com)** | **[People & Experience Internship](https://jobright.ai/jobs/info/67f048b9e992d68e6524bcf2?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Apr 04 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f035cf1d9a7812443fd21f?utm_campaign=1054&utm_source=git)** | USA - Austin, TX | Hybrid | Apr 04 |
-| **[ATI Worksite Solutions](https://www.atiworksitesolutions.com/)** | **[Skill Bridge - ATI Corporate Based Internship](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6d52?utm_campaign=1054&utm_source=git)** | Downers Grove, IL | On Site | Apr 04 |
-| **[E-J Electric Installation Co.](http://ej1899.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67f069e560e8529beed5830b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/6752c5e2b232437059babdde?utm_campaign=1054&utm_source=git)** | Fort Lupton, CO | On Site | Apr 04 |
-| **[Roux](http://www.rouxinc.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67da255e2250eda994c383b7?utm_campaign=1054&utm_source=git)** | Islandia, NY | On Site | Apr 04 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship – Southeast – Summer 2025](https://jobright.ai/jobs/info/67f032916f4a550284a23935?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Apr 04 |
-| **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/67f06e1fdae99516da4abc27?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 04 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2025](https://jobright.ai/jobs/info/660da5cc5c72843175806651?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Apr 04 |
-| **[Alliant Engineering, Inc.](http://alliant-inc.com)** | **[HR Intern](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e14a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
