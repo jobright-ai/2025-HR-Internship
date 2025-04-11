@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67f8861cd6896dab6e8d8f91?utm_campaign=1054&utm_source=git)** | Fremont, California | On Site | Apr 10 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Coral Springs, FL](https://jobright.ai/jobs/info/67f8861cd6896dab6e8d964b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Apr 10 |
+| **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - HR Shared Services](https://jobright.ai/jobs/info/67f8861cd6896dab6e8d8f84?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 10 |
+| **[WinnCompanies](https://www.winncompanies.com)** | **[Talent Acquisition Intern (Boston, MA)](https://jobright.ai/jobs/info/67f87683088458e64bf79471?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Apr 10 |
 | **[Internet Brands](http://www.internetbrands.com)** | **[HR & Recruiting Operations Intern (Part-Time)](https://jobright.ai/jobs/info/67f8626fa137f01605c119af?utm_campaign=1054&utm_source=git)** | El Segundo, California | On Site | Apr 10 |
 | **[LSG Sky Chefs](http://www.lsgskychefs.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/67f849e71affb0571f8bebc1?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Apr 10 |
 | **[Flagship Facility Services, Inc.](https://flagshipinc.com/)** | **[Human Resources Intern- Bilingual](https://jobright.ai/jobs/info/67f849e71affb0571f8becba?utm_campaign=1054&utm_source=git)** | Southlake, TX | Hybrid | Apr 10 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[2026 2L Summer Associate - Washington, DC](https://jobright.ai/jobs/info/67f83b4bcabacd2b908ed67b?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Apr 10 |
 | **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[HUMAN RESOURCES ADMIN INTERN ASSISTANT (SEASONAL)](https://jobright.ai/jobs/info/67f83b4bcabacd2b908ed92e?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Apr 10 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/67f82b561e757015cbded614?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Apr 10 |
-| ↳ | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/67f82b561e757015cbded641?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Apr 10 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/67f82b561e757015cbded641?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Apr 10 |
+| ↳ | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/67f82b561e757015cbded614?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Apr 10 |
 | **[Essendant](http://www.essendant.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67f829d31e757015cbded0d9?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 10 |
-| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f81764d88f8155040a747a?utm_campaign=1054&utm_source=git)** | Oakland, NJ | On Site | Apr 10 |
 | **[Faurecia](https://www.faurecia.com/en)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/67f81655fef42498410c4652?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Apr 10 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/67f81655fef42498410c4661?utm_campaign=1054&utm_source=git)** | Novato, CA | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f80f8cfe47295f004d70ad?utm_campaign=1054&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
@@ -89,11 +92,13 @@ For a complete list, click the following sortable link below:
 | **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Intern/Trainee - All County Departments](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaf5f?utm_campaign=1054&utm_source=git)** | San Luis Obispo County, CA | On Site | Apr 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Indiana)](https://jobright.ai/jobs/info/67f81da2d1820079e851a2c5?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 10 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Internship](https://jobright.ai/jobs/info/67f7e0bc6d492977a2da6fc4?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Apr 10 |
+| **[Associated Materials](http://www.associatedmaterials.com/)** | **[Talent Pool - Cuyahoga Falls, OH](https://jobright.ai/jobs/info/67ac2decc061effc56afe565?utm_campaign=1054&utm_source=git)** | Cuyahoga Falls, OH | On Site | Apr 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/67f7bda60d2a501fe9b36a11?utm_campaign=1054&utm_source=git)** | Roanoke, VA | On Site | Apr 10 |
 | **[Middlesex Sheriff's Office](http://www.middlesexsheriff.org)** | **[Recruitment and Retention Coordinator](https://jobright.ai/jobs/info/67f7eef8eba93f2516c51d18?utm_campaign=1054&utm_source=git)** | Woburn, MA | On Site | Apr 10 |
 | **[Continental](https://www.continental.com)** | **[HR Intern](https://jobright.ai/jobs/info/67f7b8bf79adb193566cb401?utm_campaign=1054&utm_source=git)** | Clinton, MS | On Site | Apr 10 |
 | ↳ | **[ESH Internship - Summer](https://jobright.ai/jobs/info/67f7b8bf79adb193566cb3ff?utm_campaign=1054&utm_source=git)** | Barnesville, GA | On Site | Apr 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc39e?utm_campaign=1054&utm_source=git)** | Pueblo, CO | On Site | Apr 10 |
+| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f7d632ddee8fe41079902b?utm_campaign=1054&utm_source=git)** | Oakland, NJ | On Site | Apr 10 |
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eadf7?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/67db9161a0e2d014f2b6dd38?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Apr 10 |
 | **[Sasser Family Companies](https://www.sasser.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f7bb1379f363f95fdc1dd1?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Apr 10 |
@@ -108,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[The Timken Company](http://www.timken.com)** | **[Talent Acquisition Intern -  Spring & Summer 2025](https://jobright.ai/jobs/info/67f77d2dfaa13e6136e84ad6?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/67f77d2dfaa13e6136e84af5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Apr 10 |
 | **[The Timken Company](http://www.timken.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f772f87d8941d18fba9cd1?utm_campaign=1054&utm_source=git)** | North Canton, OH | On Site | Apr 10 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f77151f8fdd1b9fcf5a947?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
-| ↳ | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f77151f8fdd1b9fcf5a8b8?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Apr 10 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f77151f8fdd1b9fcf5a8b8?utm_campaign=1054&utm_source=git)** | Irvine, CA | Hybrid | Apr 10 |
+| ↳ | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f77151f8fdd1b9fcf5a947?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 10 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f787ca4a71cea866a50e21?utm_campaign=1054&utm_source=git)** | Woodridge, IL | On Site | Apr 09 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[HR Intern](https://jobright.ai/jobs/info/67f7556d5ba852d103b10278?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Apr 09 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[HR Coordinator Summer Experience](https://jobright.ai/jobs/info/67f73846571176c497471453?utm_campaign=1054&utm_source=git)** | Maryville, TN | Hybrid | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/67f697aaa68bf683e757810f?utm_campaign=1054&utm_source=git)** | Pueblo-Cañon City Area | On Site | Apr 09 |
 | **[Barclays](https://home.barclays)** | **[2025 Empowering Leadership Fellowship](https://jobright.ai/jobs/info/67f6c2e3c9731f5444ac0481?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Human Resources Internship, Talent Acquisition and L&D - Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67f695382af70129bf2565a8?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 09 |
-| **[Blackstone](http://blackstone.com)** | **[2025 HR-SIG Summer Analyst, Strategic Incentives Group](https://jobright.ai/jobs/info/67f695382af70129bf256625?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[Cannondale](http://www.cannondale.com)** | **[Join the US Talent Community](https://jobright.ai/jobs/info/67f6bb1ce2082528cc702339?utm_campaign=1054&utm_source=git)** | Wilton, CT | On Site | Apr 09 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Human Resources Intern (Year-Round)](https://jobright.ai/jobs/info/67da50be28500b2140379282?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| **[PDI Technologies](https://pditechnologies.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/67ed7061c24efea632b0af2c?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | Hybrid | Apr 09 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/67f6aa2e84545a3a1845fecc?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
