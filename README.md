@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Linamar Corporation](http://www.linamar.com/)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/680b876320a5058013bf252d?utm_campaign=1054&utm_source=git)** | 309 Counts Dr, Muscle Shoals, AL, 35661, US | On Site | Apr 25 |
+| **[BioSpace](http://www.biospace.com/)** | **[General Interest Application - Obsidian Talent Community](https://jobright.ai/jobs/info/680bcaa0968f71640d77dd60?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Apr 25 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680bc04dbd3aed8e15d7f39a?utm_campaign=1054&utm_source=git)** | High Ridge, MO | Hybrid | Apr 25 |
+| **[Advarra](https://www.advarra.com/)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/680bc04dbd3aed8e15d7f2b1?utm_campaign=1054&utm_source=git)** | Wellesley, MA | On Site | Apr 25 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant - Human Resources](https://jobright.ai/jobs/info/680bb90f67d09ced2ff55a17?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Apr 25 |
+| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Intern-Highschool](https://jobright.ai/jobs/info/680bb7ad92f43e5c6f592fcc?utm_campaign=1054&utm_source=git)** | Butler, IN | On Site | Apr 25 |
+| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Acquisition & Development)](https://jobright.ai/jobs/info/67eed4e10bdb919a84e17b17?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 25 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Recruiter/Internship Coordinator - AGI](https://jobright.ai/jobs/info/680bcaa0968f71640d77dfdf?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Apr 25 |
+| **[Humana](http://www.humana.com)** | **[CWP HR Intern Business Development](https://jobright.ai/jobs/info/680b9f39723949de38977f55?utm_campaign=1054&utm_source=git)** | Remote Nationwide | Remote | Apr 25 |
+| **[Linamar Corporation](http://www.linamar.com/)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/680b9f16085ded42c5cd7584?utm_campaign=1054&utm_source=git)** | Muscle Shoals, AL | On Site | Apr 25 |
+| ↳ | **[Human Resources Co-Op](https://jobright.ai/jobs/info/680b876320a5058013bf252d?utm_campaign=1054&utm_source=git)** | 309 Counts Dr, Muscle Shoals, AL, 35661, US | On Site | Apr 25 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Human Resources Social Media Strategist](https://jobright.ai/jobs/info/680b6eac211719a65a88a50c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
 | **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[INTERN](https://jobright.ai/jobs/info/680b63a60b9a24c1f30bf89d?utm_campaign=1054&utm_source=git)** | La Vergne, TN | On Site | Apr 25 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680b38e98b183685ba4cd624?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Apr 24 |
@@ -84,9 +93,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Recruiter/Internship Coordinator - AGI](https://jobright.ai/jobs/info/680a9ee710fdeffbe94d94f3?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Apr 24 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Human Resources Summer 2025 / New York](https://jobright.ai/jobs/info/680a9ee710fdeffbe94d9154?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[LEGION](https://bentley.com/en/products/brands/legion)** | **[Colleague Success Intern](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2d4c?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Apr 24 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Recruiter/Internship Coordinator - AGI](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2e19?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
 | **[Zayo Group](https://www.zayo.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/680a926754fc6ced8a73efdb?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 24 |
-| **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Human Resources Summer 2025 / Charlotte](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2e8f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Apr 24 |
 | **[American Red Cross](http://redcross.org)** | **[Development Paid Intern (20 hrs. a week)](https://jobright.ai/jobs/info/67f3f6d711f2719302bec813?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Apr 24 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[HR Intern](https://jobright.ai/jobs/info/680a7d61b248b7cc81bf2cdb?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Apr 24 |
 | **[Turnberry](https://www.turnberry.com)** | **[Intern (HR & Photo + Video)](https://jobright.ai/jobs/info/680a63ced8ad1c55505b4502?utm_campaign=1054&utm_source=git)** | Aventura, FL | On Site | Apr 24 |
@@ -133,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb2083e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Nursing Internship](https://jobright.ai/jobs/info/68094737a023cd13439fce01?utm_campaign=1054&utm_source=git)** | Columbia City, IN | On Site | Apr 23 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Data Analytics and Change Management (Summer/Fall)](https://jobright.ai/jobs/info/6809448ec6f330bcb4c2468a?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Apr 23 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Human Resources Student Associate, Cockrell School of Engineering](https://jobright.ai/jobs/info/6809442a63ee6926768887e9?utm_campaign=1054&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 23 |
-| ↳ | **[Human Resources Student Associate, Cockrell School of Engineering](https://jobright.ai/jobs/info/6809442a63ee69267688874d?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Apr 23 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Human Resources Student Associate, Cockrell School of Engineering](https://jobright.ai/jobs/info/6809442a63ee69267688874d?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Apr 23 |
+| ↳ | **[Human Resources Student Associate, Cockrell School of Engineering](https://jobright.ai/jobs/info/6809442a63ee6926768887e9?utm_campaign=1054&utm_source=git)** | UT MAIN CAMPUS | On Site | Apr 23 |
 | **[ESAB](http://www.esabindia.com)** | **[HR Process Management Intern](https://jobright.ai/jobs/info/6809442a63ee6926768886b4?utm_campaign=1054&utm_source=git)** | Bethesda, MD, USA | On Site | Apr 23 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/6809393780ed3efeb9611e63?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto | On Site | Apr 23 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[HR Intern](https://jobright.ai/jobs/info/680926de9ec22c126575b3f8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Apr 23 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680197ae96b7dba4981c29b7?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Apr 23 |
 | **[Organogenesis](http://www.organogenesis.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67ec49312fac0d643e4c9e5f?utm_campaign=1054&utm_source=git)** | Canton, MA | Hybrid | Apr 23 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/67ec52d7396dd7e4e66e8087?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 23 |
-| ↳ | **[Summer 2025 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/67ec52d7396dd7e4e66e8095?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Apr 23 |
 | ↳ | **[Summer 2025 Management Trainee Intern Hollywood](https://jobright.ai/jobs/info/67ec6676a4526e2942eb3bc7?utm_campaign=1054&utm_source=git)** | Hollywood, FL | On Site | Apr 23 |
+| ↳ | **[Summer 2025 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/67ec52d7396dd7e4e66e8095?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Apr 23 |
+| ↳ | **[Management Trainee Summer Internship-Bend, OR](https://jobright.ai/jobs/info/67985646797cecda46d3003a?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Apr 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Indiana)](https://jobright.ai/jobs/info/67fde160e264f82a1c0f8cfe?utm_campaign=1054&utm_source=git)** | Mooresville, IN | On Site | Apr 23 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, Human Resources](https://jobright.ai/jobs/info/67d13bbba0214ee8466c041b?utm_campaign=1054&utm_source=git)** | Lost Hills, CA | On Site | Apr 23 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/6800906d92a54974f8d8b066?utm_campaign=1054&utm_source=git)** | Montana, United States | On Site | Apr 23 |
-| ↳ | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/679c65648c594d2186ced5b6?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Apr 23 |
-| ↳ | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/67dce43cfd22caf003f7ca32?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
-| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Chaplain Intern (Unpaid)](https://jobright.ai/jobs/info/6809064a990a899a05504c10?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Apr 23 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd2?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Apr 23 |
-| ↳ | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/6788992a951f0cbdf46bcfb5?utm_campaign=1054&utm_source=git)** | Chubbuck, ID | On Site | Apr 23 |
-| ↳ | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/68048832493bc509aa1332c1?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Apr 23 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship (All Departments)](https://jobright.ai/jobs/info/674ada2915cfb00dfee160d1?utm_campaign=1054&utm_source=git)** | Home, KS | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
