@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Human Resources](https://jobright.ai/jobs/info/680d939964bf7f89579d6d09?utm_campaign=1054&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
 | **[City of Grapevine](https://grapevinetexas.gov/)** | **[Intern - Human Resources - PT (19 hours or less/week)](https://jobright.ai/jobs/info/680d53a4480ceb6d1fcee65d?utm_campaign=1054&utm_source=git)** | Grapevine, TX | On Site | Apr 26 |
 | **[Clarke](https://clarke.com)** | **[Human Resources/Recruiter Intern](https://jobright.ai/jobs/info/680d3ec183dd5b7c2948015b?utm_campaign=1054&utm_source=git)** | Roselle, IL | Hybrid | Apr 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d267?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 26 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[DriveTime Family of Brands Internship Talent Community](https://jobright.ai/jobs/info/67b720d5c3509d9e17015c84?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Apr 26 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Summer Internship](https://jobright.ai/jobs/info/67f04909b28d69b1ebfd5416?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Apr 26 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[HR Intern - Learning and Development](https://jobright.ai/jobs/info/680c5a1c3f5821ad7f83075b?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Apr 25 |
+| **[Studio71, LP](https://www.studio71.com/us)** | **[Human Resources Internship Summer 25'](https://jobright.ai/jobs/info/680992e4da0906419c4578b0?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Apr 25 |
 | **[American Income Life Insurance Company](https://www.ailife.com#&panel1-1)** | **[Recruiting & Talent Acquisition Internship](https://jobright.ai/jobs/info/680c3a11b384012aa9901a93?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | ↳ | **[HR & Talent Acquisition Internship – Learn Recruiting from the Best!](https://jobright.ai/jobs/info/680c3a11b384012aa9901abf?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
 | ↳ | **[HR & Recruiting Internship – Learn Recruiting from the Best!](https://jobright.ai/jobs/info/680c3a11b384012aa9901a95?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 25 |
@@ -131,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[Bentley Systems](http://www.bentley.com)** | **[Colleague Success Intern](https://jobright.ai/jobs/info/680ab8322338b8cb56931229?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Apr 24 |
 | **[Vibrantz Technologies Inc.](http://www.vibrantz.com)** | **[Human Resources Intern (Ashtabula, OH)](https://jobright.ai/jobs/info/680a63ced8ad1c55505b4a8f?utm_campaign=1054&utm_source=git)** | Ashtabula, OH | On Site | Apr 24 |
 | **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[HR INTERN](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2c39?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
-| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2c98?utm_campaign=1054&utm_source=git)** | Ramsey, MN | On Site | Apr 24 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Supply Chain Capability & Talent Development Coordinator Intern](https://jobright.ai/jobs/info/67eda7f99a59406740a2a0b9?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
 | **[MARA](www.mara.com)** | **[Human Resources Intern (Summer 2025)](https://jobright.ai/jobs/info/680aa38dc0b7f64c417018ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b755?utm_campaign=1054&utm_source=git)** | Ramsey, MN | On Site | Apr 24 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Recruiter/Internship Coordinator - AGI](https://jobright.ai/jobs/info/680a9ee710fdeffbe94d94f3?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Apr 24 |
 | **[LEGION](https://bentley.com/en/products/brands/legion)** | **[Colleague Success Intern](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2d4c?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Apr 24 |
 | **[Zayo Group](https://www.zayo.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/680a926754fc6ced8a73efdb?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/67b6a4bd9ed2919bb0cdc771?utm_campaign=1054&utm_source=git)** | Mineral Wells, TX | On Site | Apr 24 |
 | **[Litmus](http://litmus.com)** | **[Join our talent community](https://jobright.ai/jobs/info/676f82e3cec4b163ef6c047a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Remote | Apr 24 |
 | **[Academy Sports + Outdoors](http://www.academy.com/)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/680a0fca5a1569b58fee41e9?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Apr 24 |
-| **[Android Industries](http://www.android-ind.com/)** | **[Human Resources Intern - HRIS (Full-Time and Year Round)](https://jobright.ai/jobs/info/67ee7dc894508c692c41bd4a?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Apr 24 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/67c55baf58bf8358ee3026a8?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
