@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/680f3c1f09b8a56a591fdfc6?utm_campaign=1054&utm_source=git)** | Peoria, IL | Hybrid | Apr 28 |
+| **[University of Minnesota](https://twin-cities.umn.edu)** | **[Athletics HR Student Assistant](https://jobright.ai/jobs/info/680fd231dfe0af8d35d7e3dc?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Apr 28 |
+| **[NORDAM](https://nordam.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/680fceac855aff619dd29345?utm_campaign=1054&utm_source=git)** | Tulsa, OK, None | On Site | Apr 28 |
+| **[DeVry University](http://www.devry.edu)** | **[FWS Student Worker III, Off Campus (Talent Solutions Intern)](https://jobright.ai/jobs/info/680fceac855aff619dd293b5?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 28 |
+| **[Ritchie Bros.](http://www.rbauction.com)** | **[People Team- Internship](https://jobright.ai/jobs/info/680fb39d03393a03aea73c61?utm_campaign=1054&utm_source=git)** | Two Westbrook Corporate Center, Westchester, IL, 60154, US | On Site | Apr 28 |
+| **[Urban Grid](https://www.urbangridsolar.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680fad03ac5386beba6e35dc?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Apr 28 |
+| **[Boston Dynamics](http://bostondynamics.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/680fac56a2fac1671fe43bbe?utm_campaign=1054&utm_source=git)** | Waltham Office (POST) | On Site | Apr 28 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/67fec146dd174d346366a33b?utm_campaign=1054&utm_source=git)** | Litchfield, CT | On Site | Apr 28 |
+| **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Summer 2025](https://jobright.ai/jobs/info/680f8de4b2114a1060ab86ce?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Apr 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c860?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Apr 27 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Amarillo](https://jobright.ai/jobs/info/67293da5af5e36be8d76a3ee?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Apr 27 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d26c?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Apr 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/67d49b190fb231c2e4d7003a?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Apr 27 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Intern (Summer 2025)](https://jobright.ai/jobs/info/679a9b60ba5f5c567622ba46?utm_campaign=1054&utm_source=git)** | Detroit Metro | On Site | Apr 27 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Human Resources Information Systems](https://jobright.ai/jobs/info/67e9fc04f3e24219fed1775d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Apr 27 |
 | **[Viwinco Windows](https://www.viwinco.com/)** | **[Bilingual (English/Spanish) Human Resources Internship (Summer 2025)](https://jobright.ai/jobs/info/680db68c29e02f242dc67626?utm_campaign=1054&utm_source=git)** | Morgantown, PA | On Site | Apr 26 |
 | **[Clarke](https://clarke.com)** | **[Human Resources/Recruiter Intern](https://jobright.ai/jobs/info/680dac914db6a52a7483488c?utm_campaign=1054&utm_source=git)** | Roselle, IL | On Site | Apr 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/67d4b5dd908dbdca69f51f0b?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Apr 26 |
-| **[Starburst](https://www.starburst.io)** | **[Human Resources Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca23bd?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Apr 26 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Safety Intern](https://jobright.ai/jobs/info/67f0083914c95df842349030?utm_campaign=1054&utm_source=git)** | Clarksville, TN | On Site | Apr 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67b8b84aee7a19c44ad6d266?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 26 |
 | **[Holtec International](https://holtecinternational.com/)** | **[2025 Summer Intern - Human Resources](https://jobright.ai/jobs/info/680d939964bf7f89579d6d09?utm_campaign=1054&utm_source=git)** | Covert Township, MI | On Site | Apr 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Talent Acquisition Data Analyst](https://jobright.ai/jobs/info/680abab91741d23bd7e32f6d?utm_campaign=1054&utm_source=git)** | Newark, CA | Hybrid | Apr 24 |
 | **[People Incorporated](https://peopleincfr.org/)** | **[Internship](https://jobright.ai/jobs/info/680ad6b7f80cd700f837c706?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Apr 24 |
 | **[Bentley Systems](http://www.bentley.com)** | **[Colleague Success Intern](https://jobright.ai/jobs/info/680ab8322338b8cb56931229?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Apr 24 |
-| **[United States Cold Storage, Inc.](http://www.uscold.com/)** | **[HR INTERN](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2c39?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
-| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/680ab4d59cff3c078f3d2c98?utm_campaign=1054&utm_source=git)** | Ramsey, MN | On Site | Apr 24 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Supply Chain Capability & Talent Development Coordinator Intern](https://jobright.ai/jobs/info/67eda7f99a59406740a2a0b9?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Apr 24 |
-| **[MARA](www.mara.com)** | **[Human Resources Intern (Summer 2025)](https://jobright.ai/jobs/info/680aa38dc0b7f64c417018ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Apr 24 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Recruiter/Internship Coordinator - AGI](https://jobright.ai/jobs/info/680a9ee710fdeffbe94d94f3?utm_campaign=1054&utm_source=git)** | Triangle Area | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
