@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68164df41b46046f5cc24b2d?utm_campaign=1054&utm_source=git)** | United States | Hybrid | May 03 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[GVSU Clinical Internship](https://jobright.ai/jobs/info/681619cb975c5bb31e1ff048?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | May 03 |
 | **[Blueprint](https://bpcs.com/)** | **[Human Resources Intern ](https://jobright.ai/jobs/info/68160c1189998d2266911a12?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | May 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 03 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Human Resources Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/67a54c6da9385b70f9353e24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Solutions Graduate Intern](https://jobright.ai/jobs/info/6815bb8d373c3763939d0826?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 02 |
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Human Resources Intern - PRN](https://jobright.ai/jobs/info/6815b0335ba4b605188226e8?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 02 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Human Resources- Assist with Staffing, Compensation, and Classification](https://jobright.ai/jobs/info/6815a96ab70184a202ead32c?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | May 02 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Hollingsworth & Vose](https://www.hollingsworth-vose.com)** | **[Human Resources Intern – Class of 2026](https://jobright.ai/jobs/info/6814f959371b9626a83115b7?utm_campaign=1054&utm_source=git)** | East Walpole, MA | On Site | May 02 |
 | **[Benefis Health System](https://www.benefis.org/)** | **[Student Intern, Human Resources (Registry)](https://jobright.ai/jobs/info/6814f3130b88e390c522fef2?utm_campaign=1054&utm_source=git)** | Great Falls, MT | On Site | May 02 |
 | **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6814ef0e1da9d2d630723062?utm_campaign=1054&utm_source=git)** | United States | Hybrid | May 02 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a69?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | May 02 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a6b?utm_campaign=1054&utm_source=git)** | Brighton, MI | Hybrid | May 02 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a6b?utm_campaign=1054&utm_source=git)** | Brighton, MI | Hybrid | May 02 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a69?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | May 02 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Internship](https://jobright.ai/jobs/info/67f7e0bc6d492977a2da6fc4?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 02 |
 | **[Orca Bio](http://www.orcabio.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67f8a0c16ddfbc55c14d203b?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 02 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67fa1caff07aa44f6e5c07f7?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 02 |
@@ -119,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Analyst, Enhanced Care Management](https://jobright.ai/jobs/info/68140e9f397f749da2447b89?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 01 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68140c450440843860728beb?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b34?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern PRN/Days](https://jobright.ai/jobs/info/67db4d420922024e73cc069a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb208a6?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[FN America, LLC](https://fnamerica.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6814055c2d0808275f3be092?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
@@ -132,11 +134,11 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb2083e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Human Resources Intern (2054)](https://jobright.ai/jobs/info/6813c7eef5190d49b00cbffd?utm_campaign=1054&utm_source=git)** | La Porte, TX | On Site | May 01 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6813c31f0781dd061bd41c65?utm_campaign=1054&utm_source=git)** | Long Beach, CA USA | On Site | May 01 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543ba4?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bf3?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bf3?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bc6?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543baf?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bb7?utm_campaign=1054&utm_source=git)** | San Francisco | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543baf?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543ba4?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | **[Brigham Young University](https://byu.edu)** | **[Internship & Alumni Coordinator (part-time 28 hrs/wk)](https://jobright.ai/jobs/info/6813b93b1eb737c3dae12a27?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | May 01 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb208a5?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | May 01 |
 | **[Ravago](https://www.ravago.com)** | **[General Laborer- Summer Intern- Medina](https://jobright.ai/jobs/info/681397d84605fae311239d8a?utm_campaign=1054&utm_source=git)** | Medina, OH | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1ac7116041967dfd96fed?utm_campaign=1054&utm_source=git)** | Roseville, CA | Hybrid | May 01 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22c75?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | May 01 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resource Training Intern](https://jobright.ai/jobs/info/68136c0b06e5c4fd06d11461?utm_campaign=1054&utm_source=git)** | Spartanburg, South Carolina, United States | On Site | May 01 |
-| **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Analyst, Enhanced Care Management](https://jobright.ai/jobs/info/6812732f5af0946fe74120f7?utm_campaign=1054&utm_source=git)** | Riverside, CA | On Site | May 01 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/6812433915e83f3e1798e672?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
