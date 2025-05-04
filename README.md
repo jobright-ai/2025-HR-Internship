@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of West Georgia](http://www.westga.edu)** | **[Graduate Assistant for Career Services (Beg Fall 2025)](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b918?utm_campaign=1054&utm_source=git)** | Carrollton, GA | On Site | May 03 |
 | **[Jungheinrich Lift Truck Corp.](http://www.jungheinrich.com)** | **[HR Intern](https://jobright.ai/jobs/info/681677de30c2cc62dad54dc0?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 03 |
 | **[Once Upon a Farm](https://onceuponafarmorganics.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68164df41b46046f5cc24b2d?utm_campaign=1054&utm_source=git)** | United States | Hybrid | May 03 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/679df1cb6f0cdfa7177c1aaf?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | May 03 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[GVSU Clinical Internship](https://jobright.ai/jobs/info/681619cb975c5bb31e1ff048?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | May 03 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern  - Summer 2025 - Wausau](https://jobright.ai/jobs/info/67c127637b2c41627cf26e13?utm_campaign=1054&utm_source=git)** | Wausau, WI | On Site | May 03 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67f96bf881c6d35b8df3aa22?utm_campaign=1054&utm_source=git)** | Gunnison, CO | On Site | May 03 |
@@ -72,8 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Human Resources Intern - PRN](https://jobright.ai/jobs/info/6815b0335ba4b605188226e8?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 02 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Human Resources- Assist with Staffing, Compensation, and Classification](https://jobright.ai/jobs/info/6815a96ab70184a202ead32c?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | May 02 |
 | **[Jungheinrich Lift Truck Corp.](http://www.jungheinrich.com)** | **[HR Intern](https://jobright.ai/jobs/info/681598d1c5b5256d7fe8a52e?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | May 02 |
+| **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/67f1a2010039e84cbaa27291?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | May 02 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[HR Intern](https://jobright.ai/jobs/info/68157b30113b5ed12f5cd1f9?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | May 02 |
-| **[AAAS](http://www.aaas.org/)** | **[HR Intern](https://jobright.ai/jobs/info/68156b674c332b980109e0cf?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 02 |
+| **[AAAS](http://www.aaas.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68156b674c332b980109e0cf?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | May 02 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Summer Intern- Office of Physician Recruitment](https://jobright.ai/jobs/info/68156574a8f4770be2d7857f?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | May 02 |
 | **[Stericycle](http://www.stericycle.com)** | **[Intern](https://jobright.ai/jobs/info/6815627aa664853491fab137?utm_campaign=1054&utm_source=git)** | Bannockburn, IL | On Site | May 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68156076b2e8c7dead2e8f04?utm_campaign=1054&utm_source=git)** | Lehi, UT | Hybrid | May 02 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[ID Logistics US](https://www.id-logistics.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/681596e6837618055b5b8850?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/67ecacd04f6cea2cf8db6a0a?utm_campaign=1054&utm_source=git)** | Tangent, OR | On Site | May 02 |
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2025 fall term (Sept. 1-Dec. 15)](https://jobright.ai/jobs/info/681461f0198a780cdf2047fe?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | May 01 |
+| **[SSA Group](http://thessagroup.com)** | **[People & Hospitality Operations Internship](https://jobright.ai/jobs/info/68170341187c39d1029d0cb7?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/681450e3a34a3eb5721f7da9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | May 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/67eb60f645b84d910101bdd3?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | May 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/67db9161a0e2d014f2b6d9c4?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | May 01 |
@@ -116,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/6814396fc6da1b04a5c8aff0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Witham Health Services](https://www.witham.org/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/68142f86e3592370b14c78b2?utm_campaign=1054&utm_source=git)** | Indiana, United States | On Site | May 01 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Training and Talent Development Intern](https://jobright.ai/jobs/info/68142f86e3592370b14c78f7?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | May 01 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/68142f86e3592370b14c78d3?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | May 01 |
-| ↳ | **[Fall 2025 Management Trainee Intern - Bryan/College Station](https://jobright.ai/jobs/info/68142f86e3592370b14c78f4?utm_campaign=1054&utm_source=git)** | Bryan, TX | On Site | May 01 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern - Bryan/College Station](https://jobright.ai/jobs/info/68142f86e3592370b14c78f4?utm_campaign=1054&utm_source=git)** | Bryan, TX | On Site | May 01 |
+| ↳ | **[Fall 2025 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/68142f86e3592370b14c78d3?utm_campaign=1054&utm_source=git)** | Waco, TX | On Site | May 01 |
 | ↳ | **[Fall 2025 Management Trainee Internship - Amarillo](https://jobright.ai/jobs/info/68142bc5fddf0e4801bc96d5?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | May 01 |
 | **[Cal Poly Associated Students, Inc](http://www.asi.calpoly.edu/)** | **[Recruitment Student Assistant](https://jobright.ai/jobs/info/68142bc5fddf0e4801bc9723?utm_campaign=1054&utm_source=git)** | San Luis Obispo, CA | On Site | May 01 |
 | **[Real Time Resolutions, Inc.](https://www.realtimeresolutions.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6815816f06e0b2aa916ecad5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 01 |
@@ -127,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[COPE Health Solutions](https://copehealthsolutions.com/)** | **[Analyst, Enhanced Care Management](https://jobright.ai/jobs/info/68140e9f397f749da2447b89?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | May 01 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68140c450440843860728beb?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b34?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b34?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 01 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern PRN/Days](https://jobright.ai/jobs/info/67db4d420922024e73cc069a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb208a6?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[FN America, LLC](https://fnamerica.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6814055c2d0808275f3be092?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | May 01 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Human Resources Intern (2054)](https://jobright.ai/jobs/info/6813c7eef5190d49b00cbffd?utm_campaign=1054&utm_source=git)** | La Porte, TX | On Site | May 01 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6813c31f0781dd061bd41c65?utm_campaign=1054&utm_source=git)** | Long Beach, CA USA | On Site | May 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bb7?utm_campaign=1054&utm_source=git)** | San Francisco | On Site | May 01 |
+| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543baf?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bf3?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543bc6?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
-| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543baf?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/6813bd80b8a1990a0f543ba4?utm_campaign=1054&utm_source=git)** | New York | On Site | May 01 |
 | **[Brigham Young University](https://byu.edu)** | **[Internship & Alumni Coordinator (part-time 28 hrs/wk)](https://jobright.ai/jobs/info/6813b93b1eb737c3dae12a27?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | May 01 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Summer 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/67c8eb93fbaa865a3cb208a5?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | May 01 |
 | **[Ravago](https://www.ravago.com)** | **[General Laborer- Summer Intern- Medina](https://jobright.ai/jobs/info/681397d84605fae311239d8a?utm_campaign=1054&utm_source=git)** | Medina, OH | On Site | May 01 |
 | **[Amy's Kitchen](http://www.amys.com)** | **[Drive Thru Internship](https://jobright.ai/jobs/info/67be9d80933a00b7d4bca2d8?utm_campaign=1054&utm_source=git)** | Rohnert Park, CA | Hybrid | May 01 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Talent Discovery, Recruiting](https://jobright.ai/jobs/info/67f756916be946622b3a65ed?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 01 |
-| **[Brigham Young University](https://byu.edu)** | **[Internship & Alumni Coordinator (part-time 28 hrs/wk)](https://jobright.ai/jobs/info/6813844911c94fd361674cb9?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | May 01 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/67d9eb0e88edd3b68dca9bd3?utm_campaign=1054&utm_source=git)** | Itasca, IL | On Site | May 01 |
-| **[Paul Hastings](http://www.paulhastings.com/)** | **[Intern (Talent Development)](https://jobright.ai/jobs/info/67da132965ccd0761397aa79?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
