@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altium Packaging](https://www.containerexperts.com/)** | **[HR, People Analytics Summer 2025 Intern](https://jobright.ai/jobs/info/6752c8538ec36f832aeba711?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 10 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/681f32d9adf2f0c05ad29486?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | May 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR INTERN](https://jobright.ai/jobs/info/681f05ded38923d0098964eb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 10 |
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/681f03df7673d629bd720452?utm_campaign=1054&utm_source=git)** | Princeton, NJ | Hybrid | May 10 |
 | **[tango](https://tangocare.com)** | **[Intern, HR](https://jobright.ai/jobs/info/681eec11e7e3b39aa6705940?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 09 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Independence Realty Trust Inc.](https://www.irtliving.com/)** | **[Internship](https://jobright.ai/jobs/info/681e3ea108cb7ec1abd6499f?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 09 |
 | **[NSF](http://www.nsf.org)** | **[SCFS Intern](https://jobright.ai/jobs/info/681e3274fd71f6a247fb0905?utm_campaign=1054&utm_source=git)** | 125 Chancellors Way, Ontario, CA | On Site | May 09 |
 | **[vTech Solution Inc](http://vtechsolution.com)** | **[Human Resources/Employee Engagement Specialist Intern](https://jobright.ai/jobs/info/681e293bebce9c9da0880c53?utm_campaign=1054&utm_source=git)** | Herndon, VA | On Site | May 09 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Early Talent Recruitment Intern (June through August)](https://jobright.ai/jobs/info/681e1390b01bed2885121765?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | May 09 |
-| ↳ | **[Fall 2025: Early Talent Recruitment Intern (September to December)](https://jobright.ai/jobs/info/681e1390b01bed2885121766?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | May 09 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Early Talent Recruitment Intern (September to December)](https://jobright.ai/jobs/info/681e1390b01bed2885121766?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | May 09 |
+| ↳ | **[Summer 2025: Early Talent Recruitment Intern (June through August)](https://jobright.ai/jobs/info/681e1390b01bed2885121765?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | Hybrid | May 09 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Summer 2025](https://jobright.ai/jobs/info/681df86f8ba96738fa7da5a6?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | May 09 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | May 09 |
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/681dd65eb675365faae356a9?utm_campaign=1054&utm_source=git)** | St Charles, MO | On Site | May 09 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c706b15f477594454439c4?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | May 07 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern - Natchitoches, LA](https://jobright.ai/jobs/info/676549bca805b8c5692eaf4c?utm_campaign=1054&utm_source=git)** | Natchitoches, LA | On Site | May 07 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/67c7bbec49a4146e0cc9c358?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | May 07 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c706b15f4775944544395a?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 07 |
-| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c706b15f47759445443959?utm_campaign=1054&utm_source=git)** | Lenexa, KS | Hybrid | May 07 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/67ff25c7aad436010076f9d7?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | May 07 |
-| **[MSC Cruises](http://www.msccruisesusa.com.)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/67fe50209e761d881f6bfc82?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 07 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c706b15f47759445443959?utm_campaign=1054&utm_source=git)** | Lenexa, KS | Hybrid | May 07 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c706b15f4775944544395a?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
