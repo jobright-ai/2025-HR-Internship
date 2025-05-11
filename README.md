@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CHRISTUS Trinity Mother Frances Health System](http://www.christushealth.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Francis Cabrini (Hiring Immediately)](https://jobright.ai/jobs/info/681fd1d3698e673b78d8e576?utm_campaign=1054&utm_source=git)** | Alex, LA | On Site | May 10 |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67cb023b173ced65a3e80542?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | May 11 |
+| ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67cb023b173ced65a3e80543?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | May 11 |
+| **[CHRISTUS Trinity Mother Frances Health System](http://www.christushealth.org/)** | **[Nursing Intern - Clinical Experience Opportunity (Hiring Immediately)](https://jobright.ai/jobs/info/68206dd16e8be218b95d1724?utm_campaign=1054&utm_source=git)** | Alex, Rapides County, LA | On Site | May 10 |
+| ↳ | **[Registered Nurse Residency-Nursing Internship-St. Francis Cabrini (Hiring Immediately)](https://jobright.ai/jobs/info/681fd1d3698e673b78d8e576?utm_campaign=1054&utm_source=git)** | Alex, LA | On Site | May 10 |
 | ↳ | **[Graduate Nurse Internship in Acute Care (Hiring Immediately)](https://jobright.ai/jobs/info/681fd1fb698e673b78d8e7d7?utm_campaign=1054&utm_source=git)** | Alex, LA | On Site | May 10 |
 | **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/681f9234dd3c0a96829fdf72?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | May 10 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Early Talent Recruitment Intern (September to December)](https://jobright.ai/jobs/info/681f8dc96cf1331642e3e9cb?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | May 10 |
@@ -69,9 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/681f03df7673d629bd720452?utm_campaign=1054&utm_source=git)** | Princeton, NJ | Hybrid | May 10 |
 | **[GlobalFoundries](https://gf.com/)** | **[Intern - Talent Acquistion](https://jobright.ai/jobs/info/6808daebb65e05f7a8eb1a96?utm_campaign=1054&utm_source=git)** | The Woodlands, TX | On Site | May 09 |
 | **[tango](https://tangocare.com)** | **[Intern, HR](https://jobright.ai/jobs/info/681eec11e7e3b39aa6705940?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 09 |
-| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Compliance Intern](https://jobright.ai/jobs/info/682022b3379642f5903b5345?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 09 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/681ec921e9dc59a711800cfb?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 09 |
-| **[Charter Schools USA](http://www.charterschoolsusa.com)** | **[HR Intern](https://jobright.ai/jobs/info/6820129834eee2160f69b79c?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | May 09 |
 | **[NMDP](https://www.nmdp.org)** | **[Community Engagement & Events Intern: Remote in Los Angeles, CA](https://jobright.ai/jobs/info/681eb8670c54c1233bc7e548?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 09 |
 | ↳ | **[Community Engagement & Events Intern: Remote in Atlanta, GA](https://jobright.ai/jobs/info/681eb42cac27d41411dc7187?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 09 |
 | ↳ | **[Community Engagement & Events Intern: Remote in Boston, MA](https://jobright.ai/jobs/info/681eb42cac27d41411dc714a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 09 |
@@ -115,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[HR Co-op](https://jobright.ai/jobs/info/681e21d4a11be2e483c4b004?utm_campaign=1054&utm_source=git)** | Springboro, OH | On Site | May 08 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/681d399e6dc8099bedc8dac6?utm_campaign=1054&utm_source=git)** | 400 Renaissance Dr W, Detroit, MI, 48243, US | On Site | May 08 |
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Human Resources (HR) Intern - Talent Acquisition](https://jobright.ai/jobs/info/681d35d8e32e1e87e2340f3c?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | May 08 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d27d5b2510f782f1ed87f?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | May 08 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d27d5b2510f782f1ed87d?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | May 08 |
 | ↳ | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d27d5b2510f782f1ed87e?utm_campaign=1054&utm_source=git)** | USA-NC - Raleigh Office | On Site | May 08 |
-| ↳ | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d27d5b2510f782f1ed87d?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | May 08 |
+| ↳ | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d27d5b2510f782f1ed87f?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | May 08 |
 | ↳ | **[Intern Program Coordinator](https://jobright.ai/jobs/info/681d2799b2510f782f1ed022?utm_campaign=1054&utm_source=git)** | USA-NY - Brooklyn (Dumbo) | On Site | May 08 |
 | **[Woolpert](http://www.woolpert.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/681d09e2e371c3e185ac8972?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | May 08 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Nordstrom Hiring Day - Friday May 16, 11am-5pm - International Plaza](https://jobright.ai/jobs/info/681d06fb1d961b317a06c9f9?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenneth Young Center](https://www.kennethyoung.org)** | **[Employment Services Intern](https://jobright.ai/jobs/info/681bb434ce54dd5023457bd3?utm_campaign=1054&utm_source=git)** | Elk Grove Village, IL | On Site | May 07 |
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/681bace367fd8dbb79809c54?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | May 07 |
 | **[Bottom Line](https://www.bottomline.org)** | **[STUDENT RECRUITMENT INTERNSHIP](https://jobright.ai/jobs/info/681bace367fd8dbb79809cf0?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | May 07 |
-| **[Extra Space Storage](http://www.extraspace.com)** | **[Part-Time Intern - Contact Center](https://jobright.ai/jobs/info/681baba1a7b589a5015c25de?utm_campaign=1054&utm_source=git)** | Midvale, UT | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
