@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[HR Intern](https://jobright.ai/jobs/info/682fb4e2a28cb8ce8b501b8f?utm_campaign=1054&utm_source=git)** | Crystal Springs, Mississippi, United States of America | On Site | May 22 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[HR Student Generalist](https://jobright.ai/jobs/info/682feb04088ae6bec1991a3d?utm_campaign=1054&utm_source=git)** | BYU–Hawaii | On Site | May 22 |
+| **[Shaw Industries](https://shawinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682fdcd4a364eaa6f7cf3706?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | May 22 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern-Human Resources - HR](https://jobright.ai/jobs/info/682fd353105316571cf20741?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 22 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[HR Intern](https://jobright.ai/jobs/info/682fc25fadef0f249e4b05d7?utm_campaign=1054&utm_source=git)** | Crystal Springs, MS | On Site | May 22 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/682fb4e2a28cb8ce8b501b8f?utm_campaign=1054&utm_source=git)** | Crystal Springs, Mississippi, United States of America | On Site | May 22 |
 | **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c334?utm_campaign=1054&utm_source=git)** | North Charleston, SC | On Site | May 22 |
 | **[Pow.Bio](https://www.pow.bio)** | **[Interested in a Future Role?](https://jobright.ai/jobs/info/682fa3210c0bdf68ef013703?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 22 |
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/682fa3210c0bdf68ef013752?utm_campaign=1054&utm_source=git)** | Jonesville, FL | On Site | May 22 |
@@ -79,11 +83,12 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/682f488e1f3bc0f73ad6954e?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | May 22 |
 | **[AMSC](http://www.amsc.com)** | **[Summer/Fall Onsite Human Resources Intern](https://jobright.ai/jobs/info/682f4859e6df2b96b0fbccb7?utm_campaign=1054&utm_source=git)** | Ayer, MA | On Site | May 22 |
 | **[Badger](http://badgerlax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f41181f7cec77837f7593?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | May 22 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Human Resources](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957898?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | May 22 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/682f20a528cbe9cf17b98f8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | May 22 |
 | **[MSC Cruises](http://www.msccruisesusa.com.)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99133?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[HR Compensation Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99017?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | May 22 |
 | ↳ | **[Community Benefits Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b98f98?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | May 22 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/6812734202f3f89b69dd9e9b?utm_campaign=1054&utm_source=git)** | Berkeley Heights, NJ | On Site | May 22 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6812c7a23610a525a16d8dee?utm_campaign=1054&utm_source=git)** | Clarksville, AR | On Site | May 22 |
 | **[Salsify](http://salsify.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6812136d9196185d98092a05?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | May 22 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Campus Talent Acquisition Intern or Co-op - Fall 2025](https://jobright.ai/jobs/info/681256e26ae08376e2290100?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | May 22 |
 | **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682eebed85acf98ab994ac3c?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | May 22 |
@@ -97,10 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Intern - Human Resources/Talent Acquisition](https://jobright.ai/jobs/info/682e89402e04d233c1281dce?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | May 21 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern](https://jobright.ai/jobs/info/682e7c689b79c67165c1d5e5?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | May 21 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/682e78aa6160496a83a03ed1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 21 |
-| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
+| **[Vantage Specialty Chemicals](https://www.vantagegrp.com)** | **[HR Intern - Manufacturing Operations](https://jobright.ai/jobs/info/682e78728d059c576f947ac7?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | May 21 |
+| **[Stephen Gould](https://www.stephengould.com/)** | **[HR Intern](https://jobright.ai/jobs/info/682fcaa23285f324a58b9730?utm_campaign=1054&utm_source=git)** | Madison, NJ | On Site | May 21 |
+| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
 | **[PharmaCord](https://pharmacord.com/)** | **[Culture Strategy Intern](https://jobright.ai/jobs/info/682f771532e75c74aa069e35?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | May 21 |
-| **[Vantage Specialty Chemicals](https://www.vantagegrp.com)** | **[HR Intern - Manufacturing Operations](https://jobright.ai/jobs/info/682e71d0a356a58cf66072cc?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | May 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[AVP, Internship and Early Career Programs](https://jobright.ai/jobs/info/682e7169c5e165f57b3ea41b?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | May 21 |
 | **[Artera Services ](https://www.artera.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e6e7bb7ae933c6f3ec883?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | May 21 |
 | **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/682e6e7bb7ae933c6f3ec7ce?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | May 21 |
@@ -134,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern HR & Internal Communications - Year-Round](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339a2?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | Hybrid | May 20 |
 | **[Custom Truck One Source](https://www.customtruck.com/)** | **[HR INTERN](https://jobright.ai/jobs/info/682d1678044e7219a0e1410a?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Strategy and Planning (Fall 2025)](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0be?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 20 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Launch Intern - IDEA Rio Grande Valley (Immediate Opening)](https://jobright.ai/jobs/info/682d1108211058b78839a1ef?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | May 20 |
-| ↳ | **[Enrollment Launch Intern - IDEA Rio Grande Valley (Immediate Opening)](https://jobright.ai/jobs/info/682d1108211058b78839a24c?utm_campaign=1054&utm_source=git)** | Weslaco, TX | On Site | May 20 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Launch Intern - IDEA Rio Grande Valley (Immediate Opening)](https://jobright.ai/jobs/info/682d1108211058b78839a24c?utm_campaign=1054&utm_source=git)** | Weslaco, TX | On Site | May 20 |
+| ↳ | **[Enrollment Launch Intern - IDEA Rio Grande Valley (Immediate Opening)](https://jobright.ai/jobs/info/682d1108211058b78839a1ef?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | May 20 |
 | **[Generac](https://www.generac.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/682d100ab85f09695af18bc0?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | May 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Talent Acquisition (Year-round)](https://jobright.ai/jobs/info/680fea3d00367e6f0e4c93e9?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | May 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | May 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | May 20 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[OD Intern](https://jobright.ai/jobs/info/682cbf0251ac7ddd848cc8b8?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | May 20 |
 | **[Glenmark Pharmaceuticals](http://www.glenmarkpharma.com)** | **[Internship](https://jobright.ai/jobs/info/682cbb88bc2f5f7179310ac8?utm_campaign=1054&utm_source=git)** | Monroe, NC | On Site | May 20 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/67fec146dd174d346366a33b?utm_campaign=1054&utm_source=git)** | Litchfield, CT | On Site | May 20 |
-| **[Sparrow](https://www.sparrowup.com)** | **[Talent & Operations Internship (HR/Recruiting) – Fast-Growing AI Startup](https://jobright.ai/jobs/info/682ca29cd8550aa058178819?utm_campaign=1054&utm_source=git)** | United States | Remote | May 20 |
-| **[Carboline](https://www.carboline.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682ca29cd8550aa0581787d4?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | May 20 |
-| **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682c992857378e365a15a285?utm_campaign=1054&utm_source=git)** | Shrewsbury, MO | On Site | May 20 |
-| **[Khan Academy](http://khanacademy.org/)** | **[Join our G&A talent community!](https://jobright.ai/jobs/info/682c8f4d8c077c03c22d47e7?utm_campaign=1054&utm_source=git)** | California, United States | Remote | May 20 |
-| **[Freudenberg Group](http://www.freudenberg.com)** | **[HR Intern](https://jobright.ai/jobs/info/682da811fc2d4d410845e4e5?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
