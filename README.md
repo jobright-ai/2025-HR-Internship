@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/6831f962c6d2f0dfdd77a6f1?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | May 24 |
+| **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern](https://jobright.ai/jobs/info/6831d341018f41992edf93a5?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | May 24 |
 | **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/6831b03536c7af78e6ce45ff?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | May 24 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Human Resource Intern/Co-op](https://jobright.ai/jobs/info/68151c4f201cabf9bfdd40f7?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | May 24 |
 | **[Forms+Surfaces](https://www.forms-surfaces.com/)** | **[Administrative Assistant / Receptionist](https://jobright.ai/jobs/info/68316057558ee4456e21c2ab?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | May 23 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Summer Internship (8847)](https://jobright.ai/jobs/info/6830c546bb8b9cde424eed18?utm_campaign=1054&utm_source=git)** | Hollywood, SC | On Site | May 23 |
 | **[Terremoto Biosciences](https://terremotobio.com)** | **[Join Terremoto's Talent Network](https://jobright.ai/jobs/info/6830bd57a0916eec299da943?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[People and Culture (HR) Intern](https://jobright.ai/jobs/info/6830b8e56ec1c4fd1a2dacc8?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | May 23 |
+| **[Amy's Kitchen](http://www.amys.com)** | **[Drive Thru Internship](https://jobright.ai/jobs/info/67be9d80933a00b7d4bca2d8?utm_campaign=1054&utm_source=git)** | Rohnert Park, CA | Hybrid | May 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | May 23 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Talent - Operations Intern](https://jobright.ai/jobs/info/6802c017d6689661e16102ec?utm_campaign=1054&utm_source=git)** | Greater Boston | On Site | May 23 |
 | **[Illumination Health + Home](https://www.ifhomeless.org)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/68312853514b867cff654e68?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | May 23 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566df?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 22 |
 | **[Atomic Data](https://www.atomicdata.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f69a533367a2157ec6d2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f65e2f9f42c5ad7d444d9?utm_campaign=1054&utm_source=git)** | Manitowoc, WI | On Site | May 22 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[HR People Communications Intern](https://jobright.ai/jobs/info/6830c92dc87779964d170948?utm_campaign=1054&utm_source=git)** | Texas | On Site | May 22 |
+| **[Mobi.AI](https://www.mobi.ai)** | **[Don't see the role you're looking for? Join our Talent Pool!](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa21c9?utm_campaign=1054&utm_source=git)** | Somerville, MA | Hybrid | May 22 |
 | **[Vinfen](http://www.vinfen.org)** | **[Paid HR Intern](https://jobright.ai/jobs/info/682f58a2715b8bf649e4671a?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | May 22 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[TA Data Analyst Intern](https://jobright.ai/jobs/info/682f54cfcd960547d0119893?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/682f488e1f3bc0f73ad6954e?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | May 22 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/682e78aa6160496a83a03ed1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 21 |
 | **[Vantage Specialty Chemicals](https://www.vantagegrp.com)** | **[HR Intern - Manufacturing Operations](https://jobright.ai/jobs/info/682e78728d059c576f947ac7?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | May 21 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[HR Intern](https://jobright.ai/jobs/info/682fcaa23285f324a58b9730?utm_campaign=1054&utm_source=git)** | Madison, NJ | On Site | May 21 |
-| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
+| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
 | **[PharmaCord](https://pharmacord.com/)** | **[Culture Strategy Intern](https://jobright.ai/jobs/info/682f771532e75c74aa069e35?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | May 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[AVP, Internship and Early Career Programs](https://jobright.ai/jobs/info/682e7169c5e165f57b3ea41b?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | May 21 |
 | **[Artera Services ](https://www.artera.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e6e7bb7ae933c6f3ec883?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | May 21 |
@@ -145,7 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Academic Partnerships](https://www.linkedin.com/company/1376946)** | **[People Program Intern (Active Students Only)](https://jobright.ai/jobs/info/682e274b636e51a205c418e3?utm_campaign=1054&utm_source=git)** | US - Remote | Remote | May 21 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/682e1d3d06643252b2ade5f6?utm_campaign=1054&utm_source=git)** | Minnesota Remote | Remote | May 21 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | May 21 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | May 21 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | May 21 |
+| ↳ | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | May 21 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Fall 2025 Co-op, Talent Operations (Boston, MA)](https://jobright.ai/jobs/info/67f3fb9a923ed27fe09c9641?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 21 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Temporary - Summer Position](https://jobright.ai/jobs/info/681128ff3595dc1728961aab?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | May 21 |
 | **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, HRIS, People Systems Fellow](https://jobright.ai/jobs/info/682eb692729f9d126519776d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Content and Development and Market Research Intern](https://jobright.ai/jobs/info/682d371a76362e77aaea2bff?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | May 20 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Join our External Relations talent community!](https://jobright.ai/jobs/info/682d33db780c574a1a3c0533?utm_campaign=1054&utm_source=git)** | California, United States | Remote | May 20 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Campus Recruiting Events Intern](https://jobright.ai/jobs/info/682d3312369a599f6ebb2697?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | May 20 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Research Paid Intern- Human Resource Department](https://jobright.ai/jobs/info/682d281d4389d9a2d9f98138?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | May 20 |
-| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/682d252232974bd4623f2822?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | May 20 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Enrollment Launch Intern - IDEA Rio Grande Valley (Immediate Opening)](https://jobright.ai/jobs/info/682d2244c7da76624a258b7a?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | May 20 |
-| **[Segal](https://www.segalco.com)** | **[Compensation Fall Intern](https://jobright.ai/jobs/info/682d1f64e774a365707b8a56?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
