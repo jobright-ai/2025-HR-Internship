@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6833bcd68467f1f5d12c46c3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 25 |
 | **[Mclaurin Aerospace](https://mclaurin.aero)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68337cb8437b6f15abbde9b2?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | May 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/682421b2a6312916941f14f4?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | May 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02ca8?utm_campaign=1054&utm_source=git)** | Milton, DE | On Site | May 25 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1ac7116041967dfd96fed?utm_campaign=1054&utm_source=git)** | Roseville, CA | Hybrid | May 22 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/682f20a528cbe9cf17b98f8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | May 22 |
 | **[MSC Cruises](http://www.msccruisesusa.com.)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99133?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 22 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Community Benefits Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b98f98?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | May 22 |
-| ↳ | **[HR Compensation Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99017?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | May 22 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[HR Compensation Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99017?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | May 22 |
+| ↳ | **[Community Benefits Bachelor's Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b98f98?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | May 22 |
 | **[Sanhua International USA](https://www.sanhuausa.com)** | **[HR Internship](https://jobright.ai/jobs/info/682e64c934f270ad9eb6c793?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 22 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6812c7a23610a525a16d8dee?utm_campaign=1054&utm_source=git)** | Clarksville, AR | On Site | May 22 |
 | **[Salsify](http://salsify.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6812136d9196185d98092a05?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | May 22 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/682e78aa6160496a83a03ed1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 21 |
 | **[Vantage Specialty Chemicals](https://www.vantagegrp.com)** | **[HR Intern - Manufacturing Operations](https://jobright.ai/jobs/info/682e78728d059c576f947ac7?utm_campaign=1054&utm_source=git)** | Gurnee, IL | On Site | May 21 |
 | **[Stephen Gould](https://www.stephengould.com/)** | **[HR Intern](https://jobright.ai/jobs/info/682fcaa23285f324a58b9730?utm_campaign=1054&utm_source=git)** | Madison, NJ | On Site | May 21 |
-| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
+| **[WW Clyde](https://wwclyde.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f010e?utm_campaign=1054&utm_source=git)** | UT | On Site | May 21 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/682e74ce70585da93c6f0772?utm_campaign=1054&utm_source=git)** | Orem | On Site | May 21 |
 | **[PharmaCord](https://pharmacord.com/)** | **[Culture Strategy Intern](https://jobright.ai/jobs/info/682f771532e75c74aa069e35?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | May 21 |
-| **[LPL Financial](https://www.lpl.com)** | **[AVP, Internship and Early Career Programs](https://jobright.ai/jobs/info/682e7169c5e165f57b3ea41b?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
