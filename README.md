@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pattern®](https://pattern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683612abcd42f65a65b91849?utm_campaign=1054&utm_source=git)** | Hebron, KY | On Site | May 27 |
+| **[ITT Inc.](http://www.itt.com)** | **[DoD SkillBridge Intern - Logistics Support Specialist](https://jobright.ai/jobs/info/6836127bcaa5723cdfc61dc9?utm_campaign=1054&utm_source=git)** | El Cajon, CA | On Site | May 27 |
+| **[McLarens](http://mclarens.com)** | **[Intern - HR](https://jobright.ai/jobs/info/683600ae894712099db0ec5e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 27 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Senior Registration Associate intern - Albany, NY](https://jobright.ai/jobs/info/6835db2f3af97e11c7091c46?utm_campaign=1054&utm_source=git)** | Medical Associates Administration Offices - Albany, New York | On Site | May 27 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68195c57fa0b87cd612a0b37?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | May 27 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/6835c3d9adcd994ab13965d1?utm_campaign=1054&utm_source=git)** | Stanton, DE | On Site | May 27 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Temporary - Summer Position](https://jobright.ai/jobs/info/6835bfb0d976480be1777e7d?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | May 27 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/681952673ad838db7a650936?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | May 27 |
 | **[Airbus](https://us.airbus.com)** | **[Internship Diversity Inclusion](https://jobright.ai/jobs/info/68359515244488acf643d6db?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | May 27 |
@@ -64,10 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Feedzai](http://www.feedzai.com)** | **[Join our Internship Community](https://jobright.ai/jobs/info/68358cf3635fe01a280f3294?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[TA Data Analyst Intern](https://jobright.ai/jobs/info/683583a62c053d3649c9071a?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | May 27 |
 | **[Aerospike](http://www.aerospike.com)** | **[2025 HR Intern ](https://jobright.ai/jobs/info/6835940990000db48c9bc33c?utm_campaign=1054&utm_source=git)** | Remote USA | Remote | May 27 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67e23b5c6ce65b92bd11a241?utm_campaign=1054&utm_source=git)** | Brainerd, MN | On Site | May 26 |
+| **[Gun Lake Casino Resort](https://gunlakecasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6835dcb65b1f4ae51d22da0a?utm_campaign=1054&utm_source=git)** | Wayland, MI | On Site | May 26 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Michigan)](https://jobright.ai/jobs/info/67c52398d10488e7b663a819?utm_campaign=1054&utm_source=git)** | Lapeer, MI | On Site | May 26 |
+| ↳ | **[DoD SkillBridge Internship Application (Minnesota)](https://jobright.ai/jobs/info/67e23b5c6ce65b92bd11a241?utm_campaign=1054&utm_source=git)** | Brainerd, MN | On Site | May 26 |
 | ↳ | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67fddfca722b4034f7383fc4?utm_campaign=1054&utm_source=git)** | Tullahoma, TN | On Site | May 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f19b7dd3fe73ef75717cf6?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | May 26 |
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c31f69e33ac9811a431cec?utm_campaign=1054&utm_source=git)** | Grand Island, NE | Hybrid | May 26 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02cac?utm_campaign=1054&utm_source=git)** | Camden, DE | On Site | May 26 |
 | **[General Dynamics Land Systems](http://www.gdls.com)** | **[SkillBridge Intern](https://jobright.ai/jobs/info/68342764af41a71182471b7c?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | May 26 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/68240e6edcc64bfbd1764bae?utm_campaign=1054&utm_source=git)** | Caldwell, ID | On Site | May 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/683418c7d09c3981351185d0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 26 |
@@ -75,8 +84,10 @@ For a complete list, click the following sortable link below:
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6833bcd68467f1f5d12c46c3?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | May 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Pennsylvania)](https://jobright.ai/jobs/info/682584a6e18b937c4e2a4d21?utm_campaign=1054&utm_source=git)** | Uniontown, PA | On Site | May 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67f979389faaa14c02a02c97?utm_campaign=1054&utm_source=git)** | Buena Vista, CO | On Site | May 25 |
+| ↳ | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67f979389faaa14c02a02cab?utm_campaign=1054&utm_source=git)** | Crested Butte, CO | On Site | May 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/682421b2a6312916941f14f4?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | May 25 |
-| ↳ | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02ca8?utm_campaign=1054&utm_source=git)** | Milton, DE | On Site | May 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 25 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02ca8?utm_campaign=1054&utm_source=git)** | Milton, DE | On Site | May 25 |
 | ↳ | **[DoD SkillBridge Internship Application (Pennsylvania)](https://jobright.ai/jobs/info/682d68dffaae21548b893ef8?utm_campaign=1054&utm_source=git)** | Greensburg, PA | On Site | May 25 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/6827ff775ddfbbc70b63f8ea?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | May 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship-Eugene, OR](https://jobright.ai/jobs/info/6832a766609a4e0c87f774c7?utm_campaign=1054&utm_source=git)** | Springfield, OR | On Site | May 24 |
@@ -97,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67f96bf881c6d35b8df3aa22?utm_campaign=1054&utm_source=git)** | Gunnison, CO | On Site | May 24 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a69?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | May 24 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/6828055d4481cc9c42066635?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | May 24 |
+| ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/67eb60f645b84d910101bdd3?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | May 24 |
 | **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/6831b03536c7af78e6ce45ff?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | May 24 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/67fa1caff07aa44f6e5c07f7?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | May 24 |
 | **[TTM Technologies](https://www.ttm.com)** | **[Human Resource Intern/Co-op](https://jobright.ai/jobs/info/68151c4f201cabf9bfdd40f7?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | May 24 |
@@ -136,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22c75?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | May 23 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67bec301f636a08ca1b0ea7f?utm_campaign=1054&utm_source=git)** | Kansas City, KS | Hybrid | May 22 |
 | **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[HR Student Generalist](https://jobright.ai/jobs/info/682feb04088ae6bec1991a3d?utm_campaign=1054&utm_source=git)** | BYU–Hawaii | On Site | May 22 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid HR Intern](https://jobright.ai/jobs/info/68353fa12b87da7f66a521d1?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | May 22 |
 | **[Shaw Industries](https://shawinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682fdcd4a364eaa6f7cf3706?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | May 22 |
 | **[Foster Garvey PC](https://www.foster.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682ff9ab52933641ac69c115?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 22 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[HR Intern](https://jobright.ai/jobs/info/682fc25fadef0f249e4b05d7?utm_campaign=1054&utm_source=git)** | Crystal Springs, MS | On Site | May 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ring Container Technologies](https://www.ringcontainer.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f98fd912d3172aaacb687?utm_campaign=1054&utm_source=git)** | Oakland, TN | On Site | May 22 |
 | **[MERGE](http://www.mergeworld.com/)** | **[Talent Network](https://jobright.ai/jobs/info/67afbf03c9e7043f19ac9110?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | **[Ring Container Technologies](https://www.ringcontainer.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f9501a94d3237ac5c1f89?utm_campaign=1054&utm_source=git)** | Oakland, TN | On Site | May 22 |
-| **[PlanetArt](http://www.planetart.com)** | **[HR Safety Intern - Summer 2025](https://jobright.ai/jobs/info/6824cb7876026addbe5b5c60?utm_campaign=1054&utm_source=git)** | Woodridge, IL | On Site | May 22 |
-| **[Atomic Data](https://www.atomicdata.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd643f1?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/682f767126d7a3fbbfb9df0e?utm_campaign=1054&utm_source=git)** | Minnesota, United States | On Site | May 22 |
-| **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566df?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 22 |
-| **[Atomic Data](https://www.atomicdata.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f69a533367a2157ec6d2c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | May 22 |
-| **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f65e2f9f42c5ad7d444d9?utm_campaign=1054&utm_source=git)** | Manitowoc, WI | On Site | May 22 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[TA Data Analyst Intern](https://jobright.ai/jobs/info/682f54cfcd960547d0119893?utm_campaign=1054&utm_source=git)** | United States | Remote | May 22 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/682f488e1f3bc0f73ad6954e?utm_campaign=1054&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | May 22 |
-| **[AMSC](http://www.amsc.com)** | **[Summer/Fall Onsite Human Resources Intern](https://jobright.ai/jobs/info/682f4859e6df2b96b0fbccb7?utm_campaign=1054&utm_source=git)** | Ayer, MA | On Site | May 22 |
-| **[Badger](http://badgerlax.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f41181f7cec77837f7593?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | May 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Human Resources](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957898?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
