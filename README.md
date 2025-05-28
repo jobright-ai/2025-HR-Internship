@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Remote at Florida A&M University](https://jobright.ai/jobs/info/68367e4552bdf1e2c3f5507b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 27 |
+| **[Oigetit.ai - Fake News Filter](https://oigetit.ai/)** | **[QA Analyst Intern](https://jobright.ai/jobs/info/68367891f526f15cb5e26b01?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/6836571af4c07c4cc8a13be5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
-| **[MedMark Treatment Centers](https://medmark.com)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31eb7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 27 |
+| **[Ferrovial](http://www.ferrovial.com/en)** | **[HR Trainee](https://jobright.ai/jobs/info/68367517549c7a61d002d101?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 27 |
+| **[MedMark Treatment Centers](https://medmark.com)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/68367e4552bdf1e2c3f55248?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 27 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Senior Registration Associate intern - Albany, NY](https://jobright.ai/jobs/info/683649d229e35bfd663c5f8c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/683637d418f1f5fdffa0a657?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | May 27 |
 | **[Continental](https://www.continental.com)** | **[Intern - Human Resources, Year-Round](https://jobright.ai/jobs/info/6836273ecf0b9b9fa1ce6c73?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | On Site | May 27 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/6832a309074989d1e4ba2f2c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[TidalHealth](https://www.tidalhealth.org/)** | **[Intern - Human Resources (HR)](https://jobright.ai/jobs/info/683281246bb69e0037c6f359?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | May 24 |
 | **[Merjent](http://merjent.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683281246bb69e0037c6f350?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | May 24 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Pilot Resources (Spring, 2025)](https://jobright.ai/jobs/info/683682e5551c55221fdc698f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 24 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/67f979389faaa14c02a02c92?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | May 24 |
 | **[Mobi.AI](https://www.mobi.ai)** | **[Don't see the role you're looking for? Join our Talent Pool!](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa21c9?utm_campaign=1054&utm_source=git)** | Somerville, MA | Hybrid | May 24 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[CLERICAL SUPPORT TRAINEE (Disabled Workers Trainee Program)](https://jobright.ai/jobs/info/68323bcabb4f6da60ca40415?utm_campaign=1054&utm_source=git)** | Springfield, IL | Hybrid | May 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Total Rewards Internship](https://jobright.ai/jobs/info/67f7e0bc6d492977a2da6fc4?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 23 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/6828055d4481cc9c42066621?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 23 |
-| ↳ | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | May 23 |
-| **[Atlanta Mission](https://atlantamission.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7ebf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 23 |
-| **[University of Arkansas System](https://www.uasys.edu)** | **[Student Employee](https://jobright.ai/jobs/info/683040bf33b56747d7628142?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | May 23 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22c75?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
