@@ -57,9 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/6836571af4c07c4cc8a13be5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
+| **[MedMark Treatment Centers](https://medmark.com)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683656a4fb8f8576d3e31eb7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 27 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Senior Registration Associate intern - Albany, NY](https://jobright.ai/jobs/info/683649d229e35bfd663c5f8c?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | May 27 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/683637d418f1f5fdffa0a657?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | May 27 |
+| **[Continental](https://www.continental.com)** | **[Intern - Human Resources, Year-Round](https://jobright.ai/jobs/info/6836273ecf0b9b9fa1ce6c73?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | On Site | May 27 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68364fcf9ae69e4e1c4bccfa?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | May 27 |
+| **[St. Peter's Health Partners](http://sphp.com/)** | **[Senior Registration Associate intern - Albany, NY](https://jobright.ai/jobs/info/6836213083626c2d15e074f9?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | May 27 |
+| **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566df?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | May 27 |
+| **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Student Intern - HR Department (40 hours/week)](https://jobright.ai/jobs/info/6836434c5700c2d83e2364fa?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | May 27 |
 | **[Pattern®](https://pattern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683612abcd42f65a65b91849?utm_campaign=1054&utm_source=git)** | Hebron, KY | On Site | May 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[DoD SkillBridge Intern - Logistics Support Specialist](https://jobright.ai/jobs/info/6836127bcaa5723cdfc61dc9?utm_campaign=1054&utm_source=git)** | El Cajon, CA | On Site | May 27 |
 | **[McLarens](http://mclarens.com)** | **[Intern - HR](https://jobright.ai/jobs/info/683600ae894712099db0ec5e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 27 |
+| **[Southern Methodist University](http://www.smu.edu)** | **[Administrative Coordinator (HR Title: Coordinator 2)](https://jobright.ai/jobs/info/68361e5fc280b3d72f4d9b8a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | May 27 |
+| **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/683616118a59198f8c192f45?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | May 27 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Senior Registration Associate intern - Albany, NY](https://jobright.ai/jobs/info/6835db2f3af97e11c7091c46?utm_campaign=1054&utm_source=git)** | Medical Associates Administration Offices - Albany, New York | On Site | May 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68195c57fa0b87cd612a0b37?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | May 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/6835c3d9adcd994ab13965d1?utm_campaign=1054&utm_source=git)** | Stanton, DE | On Site | May 27 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Mission](https://atlantamission.org)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6823e9fe3bfbde056baa7ebf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | May 23 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Employee](https://jobright.ai/jobs/info/683040bf33b56747d7628142?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | May 23 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22c75?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | May 23 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67bec301f636a08ca1b0ea7f?utm_campaign=1054&utm_source=git)** | Kansas City, KS | Hybrid | May 22 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[HR Student Generalist](https://jobright.ai/jobs/info/682feb04088ae6bec1991a3d?utm_campaign=1054&utm_source=git)** | BYU–Hawaii | On Site | May 22 |
-| **[Shaw Industries](https://shawinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682fdcd4a364eaa6f7cf3706?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | May 22 |
-| **[Foster Garvey PC](https://www.foster.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682ff9ab52933641ac69c115?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | May 22 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[HR Intern](https://jobright.ai/jobs/info/682fc25fadef0f249e4b05d7?utm_campaign=1054&utm_source=git)** | Crystal Springs, MS | On Site | May 22 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/682fb4e2a28cb8ce8b501b8f?utm_campaign=1054&utm_source=git)** | Crystal Springs, Mississippi, United States of America | On Site | May 22 |
-| **[Convergint](http://www.convergint.com)** | **[Intern](https://jobright.ai/jobs/info/682fabb3f37d7cf6a408c334?utm_campaign=1054&utm_source=git)** | North Charleston, SC | On Site | May 22 |
-| **[Pow.Bio](https://www.pow.bio)** | **[Interested in a Future Role?](https://jobright.ai/jobs/info/682fa3210c0bdf68ef013703?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | May 22 |
-| **[Ring Container Technologies](https://www.ringcontainer.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f98fd912d3172aaacb687?utm_campaign=1054&utm_source=git)** | Oakland, TN | On Site | May 22 |
-| **[MERGE](http://www.mergeworld.com/)** | **[Talent Network](https://jobright.ai/jobs/info/67afbf03c9e7043f19ac9110?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | May 22 |
-| **[Ring Container Technologies](https://www.ringcontainer.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f9501a94d3237ac5c1f89?utm_campaign=1054&utm_source=git)** | Oakland, TN | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
