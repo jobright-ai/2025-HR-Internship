@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flowserve Corporation](http://www.flowserve.com)** | **[HR Intern](https://jobright.ai/jobs/info/68380575b2fb04fe4a1a7714?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | May 28 |
 | **[Balance Now](https://www.balance.ca)** | **[Recruiter](https://jobright.ai/jobs/info/6837d25cb8a1c9ee87639dc2?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
 | **[Intealth](https://intealth.org/)** | **[HR Intern](https://jobright.ai/jobs/info/6837cf8069f3c828fed35e82?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | May 28 |
 | **[InnovAge](https://www.innovage.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6837cd693d7461f6ac892bd9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 28 |
 | **[Semperis](http://www.semperis.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6837b8934a25a5e74731f2bc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Hybrid | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
-| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/68379f90677700711e93f9ca?utm_campaign=1054&utm_source=git)** | Valley Fair, 2855 Stevens Creek Boulevard Ste. 1748, Santa Clara, CA 95050 | On Site | May 28 |
+| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/68379f90677700711e93f9f5?utm_campaign=1054&utm_source=git)** | Valley Fair, 2855 Stevens Creek Boulevard Ste. 1748, Santa Clara, CA 95050 | On Site | May 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern- Pompano Beach](https://jobright.ai/jobs/info/68379c254a41756e9cdbda63?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | May 28 |
 | **[Cedar](http://www.cedar.com)** | **[Join Cedar's Talent Community!](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | May 28 |
 | **[Southern Company](http://www.southerncompany.com)** | **[DoD SkillBridge Internship Program - Military Only](https://jobright.ai/jobs/info/68377c0747b2d9fc6a4f04d6?utm_campaign=1054&utm_source=git)** | United States | Remote | May 28 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Onboarding](https://jobright.ai/jobs/info/67e1967835f762d3132dfc69?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Development & Engagement Intern (Remote)](https://jobright.ai/jobs/info/67fe85a1bea71abe87c05619?utm_campaign=1054&utm_source=git)** | Wauwatosa, WI | Remote | May 27 |
 | **[NMDP](https://www.nmdp.org)** | **[Campus Chapter Intern - Remote at Florida A&M University](https://jobright.ai/jobs/info/68367e4552bdf1e2c3f5507b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 27 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/67e22880e3cce584fc4f8fcc?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | May 27 |
 | **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Intern - Human Resources/Talent Acquisition](https://jobright.ai/jobs/info/682e89402e04d233c1281dce?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | May 27 |
 | **[Continental](https://www.continental.com)** | **[Intern HR & Internal Communications - Year-Round](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339a2?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | Hybrid | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/6836571af4c07c4cc8a13be5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
@@ -115,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Feedzai](http://www.feedzai.com)** | **[Join our Internship Community](https://jobright.ai/jobs/info/68358cf3635fe01a280f3294?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[TA Data Analyst Intern](https://jobright.ai/jobs/info/683583a62c053d3649c9071a?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | May 27 |
 | **[Aerospike](http://www.aerospike.com)** | **[2025 HR Intern ](https://jobright.ai/jobs/info/6835940990000db48c9bc33c?utm_campaign=1054&utm_source=git)** | Remote USA | Remote | May 27 |
+| **[Tecomet, Inc](http://www.tecomet.com)** | **[HR Intern](https://jobright.ai/jobs/info/6837e77f0165a7693fe4f0f7?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | May 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c1dc3c1b65c5ee35a9b060?utm_campaign=1054&utm_source=git)** | East Lansing, MI | Hybrid | May 26 |
 | **[Gun Lake Casino Resort](https://gunlakecasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6835dcb65b1f4ae51d22da0a?utm_campaign=1054&utm_source=git)** | Wayland, MI | On Site | May 26 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Michigan)](https://jobright.ai/jobs/info/67c52398d10488e7b663a819?utm_campaign=1054&utm_source=git)** | Lapeer, MI | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Student](http://www.firststudentinc.com)** | **[Retirement Intern](https://jobright.ai/jobs/info/6832901c0e138be3afc09893?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | May 24 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Colorado)](https://jobright.ai/jobs/info/67f96bf881c6d35b8df3aa22?utm_campaign=1054&utm_source=git)** | Gunnison, CO | On Site | May 24 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/67c0055e73d5d61c4c618a69?utm_campaign=1054&utm_source=git)** | Topeka, KS | Hybrid | May 24 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Virginia)](https://jobright.ai/jobs/info/6828055d4481cc9c42066635?utm_campaign=1054&utm_source=git)** | Springfield, VA | On Site | May 24 |
-| ↳ | **[DoD SkillBridge Internship Application (Arizona)](https://jobright.ai/jobs/info/67eb60f645b84d910101bdd3?utm_campaign=1054&utm_source=git)** | Mesa, AZ | On Site | May 24 |
-| **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/6831b03536c7af78e6ce45ff?utm_campaign=1054&utm_source=git)** | Merrillville, IN | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
