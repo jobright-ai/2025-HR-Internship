@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/681f32d9adf2f0c05ad29486?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/681da00e553612ad52e87614?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 31 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/683aa14856d207b01bec4c96?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | May 30 |
+| **[Sempra](http://www.sempra.com)** | **[Summer Intern - HR - Benefits (Hybrid)](https://jobright.ai/jobs/info/683bf7ebea33380a284b6981?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
 | **[Iron Bow Technologies](https://www.ironbow.com/)** | **[Human Resources Intern - Health & Wellness](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06afa?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | May 30 |
 | **[Harpak-ULMA Packaging, LLC](http://harpak-ulma.com)** | **[Compensation Intern - Summer 2025 - TAUNTON, MA Location](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06d22?utm_campaign=1054&utm_source=git)** | Taunton, MA | Hybrid | May 30 |
 | **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683a49bb215301186d674e66?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 30 |
@@ -120,11 +122,12 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern - Clerical Undergrad Year Round - Employee Health and Wellbeing Department, CA Onsite](https://jobright.ai/jobs/info/681ba54f3b0a54c64d3f31de?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | May 29 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | May 29 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[HR Intern](https://jobright.ai/jobs/info/68380575b2fb04fe4a1a7714?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | May 28 |
+| **[Murphy USA](http://corporate.murphyusa.com/)** | **[IT HR Intern](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ed12?utm_campaign=1054&utm_source=git)** | El Dorado, AR | On Site | May 28 |
 | **[InnovAge](https://www.innovage.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6837cd693d7461f6ac892bd9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 28 |
 | **[Semperis](http://www.semperis.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6837b8934a25a5e74731f2bc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Hybrid | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Lozier Corporation](http://www.lozier.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/67fd60a346fb01cc98467da9?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | May 28 |
-| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/68379f90677700711e93f9ca?utm_campaign=1054&utm_source=git)** | Valley Fair, 2855 Stevens Creek Boulevard Ste. 1748, Santa Clara, CA 95050 | On Site | May 28 |
+| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/68379f90677700711e93f9f5?utm_campaign=1054&utm_source=git)** | Valley Fair, 2855 Stevens Creek Boulevard Ste. 1748, Santa Clara, CA 95050 | On Site | May 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern- Pompano Beach](https://jobright.ai/jobs/info/68379c254a41756e9cdbda63?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | May 28 |
 | **[Cedar](http://www.cedar.com)** | **[Join Cedar's Talent Community!](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | May 28 |
 | **[Where Food Comes From, Inc.](http://wherefoodcomesfrom.com/)** | **[Onsite Summer Intern - HR & Accounting](https://jobright.ai/jobs/info/6823b6c60484976250806869?utm_campaign=1054&utm_source=git)** | Castle Rock, CO | On Site | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern HR & Internal Communications - Year-Round](https://jobright.ai/jobs/info/682d1bdaf50af4efd15339a2?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | Hybrid | May 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/6836571af4c07c4cc8a13be5?utm_campaign=1054&utm_source=git)** | United States | Remote | May 27 |
 | **[Ferrovial](http://www.ferrovial.com/en)** | **[HR Trainee](https://jobright.ai/jobs/info/68367517549c7a61d002d101?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | May 27 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Alabama)](https://jobright.ai/jobs/info/68203c475aacd2af46e9423b?utm_campaign=1054&utm_source=git)** | Chelsea, AL | On Site | May 27 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Talent Acquisition Sourcing Intern](https://jobright.ai/jobs/info/683637d418f1f5fdffa0a657?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | May 27 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/6753026408744769687830be?utm_campaign=1054&utm_source=git)** | Berlin, MA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
