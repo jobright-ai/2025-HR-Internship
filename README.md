@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Octagon](http://www.octagon.com/)** | **[Trainee, Event and Volunteer Management (Events)](https://jobright.ai/jobs/info/683dea4291b992203c77b044?utm_campaign=1054&utm_source=git)** | Cary, North Carolina, United States | On Site | Jun 02 |
+| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Chaplain Intern (Unpaid)](https://jobright.ai/jobs/info/683db9872a703e3b978be5c3?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Jun 02 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Benefits](https://jobright.ai/jobs/info/683d8e13947081468535d8ea?utm_campaign=1054&utm_source=git)** | Tempe, AZ | Hybrid | Jun 02 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[CLERICAL TRAINEE (DWTP)](https://jobright.ai/jobs/info/683d79fabbe31cfa70d75420?utm_campaign=1054&utm_source=git)** | Springfield, IL | Hybrid | Jun 02 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/683d053fbeb90fb85d7daaf7?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jun 01 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/682812a5ea9be71d8a5777d8?utm_campaign=1054&utm_source=git)** | Mount Carmel, TN | On Site | May 30 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6839cd9c125280c6d6414bf6?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Washington State)](https://jobright.ai/jobs/info/6839c285643dac6014e2d7df?utm_campaign=1054&utm_source=git)** | Washington, United States | On Site | May 30 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705b40?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
-| ↳ | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705de6?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | May 30 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705de6?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | May 30 |
+| ↳ | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705b40?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/6839b73ab796e46625f4ec17?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | May 30 |
 | **[Continental](https://www.continental.com)** | **[Intern - Human Resources, Year-Round](https://jobright.ai/jobs/info/6836273ecf0b9b9fa1ce6c73?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | On Site | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/6822b638e42867de522db404?utm_campaign=1054&utm_source=git)** | El Cajon, CA | On Site | May 30 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6790734ab278026965404659?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | May 29 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[HR Intern](https://jobright.ai/jobs/info/68380575b2fb04fe4a1a7714?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | May 28 |
 | **[Murphy USA](http://corporate.murphyusa.com/)** | **[IT HR Intern](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ed12?utm_campaign=1054&utm_source=git)** | El Dorado, AR | On Site | May 28 |
-| **[InnovAge](https://www.innovage.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6837cd693d7461f6ac892bd9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | May 28 |
 | **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[Human Resources Intern - R25-0044](https://jobright.ai/jobs/info/683d12b0217427f6eba96916?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | May 28 |
 | **[Semperis](http://www.semperis.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6837b8934a25a5e74731f2bc?utm_campaign=1054&utm_source=git)** | New Jersey, United States | Hybrid | May 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSC Cruises](http://www.msccruisesusa.com.)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/682f20a528cbe9cf17b99133?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/67f8924fbd654d7d02d6af92?utm_campaign=1054&utm_source=git)** | Forest Grove, OR | On Site | May 28 |
 | **[Airgas](http://airgas.com/)** | **[HR Organizational Effectiveness and Strategic Projects Intern](https://jobright.ai/jobs/info/67fd4b778562b64b01f6ecc9?utm_campaign=1054&utm_source=git)** | Radnor, PA | On Site | May 28 |
-| **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Senior Coordinator, Volunteer and Intern Recruitment](https://jobright.ai/jobs/info/68240a12baafd6a8ba106550?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
