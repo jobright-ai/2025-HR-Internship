@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - HR Benefits](https://jobright.ai/jobs/info/683d8e13947081468535d8ea?utm_campaign=1054&utm_source=git)** | Tempe, AZ | Hybrid | Jun 02 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[CLERICAL TRAINEE (DWTP)](https://jobright.ai/jobs/info/683d79fabbe31cfa70d75420?utm_campaign=1054&utm_source=git)** | Springfield, IL | Hybrid | Jun 02 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/683d053fbeb90fb85d7daaf7?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jun 01 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683c76ca2f79600c9fbf8cfa?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 01 |
 | **[Macmillan](http://macmillan.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/683c5e14ce654cf9ec633d7e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jun 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Jun 01 |
 | ↳ | **[DoD SkillBridge Internship Application (Texas)](https://jobright.ai/jobs/info/68240dad7311d262c0dd8d3e?utm_campaign=1054&utm_source=git)** | Rockport, TX | On Site | Jun 01 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid HR Intern](https://jobright.ai/jobs/info/683d12b0217427f6eba96696?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | May 31 |
+| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Fall 2025](https://jobright.ai/jobs/info/681e6bc8ce8d927129d23725?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jun 01 |
+| **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jun 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/681f32d9adf2f0c05ad29486?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/681da00e553612ad52e87614?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 31 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/67d2594ac1e03a81e026bb07?utm_campaign=1054&utm_source=git)** | Garden City, KS | On Site | May 30 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/683aa14856d207b01bec4c96?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | May 30 |
-| **[Sempra](http://www.sempra.com)** | **[Summer Intern - HR - Benefits (Hybrid)](https://jobright.ai/jobs/info/683d3d4a813731a7dfd64c8b?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
-| **[MedMark Treatment Centers](https://medmark.com)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683d31dd30498eac273c9cfd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | May 30 |
 | **[Iron Bow Technologies](https://www.ironbow.com/)** | **[Human Resources Intern - Health & Wellness](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06afa?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | May 30 |
 | **[Harpak-ULMA Packaging, LLC](http://harpak-ulma.com)** | **[Compensation Intern - Summer 2025 - TAUNTON, MA Location](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06d22?utm_campaign=1054&utm_source=git)** | Taunton, MA | Hybrid | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Intern (TikTok-Product and Design) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e2d2abe470625a257acac3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/67f8924fbd654d7d02d6af92?utm_campaign=1054&utm_source=git)** | Forest Grove, OR | On Site | May 28 |
 | **[Airgas](http://airgas.com/)** | **[HR Organizational Effectiveness and Strategic Projects Intern](https://jobright.ai/jobs/info/67fd4b778562b64b01f6ecc9?utm_campaign=1054&utm_source=git)** | Radnor, PA | On Site | May 28 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Senior Coordinator, Volunteer and Intern Recruitment](https://jobright.ai/jobs/info/68240a12baafd6a8ba106550?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | May 28 |
-| **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, Onboarding](https://jobright.ai/jobs/info/67e1967835f762d3132dfc69?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
