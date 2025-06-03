@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - HR Admin](https://jobright.ai/jobs/info/68229951c782c169809ced54?utm_campaign=1054&utm_source=git)** | Fountain Valley, CA | On Site | Jun 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Human Resources Intern](https://jobright.ai/jobs/info/683e9cf0a66f2ed58b76fa75?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/683e9145c8eff275d8ebbe1d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship-Portland Airport](https://jobright.ai/jobs/info/683e9145c8eff275d8ebc0f6?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Jun 02 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[State of Illinois](https://www2.illinois.gov/)** | **[CLERICAL TRAINEE (DWTP)](https://jobright.ai/jobs/info/683d79fabbe31cfa70d75420?utm_campaign=1054&utm_source=git)** | Springfield, IL | Hybrid | Jun 02 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/683d053fbeb90fb85d7daaf7?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jun 01 |
 | **[Pro-Dex, Inc.](http://pro-dex.com)** | **[HR Intern](https://jobright.ai/jobs/info/683e02204fb1d73af4cb0d34?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Jun 01 |
-| **[BayMark Health Services](http://baymark.com/)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683c76ca2f79600c9fbf8c73?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 01 |
+| **[BayMark Health Services](http://baymark.com/)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/683c76ca2f79600c9fbf8cfa?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 01 |
 | **[Macmillan](http://macmillan.com)** | **[Summer 2025 Internship](https://jobright.ai/jobs/info/683c5e14ce654cf9ec633d7e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jun 01 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Jun 01 |
 | ↳ | **[DoD SkillBridge Internship Application (Texas)](https://jobright.ai/jobs/info/68240dad7311d262c0dd8d3e?utm_campaign=1054&utm_source=git)** | Rockport, TX | On Site | Jun 01 |
@@ -101,14 +102,12 @@ For a complete list, click the following sortable link below:
 | **[Iron Bow Technologies](https://www.ironbow.com/)** | **[Human Resources Intern - Health & Wellness](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06afa?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | May 30 |
 | **[Harpak-ULMA Packaging, LLC](http://harpak-ulma.com)** | **[Compensation Intern - Summer 2025 - TAUNTON, MA Location](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06d22?utm_campaign=1054&utm_source=git)** | Taunton, MA | Hybrid | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Intern (TikTok-Product and Design) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e2d2abe470625a257acac3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
-| **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683a49bb215301186d674e66?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | May 30 |
 | **[Federal Signal Corporation](http://federalsignal.com)** | **[Summer Helper for Human Resources](https://jobright.ai/jobs/info/68375340a4a8b1b302203b66?utm_campaign=1054&utm_source=git)** | University Park, IL | On Site | May 30 |
 | **[PaperWorks](https://onepaperworks.com)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/683a3aebe164f3f9bcde980c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | May 30 |
 | **[Flynn Group](https://flynn.com)** | **[Flynn Restaurant Group Internship](https://jobright.ai/jobs/info/683a3aebe164f3f9bcde9740?utm_campaign=1054&utm_source=git)** | Independence, OH | Hybrid | May 30 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Applied Research Internship, Brookings Metro (Job ID 2025-3671)](https://jobright.ai/jobs/info/683a332cdab670f5464b7235?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | ↳ | **[Fall 2025, Infrastructure Workforce Internship, Brookings Metro (Job ID 2025-3672)](https://jobright.ai/jobs/info/683a332cdab670f5464b721d?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
-| **[Stars Behavioral Health Group](http://starsinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc22b8?utm_campaign=1054&utm_source=git)** | Long Beach, CA USA | On Site | May 30 |
-| **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Labor Markets & Workforce Development Internship, Brookings Metro (Job ID 2025-3667)](https://jobright.ai/jobs/info/683a2d8536358fd6bcdbcbb1?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
+| ↳ | **[Fall 2025, Labor Markets & Workforce Development Internship, Brookings Metro (Job ID 2025-3667)](https://jobright.ai/jobs/info/683a2d8536358fd6bcdbcbb1?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[Mercy Housing](https://www.mercyhousing.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683a1fae9bd6f87922e1b50e?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | May 30 |
 | **[Thryv](https://www.thryv.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/683a1d9656ccfa2464573a63?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
 | **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/683a1bc9d6e60d26a3a431a7?utm_campaign=1054&utm_source=git)** | Burlington, MA | On Site | May 30 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/6839a16800381f951774a2f2?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | May 29 |
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Internship Talent Pool](https://jobright.ai/jobs/info/6838a631fd63d5b213931f43?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | May 29 |
 | **[Sage Dental](http://mysagedental.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683928d2a2f00884ae90dcac?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 29 |
-| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/68385575324ba89f1093ae59?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
+| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/6838522f6b01d2e2732567e7?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern - Clerical Undergrad Year Round - Employee Health and Wellbeing Department, CA Onsite](https://jobright.ai/jobs/info/681ba54f3b0a54c64d3f31de?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | May 29 |
+| **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
