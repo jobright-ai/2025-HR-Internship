@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECCO](https://enter.ecco.com/)** | **[P&C Culture - Intern (paid / temp)](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jun 03 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[ADMIN ASSTISTANT - INTERN (PART TIME)](https://jobright.ai/jobs/info/683f675a2ad9f761867636dd?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Jun 03 |
+| **[Centria Autism](http://www.centriahealth.com)** | **[Shared Services Intern](https://jobright.ai/jobs/info/683f5ee928df15755e19877b?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Jun 03 |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[Human Resources - Part-time Student Seasonal](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06f2c?utm_campaign=1054&utm_source=git)** | New Bremen, OH | On Site | Jun 03 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[HR Assistant - Intern](https://jobright.ai/jobs/info/683f4ac53c56cc0f95b61ce3?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jun 03 |
 | **[Continental](https://www.continental.com)** | **[Intern - Human Resources, Year-Round](https://jobright.ai/jobs/info/683f3c09a338eca10dee5138?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | On Site | Jun 03 |
 | **[Centria Autism](http://www.centriahealth.com)** | **[Shared Services Intern](https://jobright.ai/jobs/info/683f08a3cd7d817464a3dcca?utm_campaign=1054&utm_source=git)** | Farmington Hills, Michigan, United States | On Site | Jun 03 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c97?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 02 |
 | **[Pattern®](https://pattern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683e6233e131041d83a0d905?utm_campaign=1054&utm_source=git)** | Hebron, KY | On Site | Jun 02 |
 | **[Hiossen](https://hiossen.com)** | **[HR Data Intern (Englewood Cliffs, NJ) - Bilingual in English & Korean](https://jobright.ai/jobs/info/683e6233e131041d83a0d894?utm_campaign=1054&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jun 02 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Human Resources Intern](https://jobright.ai/jobs/info/683e4d6a5b5f5868c008cd8c?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA | On Site | Jun 02 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Human Resources Intern](https://jobright.ai/jobs/info/683e4d6a5b5f5868c008c9d4?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA | On Site | Jun 02 |
 | **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/683e4abed16280ecbd5ec2f5?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jun 02 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Human Resources Intern](https://jobright.ai/jobs/info/683e4a33ebdfa85ce30c5ac4?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jun 02 |
 | **[Peterson Cat](https://www.petersoncat.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683e460ce1f25d62d9d440f1?utm_campaign=1054&utm_source=git)** | San Leandro, CA | On Site | Jun 02 |
@@ -96,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Jun 01 |
 | **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Human Resources Internship - Fall 2025](https://jobright.ai/jobs/info/681e6bc8ce8d927129d23725?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jun 01 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jun 01 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid HR Intern](https://jobright.ai/jobs/info/683e732bfcbaf603244a3eea?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | May 31 |
 | **[NMDP](https://www.nmdp.org)** | **[Community Engagement & Events Intern: Remote in Los Angeles, CA](https://jobright.ai/jobs/info/681eb8670c54c1233bc7e548?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Remote | May 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Fall 2025 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/681f32d9adf2f0c05ad29486?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | May 31 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/681da00e553612ad52e87614?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | May 31 |
@@ -123,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Abnormal AI](https://abnormal.ai/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc737?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/682812a5ea9be71d8a5777d8?utm_campaign=1054&utm_source=git)** | Mount Carmel, TN | On Site | May 30 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/6839cd9c125280c6d6414bf6?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | May 30 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705b40?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
-| ↳ | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705de6?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | May 30 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705de6?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | May 30 |
+| ↳ | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705b40?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Jersey)](https://jobright.ai/jobs/info/6839b73ab796e46625f4ec17?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | May 30 |
 | **[Continental](https://www.continental.com)** | **[Intern - Human Resources, Year-Round](https://jobright.ai/jobs/info/6836273ecf0b9b9fa1ce6c73?utm_campaign=1054&utm_source=git)** | Fairlawn, OH | On Site | May 30 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (California)](https://jobright.ai/jobs/info/6822b638e42867de522db404?utm_campaign=1054&utm_source=git)** | El Cajon, CA | On Site | May 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Checkbook](https://www.checkbook.io)** | **[Checkbook Internship Talent Pool](https://jobright.ai/jobs/info/6838d71071a5a76aeb5e1c47?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Remote | May 29 |
 | **[Connection](http://www.pcconnection.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6838af4781ac9e9b8f1ff5d9?utm_campaign=1054&utm_source=git)** | Merrimack, NH | On Site | May 29 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/6839a16800381f951774a2f2?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | May 29 |
-| **[Checkbook](https://www.checkbook.io)** | **[Checkbook Internship Talent Pool](https://jobright.ai/jobs/info/6838a631fd63d5b213931f43?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | May 29 |
-| **[Sage Dental](http://mysagedental.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/683928d2a2f00884ae90dcac?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | May 29 |
-| **[Shake Shack](http://shakeshack.com)** | **[Shake Shack Hospitality Internship](https://jobright.ai/jobs/info/6838522f6b01d2e2732567e7?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
