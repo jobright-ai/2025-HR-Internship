@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communication Student Employee (Part-time)](https://jobright.ai/jobs/info/6840fe8312842b47c8c1ddc8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 04 |
+| **[Richelieu Foods](http://richelieufoods.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da220220?utm_campaign=1054&utm_source=git)** | Wheeling, IL | On Site | Jun 04 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer Work & Travel Hospitality Internship](https://jobright.ai/jobs/info/6840e81e0f1f4815da21feb6?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 04 |
+| **[Cornerstone Research](https://www.cornerstone.com)** | **[Talent - Operations Intern](https://jobright.ai/jobs/info/6840e4600ae2704e22deaa8b?utm_campaign=1054&utm_source=git)** | Greater Boston | On Site | Jun 04 |
+| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Total Rewards Internship](https://jobright.ai/jobs/info/6840eca5821f651a15422cb3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Jungheinrich Lift Truck Corp.](http://www.jungheinrich.com)** | **[HR Intern](https://jobright.ai/jobs/info/6840b3f99338e0193db78d47?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Intern (DC - Larsen) 2024 - 2025](https://jobright.ai/jobs/info/6840a55d76145f29765befd4?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 04 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2025] Total Rewards Internship](https://jobright.ai/jobs/info/68409b704ec0693395bda004?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 04 |
@@ -71,23 +76,24 @@ For a complete list, click the following sortable link below:
 | **[MediaRadar, Inc.](http://www.mediaradar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684069fda088c610bb1c3c48?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 04 |
 | **[PHINIA](https://phinia.com)** | **[HR Intern](https://jobright.ai/jobs/info/6840681e13d67e5c859c4f6c?utm_campaign=1054&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Jun 04 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Chaplain Intern, PRN (Days)](https://jobright.ai/jobs/info/67d11cc14f958d04a3349278?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Connecticut)](https://jobright.ai/jobs/info/6752c5e2b232437059babe2e?utm_campaign=1054&utm_source=git)** | Branford, CT | On Site | Jun 04 |
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Human Resources Intern – Healthcare Industry (3)](https://jobright.ai/jobs/info/68404b8a406e707523a9060f?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jun 04 |
 | **[Abacus!](http://abacuscpas.com)** | **[HR Intern](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525aae?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jun 04 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/68257c24f4747d20f93281de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb585?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68403410702dcc6aa975d38d?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b59?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b00?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b4d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b6b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b6d?utm_campaign=1054&utm_source=git)** | Cypress, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b00?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b59?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b2d?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b4d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | **[MPW Industrial Services](http://www.mpwservices.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682d5deea7e5965985a8c0b2?utm_campaign=1054&utm_source=git)** | Hebron, OH | On Site | Jun 04 |
 | **[GILLIG](http://gillig.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/673ff5219023c49b82b344fd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Jun 04 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/683fb028c9cdacca92bb8792?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Jun 03 |
 | **[Morehouse School of Medicine](http://www.msm.edu/)** | **[Human Resources Operations Intern (On-Site)](https://jobright.ai/jobs/info/683f9d8a1801444deab50d2e?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Jun 03 |
 | **[ECCO](https://enter.ecco.com/)** | **[P&C Culture - Intern (paid / temp)](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jun 03 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b2794?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 03 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b27f2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 03 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[ADMIN ASSTISTANT - INTERN (PART TIME)](https://jobright.ai/jobs/info/683f675a2ad9f761867636dd?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Jun 03 |
 | **[Centria Autism](http://www.centriahealth.com)** | **[Shared Services Intern](https://jobright.ai/jobs/info/683f5ee928df15755e19877b?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Jun 03 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Human Resources - Part-time Student Seasonal](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06f2c?utm_campaign=1054&utm_source=git)** | New Bremen, OH | On Site | Jun 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/683a1bc9d6e60d26a3a431a7?utm_campaign=1054&utm_source=git)** | Burlington, MA | On Site | May 30 |
 | **[Clemson University](http://www.clemson.edu)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/683a174493f88b606b501923?utm_campaign=1054&utm_source=git)** | Clemson, SC | On Site | May 30 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/683a0b4290a2856439790fc1?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Fall 2025](https://jobright.ai/jobs/info/681da00e553612ad52e87341?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | May 30 |
-| **[Abnormal AI](https://abnormal.ai/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9569?utm_campaign=1054&utm_source=git)** | United States | Remote | May 30 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2025 Omni Cares Human Resources Internship](https://jobright.ai/jobs/info/6839e76b268fd00a12345538?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | May 30 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6839e76b268fd00a1234550c?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | May 30 |
-| **[Abnormal AI](https://abnormal.ai/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6839dc74bd2c781d071fc737?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | May 30 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer/Fall 2025 Intern - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6839c1f0727014fe35705b40?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
