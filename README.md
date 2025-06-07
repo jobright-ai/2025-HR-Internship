@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Octagon](http://www.octagon.com/)** | **[Trainee, Event and Volunteer Management (Events)](https://jobright.ai/jobs/info/6843ac7a7b010a54997851f3?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Jun 06 |
+| **[Penn Highlands Healthcare](https://www.phhealthcare.org/)** | **[International Recruitment Intern - 13320](https://jobright.ai/jobs/info/6843a99ce23410728835f515?utm_campaign=1054&utm_source=git)** | Du Bois, PA | On Site | Jun 06 |
+| **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6843a5ecc28f21afd582ac67?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jun 06 |
+| **[Thunder](https://www.thundersf.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/68439689740b84371217ea9d?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jun 06 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684392330f24293b0e0d6cc5?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 06 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68438f83b017a44ae66fb5cf?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Jun 06 |
 | **[DH Pace Company, Inc.](https://www.dhpace.com/)** | **[Talent Community - Denver](https://jobright.ai/jobs/info/6843816acc523411f09e8d6a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 06 |
 | ↳ | **[Talent Community - Phoenix](https://jobright.ai/jobs/info/68437d539c2e6d36ec923290?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jun 06 |
 | ↳ | **[Talent Community - Dallas](https://jobright.ai/jobs/info/6843786aa7bcfe8faffe38a2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jun 06 |
@@ -114,11 +120,12 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412b8119ea3c1d5adf677f?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412b8119ea3c1d5adf6798?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/684158b5cad655d671772798?utm_campaign=1054&utm_source=git)** | CA | On Site | Jun 04 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412752699249528b9e59a9?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jun 04 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412752699249528b9e599e?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412752699249528b9e597c?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412752699249528b9e599e?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68412752699249528b9e59a9?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Jun 04 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oklahoma)](https://jobright.ai/jobs/info/682032e4f9c123e6ef7980aa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Jun 04 |
 | **[Clemson University](http://www.clemson.edu)** | **[Recruiting Operations Intern](https://jobright.ai/jobs/info/683a174493f88b606b501923?utm_campaign=1054&utm_source=git)** | Clemson, SC | On Site | Jun 04 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Bidding and Planning, (Spring, 2025)](https://jobright.ai/jobs/info/6843b340fc19719209680550?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jun 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communication Student Employee (Part-time)](https://jobright.ai/jobs/info/6840fe8312842b47c8c1ddc8?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 04 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (HR)](https://jobright.ai/jobs/info/6827f40962df9ad68f698c62?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
 | **[Richelieu Foods](http://richelieufoods.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6840e81e0f1f4815da220220?utm_campaign=1054&utm_source=git)** | Wheeling, IL | On Site | Jun 04 |
@@ -144,17 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Abacus!](http://abacuscpas.com)** | **[HR Intern](https://jobright.ai/jobs/info/6823d2130a7ff0b3aa525aae?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Jun 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/684036c386dc12b2aa1eb585?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68403410702dcc6aa975d38d?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b59?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b4d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b6d?utm_campaign=1054&utm_source=git)** | Cypress, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b00?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b2d?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Jun 04 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b6b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b59?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Jun 04 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68402d90c388f2f7b69d7b6d?utm_campaign=1054&utm_source=git)** | Cypress, TX | On Site | Jun 04 |
-| **[MPW Industrial Services](http://www.mpwservices.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682d5deea7e5965985a8c0b2?utm_campaign=1054&utm_source=git)** | Hebron, OH | On Site | Jun 04 |
-| **[GILLIG](http://gillig.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/673ff5219023c49b82b344fd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Jun 04 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/683fb028c9cdacca92bb8792?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Jun 03 |
-| **[Morehouse School of Medicine](http://www.msm.edu/)** | **[Human Resources Operations Intern (On-Site)](https://jobright.ai/jobs/info/683f9d8a1801444deab50d2e?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Jun 03 |
-| **[ECCO](https://enter.ecco.com/)** | **[P&C Culture - Intern (paid / temp)](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jun 03 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b27f2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 03 |
-| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[ADMIN ASSTISTANT - INTERN (PART TIME)](https://jobright.ai/jobs/info/683f675a2ad9f761867636dd?utm_campaign=1054&utm_source=git)** | Aurora, IL | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
