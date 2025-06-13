@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jun 12 |
+| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684b8e9623a358f3a683b14e?utm_campaign=1054&utm_source=git)** | Mankato | On Site | Jun 12 |
+| **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f9989?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
+| **[Intermountain Electronics](https://ie-corp.com/)** | **[DoD SkillBridge Internships](https://jobright.ai/jobs/info/684b7b16062c6b8b7aced29f?utm_campaign=1054&utm_source=git)** | Price, UT | On Site | Jun 12 |
+| **[Romark Logistics](http://romarklogistics.com)** | **[Human Resource Summer Intern](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb12e?utm_campaign=1054&utm_source=git)** | Fort Smith, AR | On Site | Jun 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b54a19ab1780ff6cfe1ac?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 12 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Case Management Intern- Survivors of Torture](https://jobright.ai/jobs/info/684b3ca5e23e6a5a3a8e4da2?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jun 12 |
 | **[Pushpay](http://www.pushpay.com)** | **[Join our Talent Pool for Future Opportunities with Pushpay!](https://jobright.ai/jobs/info/684b35ce961b7f0677318587?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | Hybrid | Jun 12 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[People Operations Analytics Internship](https://jobright.ai/jobs/info/684aedcf04807809f40f4a57?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jun 12 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/684ad2f73426744c750720a6?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jun 12 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Recruitment Intern](https://jobright.ai/jobs/info/682e7c689b79c67165c1d5e5?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 12 |
+| **[Salsify](http://salsify.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6812136d9196185d98092a05?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jun 12 |
 | **[Jewish Family Service of San Diego](https://www.jfssd.org/)** | **[Internship, Jewish Family Service of San Diego](https://jobright.ai/jobs/info/684ab245ba9aa7cc29fbf93b?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jun 12 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/684a7c7bad7828d8ae90e124?utm_campaign=1054&utm_source=git)** | Litchfield, CT | On Site | Jun 12 |
 | **[Interactive Strategies](http://interactivestrategies.com)** | **[Operations & HR Intern](https://jobright.ai/jobs/info/684a5ee25715d5f579e4e9ab?utm_campaign=1054&utm_source=git)** | Washington Highlands, MD | Hybrid | Jun 11 |
@@ -130,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Workato](http://www.workato.com)** | **[Intern, Talent Management](https://jobright.ai/jobs/info/68479c52ae132a684f40f46d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jun 09 |
 | **[ITS Logistics](http://its4logistics.com)** | **[HR Intern](https://jobright.ai/jobs/info/68479a62e65221a5d4d140fb?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jun 09 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Administrator/ HR Internship](https://jobright.ai/jobs/info/68479a48a0c43c5614b7ab16?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jun 09 |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2025 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/682ad2a2f6953592b0a9b142?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jun 09 |
 | **[Definity First](https://definityfirst.com/)** | **[Human Capital Intern](https://jobright.ai/jobs/info/6847823194d3361ce75bf383?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 09 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Administrator/ HR Internship](https://jobright.ai/jobs/info/6847823194d3361ce75bf365?utm_campaign=1054&utm_source=git)** | San Diego, California | On Site | Jun 09 |
 | **[ITS Logistics](http://its4logistics.com)** | **[HR Intern ](https://jobright.ai/jobs/info/68477cf74de1ce6b6f4d17ed?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jun 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/68467c30757d449490e9beb8?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | Jun 08 |
 | **[Maximus](http://www.maximus.com/)** | **[Technical Recruiter - SkillsBridge Program](https://jobright.ai/jobs/info/6847b5fe50bfb8bd15ae32eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[SSA Group](http://thessagroup.com)** | **[Talent Network](https://jobright.ai/jobs/info/683a76106e634b11db96ab2a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jun 08 |
-| **[Halliburton](https://www.halliburton.com/)** | **[Student of Administration or Human Resources](https://jobright.ai/jobs/info/68463706fcd4f95fba5105fc?utm_campaign=1054&utm_source=git)** | Santa Cruz County, CA | On Site | Jun 08 |
-| **[University of Florida](https://www.ufl.edu)** | **[STAS Talent Development Intern](https://jobright.ai/jobs/info/684753c4db078e41573f1f7f?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jun 08 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68461a92bbea37df2617ed2a?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Jun 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kentucky)](https://jobright.ai/jobs/info/6753b08164bf78ef6c87068a?utm_campaign=1054&utm_source=git)** | Shelbyville, KY | On Site | Jun 08 |
-| **[Sparq](https://www.teamsparq.com)** | **[Talent Network](https://jobright.ai/jobs/info/68198cd96290b848d5a0c3f3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/682d3bbfb87c2e0f76d288db?utm_campaign=1054&utm_source=git)** | Vandalia, OH | On Site | Jun 08 |
-| **[DriveTime](https://www.drivetime.com)** | **[DriveTime Family of Brands Internship Talent Community](https://jobright.ai/jobs/info/68411afd4fe1d73b8cc78f7a?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
