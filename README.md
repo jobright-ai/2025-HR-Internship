@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684c2a96de9c105c21e4f7e2?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 13 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Human Resources](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957898?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Jun 13 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Payroll Specialist I](https://jobright.ai/jobs/info/684bf845151cb5868c973d41?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jun 13 |
 | **[Reser's Fine Foods](http://www.resers.com)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/684bcb7a2f8dc285aea30bf6?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Jun 12 |
 | **[Michigan Technological University](https://www.mtu.edu/)** | **[International Employment Specialist](https://jobright.ai/jobs/info/684ba01b137e35638beb8d69?utm_campaign=1054&utm_source=git)** | Houghton, MI | On Site | Jun 12 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jun 12 |
@@ -69,10 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Pushpay](http://www.pushpay.com)** | **[Join our Talent Pool for Future Opportunities with Pushpay!](https://jobright.ai/jobs/info/684b35ce961b7f0677318587?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | Hybrid | Jun 12 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[HR Internship- InterContinental Boston](https://jobright.ai/jobs/info/684b33e54c5ab8819961d15f?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 12 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684b336432272f3493620887?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 12 |
-| ↳ | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9501?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
+| **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/684b2ad081ae94db83ea2436?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Jun 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jun 12 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Director of Recruitment and Internship Development](https://jobright.ai/jobs/info/684b22a99c4d588cd06ed574?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Jun 12 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2116822a2f1ac3c9dd63?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684b122f4084419ccd42643b?utm_campaign=1054&utm_source=git)** | Lincoln, RI | On Site | Jun 12 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - Recruitment](https://jobright.ai/jobs/info/684b0943e5bad6b699efedbc?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jun 12 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[People Operations Analytics Internship](https://jobright.ai/jobs/info/684aedcf04807809f40f4a57?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jun 12 |
@@ -92,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Daxko](https://www.daxko.com/)** | **[HR Intern (Hybrid - Birmingham)](https://jobright.ai/jobs/info/6849ff55d23ab44bf32820f3?utm_campaign=1054&utm_source=git)** | Birmingham, AL | Hybrid | Jun 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Performance Evaluation Intern](https://jobright.ai/jobs/info/6849efa9e12ba2402a004294?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 11 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6849eb916ff4ba5b73582d21?utm_campaign=1054&utm_source=git)** | 2000 Marcus Avenue, New Hyde Park, NY, 11042, US | On Site | Jun 11 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6849eb916ff4ba5b73582d16?utm_campaign=1054&utm_source=git)** | ADVENTHEALTH HINSDALE120 N OAK ST | On Site | Jun 11 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (Trades Helper) - Bureau of Field Services](https://jobright.ai/jobs/info/6849e988279f661871a729c7?utm_campaign=1054&utm_source=git)** | Dimondale, MI | On Site | Jun 11 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/6849e2befef6a65076fe1fc4?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
 | ↳ | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/6849fb6173bec610d5af9977?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Jun 11 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Fall 2025)](https://jobright.ai/jobs/info/6849297e6a9d6a73f0c2734f?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 11 |
 | **[After School Matters](http://www.afterschoolmatters.org/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68492811abb0af49fdb249cb?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 10 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/6826b04778eb994ae6e32b44?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Jun 10 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[HR - Intern](https://jobright.ai/jobs/info/684bacc3adf432912dfa149a?utm_campaign=1054&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jun 10 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6841a1b6d5899a6e31402be8?utm_campaign=1054&utm_source=git)** | Lincoln, NE | Hybrid | Jun 10 |
 | **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6848f1ecbbc022898b202063?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Jun 10 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/683ea8b2e66e027b80e80c97?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6841ae6d6332692a8c2c1e0d?utm_campaign=1054&utm_source=git)** | Augusta, GA | Hybrid | Jun 09 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Fall 2025 FOX Corporation Internship Program - New York](https://jobright.ai/jobs/info/682ad1fe90253d793719f106?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b5?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Jun 09 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/68418107236ae7a5c4e533f1?utm_campaign=1054&utm_source=git)** | Franklin, TN | Hybrid | Jun 08 |
-| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/68468326bd9d66542a69ec26?utm_campaign=1054&utm_source=git)** | Greater Lexington Area | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
