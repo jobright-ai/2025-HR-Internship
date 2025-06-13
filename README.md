@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b54a19ab1780ff6cfe1ac?utm_campaign=1054&utm_source=git)** | Remote - USA | Remote | Jun 12 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Case Management Intern- Survivors of Torture](https://jobright.ai/jobs/info/684b3ca5e23e6a5a3a8e4da2?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jun 12 |
+| **[Pushpay](http://www.pushpay.com)** | **[Join our Talent Pool for Future Opportunities with Pushpay!](https://jobright.ai/jobs/info/684b35ce961b7f0677318587?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | Hybrid | Jun 12 |
+| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[HR Internship- InterContinental Boston](https://jobright.ai/jobs/info/684b33e54c5ab8819961d15f?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 12 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684b336432272f3493620887?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 12 |
+| ↳ | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9501?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
+| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/684b2ad081ae94db83ea2436?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Jun 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jun 12 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Director of Recruitment and Internship Development](https://jobright.ai/jobs/info/684b22a99c4d588cd06ed574?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Jun 12 |
-| **[Valeo](http://www.valeo.com/en/)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2116822a2f1ac3c9dd63?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684b122f4084419ccd42643b?utm_campaign=1054&utm_source=git)** | Lincoln, RI | On Site | Jun 12 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - Recruitment](https://jobright.ai/jobs/info/684b0943e5bad6b699efedbc?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jun 12 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[People Operations Analytics Internship](https://jobright.ai/jobs/info/684aedcf04807809f40f4a57?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jun 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparq](https://www.teamsparq.com)** | **[Talent Network](https://jobright.ai/jobs/info/68198cd96290b848d5a0c3f3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Ohio)](https://jobright.ai/jobs/info/682d3bbfb87c2e0f76d288db?utm_campaign=1054&utm_source=git)** | Vandalia, OH | On Site | Jun 08 |
 | **[DriveTime](https://www.drivetime.com)** | **[DriveTime Family of Brands Internship Talent Community](https://jobright.ai/jobs/info/68411afd4fe1d73b8cc78f7a?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jun 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/682d44e62ddedbbfeacd105e?utm_campaign=1054&utm_source=git)** | Dickinson, ND | On Site | Jun 08 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/684aee6d128176656f801a43?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jun 08 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Fall 2025 Co-op - HR - University Relations](https://jobright.ai/jobs/info/68459a98ebe5830a062c9478?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Jun 08 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/684ae2727dc079acda49c95c?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Jun 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Connecticut)](https://jobright.ai/jobs/info/67f491c0d59cd29b655df2b4?utm_campaign=1054&utm_source=git)** | East Hartford, CT | On Site | Jun 08 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/684ad8010f8bbaad8f0d1a92?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
