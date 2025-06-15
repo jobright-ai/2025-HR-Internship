@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network ](https://jobright.ai/jobs/info/68481251c95817661f8447a6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 15 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684d86f16e7cfeab287901af?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jun 14 |
 | **[Bulley & Andrews](http://bulley.com)** | **[Talent Community](https://jobright.ai/jobs/info/684d86f16e7cfeab287901c5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 14 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Missouri)](https://jobright.ai/jobs/info/682d4a56b3cea0fb949fcf6e?utm_campaign=1054&utm_source=git)** | Lees Summit, MO | On Site | Jun 14 |
 | **[Legrand, North America](http://www.legrand.us)** | **[HR Intern](https://jobright.ai/jobs/info/684d7b7ee5bd5cf57b2fce06?utm_campaign=1054&utm_source=git)** | Union City, CA | On Site | Jun 14 |
 | **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Research Seasonal Employee - Lebanon, IN](https://jobright.ai/jobs/info/67c18c5a2707c962362f6dd5?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Jun 14 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67a073758546b803b7a4e26f?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Jun 14 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Talent Development Federal Work Study](https://jobright.ai/jobs/info/684ceac35c914a5780453f3d?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 13 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[HRIS Intern – Summer 2023](https://jobright.ai/jobs/info/684ce4675213d45f53328184?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Jun 13 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Solutions Graduate Intern](https://jobright.ai/jobs/info/684ce3ae5832769717b9e7b0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 13 |
+| **[Thresholds](https://www.thresholds.org)** | **[Intern - 2025 Community Support Internship](https://jobright.ai/jobs/info/67c8facd62db9802bfc27629?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 13 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Human Resources - Part-time College Student](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5a9d?utm_campaign=1054&utm_source=git)** | New Bremen, OH | On Site | Jun 13 |
 | **[Caesars Entertainment](https://www.caesars.com/corporate)** | **[Intern, Human Resources (Caesars New Orleans)](https://jobright.ai/jobs/info/684cd521b7fb7d31f5f1230d?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Jun 13 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684ce84c42e6930eed583468?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jun 13 |
@@ -105,11 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Pushpay](http://www.pushpay.com)** | **[Join our Talent Pool for Future Opportunities with Pushpay!](https://jobright.ai/jobs/info/684b35ce961b7f0677318587?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | Hybrid | Jun 12 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[HR Internship- InterContinental Boston](https://jobright.ai/jobs/info/684b33e54c5ab8819961d15f?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 12 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684b336432272f3493620887?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jun 12 |
-| **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Valeo](http://www.valeo.com/en/)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2d16cadb5bd34e6d9501?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/684b2ad081ae94db83ea2436?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Jun 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jun 12 |
 | **[Gandara Center](https://www.gandaracenter.org/)** | **[Director of Recruitment and Internship Development](https://jobright.ai/jobs/info/684b22a99c4d588cd06ed574?utm_campaign=1054&utm_source=git)** | Springfield, MA | On Site | Jun 12 |
+| **[Valeo](http://www.valeo.com/en/)** | **[HR Operations Intern (Year-Round)](https://jobright.ai/jobs/info/684b2116822a2f1ac3c9dd63?utm_campaign=1054&utm_source=git)** | Norfolk, VA | On Site | Jun 12 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684b122f4084419ccd42643b?utm_campaign=1054&utm_source=git)** | Lincoln, RI | On Site | Jun 12 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - Recruitment](https://jobright.ai/jobs/info/684b0943e5bad6b699efedbc?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jun 12 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[People Operations Analytics Internship](https://jobright.ai/jobs/info/684aedcf04807809f40f4a57?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jun 12 |
@@ -120,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Foster Garvey PC](https://www.foster.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682e684bf97560d0c6847cf9?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Campus Talent Acquisition Intern or Co-op - Fall 2025](https://jobright.ai/jobs/info/681256e26ae08376e2290100?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | Hybrid | Jun 12 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Human Resources Student Experience](https://jobright.ai/jobs/info/684a7c7bad7828d8ae90e124?utm_campaign=1054&utm_source=git)** | Litchfield, CT | On Site | Jun 12 |
+| **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jun 12 |
 | **[Interactive Strategies](http://interactivestrategies.com)** | **[Operations & HR Intern](https://jobright.ai/jobs/info/684a5ee25715d5f579e4e9ab?utm_campaign=1054&utm_source=git)** | Washington Highlands, MD | Hybrid | Jun 11 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Human Resources (Fall 2025)](https://jobright.ai/jobs/info/684a40528f8eca54df285354?utm_campaign=1054&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[HR Service Center Internship](https://jobright.ai/jobs/info/684a336e70c35ac5d736c98a?utm_campaign=1054&utm_source=git)** | Peoria, Illinois | On Site | Jun 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Compensation Internship](https://jobright.ai/jobs/info/6848880aea5e7f8f7f7ae330?utm_campaign=1054&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jun 10 |
 | **[SRM Concrete](https://www.smyrnareadymix.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6848837829262efa8e128387?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Jun 10 |
 | **[ZF Group](https://www.zf.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6848746fb2a3309f2d850079?utm_campaign=1054&utm_source=git)** | Marysville, MI | On Site | Jun 10 |
-| **[ITS Logistics](http://its4logistics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684860677e9e7a9a250fc977?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Jun 10 |
-| **[JinkoSolar U.S.](https://jinkosolar.us/)** | **[HR Project Intern](https://jobright.ai/jobs/info/684855a47664b7262f8540cd?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jun 10 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/6841960e05a0d4439e456acd?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
