@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/684f7706b7ce141ddac60c77?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jun 15 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/684f60ea8038c29eff8a683f?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Jun 15 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/684f60ea8038c29eff8a6862?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Jun 15 |
 | **[California Giant Berry Farms ](https://www.calgiant.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684f556e583251b21ff2fab6?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Jun 15 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Human Resources](https://jobright.ai/jobs/info/684f2ff22adb7b7933108967?utm_campaign=1054&utm_source=git)** | ADVENTHEALTH HINSDALE120 N OAK ST | On Site | Jun 15 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684f147cfea8693c818315a7?utm_campaign=1054&utm_source=git)** | Woodridge, Illinois, United States | On Site | Jun 15 |
 | **[J/PR](http://jpublicrelations.com)** | **[Join the Talent Pool](https://jobright.ai/jobs/info/684ed81544f8ae30125d57a0?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jun 15 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Pennsylvania)](https://jobright.ai/jobs/info/682d68dffaae21548b893ef8?utm_campaign=1054&utm_source=git)** | Greensburg, PA | On Site | Jun 15 |
 | **[Mission Healthcare](http://homewithmission.com/)** | **[Human Resources (HR) Intern - Onboarding](https://jobright.ai/jobs/info/682ff814fc58871b83176e24?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Jun 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/67f979389faaa14c02a02c92?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Jun 15 |
 | **[Mobi.AI](https://www.mobi.ai)** | **[Don't see the role you're looking for? Join our Talent Pool!](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa21c9?utm_campaign=1054&utm_source=git)** | Somerville, MA | Hybrid | Jun 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/6849e2befef6a65076fe1fc4?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jun 11 |
 | ↳ | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/6849fb6173bec610d5af9977?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Jun 11 |
 | **[Thunder](https://www.thundersf.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/68439689740b84371217ea9d?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jun 11 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jun 11 |
-| **[PTC Therapeutics, Inc.](http://www.ptcbio.com)** | **[Contract, HRIS, People Systems Fellow](https://jobright.ai/jobs/info/682eb692729f9d126519776d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
