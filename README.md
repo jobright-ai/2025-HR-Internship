@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dentsu](https://www.dentsu.com)** | **[Join Our Creative Talent Network](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec08e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jun 28 |
 | **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/68603493c06b91785e6cc58c?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | Jun 28 |
 | **[Cleo](http://www.cleo.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67aec22474a2d021f4e0beec?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Clerical (Off-Campus) - ReMerge OK](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5c6?utm_campaign=1054&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | ↳ | **[FWSP Student Clerical - Undergrad Recruiting and Admissions](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a1bb?utm_campaign=1054&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[Firaxis Games](http://www.firaxis.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67d2182c7c9a6ce749962851?utm_campaign=1054&utm_source=git)** | Sparks Glencoe, MD | On Site | Jun 28 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684336d3dd7812a8d8e73ec1?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Jun 28 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G194  Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f90b0f00ea8c510317e98?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Jun 27 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Walk-in Services Intern - Fall 2025](https://jobright.ai/jobs/info/685f4cae752d584a82bda613?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Jun 27 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685f3da57339be0635a28d20?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 27 |
 | **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/685f8ac187c7f34cc64a8845?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Jun 27 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G194  Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f0e53628cfe7c5efa71d3?utm_campaign=1054&utm_source=git)** | 12200 Blue Valley Pkwy, Overland Park,KS 66213-2639 | Hybrid | Jun 27 |
-| **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/685ef60369775480953a0e5c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 27 |
+| **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/685ef60369775480953a0e59?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 27 |
 | **[Austin Community College](http://austincc.edu)** | **[Intern (Hourly)](https://jobright.ai/jobs/info/685ef390bad40fb8047ec68e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jun 27 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685ed6178f0a639d18984408?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jun 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685ed6178f0a639d18984218?utm_campaign=1054&utm_source=git)** | Slater, MO | On Site | Jun 27 |
@@ -111,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/68202704b9ce836c49e0049f?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jun 26 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent (d/m/w) für HR Business Partner](https://jobright.ai/jobs/info/685d17e973026b39115e0e66?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Jun 26 |
 | **[Neal Communities of Southwest Florida, Inc.](https://www.nealcommunities.com/)** | **[Apply here to submit your resume for future opportunities!](https://jobright.ai/jobs/info/685d24ccd1ff1770fcc65a7a?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jun 26 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/67c569a1966ee65242e51f8e?utm_campaign=1054&utm_source=git)** | Valley Center, KS | On Site | Jun 25 |
 | **[Ormco](http://www.ormco.com)** | **[HR Intern](https://jobright.ai/jobs/info/685cb5d008795d4388595620?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Jun 25 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685cad0abee1ebee8277b2f1?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Jun 25 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Human Resources Intern - Part time - R10199086](https://jobright.ai/jobs/info/685ca597f335184ef725dd2a?utm_campaign=1054&utm_source=git)** | Iuka, MS | On Site | Jun 25 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b4cbfba3e4e91f062ffe6?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jun 24 |
 | ↳ | **[2025 Super Week - IT Emerging Talent Rotational (ETR) Program: In 2 Years, Explore 3 Roles (Hybrid)](https://jobright.ai/jobs/info/685b4cbfba3e4e91f062fff2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jun 24 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/685b67c16e69f66aa2681b4c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 24 |
-| **[Merck](http://www.merck.com)** | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b363b1a50f2bf17350a44?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Jun 24 |
+| **[Merck](http://www.merck.com)** | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b363b1a50f2bf17350928?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin (Lavaca WeWork) | Hybrid | Jun 24 |
 | ↳ | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b363b1a50f2bf17350a45?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Jun 24 |
-| ↳ | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b363b1a50f2bf17350928?utm_campaign=1054&utm_source=git)** | USA - Texas - Austin (Lavaca WeWork) | Hybrid | Jun 24 |
+| ↳ | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b363b1a50f2bf17350a44?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Jun 24 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685b3173be28a55927f9742e?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 24 |
 | **[Tenneco](https://www.tenneco.com/)** | **[HR Co-op](https://jobright.ai/jobs/info/685b3173be28a55927f9721a?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Jun 24 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Assistant Director of Career Development](https://jobright.ai/jobs/info/685b5297960682eefd69691e?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jun 24 |
-| **[CBRE](https://www.cbre.com)** | **[RME HOH Fellowship](https://jobright.ai/jobs/info/685b1530b7d52693e0daa816?utm_campaign=1054&utm_source=git)** | Moreland, GA | On Site | Jun 24 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Services for Older Refugees (SOR) Intern](https://jobright.ai/jobs/info/6822be23f87936d419d3cf1a?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
