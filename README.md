@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6861c4113adb12522432989b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 29 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/686205169448c588502e0aa2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jun 29 |
 | **[dentsu](https://www.dentsu.com)** | **[Join Our Creative Talent Network](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec08e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jun 28 |
+| **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6861fe61b8120079f9a95d59?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jun 28 |
 | **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/680879aa2f293380906e5a9d?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jun 28 |
 | **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/68603493c06b91785e6cc58c?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | Jun 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd2?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Jun 28 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/684336d3dd7812a8d8e73ec1?utm_campaign=1054&utm_source=git)** | Hazel Park, MI | On Site | Jun 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Maryland)](https://jobright.ai/jobs/info/6826ee02383dda1301933d39?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | On Site | Jun 28 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G194  Summer 2025 Intern Posting](https://jobright.ai/jobs/info/685f90b0f00ea8c510317e98?utm_campaign=1054&utm_source=git)** | Overland Park, KS | Hybrid | Jun 27 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/686205169448c588502e0ae5?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jun 27 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Refugee Walk-in Services Intern - Fall 2025](https://jobright.ai/jobs/info/685f4cae752d584a82bda613?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Jun 27 |
 | **[Gradient Experience](https://www.wearegradient.com/)** | **[People Operations & Office Management Intern](https://jobright.ai/jobs/info/6860465e997ab8d31c166bd9?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jun 27 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/685f3da57339be0635a28d20?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jun 27 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Partner/SHIFT Program Management Intern](https://jobright.ai/jobs/info/685e441dd10a4579e61d8c7e?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jun 27 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Jun 26 |
 | **[Boardable](https://boardable.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/685e051e4a3b2ff9b3df9bb2?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Jun 26 |
+| **[The Emerge Center](https://emergela.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6862031fe72af5bdfa0ef2d2?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Jun 26 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Clerk (part-time, temporary)](https://jobright.ai/jobs/info/685deefb2fb4aba079998b7e?utm_campaign=1054&utm_source=git)** | McCook, NE | On Site | Jun 26 |
 | **[ECI](http://www.eci.com)** | **[HR / L&D 6 Month Co-Op for Students](https://jobright.ai/jobs/info/685de80b29ef39a548ac4132?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jun 26 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2dcb?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Jun 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Employment Case Management (ECM) Intern (unpaid)](https://jobright.ai/jobs/info/68241ba3fbe7ee2962c6a1b1?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jun 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Development Intern - UNPAID](https://jobright.ai/jobs/info/681d96c5abd3c71ba3ad85c0?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Jun 24 |
 | ↳ | **[Economic Empowerment - Client Benefits Intern, Summer 25](https://jobright.ai/jobs/info/6825906e6b29b1f84cb2de1f?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jun 24 |
-| **[City University of Seattle](http://www.cityu.edu/)** | **[Student Assistant, International Recruitment - City University of Seattle](https://jobright.ai/jobs/info/685b8534d9a6fc1ec3fe2d37?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jun 24 |
-| **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/685cc71455ca884380a3062e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 24 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/685b5297960682eefd6966fa?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 24 |
-| **[Merck](http://www.merck.com)** | **[2025 Super Week - IT Emerging Talent Rotational (ETR) Program: In 2 Years, Explore 3 Roles (Hybrid)](https://jobright.ai/jobs/info/685b4cbfba3e4e91f062fff2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
