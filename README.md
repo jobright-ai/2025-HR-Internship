@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MapLight Therapeutics, Inc.](https://maplightrx.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6861c4113adb12522432989b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 29 |
 | **[dentsu](https://www.dentsu.com)** | **[Join Our Creative Talent Network](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec08e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jun 28 |
+| **[Allied Universal](https://www.aus.com/)** | **[Skillbridge-Allied Universal® Veteran Leadership Program](https://jobright.ai/jobs/info/680879aa2f293380906e5a9d?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jun 28 |
 | **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/68603493c06b91785e6cc58c?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | Jun 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd2?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Jun 28 |
 | **[Cleo](http://www.cleo.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67aec22474a2d021f4e0beec?utm_campaign=1054&utm_source=git)** | United States | Remote | Jun 28 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/685c92e0405e076a68e992ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jun 25 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Jun 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Participant Recruitment and Retention Specialist (Oshri)](https://jobright.ai/jobs/info/685c89b89288fe11761799a5?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jun 25 |
-| **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d7560596?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Brea | On Site | Jun 25 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d75603c7?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Pomona | On Site | Jun 25 |
+| **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[HR Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d75603c7?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Pomona | On Site | Jun 25 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/685c799e6c2e7567d7560596?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Brea | On Site | Jun 25 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Student Assistant I, Office of Human Resources](https://jobright.ai/jobs/info/685c595d8e477378e74de61a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Intern - Fall 2025](https://jobright.ai/jobs/info/685c56ea674c8f94e8e4879a?utm_campaign=1054&utm_source=git)** | Fort Smith, AR | On Site | Jun 25 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Talent Development Federal Work Study](https://jobright.ai/jobs/info/685cd4eb3ebc8d118e1c51aa?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jun 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Human Resources Internship](https://jobright.ai/jobs/info/685cc71455ca884380a3062e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 24 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/685b5297960682eefd6966fa?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jun 24 |
 | **[Merck](http://www.merck.com)** | **[2025 Super Week - IT Emerging Talent Rotational (ETR) Program: In 2 Years, Explore 3 Roles (Hybrid)](https://jobright.ai/jobs/info/685b4cbfba3e4e91f062fff2?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jun 24 |
-| ↳ | **[2026 University Recruiting - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/685b4cbfba3e4e91f062ffe6?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Jun 24 |
-| **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/685b67c16e69f66aa2681b4c?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
