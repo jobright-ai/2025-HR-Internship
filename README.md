@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Purdue University](https://www.purdue.edu)** | **[Student - Human Resource Assistant Work Study](https://jobright.ai/jobs/info/686c807735584b6542198e2a?utm_campaign=1054&utm_source=git)** | Portage, IN | On Site | Jul 07 |
+| **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/686c7e7735584b65420b26df?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Jul 07 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/686c6ae235584b65429a6a9f?utm_campaign=1054&utm_source=git)** | Corona, CA | On Site | Jul 07 |
+| **[COPE COMMUNITY SERVICES, INC.](https://www.copecommunityservices.org/)** | **[Counseling Internship](https://jobright.ai/jobs/info/686c85fe35584b6542322c4e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jul 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Internship Program Manager, Talent Acquisition and Growth](https://jobright.ai/jobs/info/686c51ca35584b6542117913?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/686c335e35584b65424df424?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 07 |
 | **[Archdiocese of St. Louis](https://www.archstl.org/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/686c2f0535584b6542325335?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jul 07 |
@@ -133,14 +136,14 @@ For a complete list, click the following sortable link below:
 | **[Domo](http://www.domo.com)** | **[Recruiting Coordinator Intern ](https://jobright.ai/jobs/info/6865d699e2ff02aa1a652b06?utm_campaign=1054&utm_source=git)** | American Fork, Utah | On Site | Jul 02 |
 | **[Michigan State University](http://msu.edu)** | **[International Employee Advisor / International Student/Scholar Advisor I](https://jobright.ai/jobs/info/6865f974f0810735bfbb810a?utm_campaign=1054&utm_source=git)** | East Lansing, MI | Hybrid | Jul 02 |
 | **[Domo](http://www.domo.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6865f60aec0c6df7ad34d956?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Jul 02 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d486?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Jul 02 |
-| ↳ | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 02 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 02 |
+| ↳ | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d486?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Jul 02 |
 | **[RS EDEN](https://www.rseden.org/)** | **[Human Resources Intern (STIPEND PAY)](https://jobright.ai/jobs/info/6865af06b013aba30deb6269?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68659e8676eebf05c698448f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 02 |
-| ↳ | **[Case Work Intern - Survivor Services](https://jobright.ai/jobs/info/68659e8676eebf05c6984494?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 02 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Career Development Intern (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68659e8676eebf05c6984471?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 | ↳ | **[Employment Specialist Intern](https://jobright.ai/jobs/info/68659e8676eebf05c698447c?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 02 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68659e8676eebf05c698448f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 02 |
+| ↳ | **[Case Work Intern - Survivor Services](https://jobright.ai/jobs/info/68659e8676eebf05c6984494?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 02 |
 | ↳ | **[Intensive Case Management Intern (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68659e8676eebf05c69844ac?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
-| ↳ | **[Career Development Intern (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68659e8676eebf05c6984471?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jul 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern I - Float Staffing](https://jobright.ai/jobs/info/68659731ecc344b88de170b3?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 02 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026: Human Resources Development Program Full Time (Returning Intern)](https://jobright.ai/jobs/info/68658ff171c37de7722c7ace?utm_campaign=1054&utm_source=git)** | Houston, Texas, United States of America | Hybrid | Jul 02 |
 | ↳ | **[2025-2026: Human Resources Development Program Full Time (Returning Intern)](https://jobright.ai/jobs/info/68658ff171c37de7722c774a?utm_campaign=1054&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Jul 02 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Internship - Human Resources (Spanish Speaker)](https://jobright.ai/jobs/info/68657b9f3fa46b40027494e6?utm_campaign=1054&utm_source=git)** | Amsterdam, VA | Hybrid | Jul 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Human Resources Analyst Development Program – Summer Analyst Opportunity](https://jobright.ai/jobs/info/68657710cb2592b1e49b55d2?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jul 02 |
 | **[World Relief](https://worldrelief.org/)** | **[Senior Public Benefits Specialist - Part-time -2025182](https://jobright.ai/jobs/info/685d9875b4b079eea36de5ce?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 02 |
-| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/68654b3a4bf3beaecd58b322?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
-| ↳ | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68654b3a4bf3beaecd58b323?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
-| **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 02 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round - Airport Warehouse](https://jobright.ai/jobs/info/6847468da357a36ca2528e50?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 02 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68654b3a4bf3beaecd58b323?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
