@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dc3f092cd1322c51df326?utm_campaign=1054&utm_source=git)** | Dallas/FW Metroplex, TX | On Site | Jul 08 |
+| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
+| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
+| **[ProgressiveHealth](http://phrehab.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5906?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
 | **[HFA](http://hfacpas.com)** | **[Open Intern Candidate Pool](https://jobright.ai/jobs/info/686db0e35063649f006932ef?utm_campaign=1054&utm_source=git)** | Lakewood, NJ | On Site | Jul 08 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations Intern (HR & Communications)](https://jobright.ai/jobs/info/686db0e35063649f006932cc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Jul 08 |
+| **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dcbae3747c55e01110f1d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
 | **[Interactive Strategies](http://interactivestrategies.com)** | **[Operations & HR Intern](https://jobright.ai/jobs/info/686d999e93e3bb90ae63b96a?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jul 08 |
 | **[Helping Hand](https://helpinghand-il.org)** | **[Agency Support Intern](https://jobright.ai/jobs/info/686d9764a1ce85dcfa8bfe99?utm_campaign=1054&utm_source=git)** | La Grange, IL | Hybrid | Jul 08 |
 | **[Concordia University Chicago](https://www.cuchicago.edu)** | **[Graduate Assistant - Men's and Women's Tennis](https://jobright.ai/jobs/info/686d91a202d6881bf84896c9?utm_campaign=1054&utm_source=git)** | River Forest, IL | On Site | Jul 08 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Internship Employer Relations Partner I](https://jobright.ai/jobs/info/686d1815e3ddac26382e33ce?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 08 |
 | ↳ | **[Internship Employer Relations Partner I](https://jobright.ai/jobs/info/686d161e1aaf71bc80a23470?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Chief People Organization Summer 2026 Analyst](https://jobright.ai/jobs/info/686d10ce586499ef0b509351?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Jul 08 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/6850853fb1cc7279264b0c49?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[Convergint](http://www.convergint.com)** | **[Operations Internship - Medina, OH](https://jobright.ai/jobs/info/68504ef23c265763612fd686?utm_campaign=1054&utm_source=git)** | Medina, OH | On Site | Jul 08 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Metro North Talent Community](https://jobright.ai/jobs/info/686ce1ce70c57a9705c384ee?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Columbus](https://jobright.ai/jobs/info/686cb86735584b6542492090?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 07 |
@@ -111,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/686a68a835584b6542b8df70?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Jul 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern 24-25 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/67ea17ef5dc360faf1a41c93?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jul 06 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, Human Resources](https://jobright.ai/jobs/info/686a45a135584b65423022c7?utm_campaign=1054&utm_source=git)** | Montevallo, AL | On Site | Jul 06 |
-| **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee39?utm_campaign=1054&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
-| ↳ | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee75?utm_campaign=1054&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
+| **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee75?utm_campaign=1054&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
+| ↳ | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee39?utm_campaign=1054&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | **[Marketech International Corporation USA](https://www.micb2b.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6869a6fe35584b654280063e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 05 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jul 05 |
 | **[Terremoto Biosciences](https://terremotobio.com)** | **[Join Terremoto's Talent Network](https://jobright.ai/jobs/info/6830bd57a0916eec299da943?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Jul 05 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Pushpay](http://www.pushpay.com)** | **[Join our Talent Pool for Future Opportunities with Pushpay!](https://jobright.ai/jobs/info/684b35ce961b7f0677318587?utm_campaign=1054&utm_source=git)** | Redmond, WA | Hybrid | Jul 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f9989?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 04 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern - HR Projects Intern (Summer 2025)](https://jobright.ai/jobs/info/68678e1c3500665014240cf3?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jul 04 |
-| **[SOLO LLC](https://gosolo.io/)** | **[HR Intern](https://jobright.ai/jobs/info/686768f400547f3ba44c21f1?utm_campaign=1054&utm_source=git)** | Solo, MO | On Site | Jul 03 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Jul 03 |
 | **[LUZCO Technologies LLC](https://luzco.com)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/68671c9760cea6c41d2b33a6?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Jul 03 |
 | **[Target](https://www.target.com)** | **[Current Interns Only - ETL AP- G290 Summer 2025 Intern Posting](https://jobright.ai/jobs/info/68671431c197814415cb0746?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Jul 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[Graduate Assistant](https://jobright.ai/jobs/info/686618e5cd3a88df203cdaa0?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Jul 02 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/6860d8d3ffbb07b57ce3223f?utm_campaign=1054&utm_source=git)** | Edina, MN | On Site | Jul 02 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern - Hilton Short Hills](https://jobright.ai/jobs/info/68660f4bd80bde7a38a753d2?utm_campaign=1054&utm_source=git)** | Hilton At Short Hills41 John F Kennedy Prkwy | On Site | Jul 02 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Jul 02 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/6865ea95ba2b553812d9c681?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Jul 02 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 02 |
-| **[Domo](http://www.domo.com)** | **[Recruiting Coordinator Intern ](https://jobright.ai/jobs/info/6865d699e2ff02aa1a652b06?utm_campaign=1054&utm_source=git)** | American Fork, Utah | On Site | Jul 02 |
-| **[Michigan State University](http://msu.edu)** | **[International Employee Advisor / International Student/Scholar Advisor I](https://jobright.ai/jobs/info/6865f974f0810735bfbb810a?utm_campaign=1054&utm_source=git)** | East Lansing, MI | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
