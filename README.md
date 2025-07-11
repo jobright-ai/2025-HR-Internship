@@ -111,12 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Helping Hand](https://helpinghand-il.org)** | **[Agency Support Intern](https://jobright.ai/jobs/info/6870b71801cc0956e7e84b62?utm_campaign=1054&utm_source=git)** | La Grange, IL | Hybrid | Jul 08 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e3f5?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jul 08 |
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dc3f092cd1322c51df326?utm_campaign=1054&utm_source=git)** | Dallas/FW Metroplex, TX | On Site | Jul 08 |
-| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
-| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
+| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
+| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
 | **[ProgressiveHealth](http://phrehab.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5906?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jul 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
-| **[Jamco America](https://www.jamco-america.com)** | **[Workforce Data & HR Intern](https://jobright.ai/jobs/info/686ea8c2307c8f326ef3154a?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | Jul 08 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations Intern (HR & Communications)](https://jobright.ai/jobs/info/686db0e35063649f006932cc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Jul 08 |
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dcbae3747c55e01110f1d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
 | **[Perfetti Van Melle](http://www.perfettivanmelle.com)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/68633678980d1a4dc2fce38e?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Jul 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Bellwether ](https://www.bellwetheram.com)** | **[Bellwether Women's Mentorship Program 2025-2026](https://jobright.ai/jobs/info/686c17dd35584b6542924d11?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 07 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02cac?utm_campaign=1054&utm_source=git)** | Camden, DE | On Site | Jul 07 |
 | **[Holder Construction](http://www.holderconstruction.com/)** | **[Laborer Intern (Hourly) Columbus, OH](https://jobright.ai/jobs/info/686be49c35584b65425089e9?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 07 |
+| **[FIRST](https://firstagency.com/)** | **[People Engagement Coordinator Intern (Fall)](https://jobright.ai/jobs/info/686bdbe835584b6542215957?utm_campaign=1054&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
