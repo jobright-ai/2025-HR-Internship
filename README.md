@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Versar Global Solutions](http://www.geomet.com/)** | **[SkillBridge Military Internship Opportunities](https://jobright.ai/jobs/info/685f7b94eefff68318ecdd2f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e3f5?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jul 08 |
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dc3f092cd1322c51df326?utm_campaign=1054&utm_source=git)** | Dallas/FW Metroplex, TX | On Site | Jul 08 |
-| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
-| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
+| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
+| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
 | **[ProgressiveHealth](http://phrehab.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5906?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jul 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
