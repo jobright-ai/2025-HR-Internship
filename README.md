@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Thunder](https://www.thundersf.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6873af2501889204ff8f5624?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jul 13 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
-| **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/68721887a5ae807a59d05c4b?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 11 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/687159a7a5ae807a59cff197?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jul 11 |
@@ -69,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e0c?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Jul 11 |
 | **[COPE COMMUNITY SERVICES, INC.](https://www.copecommunityservices.org/)** | **[Counseling Internship](https://jobright.ai/jobs/info/687202ef06ad7073463ca03c?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jul 10 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship for Students - Fall 2025 (full-time/part-time)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e0a52?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 10 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/68709ba2a5ae807a59cf9d06?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE ASSISTANT (TEMP)](https://jobright.ai/jobs/info/687064b1a5ae807a59cf8062?utm_campaign=1054&utm_source=git)** | Dearborn, MI | Hybrid | Jul 10 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jul 10 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Fall Intern - Culture of Caring & Engagement](https://jobright.ai/jobs/info/68705fd206ad7073463bd59e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 10 |
@@ -87,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/686c6ae235584b65429a6a9f?utm_campaign=1054&utm_source=git)** | Corona, CA | On Site | Jul 07 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02ca8?utm_campaign=1054&utm_source=git)** | Milton, DE | On Site | Jul 07 |
 | **[BDO USA](https://www.bdo.com/)** | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/686c335e35584b65424df424?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 07 |
+| ↳ | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/686c265535584b6542f2776a?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jul 07 |
+| **[FIRST](https://firstagency.com/)** | **[People Engagement Coordinator Intern (Fall)](https://jobright.ai/jobs/info/686c235f35584b6542dcd509?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
