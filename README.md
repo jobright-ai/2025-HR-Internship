@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Internship Coordinator (PACE)](https://jobright.ai/jobs/info/68744eb6299cbc74b874d0f5?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 13 |
 | **[Thunder](https://www.thundersf.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6873af2501889204ff8f5624?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jul 13 |
+| **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
 | **[CivicScience](http://civicscience.com)** | **[People Operations Intern (HR & Communications)](https://jobright.ai/jobs/info/686db0e35063649f006932cc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Jul 08 |
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dcbae3747c55e01110f1d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
+| **[Onbe](https://www.onbe.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/685088e907b5879386962908?utm_campaign=1054&utm_source=git)** | Buffalo, TX | Hybrid | Jul 08 |
 | **[Perfetti Van Melle](http://www.perfettivanmelle.com)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/68633678980d1a4dc2fce38e?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Jul 08 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/686d7cec7ca8d01b2625b008?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Jul 08 |
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Human Resources Assistant - 2025-2026](https://jobright.ai/jobs/info/686d7197e46684f583ca8d2c?utm_campaign=1054&utm_source=git)** | Takoma Park, MD | On Site | Jul 08 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/6827ff775ddfbbc70b63f8ea?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Jul 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Columbus](https://jobright.ai/jobs/info/686cb86735584b6542492090?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 07 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Employee Communications Intern](https://jobright.ai/jobs/info/686cae6235584b6542044cdc?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 07 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Associate, Human Resources Opportunity for 2026 BBA Grads](https://jobright.ai/jobs/info/686cacdc35584b6542fba30b?utm_campaign=1054&utm_source=git)** | USA - WI - Racine | Hybrid | Jul 07 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Associate, Human Resources Opportunity for 2026 BBA Grads](https://jobright.ai/jobs/info/686cacb335584b6542fafd28?utm_campaign=1054&utm_source=git)** | USA - WI - Racine | Hybrid | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Cincinnati](https://jobright.ai/jobs/info/686caadf35584b6542ef5355?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 07 |
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687211dfa5ae807a59d05674?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Jul 07 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 07 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h (Henderson)](https://jobright.ai/jobs/info/686f39c50dd69c116fe70c20?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Jul 07 |
 | ↳ | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/686c6ae235584b65429a6a9f?utm_campaign=1054&utm_source=git)** | Corona, CA | On Site | Jul 07 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Delaware)](https://jobright.ai/jobs/info/67f979389faaa14c02a02ca8?utm_campaign=1054&utm_source=git)** | Milton, DE | On Site | Jul 07 |
-| **[BDO USA](https://www.bdo.com/)** | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/686c335e35584b65424df424?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 07 |
-| ↳ | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/686c265535584b6542f2776a?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
