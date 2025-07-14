@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68754f77ae2f413e4a5a597f?utm_campaign=1054&utm_source=git)** | Gainesville, Florida, United States | On Site | Jul 14 |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/687565a95cebcd1dd51c02e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68755f155cebcd1dd51bffb7?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
+| **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68755d465cebcd1dd51bfeac?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jul 14 |
+| ↳ | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68754f77ae2f413e4a5a597f?utm_campaign=1054&utm_source=git)** | Gainesville, Florida, United States | On Site | Jul 14 |
 | **[State University of New York at Plattsburgh](https://www.suny.edu/mascotmadness/round2/)** | **[Coordinator, SBE Internships & Career Opportunities](https://jobright.ai/jobs/info/68754c655cebcd1dd51bf3b6?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jul 14 |
+| **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - EC Recruitment](https://jobright.ai/jobs/info/6875665e299cbc74b875474d?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 14 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Supported Employment Specialist](https://jobright.ai/jobs/info/687534feae2f413e4a5a4e3e?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jul 14 |
 | **[Bleakley Financial Group](https://www.bleakley.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687531cf299cbc74b8752c1e?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jul 14 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent im Bereich HR Business Partner (d/m/w)](https://jobright.ai/jobs/info/6874fb63299cbc74b87512c4?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Jul 14 |
@@ -99,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[Manager - Internal Comm & Engagement](https://jobright.ai/jobs/info/6870423a01cc0956e7e80ac9?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Jul 10 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68700f569a77984d3d150cdc?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
-| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
@@ -115,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 10 |
 | **[Vontier](https://www.vontier.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/686f6de03b68d916938a073f?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jul 09 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/68747d6f5cebcd1dd51ba217?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 09 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68702745a5ae807a59cf6322?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 09 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/686fc324a5ae807a59cf33f4?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Advancing Employment Program Coordinator](https://jobright.ai/jobs/info/686efc4758dd0e9007995ff8?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern (Human Resources)](https://jobright.ai/jobs/info/685213561ee98eeb35712491?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jul 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Human Resources Assistant - 2025-2026](https://jobright.ai/jobs/info/686d7197e46684f583ca8d2c?utm_campaign=1054&utm_source=git)** | Takoma Park, MD | On Site | Jul 08 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/686d7197e46684f583ca8d06?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 08 |
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Human Resources Assistant - 2025-2026](https://jobright.ai/jobs/info/686d6ec98931fbdf09432255?utm_campaign=1054&utm_source=git)** | Takoma Park, MD | On Site | Jul 08 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/686d91b402d6881bf8489deb?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 08 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/686d8a586dc4f54b7dcb5874?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Jul 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nationwide Openings)](https://jobright.ai/jobs/info/68255cc81be4ea03c2d43703?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 08 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Performance Evaluation Intern](https://jobright.ai/jobs/info/6849efa9e12ba2402a004294?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
