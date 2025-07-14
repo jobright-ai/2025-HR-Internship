@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/68747aea299cbc74b874e1c2?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 13 |
+| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Pastoral Services Chaplain Intern (Unpaid)](https://jobright.ai/jobs/info/687468f9299cbc74b874d3f3?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Jul 13 |
+| **[Tower Semiconductor](https://towersemi.com)** | **[Learning & OD Business Partner Intern](https://jobright.ai/jobs/info/6874686bae2f413e4a59c270?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | On Site | Jul 13 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Internship Coordinator (PACE)](https://jobright.ai/jobs/info/68744eb6299cbc74b874d0f5?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 13 |
 | **[Thunder](https://www.thundersf.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6873af2501889204ff8f5624?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Jul 13 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
+| **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/685ae54f8b873a6578961d0c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 11 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/687159a7a5ae807a59cff197?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jul 11 |
 | **[Cintas](https://www.cintas.com)** | **[Human Resources Trainee](https://jobright.ai/jobs/info/68535c9fd2ce0671328e216f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[Manager - Internal Comm & Engagement](https://jobright.ai/jobs/info/6870423a01cc0956e7e80ac9?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Jul 10 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68700f569a77984d3d150cdc?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
@@ -97,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674adc7d97abc5e2f3aba3f3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[Vontier](https://www.vontier.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/686f6de03b68d916938a073f?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jul 09 |
 | **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/686c7e7735584b65420b26df?utm_campaign=1054&utm_source=git)** | Hartford, CT | Hybrid | Jul 09 |
-| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68702745a5ae807a59cf6322?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 09 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/686fc324a5ae807a59cf33f4?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Advancing Employment Program Coordinator](https://jobright.ai/jobs/info/686efc4758dd0e9007995ff8?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People & Culture Intern (Human Resources)](https://jobright.ai/jobs/info/685213561ee98eeb35712491?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Jul 09 |
@@ -123,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Versar Global Solutions](http://www.geomet.com/)** | **[SkillBridge Military Internship Opportunities](https://jobright.ai/jobs/info/685f7b94eefff68318ecdd2f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e3f5?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Jul 08 |
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dc3f092cd1322c51df326?utm_campaign=1054&utm_source=git)** | Dallas/FW Metroplex, TX | On Site | Jul 08 |
-| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
-| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
+| **[BKF Engineers](http://www.bkf.com)** | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa3a8a?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | Hybrid | Jul 08 |
+| ↳ | **[HR Recruiting Assistant](https://jobright.ai/jobs/info/686dc1df6243eb8fceaa36dd?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 08 |
 | **[ProgressiveHealth](http://phrehab.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5906?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jul 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Employee Communications Intern](https://jobright.ai/jobs/info/686cae6235584b6542044cdc?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 07 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Associate, Human Resources Opportunity for 2026 BBA Grads](https://jobright.ai/jobs/info/686cacb335584b6542fafd28?utm_campaign=1054&utm_source=git)** | USA - WI - Racine | Hybrid | Jul 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Cincinnati](https://jobright.ai/jobs/info/686caadf35584b6542ef5355?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 07 |
-| **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687211dfa5ae807a59d05674?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Jul 07 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 07 |
-| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h (Henderson)](https://jobright.ai/jobs/info/686f39c50dd69c116fe70c20?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Jul 07 |
-| ↳ | **[Recruiting Intern - $18-20/h](https://jobright.ai/jobs/info/686c6ae235584b65429a6a9f?utm_campaign=1054&utm_source=git)** | Corona, CA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
