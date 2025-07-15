@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/6875929eae2f413e4a5a8347?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 14 |
+| ↳ | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/68758949299cbc74b8755dea?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/687565a95cebcd1dd51c02e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68755f155cebcd1dd51bffb7?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68755d465cebcd1dd51bfeac?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jul 14 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6870169c5e659ab3c7bdd487?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6870408206ad7073463bc7cb?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 10 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[Manager - Internal Comm & Engagement](https://jobright.ai/jobs/info/6870423a01cc0956e7e80ac9?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Jul 10 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68700f569a77984d3d150cdc?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/686d7cec7ca8d01b2625b008?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Jul 08 |
 | **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Human Resources Assistant - 2025-2026](https://jobright.ai/jobs/info/686d7197e46684f583ca8d2c?utm_campaign=1054&utm_source=git)** | Takoma Park, MD | On Site | Jul 08 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/686d7197e46684f583ca8d06?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 08 |
-| **[Washington Adventist University](http://www.wau.edu/)** | **[WAU Student - Human Resources Assistant - 2025-2026](https://jobright.ai/jobs/info/686d6ec98931fbdf09432255?utm_campaign=1054&utm_source=git)** | Takoma Park, MD | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
