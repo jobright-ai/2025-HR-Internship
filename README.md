@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Administrative Specialist](https://jobright.ai/jobs/info/6875a025299cbc74b87565ae?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Jul 14 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/6875929eae2f413e4a5a8347?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | ↳ | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/68758949299cbc74b8755dea?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/687565a95cebcd1dd51c02e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Medical Case Management Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6874e1a2ae2f413e4a5a13ab?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/687159a7a5ae807a59cff197?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Jul 11 |
-| **[Airgas](http://airgas.com/)** | **[HR Organizational Effectiveness and Strategic Projects Intern](https://jobright.ai/jobs/info/687509c9299cbc74b8751926?utm_campaign=1054&utm_source=git)** | Radnor, PA | On Site | Jul 11 |
 | **[Cintas](https://www.cintas.com)** | **[Human Resources Trainee](https://jobright.ai/jobs/info/68535c9fd2ce0671328e216f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Jul 11 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jul 11 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/676569417a043d59d9310897?utm_campaign=1054&utm_source=git)** | Gardner, MA | On Site | Jul 11 |
@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
