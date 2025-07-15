@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern, Strategic Planning and Community Benefit / Internship, Temporary, Fall 2025 / Per diem/PRN](https://jobright.ai/jobs/info/687669ec299cbc74b875cfbc?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 15 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Recruiting Student](https://jobright.ai/jobs/info/68761fe3299cbc74b875addb?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jul 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Jul 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6875e8b5ae2f413e4a5ab037?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 14 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - HR *PC 1498](https://jobright.ai/jobs/info/6875bf43ae2f413e4a5a9865?utm_campaign=1054&utm_source=git)** | Auburn, CA | On Site | Jul 14 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/6875929eae2f413e4a5a8347?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | ↳ | **[Learning & Development Intern, New York, NY](https://jobright.ai/jobs/info/68758949299cbc74b8755dea?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
+| **[Association of American Medical Colleges (AAMC)](https://www.aamc.org/)** | **[Workforce Studies Research Fellow](https://jobright.ai/jobs/info/687665fc299cbc74b875ce32?utm_campaign=1054&utm_source=git)** | Washington DC | Remote | Jul 14 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/687565a95cebcd1dd51c02e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Humana](http://www.humana.com)** | **[Care Management Support Assistant](https://jobright.ai/jobs/info/6875df48ae2f413e4a5aa975?utm_campaign=1054&utm_source=git)** | Remote Nationwide | Remote | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68755f155cebcd1dd51bffb7?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProgressiveHealth](http://phrehab.com)** | **[Human Resources & Talent Acquisition Intern](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5906?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 08 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Jul 08 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bb2?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 08 |
-| **[CivicScience](http://civicscience.com)** | **[People Operations Intern (HR & Communications)](https://jobright.ai/jobs/info/686db0e35063649f006932cc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Jul 08 |
-| **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dcbae3747c55e01110f1d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
