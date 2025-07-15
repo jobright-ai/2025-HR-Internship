@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
-| **[Airgas](http://airgas.com/)** | **[HR Organizational Effectiveness and Strategic Projects Intern](https://jobright.ai/jobs/info/6875e6be299cbc74b8758b8c?utm_campaign=1054&utm_source=git)** | Radnor, PA | On Site | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Client Benefits Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6874cf0bae2f413e4a5a0784?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/685ae54f8b873a6578961d0c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sinacola](http://mariosinacola.com)** | **[Human Resources - Intern (Bilingual)](https://jobright.ai/jobs/info/686dcbae3747c55e01110f1d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 08 |
 | **[Onbe](https://www.onbe.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/685088e907b5879386962908?utm_campaign=1054&utm_source=git)** | Buffalo, TX | Hybrid | Jul 08 |
 | **[Perfetti Van Melle](http://www.perfettivanmelle.com)** | **[HR Talent Acquisition Intern](https://jobright.ai/jobs/info/68633678980d1a4dc2fce38e?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Jul 08 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9121](https://jobright.ai/jobs/info/686d7cec7ca8d01b2625b008?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
