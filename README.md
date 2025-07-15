@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX)](https://jobright.ai/jobs/info/6876c731299cbc74b87608dc?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Jul 15 |
+| ↳ | **[HR Business Partner Intern (Rockwall, TX) 1](https://jobright.ai/jobs/info/6876c482299cbc74b8760699?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Jul 15 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/6876ab6cae2f413e4a5b22d4?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Jul 15 |
 | **[ZF Group](https://www.zf.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6876aab65cebcd1dd51cb2a1?utm_campaign=1054&utm_source=git)** | Marysville, MI | On Site | Jul 15 |
 | **[Nightingale College](https://nightingale.edu/)** | **[Recruiting Intern/Talent Acquisition (Part-time)](https://jobright.ai/jobs/info/6876aaaeae2f413e4a5b2246?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Remote | Jul 15 |
+| ↳ | **[Recruiting Intern/Talent Acquisition (Part-time)](https://jobright.ai/jobs/info/6876c8beae2f413e4a5b399d?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Remote | Jul 15 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca76d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 15 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/687685feae2f413e4a5b08a8?utm_campaign=1054&utm_source=git)** | ADVENTHEALTH HINSDALE120 N OAK ST | On Site | Jul 15 |
 | ↳ | **[Intern Human Resources](https://jobright.ai/jobs/info/687685ed299cbc74b875ddaf?utm_campaign=1054&utm_source=git)** | US-IL-Hinsdale | On Site | Jul 15 |
@@ -125,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Temporary / Bilingual Interviewer](https://jobright.ai/jobs/info/686ff3d706ad7073463b9f30?utm_campaign=1054&utm_source=git)** | Notre Dame, IN | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Noblis](http://www.noblis.org)** | **[DOD Skillbridge Corporate Fellowship Program "Hiring Our Heroes"](https://jobright.ai/jobs/info/686e8e9a822f31d4be3a608a?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 09 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern HR Leave Administration Winter 2026](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454cff4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 09 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/686e7f4cbd6841cf5d26e16e?utm_campaign=1054&utm_source=git)** | USA - WI - Racine | On Site | Jul 09 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/682d500db123973c5aaeaa30?utm_campaign=1054&utm_source=git)** | Williston, ND | On Site | Jul 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/686e57e399a0ad4f705560d2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[People Operations Analytics Internship](https://jobright.ai/jobs/info/686e4f78f80f85aab2559d3f?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
