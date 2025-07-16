@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/68777023ae2f413e4a5bb104?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Jul 16 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/68771bbbae2f413e4a5b6b31?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 15 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Human Resources Internship](https://jobright.ai/jobs/info/6877191b299cbc74b876361e?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Jul 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/687734135cebcd1dd51d1181?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 15 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68755f155cebcd1dd51bffb7?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[Charles Perry Partners, Inc.](https://cppi.com/)** | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68755d465cebcd1dd51bfeac?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Jul 14 |
 | ↳ | **[Intern- Human Resources (Gainesville, FL)](https://jobright.ai/jobs/info/68754f77ae2f413e4a5a597f?utm_campaign=1054&utm_source=git)** | Gainesville, Florida, United States | On Site | Jul 14 |
-| **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - EC Recruitment](https://jobright.ai/jobs/info/6875665e299cbc74b875474d?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 14 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Supported Employment Specialist](https://jobright.ai/jobs/info/687534feae2f413e4a5a4e3e?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Jul 14 |
 | **[Bleakley Financial Group](https://www.bleakley.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687531cf299cbc74b8752c1e?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Jul 14 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Jul 14 |
@@ -140,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6870169c5e659ab3c7bdd487?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6870408206ad7073463bc7cb?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
-| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68768f625cebcd1dd51ca073?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | ↳ | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 10 |
 | **[Vontier](https://www.vontier.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/686f6de03b68d916938a073f?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Jul 09 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/68747d6f5cebcd1dd51ba217?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 09 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68702745a5ae807a59cf6322?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 09 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/686fc324a5ae807a59cf33f4?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
