@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6877d1d55cebcd1dd51d5552?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 16 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/6877b6b4ae2f413e4a5bc9af?utm_campaign=1054&utm_source=git)** | Lexington, MA | On Site | Jul 16 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jul 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[McKinsey Darien's 2025 Summer Internship Program](https://jobright.ai/jobs/info/68779f69866a435525ab2e03?utm_campaign=1054&utm_source=git)** | Connecticut - Darien, United States | On Site | Jul 16 |
@@ -145,16 +146,15 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6870169c5e659ab3c7bdd487?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6870408206ad7073463bc7cb?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68768f625cebcd1dd51ca073?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | ↳ | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
 | **[Cedar](http://www.cedar.com)** | **[Join Cedar's Talent Community!](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 10 |
-| **[TekSynap](https://www.teksynap.com/)** | **[Recruiting Skillbridge Program](https://jobright.ai/jobs/info/686ffa6da5ae807a59cf4bc6?utm_campaign=1054&utm_source=git)** | Greene County, OH | On Site | Jul 10 |
-| **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674adc7d97abc5e2f3aba3f3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
