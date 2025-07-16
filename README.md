@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6877f8e35cebcd1dd51d69f2?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 16 |
+| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[HR Assistant Intern](https://jobright.ai/jobs/info/6877eab5866a435525ab5098?utm_campaign=1054&utm_source=git)** | Puerto Rico, TX | On Site | Jul 16 |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern (Fall 2025)](https://jobright.ai/jobs/info/6877e62a866a435525ab4f59?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Jul 16 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[HR Generalist Intern](https://jobright.ai/jobs/info/6877d1d55cebcd1dd51d5552?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Jul 16 |
 | **[Keros Therapeutics](http://kerostx.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/6877b6b4ae2f413e4a5bc9af?utm_campaign=1054&utm_source=git)** | Lexington, MA | On Site | Jul 16 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jul 16 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[ECI](http://www.eci.com)** | **[HR / L&D 6 Month Co-Op for Students](https://jobright.ai/jobs/info/687778b35cebcd1dd51d3290?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jul 16 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/68777023ae2f413e4a5bb104?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Jul 16 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Human Resources Internship](https://jobright.ai/jobs/info/6877191b299cbc74b876361e?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Jul 15 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/687734135cebcd1dd51d1181?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 15 |
 | **[State University of New York at Plattsburgh](https://www.suny.edu/mascotmadness/round2/)** | **[Coordinator, SBE Internships & Career Opportunities](https://jobright.ai/jobs/info/6876fdf15cebcd1dd51ce3af?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jul 15 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6876fd2c299cbc74b87626e8?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jul 15 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6877b70b866a435525ab3800?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jul 15 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6859dee3e3c39f96592da72e?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Jul 15 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Recruiting Student](https://jobright.ai/jobs/info/68761fe3299cbc74b875addb?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jul 14 |
 | **[Association of American Medical Colleges (AAMC)](https://www.aamc.org/)** | **[Workforce Studies Research Fellow (Remote)](https://jobright.ai/jobs/info/687749d25cebcd1dd51d1f92?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jul 14 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/687746b2ae2f413e4a5b925d?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 14 |
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - HR *PC 1498](https://jobright.ai/jobs/info/68774b52ae2f413e4a5b9aa8?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | On Site | Jul 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Jul 14 |
 | **[Family & Children's Agency](https://familyandchildrensagency.org)** | **[Graduate Internship Opportunities](https://jobright.ai/jobs/info/68771822ae2f413e4a5b692a?utm_campaign=1054&utm_source=git)** | Norwalk, CT | On Site | Jul 14 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | ↳ | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
+| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
+| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/686ffe6b01cc0956e7e7e67e?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Administrative HR Intern (Co-Op)](https://jobright.ai/jobs/info/6847ced72929d984e04c6c17?utm_campaign=1054&utm_source=git)** | Paramount, CA | On Site | Jul 10 |
-| **[Cedar](http://www.cedar.com)** | **[Join Cedar's Talent Community!](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
