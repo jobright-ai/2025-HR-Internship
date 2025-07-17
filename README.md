@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern- Fall](https://jobright.ai/jobs/info/68793477a7fc8904e3960c2a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/68792c61a7fc8904e39607de?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 17 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[JobLink Academy Candidate Pool - CURRENT JOBLINK PARTICIPANTS ONLY](https://jobright.ai/jobs/info/687901d0ed63844c94497d8a?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 17 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6878fee0a7fc8904e395eead?utm_campaign=1054&utm_source=git)** | Atlanta, GA - Colony Square | Hybrid | Jul 17 |
+| ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/68791fa5ed63844c94498ded?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Jul 17 |
+| **[ParetoHealth](https://paretohealth.com)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6887?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Primark](https://www.primark.com)** | **[Stage HR - People & Culture Administrator](https://jobright.ai/jobs/info/68790be5ed63844c94498396?utm_campaign=1054&utm_source=git)** | Verona, KY | On Site | Jul 17 |
 | **[GILLIG](http://gillig.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/673ff5219023c49b82b344fd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Jul 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Dayton](https://jobright.ai/jobs/info/68788be95cebcd1dd51dbade?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Client Benefits Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6874cf0bae2f413e4a5a0784?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/687622fbae2f413e4a5ad2fd?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Jul 11 |
-| **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/685ae54f8b873a6578961d0c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 11 |
-| **[International Workplace Group plc](http://www.iwgplc.com)** | **[Contract Recruiter](https://jobright.ai/jobs/info/6874e7ceae2f413e4a5a199a?utm_campaign=1054&utm_source=git)** | Addison, TX | Remote | Jul 11 |
-| **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
