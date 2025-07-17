@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024](https://jobright.ai/jobs/info/687946c7a7fc8904e3961453?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jul 17 |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/68793baaed63844c94499c87?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jul 17 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern- Fall](https://jobright.ai/jobs/info/68793477a7fc8904e3960c2a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/68792c61a7fc8904e39607de?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 17 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[JobLink Academy Candidate Pool - CURRENT JOBLINK PARTICIPANTS ONLY](https://jobright.ai/jobs/info/687901d0ed63844c94497d8a?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 17 |
-| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6878fee0a7fc8904e395eead?utm_campaign=1054&utm_source=git)** | Atlanta, GA - Colony Square | Hybrid | Jul 17 |
-| ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/68791fa5ed63844c94498ded?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Jul 17 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6887?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Primark](https://www.primark.com)** | **[Stage HR - People & Culture Administrator](https://jobright.ai/jobs/info/68790be5ed63844c94498396?utm_campaign=1054&utm_source=git)** | Verona, KY | On Site | Jul 17 |
@@ -74,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68785996866a435525ab898e?utm_campaign=1054&utm_source=git)** | Peoria, Illinois | On Site | Jul 16 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/6878581dae2f413e4a5c1b05?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 16 |
 | ↳ | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/687849d3866a435525ab8048?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 16 |
+| **[Science Systems and Applications, Inc (SSAI)](https://www.ssaihq.com)** | **[Candidates from the LaRC Career Fair](https://jobright.ai/jobs/info/68793efd2097a271a8975c01?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Jul 16 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/6878422d5cebcd1dd51d8be8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Jul 16 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/68783dad5cebcd1dd51d8ac0?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 16 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68785eb1866a435525ab8beb?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 16 |
