@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/687849d3866a435525ab8048?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 16 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/6878422d5cebcd1dd51d8be8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Jul 16 |
+| **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/68783dad5cebcd1dd51d8ac0?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/68782b7f5cebcd1dd51d8477?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 16 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6877f8e35cebcd1dd51d69f2?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 16 |
 | **[Cultivate Advisors](https://cultivateadvisors.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/68781463866a435525ab6913?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Remote | Jul 16 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6870169c5e659ab3c7bdd487?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6870408206ad7073463bc7cb?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 10 |
 | **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
+| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68768f625cebcd1dd51ca073?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 | ↳ | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[OFFICE MISC (TEMP)](https://jobright.ai/jobs/info/68702b62a5ae807a59cf65a7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Jul 10 |
-| **[Humana](http://www.humana.com)** | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555db6?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Jul 10 |
-| ↳ | **[Talent Management Professional – Intern Program](https://jobright.ai/jobs/info/686fea739d5f25f875555fed?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 10 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
