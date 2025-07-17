@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/687849d3866a435525ab8048?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 16 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6878683f866a435525ab91e1?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
+| ↳ | **[Fall 2025: Immigration Intern (Unpaid)](https://jobright.ai/jobs/info/687866485cebcd1dd51da282?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
+| **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/68785f47ae2f413e4a5c1f34?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Jul 16 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68785996866a435525ab898e?utm_campaign=1054&utm_source=git)** | Peoria, Illinois | On Site | Jul 16 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/6878581dae2f413e4a5c1b05?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 16 |
+| ↳ | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/687849d3866a435525ab8048?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 16 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/6878422d5cebcd1dd51d8be8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Jul 16 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/68783dad5cebcd1dd51d8ac0?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 16 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68785eb1866a435525ab8beb?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/68782b7f5cebcd1dd51d8477?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 16 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6877f8e35cebcd1dd51d69f2?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 16 |
 | **[Cultivate Advisors](https://cultivateadvisors.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/68781463866a435525ab6913?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Remote | Jul 16 |
@@ -133,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Client Benefits Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6874cf0bae2f413e4a5a0784?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/687622fbae2f413e4a5ad2fd?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Jul 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Fall Intern - Culture of Caring & Engagement](https://jobright.ai/jobs/info/68705fd206ad7073463bd59e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/682d5deea7e5965985a8c1de?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 10 |
-| **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/6870169c5e659ab3c7bdd487?utm_campaign=1054&utm_source=git)** | Washington, DC, United States | On Site | Jul 10 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/6870408206ad7073463bc7cb?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Jul 10 |
-| **[GEP Worldwide](https://www.gep.com)** | **[Intern - Talent Acquisition Coordinator](https://jobright.ai/jobs/info/68700f169a77984d3d1504a7?utm_campaign=1054&utm_source=git)** | US-NJ-Clark | On Site | Jul 10 |
-| **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[HR Intern](https://jobright.ai/jobs/info/68700f169a77984d3d15060b?utm_campaign=1054&utm_source=git)** | Bloomington, MN | On Site | Jul 10 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68768f625cebcd1dd51ca073?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 10 |
-| **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/686ff7499d32ead43e9a25eb?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
-| ↳ | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
