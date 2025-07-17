@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6859dee3e3c39f96592da72e?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Jul 15 |
 | **[Knoxville Utilities Board](https://www.kub.org/)** | **[Recruiting Student](https://jobright.ai/jobs/info/68761fe3299cbc74b875addb?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Jul 14 |
 | **[Association of American Medical Colleges (AAMC)](https://www.aamc.org/)** | **[Workforce Studies Research Fellow (Remote)](https://jobright.ai/jobs/info/687749d25cebcd1dd51d1f92?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jul 14 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99446 Coordinator Benefits](https://jobright.ai/jobs/info/6878a1d0ae2f413e4a5c4b4f?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 14 |
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - HR *PC 1498](https://jobright.ai/jobs/info/68774b52ae2f413e4a5b9aa8?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | On Site | Jul 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Jul 14 |
 | **[Family & Children's Agency](https://familyandchildrensagency.org)** | **[Graduate Internship Opportunities](https://jobright.ai/jobs/info/68771822ae2f413e4a5b692a?utm_campaign=1054&utm_source=git)** | Norwalk, CT | On Site | Jul 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jul 11 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/676569417a043d59d9310897?utm_campaign=1054&utm_source=git)** | Gardner, MA | On Site | Jul 11 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e0c?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Jul 11 |
+| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship for Students - Fall 2025 (full-time/part-time)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e0a52?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
