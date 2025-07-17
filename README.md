@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Dayton](https://jobright.ai/jobs/info/68788be95cebcd1dd51dbade?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
+| **[Stellar](https://stellarlearning.app)** | **[High School Student Director of Diversity, Equity, and Inclusion](https://jobright.ai/jobs/info/687870f1ae2f413e4a5c2bfa?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6878683f866a435525ab91e1?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | ↳ | **[Fall 2025: Immigration Intern (Unpaid)](https://jobright.ai/jobs/info/687866485cebcd1dd51da282?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/68785f47ae2f413e4a5c1f34?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Jul 16 |
@@ -76,13 +78,15 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e471?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Jul 16 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e4a4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jul 16 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jul 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e48a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8eb?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Jul 16 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e48a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[McKinsey Darien's 2025 Summer Internship Program](https://jobright.ai/jobs/info/68779f69866a435525ab2e03?utm_campaign=1054&utm_source=git)** | Connecticut - Darien, United States | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd0b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jul 16 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern (Employment, Classification, and Development)](https://jobright.ai/jobs/info/6877b768866a435525ab3885?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68779556866a435525ab2a9f?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Jul 16 |
 | **[ECI](http://www.eci.com)** | **[HR / L&D 6 Month Co-Op for Students](https://jobright.ai/jobs/info/687778b35cebcd1dd51d3290?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jul 16 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/68777023ae2f413e4a5bb104?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Jul 16 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern 24-25 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/687887e6ae2f413e4a5c3a95?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Jul 15 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Human Resources Internship](https://jobright.ai/jobs/info/6877191b299cbc74b876361e?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Jul 15 |
 | **[State University of New York at Plattsburgh](https://www.suny.edu/mascotmadness/round2/)** | **[Coordinator, SBE Internships & Career Opportunities](https://jobright.ai/jobs/info/6876fdf15cebcd1dd51ce3af?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Jul 15 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6876fd2c299cbc74b87626e8?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Jul 15 |
@@ -139,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
+| **[Airgas](http://airgas.com/)** | **[HR Organizational Effectiveness and Strategic Projects Intern](https://jobright.ai/jobs/info/687888be866a435525aba798?utm_campaign=1054&utm_source=git)** | Radnor, PA | On Site | Jul 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Go-To-Market People Office](https://jobright.ai/jobs/info/6837b7ab0f53f4eeed56265f?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Client Benefits Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/6874cf0bae2f413e4a5a0784?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Jul 11 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Jul 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Jul 11 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/676569417a043d59d9310897?utm_campaign=1054&utm_source=git)** | Gardner, MA | On Site | Jul 11 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e0c?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Jul 11 |
-| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship for Students - Fall 2025 (full-time/part-time)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e0a52?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 10 |
-| **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Jul 10 |
-| **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Fall Intern - Culture of Caring & Engagement](https://jobright.ai/jobs/info/68705fd206ad7073463bd59e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 10 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/682d5deea7e5965985a8c1de?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Jul 10 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
