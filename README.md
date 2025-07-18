@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6877b70b866a435525ab3800?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jul 15 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/68771808299cbc74b876359a?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/68770a77ae2f413e4a5b6139?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Jul 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX)](https://jobright.ai/jobs/info/6876c731299cbc74b87608dc?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Jul 15 |
 | **[Elecnor Hawkeye](https://www.elecnorhawkeye.com)** | **[Human Resources & Marketing Intern](https://jobright.ai/jobs/info/685336d16204761c47887fe5?utm_campaign=1054&utm_source=git)** | Hauppauge, NY | On Site | Jul 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX) 1](https://jobright.ai/jobs/info/6876c482299cbc74b8760699?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/687900b5ed63844c94497d08?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 12 |
-| **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
