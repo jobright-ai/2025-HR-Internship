@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern- Fall](https://jobright.ai/jobs/info/68793477a7fc8904e3960c2a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[JobLink Academy Candidate Pool - CURRENT JOBLINK PARTICIPANTS ONLY](https://jobright.ai/jobs/info/687901d0ed63844c94497d8a?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 17 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/68048832493bc509aa1332c1?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Jul 17 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d582?utm_campaign=1054&utm_source=git)** | Horsham, PA | Hybrid | Jul 17 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Jul 17 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674a9f1166e01e83c4ef6887?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Primark](https://www.primark.com)** | **[Stage HR - People & Culture Administrator](https://jobright.ai/jobs/info/68790be5ed63844c94498396?utm_campaign=1054&utm_source=git)** | Verona, KY | On Site | Jul 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cannondale](http://www.cannondale.com)** | **[Join the US Talent Community](https://jobright.ai/jobs/info/67f6bb1ce2082528cc702339?utm_campaign=1054&utm_source=git)** | Wilton, CT | On Site | Jul 12 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6873234e06ad7073463cd852?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 12 |
-| **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/687900b5ed63844c94497d08?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
