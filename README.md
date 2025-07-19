@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/687b9d93764c3d7411c3438c?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Jul 19 |
+| **[Schaefer](http://schaefer-inc.com)** | **[Human Resources intern](https://jobright.ai/jobs/info/687ba33f764c3d7411c346a6?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
+| **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/687ba7042097a271a898644f?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 19 |
+| ↳ | **[Tax Intern - Summer 2027](https://jobright.ai/jobs/info/687b9d93764c3d7411c3438c?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Jul 19 |
 | **[Marvin Engineering Company](https://marvineng.com)** | **[INTERN HUMAN RESOURCES COORDINATOR - PART-TIME, FULLY ONSITE](https://jobright.ai/jobs/info/687b22e7ed63844c944a6b68?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Jul 18 |
 | **[A1 Garage Door Service](http://a1garage.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687b6256ed63844c944a78c2?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 18 |
 | **[Skechers](http://www.skechers.com)** | **[Internship](https://jobright.ai/jobs/info/687acf682097a271a8981582?utm_campaign=1054&utm_source=git)** | Manhattan Beach, CA | On Site | Jul 18 |
@@ -76,11 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Development Program (Intern conversion)](https://jobright.ai/jobs/info/687a783bed63844c944a3485?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 18 |
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a632a2097a271a897e9f7?utm_campaign=1054&utm_source=git)** | New York, San Francisco | On Site | Jul 18 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Inclusion](https://jobright.ai/jobs/info/687a5aea2097a271a897e77b?utm_campaign=1054&utm_source=git)** | USA-NC - Raleigh Office | Remote | Jul 18 |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Employee Health Intern](https://jobright.ai/jobs/info/687a51242097a271a897e418?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Jul 18 |
 | **[Rigil](http://rigil.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687b70812097a271a8984099?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 18 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Jul 18 |
 | **[SB Energy](https://sbenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68254bb6fc714799802005d0?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Jul 18 |
+| **[Delta Galil Industries](http://deltagalil.com/)** | **[Intern, Human Resources – Compensation, Benefits, and HR Operations](https://jobright.ai/jobs/info/685dd44b449ba49d369d9314?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 18 |
 | **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Employee Health Intern](https://jobright.ai/jobs/info/687a40b4764c3d7411c2c375?utm_campaign=1054&utm_source=git)** | Olathe Hospital | On Site | Jul 18 |
-| ↳ | **[Employee Health Intern](https://jobright.ai/jobs/info/687a40b3ed63844c944a2235?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Jul 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | ↳ | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Jul 18 |
 | **[Woolpert](http://www.woolpert.com)** | **[Expression of Interest - Internships](https://jobright.ai/jobs/info/6841efe6cd01cd7733145b2b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX)](https://jobright.ai/jobs/info/6876c731299cbc74b87608dc?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Jul 15 |
 | **[Elecnor Hawkeye](https://www.elecnorhawkeye.com)** | **[Human Resources & Marketing Intern](https://jobright.ai/jobs/info/685336d16204761c47887fe5?utm_campaign=1054&utm_source=git)** | Hauppauge, NY | On Site | Jul 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX) 1](https://jobright.ai/jobs/info/6876c482299cbc74b8760699?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Jul 15 |
-| **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Case Manager Intern](https://jobright.ai/jobs/info/687720215cebcd1dd51cfa70?utm_campaign=1054&utm_source=git)** | Painesville, OH | On Site | Jul 15 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Greenville, TX)](https://jobright.ai/jobs/info/6876d3d75cebcd1dd51ccc5e?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Jul 15 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/6876ab6cae2f413e4a5b22d4?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
