@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Inclusion](https://jobright.ai/jobs/info/687ac64d764c3d7411c2f724?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/687a8c71764c3d7411c2ddb6?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Jul 18 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Internship Program Manager, Field Talent Acquisition and Growth](https://jobright.ai/jobs/info/687a85e62097a271a897f73b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 18 |
+| **[Slingshot AI](https://slingshot.xyz)** | **[Join our Talent Pool](https://jobright.ai/jobs/info/687af646764c3d7411c303d8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024](https://jobright.ai/jobs/info/687a7b7e2097a271a897f3e5?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jul 18 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Development Program (Intern conversion)](https://jobright.ai/jobs/info/687a783bed63844c944a3485?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 18 |
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a632a2097a271a897e9f7?utm_campaign=1054&utm_source=git)** | New York, San Francisco | On Site | Jul 18 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Employee Health Intern](https://jobright.ai/jobs/info/687a40b4764c3d7411c2c375?utm_campaign=1054&utm_source=git)** | Olathe Hospital | On Site | Jul 18 |
 | ↳ | **[Employee Health Intern](https://jobright.ai/jobs/info/687a40b3ed63844c944a2235?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Jul 18 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| ↳ | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Jul 18 |
 | **[Woolpert](http://www.woolpert.com)** | **[Expression of Interest - Internships](https://jobright.ai/jobs/info/6841efe6cd01cd7733145b2b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 18 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Jul 18 |
 | **[Carroll College](http://www.carroll.edu/)** | **[Fall 2025 Student Employment - Sodexo](https://jobright.ai/jobs/info/687a14f92097a271a897d2f9?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Jul 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oklahoma)](https://jobright.ai/jobs/info/67eb7f6155511ee39afd227f?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 15 |
 | **[Vital Farms](http://vitalfarms.com/)** | **[Talent Community - Join Today!](https://jobright.ai/jobs/info/67ee3d355e4c354115d1a69b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 15 |
 | **[aramco](https://www.aramco.com/)** | **[Co-Op HR/Talent Acquisition](https://jobright.ai/jobs/info/68769e53ae2f413e4a5b172b?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Jul 15 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Human Resources Intern](https://jobright.ai/jobs/info/683e4a33ebdfa85ce30c5ac4?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Jul 15 |
-| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern, Strategic Planning and Community Benefit / Internship, Temporary, Fall 2025 / Per diem/PRN](https://jobright.ai/jobs/info/687669ec299cbc74b875cfbc?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
