@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Internship - Dayton](https://jobright.ai/jobs/info/68788be95cebcd1dd51dbade?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e499?utm_campaign=1054&utm_source=git)** | Cypress, TX | On Site | Jul 16 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8d5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 16 |
-| **[Stellar](https://stellarlearning.app)** | **[High School Student Director of Diversity, Equity, and Inclusion](https://jobright.ai/jobs/info/687870f1ae2f413e4a5c2bfa?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/6878683f866a435525ab91e1?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | ↳ | **[Fall 2025: Immigration Intern (Unpaid)](https://jobright.ai/jobs/info/687866485cebcd1dd51da282?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 16 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Join Vagaro's Talent Community!](https://jobright.ai/jobs/info/68785f47ae2f413e4a5c1f34?utm_campaign=1054&utm_source=git)** | Pleasanton, CA | On Site | Jul 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6877b70b866a435525ab3800?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jul 15 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/68771808299cbc74b876359a?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/68770a77ae2f413e4a5b6139?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
