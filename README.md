@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Healthcare Recruiter Trainee](https://jobright.ai/jobs/info/687c23f72097a271a898832b?utm_campaign=1054&utm_source=git)** | Holyoke, MA | On Site | Jul 19 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Tennessee)](https://jobright.ai/jobs/info/67f49366ca29f1aaa673633e?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 19 |
 | **[Schaefer](http://schaefer-inc.com)** | **[Human Resources intern](https://jobright.ai/jobs/info/687ba33f764c3d7411c346a6?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 19 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department-Employee Management Intern](https://jobright.ai/jobs/info/683fc5e39041a52da39b2794?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Johnson Lambert LLP](https://www.johnsonlambert.com/)** | **[Tax Intern - Summer 2026](https://jobright.ai/jobs/info/687ba7042097a271a898644f?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6877b70b866a435525ab3800?utm_campaign=1054&utm_source=git)** | Hinsdale, IL | On Site | Jul 15 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/68771808299cbc74b876359a?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/68770a77ae2f413e4a5b6139?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Jul 15 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX)](https://jobright.ai/jobs/info/6876c731299cbc74b87608dc?utm_campaign=1054&utm_source=git)** | Rockwall, TX | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
