@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship for Students - Fall 2025 (full-time/part-time)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e0a52?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 21 |
+| **[Carters Inc.](https://www.carters.com/)** | **[HR Intern, Summer 2026](https://jobright.ai/jobs/info/687e934c764c3d7411c44847?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
+| **[MRC Global](http://www.mrcglobal.com)** | **[HR Intern](https://jobright.ai/jobs/info/687e90dd764c3d7411c445cc?utm_campaign=1054&utm_source=git)** | TX,HSTN HQ;012A HQ | On Site | Jul 21 |
+| **[Transformations Care Network](https://www.transformationsnetwork.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687e8ec4764c3d7411c4440b?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
+| **[Mubea](https://www.mubea.com)** | **[Student Co-op - Human Resources](https://jobright.ai/jobs/info/687e84eb2097a271a8995aa6?utm_campaign=1054&utm_source=git)** | Florence, KY | On Site | Jul 21 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, HR Service Center Learning, Development and Communication](https://jobright.ai/jobs/info/687e803f2097a271a89958ca?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Jul 21 |
+| **[ACL Digital](https://www.acldigital.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687e7e5bdb19f31cf0d6aaa2?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e79a62097a271a899567a?utm_campaign=1054&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e798a2097a271a8995653?utm_campaign=1054&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e79832097a271a899564d?utm_campaign=1054&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 21 |
@@ -69,38 +76,38 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e791f764c3d7411c43c0f?utm_campaign=1054&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7919db19f31cf0d6a858?utm_campaign=1054&utm_source=git)** | USA-CA - California Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e790b764c3d7411c43bfa?utm_campaign=1054&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78f82097a271a89955c7?utm_campaign=1054&utm_source=git)** | USA-OH - Ohio Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78f8db19f31cf0d6a82d?utm_campaign=1054&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78f82097a271a89955c7?utm_campaign=1054&utm_source=git)** | USA-OH - Ohio Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78f1764c3d7411c43be2?utm_campaign=1054&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78eddb19f31cf0d6a81c?utm_campaign=1054&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78eb764c3d7411c43bce?utm_campaign=1054&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78e3db19f31cf0d6a816?utm_campaign=1054&utm_source=git)** | USA-IN - Indiana Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955aa?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955a9?utm_campaign=1054&utm_source=git)** | USA-FL - Florida Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955a8?utm_campaign=1054&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955aa?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dadb19f31cf0d6a808?utm_campaign=1054&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dadb19f31cf0d6a807?utm_campaign=1054&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dadb19f31cf0d6a808?utm_campaign=1054&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78d3764c3d7411c43ba8?utm_campaign=1054&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78ce764c3d7411c43b91?utm_campaign=1054&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78c72097a271a8995592?utm_campaign=1054&utm_source=git)** | USA-WA - Washington Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78c0764c3d7411c43b41?utm_campaign=1054&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78b9764c3d7411c43b1e?utm_campaign=1054&utm_source=git)** | USA-GA - Georgia Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78b42097a271a899557e?utm_campaign=1054&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78a2db19f31cf0d6a7c2?utm_campaign=1054&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78a2db19f31cf0d6a7c1?utm_campaign=1054&utm_source=git)** | USA-MI - Michigan Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78a2db19f31cf0d6a7c2?utm_campaign=1054&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e789b2097a271a899555e?utm_campaign=1054&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78962097a271a8995557?utm_campaign=1054&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7892db19f31cf0d6a7ae?utm_campaign=1054&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7889764c3d7411c43a8f?utm_campaign=1054&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78882097a271a8995549?utm_campaign=1054&utm_source=git)** | USA-TX - Dallas Office | On Site | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7882db19f31cf0d6a798?utm_campaign=1054&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78732097a271a8995530?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78732097a271a8995531?utm_campaign=1054&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78732097a271a8995530?utm_campaign=1054&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e786a2097a271a8995528?utm_campaign=1054&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e785e764c3d7411c43a2a?utm_campaign=1054&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a76e?utm_campaign=1054&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a770?utm_campaign=1054&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a76f?utm_campaign=1054&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a76e?utm_campaign=1054&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e784c764c3d7411c43a1d?utm_campaign=1054&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7844764c3d7411c43a18?utm_campaign=1054&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7844764c3d7411c43a1a?utm_campaign=1054&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 21 |
@@ -120,7 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/687e2204764c3d7411c4196a?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Jul 21 |
 | ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/687e21162097a271a899341c?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Jul 21 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/687e13c2d0683e0ce5860ec4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 21 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/687e70cd2097a271a899512c?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Jul 21 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/687e7d46db19f31cf0d6a9ae?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Jul 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/687db9ca2097a271a898fe58?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 20 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[AmeriCorps Service Member ( Part Time) 2025-2026 Cohort](https://jobright.ai/jobs/info/687d888d2097a271a898eaea?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Cleo](http://www.cleo.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67aec22474a2d021f4e0beec?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/687a9a2ded63844c944a4378?utm_campaign=1054&utm_source=git)** | Bowling Green, KY (1240) | Remote | Jul 18 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Inclusion](https://jobright.ai/jobs/info/687ac64d764c3d7411c2f724?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 18 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Jul 18 |
-| **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024 (Part-Time)](https://jobright.ai/jobs/info/687c9fb8764c3d7411c3a3d0?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Jul 18 |
-| **[Cockroach Labs](http://www.cockroachlabs.com/)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/674adc7d97abc5e2f3aba3f3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Houchens Insurance Group](https://www.higusa.com)** | **[Talent and Culture Intern](https://jobright.ai/jobs/info/687a8c71764c3d7411c2ddb6?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Jul 18 |
-| **[Slingshot AI](https://slingshot.xyz)** | **[Join our Talent Pool](https://jobright.ai/jobs/info/687af646764c3d7411c303d8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Development Program (Intern conversion)](https://jobright.ai/jobs/info/687a783bed63844c944a3485?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 18 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Hiring Our Heroes Fellowship (All Departments)](https://jobright.ai/jobs/info/674ada2915cfb00dfee160d1?utm_campaign=1054&utm_source=git)** | Home, KS | Hybrid | Jul 18 |
-| **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a632a2097a271a897e9f7?utm_campaign=1054&utm_source=git)** | New York, San Francisco | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
