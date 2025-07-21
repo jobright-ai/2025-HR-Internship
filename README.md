@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[A1 Garage Door Service](http://a1garage.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687b6256ed63844c944a78c2?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 18 |
 | **[Skechers](http://www.skechers.com)** | **[Internship](https://jobright.ai/jobs/info/687c965ced63844c944af8ac?utm_campaign=1054&utm_source=git)** | Manhattan Beach, CA | On Site | Jul 18 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/687acf682097a271a8981582?utm_campaign=1054&utm_source=git)** | Manhattan Beach, CA | On Site | Jul 18 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oklahoma)](https://jobright.ai/jobs/info/682032e4f9c123e6ef7980aa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Jul 18 |
 | **[CBRE](https://www.cbre.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/687b44b52097a271a8982e64?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Talent Acquisition/People Operations Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2453?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jul 18 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/687a9c6f2097a271a8980427?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e48a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[McKinsey Darien's 2025 Summer Internship Program](https://jobright.ai/jobs/info/68779f69866a435525ab2e03?utm_campaign=1054&utm_source=git)** | Connecticut - Darien, United States | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd0b?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Jul 16 |
-| ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68779556866a435525ab2a9f?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
