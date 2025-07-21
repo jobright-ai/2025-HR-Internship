@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary/Social Work](https://jobright.ai/jobs/info/687db9ca2097a271a898fe58?utm_campaign=1054&utm_source=git)** | Broken Arrow, OK | On Site | Jul 20 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[AmeriCorps Service Member ( Part Time) 2025-2026 Cohort](https://jobright.ai/jobs/info/687d888d2097a271a898eaea?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 20 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[College Intern](https://jobright.ai/jobs/info/687cbc19764c3d7411c3b8ec?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jul 20 |
 | **[Neal Communities of Southwest Florida, Inc.](https://www.nealcommunities.com/)** | **[Apply here to submit your resume for future opportunities!](https://jobright.ai/jobs/info/687cb2c7764c3d7411c3b633?utm_campaign=1054&utm_source=git)** | Bonita Springs, FL | On Site | Jul 20 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Jul 18 |
 | **[Carroll College](http://www.carroll.edu/)** | **[Fall 2025 Student Employment - Sodexo](https://jobright.ai/jobs/info/687a14f92097a271a897d2f9?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Jul 18 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Fall 2025 - Human Resources Internship](https://jobright.ai/jobs/info/6877191b299cbc74b876361e?utm_campaign=1054&utm_source=git)** | Jackson, MS | On Site | Jul 17 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Bidding and Planning, (Spring, 2025)](https://jobright.ai/jobs/info/687db3b6764c3d7411c3dfc6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 17 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/67c569a1966ee65242e51f8e?utm_campaign=1054&utm_source=git)** | Valley Center, KS | On Site | Jul 17 |
 | **[Ring Container Technologies](https://www.ringcontainer.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/682f9501a94d3237ac5c1f89?utm_campaign=1054&utm_source=git)** | Oakland, TN | On Site | Jul 17 |
 | **[AMSC](http://www.amsc.com)** | **[Human Resources Intern – 1-Year Commitment](https://jobright.ai/jobs/info/6879604ba7fc8904e396244a?utm_campaign=1054&utm_source=git)** | Ayer, MA | On Site | Jul 17 |
@@ -113,11 +113,9 @@ For a complete list, click the following sortable link below:
 | **[Concentric](https://www.concentric.io/)** | **[Talent Community](https://jobright.ai/jobs/info/683905e3e786fa33d0e7339e?utm_campaign=1054&utm_source=git)** | Kirkland, WA | Hybrid | Jul 17 |
 | **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/685c92e0405e076a68e992ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Jul 17 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/687951bba7fc8904e3961bec?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 17 |
-| **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024](https://jobright.ai/jobs/info/687946c7a7fc8904e3961453?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jul 17 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/68793baaed63844c94499c87?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Jul 17 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern- Fall](https://jobright.ai/jobs/info/68793477a7fc8904e3960c2a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 17 |
 | **[AHIMA](http://www.ahima.org/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/6864d70a177413afbe1f3542?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | Remote | Jul 17 |
-| **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024 (Part-Time)](https://jobright.ai/jobs/info/68796fd6a7fc8904e3962db2?utm_campaign=1054&utm_source=git)** | Waltham, MA | Hybrid | Jul 17 |
 | **[Seattle Housing Authority](http://seattlehousing.org)** | **[JobLink Academy Candidate Pool - CURRENT JOBLINK PARTICIPANTS ONLY](https://jobright.ai/jobs/info/687901d0ed63844c94497d8a?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Jul 17 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/68048832493bc509aa1332c1?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Jul 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d582?utm_campaign=1054&utm_source=git)** | Horsham, PA | Hybrid | Jul 17 |
@@ -140,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[HR Assistant – Projects & Administrative Support (Part-Time, Student Employee)](https://jobright.ai/jobs/info/687849d3866a435525ab8048?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 16 |
 | **[Science Systems and Applications, Inc (SSAI)](https://www.ssaihq.com)** | **[Candidates from the LaRC Career Fair](https://jobright.ai/jobs/info/68793efd2097a271a8975c01?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Jul 16 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/6878422d5cebcd1dd51d8be8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Jul 16 |
+| **[NAVERIS](https://naveris.com/)** | **[HR & Finance Internship - Fall 2024](https://jobright.ai/jobs/info/68796fd6a7fc8904e3962db2?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Jul 16 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Internship - Fall 2025](https://jobright.ai/jobs/info/68783dad5cebcd1dd51d8ac0?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 16 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68785eb1866a435525ab8beb?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - North Austin](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eecd14?utm_campaign=1054&utm_source=git)** | Round Rock, TX | On Site | Jul 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e4a4?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Jul 16 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8eb?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Jul 16 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac7491451c57921b2e48a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
