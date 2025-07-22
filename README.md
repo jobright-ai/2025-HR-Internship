@@ -77,6 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Administration Intern (Human Resources communications strategy implementation)
 Job ID : 260260](https://jobright.ai/jobs/info/687f5cba2097a271a899cbca?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 22 |
 | **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Assistant Hiring Manager](https://jobright.ai/jobs/info/687f5c27764c3d7411c4b24f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 22 |
+| **[TANQUE VERDE UNIFIED SCHOOL DISTRICT](https://www.linkedin.com/company/55501696)** | **[Certified Application for future openings](https://jobright.ai/jobs/info/687f5bd7764c3d7411c4b232?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jul 22 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[HR & Recruitment Intern - Fall 2025](https://jobright.ai/jobs/info/687f4fdd2097a271a899c889?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
+| ↳ | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/687f5069764c3d7411c4af75?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[San Joaquin Delta College](https://deltacollege.edu/)** | **[Workplace Internship Coordinator](https://jobright.ai/jobs/info/687f5ce09f72804245703242?utm_campaign=1054&utm_source=git)** | Stockton, CA | On Site | Jul 21 |
 | **[Baffinland](http://www.baffinland.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687f121a2097a271a899a52a?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Human Resource Intern](https://jobright.ai/jobs/info/687f10279f72804245700bec?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Jul 21 |
@@ -100,6 +103,7 @@ Job ID : 260260](https://jobright.ai/jobs/info/687f5cba2097a271a899cbca?utm_camp
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - IT Audit Internship](https://jobright.ai/jobs/info/687ed58b764c3d7411c46922?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Jul 21 |
 | **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Recruitment Lead Intern](https://jobright.ai/jobs/info/687ed16fdb19f31cf0d6d4ea?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Kenosha Human Development Services](https://www.khds.org)** | **[Internship Application](https://jobright.ai/jobs/info/687efbc3764c3d7411c47ba3?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Jul 21 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Human Resources Recruiter Internship](https://jobright.ai/jobs/info/687eace7db19f31cf0d6c2c6?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Jul 21 |
 | **[Olsson](https://www.olsson.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/687eaacf2097a271a8996df7?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | Jul 21 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship for Students - Fall 2025 (full-time/part-time)](https://jobright.ai/jobs/info/686580780f8ebf0b4d8e0a52?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist (BHIP) - EDRP, Recruitment/Relocation Incentive Authorized](https://jobright.ai/jobs/info/687f11c09f72804245700c92?utm_campaign=1054&utm_source=git)** | Laredo, TX | On Site | Jul 21 |
@@ -132,8 +136,8 @@ Job ID : 260260](https://jobright.ai/jobs/info/687f5cba2097a271a899cbca?utm_camp
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78eb764c3d7411c43bce?utm_campaign=1054&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78e3db19f31cf0d6a816?utm_campaign=1054&utm_source=git)** | USA-IN - Indiana Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955a8?utm_campaign=1054&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955aa?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955a9?utm_campaign=1054&utm_source=git)** | USA-FL - Florida Remote | Remote | Jul 21 |
+| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dd2097a271a89955aa?utm_campaign=1054&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dadb19f31cf0d6a808?utm_campaign=1054&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78dadb19f31cf0d6a807?utm_campaign=1054&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78d3764c3d7411c43ba8?utm_campaign=1054&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 21 |
@@ -154,8 +158,4 @@ Job ID : 260260](https://jobright.ai/jobs/info/687f5cba2097a271a899cbca?utm_camp
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e78732097a271a8995531?utm_campaign=1054&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e786a2097a271a8995528?utm_campaign=1054&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Jul 21 |
 | ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e785e764c3d7411c43a2a?utm_campaign=1054&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a76e?utm_campaign=1054&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a76f?utm_campaign=1054&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e7856db19f31cf0d6a770?utm_campaign=1054&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 21 |
-| ↳ | **[Fall 2025 Internship - Talent Relations, Creators](https://jobright.ai/jobs/info/687e784c764c3d7411c43a1d?utm_campaign=1054&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
