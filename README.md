@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent HR (D/M/W) für die Airbus Logistik GmbH](https://jobright.ai/jobs/info/6882022c07648640e53292e5?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Jul 24 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jul 23 |
 | **[Formerra](https://www.formerra.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68817283f4f06100f3a27052?utm_campaign=1054&utm_source=git)** | Romeoville, IL | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688171af29ad6b2744ae2338?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
-| **[Benefis Health System](https://www.benefis.org/)** | **[Student Intern, Human Resources (Registry)](https://jobright.ai/jobs/info/68816d6ff4f06100f3a26dc5?utm_campaign=1054&utm_source=git)** | Great Falls, MT | On Site | Jul 23 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68818f9029ad6b2744ae30b1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Job Carr Cabin Museum](https://www.jobcarrmuseum.org/)** | **[Volunteer: Internship: Project-based Opportunity at Job Carr Cabin Museum](https://jobright.ai/jobs/info/6881af8029ad6b2744ae46b2?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/6881adfc29ad6b2744ae45e8?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 23 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Libre Professional Services](https://Libreprofessionalservices.com)** | **[Admin and HR Internship](https://jobright.ai/jobs/info/688117a529ad6b2744adef9f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Marketech International Corporation USA](https://www.micb2b.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6881176c16ea5743a3735eb9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 23 |
 | **[Arezzo&Co](http://arezzoco.com.br/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68811f0829ad6b2744adf606?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 23 |
+| **[Benefis Health System](https://www.benefis.org/)** | **[Student Intern, Human Resources (Registry)](https://jobright.ai/jobs/info/6880f3d3f4f06100f3a2263f?utm_campaign=1054&utm_source=git)** | Great Falls, MT | On Site | Jul 23 |
 | **[Penn Highlands Healthcare](https://www.phhealthcare.org/)** | **[Intern Human Resources Mon Valley - 13727](https://jobright.ai/jobs/info/68811fb3f4f06100f3a24562?utm_campaign=1054&utm_source=git)** | Monongahela, PA | On Site | Jul 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/686427b1dce9e834393f94b9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6880727c9f7280424570b3bf?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 22 |
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/6881026829ad6b2744ade126?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 22 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6880753f764c3d7411c53259?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 22 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Sales & Recruiting Internship (MA) at Black Diamond Networks](https://jobright.ai/jobs/info/68806cbf9f7280424570b162?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[HR/Payroll Internship](https://jobright.ai/jobs/info/688085a7764c3d7411c540a2?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | On Site | Jul 22 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Talento Humano](https://jobright.ai/jobs/info/6880aeb529ad6b2744adafe1?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Jul 22 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688028232097a271a89a1728?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687f0e83764c3d7411c4882d?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/687f0cea9f72804245700a65?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 21 |
 | **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - IT Audit Internship](https://jobright.ai/jobs/info/687ed58b764c3d7411c46922?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Jul 21 |
-| **[Special Aerospace Services/SAS Flight Factory](https://specialaerospaceservices.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688056cf9f72804245709a02?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Jul 21 |
-| **[Kenosha Human Development Services](https://www.khds.org)** | **[Internship Application](https://jobright.ai/jobs/info/687efbc3764c3d7411c47ba3?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Jul 21 |
-| **[Washington State Department of Labor & Industries](https://lni.wa.gov)** | **[L&I Claim Manager Apprentice, Workers' Compensation Adjudicator 2](https://jobright.ai/jobs/info/6876a49d299cbc74b875ef95?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
