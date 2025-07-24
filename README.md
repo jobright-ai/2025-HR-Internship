@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
+| **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent HR (D/M/W) für die Airbus Logistik GmbH](https://jobright.ai/jobs/info/6882022c07648640e53292e5?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Jul 24 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[Talent Acquisition SkillBridge Intern (Recruiter)](https://jobright.ai/jobs/info/6881ab4af4f06100f3a28d62?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Jul 23 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Human Resources Manager](https://jobright.ai/jobs/info/688189f329ad6b2744ae2ecc?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jul 23 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Penn Highlands Healthcare](https://www.phhealthcare.org/)** | **[Intern Human Resources Mon Valley - 13727](https://jobright.ai/jobs/info/68811fb3f4f06100f3a24562?utm_campaign=1054&utm_source=git)** | Monongahela, PA | On Site | Jul 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/686427b1dce9e834393f94b9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 23 |
 | **[Vital Farms](http://vitalfarms.com/)** | **[Talent Community - Join Today!](https://jobright.ai/jobs/info/688118dc29ad6b2744adf0aa?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Atlantic Music Group)](https://jobright.ai/jobs/info/686427b1dce9e834393f949c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[Fall 2025 WMG Emerging Talent Associate Program (WMX)](https://jobright.ai/jobs/info/686427b1dce9e834393f9515?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
@@ -123,13 +124,13 @@ For a complete list, click the following sortable link below:
 | **[Taylor Corporation](https://www.taylor.com/)** | **[Human Resources Intern (Temporary)](https://jobright.ai/jobs/info/68804b719f72804245708ff0?utm_campaign=1054&utm_source=git)** | Rexburg, ID - The Occasions Group, Inc. | On Site | Jul 22 |
 | **[Embrace Software Inc](https://www.embracesoftwareinc.com/)** | **[HR Recruiter (C2H)](https://jobright.ai/jobs/info/68805a3f2097a271a89a34d7?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Jul 22 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b5?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Jul 22 |
-| **[HMH](https://hmhw.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6880a3ff16ea5743a3731a51?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 22 |
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/6880440e764c3d7411c50957?utm_campaign=1054&utm_source=git)** | Tampa | On Site | Jul 22 |
 | **[PABCO Building Products, LLC.](https://www.pabcobuildingproducts.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68800b5a764c3d7411c4eb41?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 22 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/687fc670764c3d7411c4cf8d?utm_campaign=1054&utm_source=git)** | Detroit | Hybrid | Jul 22 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiting Intern (Part-Time)](https://jobright.ai/jobs/info/688052442097a271a89a2e2f?utm_campaign=1054&utm_source=git)** | Columbia, MO | Remote | Jul 22 |
 | **[InnoVision Marketing Group](https://teaminnovision.com/)** | **[Internship Opportunity - Talent Coordination](https://jobright.ai/jobs/info/6881d9561321092fa0061eff?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 22 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP ' Project Rescue](https://jobright.ai/jobs/info/6880a70f29ad6b2744adac00?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Jul 22 |
+| **[HMH](https://hmhw.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68804f729f7280424570932f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Jul 22 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[HR/Payroll Internship](https://jobright.ai/jobs/info/687fa910764c3d7411c4c3ae?utm_campaign=1054&utm_source=git)** | USA PA Remote | Remote | Jul 22 |
 | **[SSA Group](http://thessagroup.com)** | **[Talent Network](https://jobright.ai/jobs/info/683a76106e634b11db96ab2a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/687f88819f72804245703933?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Special Aerospace Services/SAS Flight Factory](https://specialaerospaceservices.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688056cf9f72804245709a02?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Jul 21 |
 | **[Kenosha Human Development Services](https://www.khds.org)** | **[Internship Application](https://jobright.ai/jobs/info/687efbc3764c3d7411c47ba3?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Jul 21 |
 | **[Washington State Department of Labor & Industries](https://lni.wa.gov)** | **[L&I Claim Manager Apprentice, Workers' Compensation Adjudicator 2](https://jobright.ai/jobs/info/6876a49d299cbc74b875ef95?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | Hybrid | Jul 21 |
-| **[Olsson](https://www.olsson.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/687eaacf2097a271a8996df7?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
