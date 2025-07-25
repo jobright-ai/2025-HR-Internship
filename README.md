@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anta](https://anta.com/en/index.php)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6882b7d36fcd973d15adbf24?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 24 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Intern – Human Resources & Talent Development](https://jobright.ai/jobs/info/688298e9b54cac0f1e7312a2?utm_campaign=1054&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/68828788835a903aa07ee4e8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/6882b864835a903aa07f05fb?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Brinkmann Constructors](http://askbrinkmann.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68829373835a903aa07ef056?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Jul 24 |
+| **[Merchology](http://merchology.com)** | **[Recruiting Coordinator (Seasonal)](https://jobright.ai/jobs/info/6882b09ab54cac0f1e732103?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | Jul 24 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern, Recruitment and Outreach](https://jobright.ai/jobs/info/68826f85b54cac0f1e72f7bf?utm_campaign=1054&utm_source=git)** | Campus: Tempe | Hybrid | Jul 24 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern, Recruitment and Outreach](https://jobright.ai/jobs/info/68826ed6835a903aa07ed6da?utm_campaign=1054&utm_source=git)** | Campus: Tempe | Hybrid | Jul 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/68826df26fcd973d15ad90ba?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Jul 24 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jul 23 |
 | **[Formerra](https://www.formerra.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68817283f4f06100f3a27052?utm_campaign=1054&utm_source=git)** | Romeoville, IL | On Site | Jul 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688171af29ad6b2744ae2338?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
-| **[Benefis Health System](https://www.benefis.org/)** | **[Student Intern, Human Resources (Registry)](https://jobright.ai/jobs/info/68816d6ff4f06100f3a26dc5?utm_campaign=1054&utm_source=git)** | Great Falls, MT | On Site | Jul 23 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68818f9029ad6b2744ae30b1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Job Carr Cabin Museum](https://www.jobcarrmuseum.org/)** | **[Volunteer: Internship: Project-based Opportunity at Job Carr Cabin Museum](https://jobright.ai/jobs/info/6881af8029ad6b2744ae46b2?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/6881adfc29ad6b2744ae45e8?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 23 |
@@ -106,7 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Arezzo&Co](http://arezzoco.com.br/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68811f0829ad6b2744adf606?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (10K Projects)](https://jobright.ai/jobs/info/686427b1dce9e834393f94a3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
 | ↳ | **[Fall 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/68643147cab2866df9fb5826?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Jul 23 |
-| ↳ | **[Fall 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/686427b1dce9e834393f965c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| **[Benefis Health System](https://www.benefis.org/)** | **[Student Intern, Human Resources (Registry)](https://jobright.ai/jobs/info/6880f3d3f4f06100f3a2263f?utm_campaign=1054&utm_source=git)** | Great Falls, MT | On Site | Jul 23 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/686427b1dce9e834393f965c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Penn Highlands Healthcare](https://www.phhealthcare.org/)** | **[Intern Human Resources Mon Valley - 13727](https://jobright.ai/jobs/info/68811fb3f4f06100f3a24562?utm_campaign=1054&utm_source=git)** | Monongahela, PA | On Site | Jul 23 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Warner Music Group Central Functions)](https://jobright.ai/jobs/info/686427b1dce9e834393f94b9?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SSA Group](http://thessagroup.com)** | **[Talent Network](https://jobright.ai/jobs/info/683a76106e634b11db96ab2a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/687f88819f72804245703933?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 22 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Recruitment & HR Intern (Fall 2025)](https://jobright.ai/jobs/info/687f86919f728042457038c2?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | On Site | Jul 22 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Don't see what you're looking for in Human Resources?](https://jobright.ai/jobs/info/68273a10586567c3072a7d7c?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Jul 22 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca76b?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jul 22 |
-| **[Vera Bradley](http://www.verabradley.com/)** | **[Human Resource Business Partner Internship](https://jobright.ai/jobs/info/68632f1ffb761b1eafaa2be7?utm_campaign=1054&utm_source=git)** | Roanoke, IN | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
