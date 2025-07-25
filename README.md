@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6883df7fb54cac0f1e73a7dd?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Talent Acquisition - Intern (Plano, TX)  - Fall 2025](https://jobright.ai/jobs/info/6883ccd26fcd973d15ae3358?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jul 25 |
+| **[SOLO LLC](https://gosolo.io/)** | **[HR Intern](https://jobright.ai/jobs/info/6883c9086fcd973d15ae316b?utm_campaign=1054&utm_source=git)** | Solo, MO | On Site | Jul 25 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6883bc126fcd973d15ae2b7b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Human Resources](https://jobright.ai/jobs/info/6883bb4d6fcd973d15ae2b37?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883b614835a903aa07f6f86?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[College Aide](https://jobright.ai/jobs/info/6883ae1a835a903aa07f6c1f?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 25 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/68839a3c6fcd973d15ae1de3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Master's)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 25 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[DoD Skillbridge Intern for Recruiting & HR](https://jobright.ai/jobs/info/67f6c159c9731f5444abfd83?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 25 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[HR & Recruitment Intern - Fall 2025](https://jobright.ai/jobs/info/68834a1c835a903aa07f55e5?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
@@ -91,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
-| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865af06b013aba30deb6336?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Cleaver-Brooks](https://cleaverbrooks.com/)** | **[Corporate HR Generalist Intern](https://jobright.ai/jobs/info/68812851f4f06100f3a2494e?utm_campaign=1054&utm_source=git)** | Thomasville, GA | On Site | Jul 23 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6881c41bee15177ae9716f70?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Jul 23 |
 | **[Robin AI](https://www.robinai.com)** | **[Join Robin AI's Talent Pool (London, New York, Singapore)](https://jobright.ai/jobs/info/6881c25441fbda106ee6cd23?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[Libre Professional Services](https://Libreprofessionalservices.com)** | **[Admin and HR Internship](https://jobright.ai/jobs/info/688117a529ad6b2744adef9f?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Marketech International Corporation USA](https://www.micb2b.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6881176c16ea5743a3735eb9?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 23 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 23 |
 | **[Arezzo&Co](http://arezzoco.com.br/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68811f0829ad6b2744adf606?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/6881026829ad6b2744ade126?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 22 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6880753f764c3d7411c53259?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[HR/Payroll Internship](https://jobright.ai/jobs/info/688085a7764c3d7411c540a2?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | On Site | Jul 22 |
-| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Talento Humano](https://jobright.ai/jobs/info/6880aeb529ad6b2744adafe1?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
