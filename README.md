@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Student](http://www.firststudentinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68832b40b54cac0f1e736621?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
+| **[Vacation Inc.](https://vacation.inc)** | **[Join Our Talent Network (anywhere in the US)](https://jobright.ai/jobs/info/688326b36fcd973d15adfca2?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Jul 24 |
 | **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68830d6cb54cac0f1e735225?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Jul 24 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Admissions Intern - Fall 2025](https://jobright.ai/jobs/info/6882ead6835a903aa07f17a6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6882e520b54cac0f1e733671?utm_campaign=1054&utm_source=git)** | Gastonia, NC | Hybrid | Jul 24 |
@@ -90,6 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent HR (D/M/W) für die Airbus Logistik GmbH](https://jobright.ai/jobs/info/6882022c07648640e53292e5?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Jul 24 |
 | **[Iowa Valley Community College District](https://www.iavalley.edu)** | **[Human Resources Office Assistant Work Study](https://jobright.ai/jobs/info/68830a966fcd973d15ade9f9?utm_campaign=1054&utm_source=git)** | Marshalltown, IA | On Site | Jul 24 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68643147cab2866df9fb5828?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/682585c00ffe83ff56181802?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jul 23 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/687edbfc2097a271a899855a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Jul 23 |
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6882fdeab54cac0f1e7344af?utm_campaign=1054&utm_source=git)** | Warren, OH | On Site | Jul 23 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[Talent Acquisition SkillBridge Intern (Recruiter)](https://jobright.ai/jobs/info/6881ab4af4f06100f3a28d62?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Jul 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The WRK Group](http://wrkgroup.org/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/688104c5f4f06100f3a23110?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Jul 22 |
 | **[Hofstra University](http://hofstra.edu)** | **[Part-Time Internship Coordinator](https://jobright.ai/jobs/info/6880b2fa29ad6b2744adb1b1?utm_campaign=1054&utm_source=git)** | Hempstead, NY | On Site | Jul 22 |
 | **[UFC GYM](http://UFCGYM.com)** | **[UFC Human Resources Intern](https://jobright.ai/jobs/info/68803f489f72804245708854?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jul 22 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist-Recruitment/Relocation - EDRP Approved](https://jobright.ai/jobs/info/6880f16629ad6b2744add573?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 22 |
-| **[Seattle Art Museum](http://seattleartmuseum.org)** | **[[Talent Pool] SAM's General Talent Pool](https://jobright.ai/jobs/info/6880b39f16ea5743a3732227?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jul 22 |
-| **[Taylor Corporation](https://www.taylor.com/)** | **[Human Resources Intern (Temporary)](https://jobright.ai/jobs/info/68804b719f72804245708ff0?utm_campaign=1054&utm_source=git)** | Rexburg, ID - The Occasions Group, Inc. | On Site | Jul 22 |
-| **[Embrace Software Inc](https://www.embracesoftwareinc.com/)** | **[HR Recruiter (C2H)](https://jobright.ai/jobs/info/68805a3f2097a271a89a34d7?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
