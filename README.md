@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.hustlemagazine.co)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6883bc126fcd973d15ae2b7b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 25 |
+| **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Human Resources](https://jobright.ai/jobs/info/6883bb4d6fcd973d15ae2b37?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883b614835a903aa07f6f86?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
+| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[College Aide](https://jobright.ai/jobs/info/6883ae1a835a903aa07f6c1f?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 25 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/68839a3c6fcd973d15ae1de3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Master's)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 25 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[DoD Skillbridge Intern for Recruiting & HR](https://jobright.ai/jobs/info/67f6c159c9731f5444abfd83?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 25 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Good Shepherd Services](https://goodshepherds.org/)** | **[MSW Intern, Care Coordinator](https://jobright.ai/jobs/info/6882d6f9835a903aa07f11ed?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Jul 24 |
 | ↳ | **[MSW Intern, Care Coordinator](https://jobright.ai/jobs/info/6882d4e4b54cac0f1e73311c?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Jul 24 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Work Study - HR Employment Office Aide](https://jobright.ai/jobs/info/6882d4136fcd973d15adc9dc?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Jul 24 |
+| **[WestRock Company](http://www.westrock.com)** | **[Early Career, HR Co-op Fall 2025](https://jobright.ai/jobs/info/6883afe16fcd973d15ae25b9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | **[Anta](https://anta.com/en/index.php)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6882b7d36fcd973d15adbf24?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 24 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Intern – Human Resources & Talent Development](https://jobright.ai/jobs/info/688298e9b54cac0f1e7312a2?utm_campaign=1054&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/68828788835a903aa07ee4e8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6880753f764c3d7411c53259?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Jul 22 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[HR/Payroll Internship](https://jobright.ai/jobs/info/688085a7764c3d7411c540a2?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | On Site | Jul 22 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Talento Humano](https://jobright.ai/jobs/info/6880aeb529ad6b2744adafe1?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Jul 22 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688028232097a271a89a1728?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 22 |
-| **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6880b18e16ea5743a3732156?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 22 |
-| **[Digital4Good x #ICANHELP](https://www.icanhelp.net/)** | **[Annual Head of People Intern](https://jobright.ai/jobs/info/6880a12c16ea5743a3731931?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jul 22 |
-| **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Volunteer Department Intern](https://jobright.ai/jobs/info/687ffd5c9f7280424570656c?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Jul 22 |
-| **[Vinfen](http://www.vinfen.org)** | **[Internship (Mental Health Services)](https://jobright.ai/jobs/info/6880d34329ad6b2744adc640?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
