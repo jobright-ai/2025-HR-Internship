@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Talent Development SkillBridge Intern, Internship, (Remote)](https://jobright.ai/jobs/info/68859ba3fbbf032d0006d3cf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f9989?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68856e05b651c92cb78abb4b?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Jul 26 |
 | **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68855b43fbbf032d0006c5eb?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Jul 26 |
@@ -123,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865af06b013aba30deb6336?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6837e9873de1609cf23eb31e?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jul 23 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Workforce Management Analyst, Energy (Fall 2025)](https://jobright.ai/jobs/info/68817bd716ea5743a373969f?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Jul 23 |
 | **[Livingston HealthCare](https://www.livingstonhealthcare.org)** | **[Job Shadowing Application](https://jobright.ai/jobs/info/688178c329ad6b2744ae26eb?utm_campaign=1054&utm_source=git)** | Livingston, MT | On Site | Jul 23 |
-| **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6881ad3116ea5743a373b466?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
