@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALLY](http://www.allyenergy.com)** | **[HR LC Intern](https://jobright.ai/jobs/info/6886905ab651c92cb78af72c?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | Jul 27 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68865985b651c92cb78af33d?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 27 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684c2a96de9c105c21e4f7e2?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 27 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1054&utm_source=git)** | Howell, MI | On Site | Jul 27 |
@@ -73,7 +74,7 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68855b43fbbf032d0006c5eb?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Jul 26 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/688549cdb651c92cb78ab89f?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Jul 26 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, Learning to Work (LTW), Manhattan](https://jobright.ai/jobs/info/688511b64174df41e0f960ef?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dd24174df41e0f95f9e?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dda4174df41e0f95fac?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
 | **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 26 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6884a882b651c92cb78aa12e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
@@ -121,7 +122,8 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Anta](https://anta.com/en/index.php)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6882b7d36fcd973d15adbf24?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | Hybrid | Jul 24 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Intern – Human Resources & Talent Development](https://jobright.ai/jobs/info/688298e9b54cac0f1e7312a2?utm_campaign=1054&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/68828788835a903aa07ee4e8?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
-| ↳ | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6883e4ac6fcd973d15ae42fe?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
+| **[Domo](http://www.domo.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/6865f60aec0c6df7ad34d956?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Jul 24 |
+| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/6883e4ac6fcd973d15ae42fe?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Brinkmann Constructors](http://askbrinkmann.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68829373835a903aa07ef056?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Jul 24 |
 | **[Merchology](http://merchology.com)** | **[Recruiting Coordinator (Seasonal)](https://jobright.ai/jobs/info/6882b09ab54cac0f1e732103?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | Jul 24 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern, Recruitment and Outreach](https://jobright.ai/jobs/info/68826f85b54cac0f1e72f7bf?utm_campaign=1054&utm_source=git)** | Campus: Tempe | Hybrid | Jul 24 |
@@ -156,6 +158,4 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Human Resources Manager](https://jobright.ai/jobs/info/688189f329ad6b2744ae2ecc?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jul 23 |
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/68818942f4f06100f3a27b9c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 23 |
 | **[Quantum Metric](https://quantummetric.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6881878316ea5743a3739cbd?utm_campaign=1054&utm_source=git)** | Remote - Intern | Hybrid | Jul 23 |
-| ↳ | **[People Team Intern](https://jobright.ai/jobs/info/6881a6b516ea5743a373ad86?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 23 |
-| **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
