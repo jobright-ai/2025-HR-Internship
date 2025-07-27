@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Jul 27 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Associate](https://jobright.ai/jobs/info/68860592b651c92cb78aeb33?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jul 27 |
+| **[NCCPLUS VIETNAM](https://ncc.asia/)** | **[Internship Programs - HR](https://jobright.ai/jobs/info/6885fde0b651c92cb78aeacc?utm_campaign=1054&utm_source=git)** | All, MO | On Site | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern
 Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Talent Development SkillBridge Intern, Internship, (Remote)](https://jobright.ai/jobs/info/68859ba3fbbf032d0006d3cf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
@@ -65,7 +68,7 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68855b43fbbf032d0006c5eb?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Jul 26 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/688549cdb651c92cb78ab89f?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Jul 26 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, Learning to Work (LTW), Manhattan](https://jobright.ai/jobs/info/688511b64174df41e0f960ef?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dd24174df41e0f95f9e?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dda4174df41e0f95fac?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 26 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6884a882b651c92cb78aa12e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
 | **[Haws®](http://hawsco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6884a6c74174df41e0f94fe9?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jul 26 |
@@ -125,9 +128,9 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865af06b013aba30deb6336?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
@@ -155,7 +158,4 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68818f9029ad6b2744ae30b1?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Job Carr Cabin Museum](https://www.jobcarrmuseum.org/)** | **[Volunteer: Internship: Project-based Opportunity at Job Carr Cabin Museum](https://jobright.ai/jobs/info/6881af8029ad6b2744ae46b2?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 23 |
 | **[Concord](https://concord.com/)** | **[Concord Talent Community](https://jobright.ai/jobs/info/6881adfc29ad6b2744ae45e8?utm_campaign=1054&utm_source=git)** | Los Angeles County, CA | On Site | Jul 23 |
-| **[Jobright.ai](https://jobright.ai)** | **[Open Talent Pool - Technology Roles, Internship, (Remote)](https://jobright.ai/jobs/info/68815913f4f06100f3a264da?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 23 |
-| **[ABRAMS](http://www.abramsbooks.com)** | **[Human Resource Intern Fall 2025](https://jobright.ai/jobs/info/6881567a29ad6b2744ae1611?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6837e9873de1609cf23eb31e?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
