@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68865985b651c92cb78af33d?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 27 |
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684c2a96de9c105c21e4f7e2?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 27 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1054&utm_source=git)** | Howell, MI | On Site | Jul 27 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Jul 27 |
@@ -73,6 +74,7 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/688549cdb651c92cb78ab89f?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Jul 26 |
 | **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, Learning to Work (LTW), Manhattan](https://jobright.ai/jobs/info/688511b64174df41e0f960ef?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dda4174df41e0f95fac?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
+| **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 26 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6884a882b651c92cb78aa12e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
 | **[Haws®](http://hawsco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6884a6c74174df41e0f94fe9?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jul 26 |
@@ -132,9 +134,9 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865af06b013aba30deb6336?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/686c868435584b6542349ca2?utm_campaign=1054&utm_source=git)** | US Remote | Hybrid | Jul 24 |
@@ -156,6 +158,4 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | ↳ | **[People Team Intern](https://jobright.ai/jobs/info/6881a6b516ea5743a373ad86?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 23 |
 | **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Nonesuch & Warner Records)](https://jobright.ai/jobs/info/686427b1dce9e834393f94be?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
-| **[Formerra](https://www.formerra.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68817283f4f06100f3a27052?utm_campaign=1054&utm_source=git)** | Romeoville, IL | On Site | Jul 23 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Intern, SPT – Fall 2025](https://jobright.ai/jobs/info/688171af29ad6b2744ae2338?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
