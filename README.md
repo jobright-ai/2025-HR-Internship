@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68872aa7b651c92cb78b25e6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/6886de67fbbf032d00070a01?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jul 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Intern](https://jobright.ai/jobs/info/6886ada14174df41e0f9a714?utm_campaign=1054&utm_source=git)** | Slater, MO | On Site | Jul 27 |
 | **[ALLY](http://www.allyenergy.com)** | **[HR LC Intern](https://jobright.ai/jobs/info/6886905ab651c92cb78af72c?utm_campaign=1054&utm_source=git)** | Lake Charles, LA | On Site | Jul 27 |
@@ -64,13 +65,11 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[HR Intern](https://jobright.ai/jobs/info/684c2a96de9c105c21e4f7e2?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 27 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Internship - Social Services](https://jobright.ai/jobs/info/6830b281f56c2b11dfd426b8?utm_campaign=1054&utm_source=git)** | Howell, MI | On Site | Jul 27 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Jul 27 |
-| **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Associate](https://jobright.ai/jobs/info/68860592b651c92cb78aeb33?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Jul 27 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | ↳ | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern
 Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Jul 27 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Work Study - HR Employment Office Aide](https://jobright.ai/jobs/info/68861cd14174df41e0f99b43?utm_campaign=1054&utm_source=git)** | Laramie, WY | On Site | Jul 27 |
-| **[Jobright.ai](https://jobright.ai)** | **[Talent Development SkillBridge Intern, Internship, (Remote)](https://jobright.ai/jobs/info/68859ba3fbbf032d0006d3cf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f9989?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68856e05b651c92cb78abb4b?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Jul 26 |
 | **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68855b43fbbf032d0006c5eb?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Jul 26 |
@@ -85,7 +84,6 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Corewell Health](https://corewellhealth.org)** | **[HR Data Analytics Intern](https://jobright.ai/jobs/info/68844f80b651c92cb78a6a70?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 25 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[HR Co-op (Hybrid role 16-20 hours/week)](https://jobright.ai/jobs/info/68843bfcfbbf032d00066315?utm_campaign=1054&utm_source=git)** | Livonia, MI | Hybrid | Jul 25 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Internship: Year-Round (Austin District)](https://jobright.ai/jobs/info/68842e3f6fcd973d15ae618a?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jul 25 |
-| **[Advanced Roofing](http://advancedroofing.com)** | **[Office Intern](https://jobright.ai/jobs/info/68842cebb54cac0f1e73c905?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 25 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Economic Assistance Benefits Specialist (Spring)](https://jobright.ai/jobs/info/688424a46fcd973d15ae5baf?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Jul 25 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[SkillBridge Intern (Remote Based)](https://jobright.ai/jobs/info/6884ce3cfbbf032d0006b0f0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition (Fall 2025)](https://jobright.ai/jobs/info/68844c20fbbf032d000670bb?utm_campaign=1054&utm_source=git)** | Smithfield, RI | On Site | Jul 25 |
@@ -98,13 +96,13 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources - Co-Op](https://jobright.ai/jobs/info/6883efbc835a903aa07f910a?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 25 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6883ebaf835a903aa07f8dbc?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 25 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883e95f835a903aa07f8c38?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jul 25 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6883df7fb54cac0f1e73a7dd?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[WestRock Company](http://www.westrock.com)** | **[HR Co-op/Intern](https://jobright.ai/jobs/info/68845396fbbf032d0006793a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Talent Acquisition - Intern (Plano, TX)  - Fall 2025](https://jobright.ai/jobs/info/6883ccd26fcd973d15ae3358?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jul 25 |
 | **[SOLO LLC](https://gosolo.io/)** | **[HR Intern](https://jobright.ai/jobs/info/6883c9086fcd973d15ae316b?utm_campaign=1054&utm_source=git)** | Solo, MO | On Site | Jul 25 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern (Employment, Classification, and Development)](https://jobright.ai/jobs/info/6883e3a3835a903aa07f89b3?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jul 25 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883b614835a903aa07f6f86?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[College Aide](https://jobright.ai/jobs/info/6883ae1a835a903aa07f6c1f?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 25 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/68839a3c6fcd973d15ae1de3?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Master's)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 25 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[DoD Skillbridge Intern for Recruiting & HR](https://jobright.ai/jobs/info/67f6c159c9731f5444abfd83?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 25 |
 | **[Susquehanna International Group](http://sig.com)** | **[HR Data Analyst - Operations Analyst Program: August 2025 Start](https://jobright.ai/jobs/info/68128ef36342018afea81094?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Jul 25 |
@@ -151,6 +149,7 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/684a84ef2b948718a2c418ca?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 24 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Talent Acquisition Co-op](https://jobright.ai/jobs/info/68754857ae2f413e4a5a5683?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68643147cab2866df9fb5828?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round - Airport Warehouse](https://jobright.ai/jobs/info/6847468da357a36ca2528e50?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/682585c00ffe83ff56181802?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jul 23 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/686427b1dce9e834393f94d5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/687edbfc2097a271a899855a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Jul 23 |
@@ -158,4 +157,5 @@ Job ID : 261668](https://jobright.ai/jobs/info/6885eeddfbbf032d0006f6f9?utm_camp
 | **[7 17 Credit Union](https://www.717cu.com/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6882fdeab54cac0f1e7344af?utm_campaign=1054&utm_source=git)** | Warren, OH | On Site | Jul 23 |
 | **[Cydecor, Inc.](http://www.cydecor.com)** | **[Talent Acquisition SkillBridge Intern (Recruiter)](https://jobright.ai/jobs/info/6881ab4af4f06100f3a28d62?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Jul 23 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Human Resources Manager](https://jobright.ai/jobs/info/688189f329ad6b2744ae2ecc?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Jul 23 |
+| **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/68818942f4f06100f3a27b9c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
