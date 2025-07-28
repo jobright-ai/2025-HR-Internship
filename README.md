@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources (Fall)](https://jobright.ai/jobs/info/68879a16fbbf032d0007510c?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Jul 28 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/688736704174df41e0f9d588?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Jul 28 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68872aa7b651c92cb78b25e6?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/6886de67fbbf032d00070a01?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jul 27 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Human Resources Internship: Year-Round (Austin District)](https://jobright.ai/jobs/info/68842e3f6fcd973d15ae618a?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Jul 25 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Economic Assistance Benefits Specialist (Spring)](https://jobright.ai/jobs/info/688424a46fcd973d15ae5baf?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Jul 25 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[SkillBridge Intern (Remote Based)](https://jobright.ai/jobs/info/6884ce3cfbbf032d0006b0f0?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - Talent Acquisition (Fall 2025)](https://jobright.ai/jobs/info/68844c20fbbf032d000670bb?utm_campaign=1054&utm_source=git)** | Smithfield, RI | On Site | Jul 25 |
 | **[University of Utah](http://utah.edu)** | **[Assistant Director, Career and Internship Development Center](https://jobright.ai/jobs/info/688416c8835a903aa07fa14c?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern / Greater New York](https://jobright.ai/jobs/info/688411016fcd973d15ae56de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Strategy and Planning (Spring 2026)](https://jobright.ai/jobs/info/6884425efbbf032d00066700?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1054&utm_source=git)** | Alameda, CA | On Site | Jul 25 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68654b3a4bf3beaecd58b323?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | **[Vacation Inc.](https://vacation.inc)** | **[Join Our Talent Network (anywhere in the US)](https://jobright.ai/jobs/info/688326b36fcd973d15adfca2?utm_campaign=1054&utm_source=git)** | Miami, FL | Remote | Jul 24 |
-| **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68830d6cb54cac0f1e735225?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Jul 24 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Admissions Intern - Fall 2025](https://jobright.ai/jobs/info/6882ead6835a903aa07f17a6?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6882e520b54cac0f1e733671?utm_campaign=1054&utm_source=git)** | Gastonia, NC | Hybrid | Jul 24 |
 | **[University of Denver](http://www.du.edu/)** | **[Assistant Director, Employer & Industry Engagement](https://jobright.ai/jobs/info/6882dc8f835a903aa07f13c3?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 24 |
@@ -133,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Learning & Talent Development)](https://jobright.ai/jobs/info/6865c6b25947108dca60d521?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Jul 24 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Overland Park, KS](https://jobright.ai/jobs/info/68129414c4ff2f307e8ed79b?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
-| ↳ | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865af06b013aba30deb6336?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Jul 24 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (Warner Chappell Music)](https://jobright.ai/jobs/info/686427b1dce9e834393f94f1?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Jul 24 |
 | **[Steel Encounters, Inc.](http://steelencounters.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68820c96b0824207391d0ecf?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Jul 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/68818942f4f06100f3a27b9c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 23 |
 | **[Quantum Metric](https://quantummetric.com)** | **[People Team Intern](https://jobright.ai/jobs/info/6881878316ea5743a3739cbd?utm_campaign=1054&utm_source=git)** | Remote - Intern | Hybrid | Jul 23 |
 | ↳ | **[People Team Intern](https://jobright.ai/jobs/info/6881a6b516ea5743a373ad86?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 23 |
+| **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
