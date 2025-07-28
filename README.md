@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Internship](https://jobright.ai/jobs/info/6887d31473e3e13cbd940570?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Jul 28 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Search and Advisroy](https://jobright.ai/jobs/info/6887c99f4174df41e0fa0a4c?utm_campaign=1054&utm_source=git)** | Dallas, Texas, United States | On Site | Jul 28 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/6887c973fbbf032d0007687e?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Remote | Jul 28 |
+| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/6887c84473e3e13cbd9400bb?utm_campaign=1054&utm_source=git)** | Austin, Texas | Remote | Jul 28 |
+| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/6887c7864174df41e0fa0759?utm_campaign=1054&utm_source=git)** | WESLACO, TEXAS | Remote | Jul 28 |
+| **[Microsoft](https://www.microsoft.com)** | **[Human Resources: Master's & MBA Internship Opportunities](https://jobright.ai/jobs/info/6887c6b973e3e13cbd93fe82?utm_campaign=1054&utm_source=git)** | Redmond, Washington, United States | Hybrid | Jul 28 |
+| **[Tuuci](http://tuuci.com)** | **[HR Intern](https://jobright.ai/jobs/info/6887bb564174df41e0fa026b?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Jul 28 |
 | **[U.S. Xpress, Inc.](https://www.usxpress.com)** | **[DOD SkillBridge Internship](https://jobright.ai/jobs/info/6887b24a73e3e13cbd93f599?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 28 |
 | **[Paybility Financial](www.paybility.net)** | **[Fall Intern](https://jobright.ai/jobs/info/6887a2bdfbbf032d00075405?utm_campaign=1054&utm_source=git)** | Roanoke, VA | Remote | Jul 28 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources (Fall)](https://jobright.ai/jobs/info/68879a16fbbf032d0007510c?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Jul 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/684a84ef2b948718a2c418ca?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Jul 24 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Talent Acquisition Co-op](https://jobright.ai/jobs/info/68754857ae2f413e4a5a5683?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 24 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/68643147cab2866df9fb5828?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round - Airport Warehouse](https://jobright.ai/jobs/info/6847468da357a36ca2528e50?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Jul 23 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Nevada)](https://jobright.ai/jobs/info/682585c00ffe83ff56181802?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Jul 23 |
-| **[Warner Music Group](http://www.wmg.com)** | **[Fall 2025 WMG Emerging Talent Associate Program (WRMGO)](https://jobright.ai/jobs/info/686427b1dce9e834393f94d5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
-| **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/687edbfc2097a271a899855a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Jul 23 |
-| **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com/be-nl/demeyere/)** | **[Intern – Human Resources & Talent Development](https://jobright.ai/jobs/info/6885a80b4174df41e0f97fd0?utm_campaign=1054&utm_source=git)** | Pleasantville, NY | On Site | Jul 23 |
-| **[7 17 Credit Union](https://www.717cu.com/)** | **[Fraud Intern](https://jobright.ai/jobs/info/6882fdeab54cac0f1e7344af?utm_campaign=1054&utm_source=git)** | Warren, OH | On Site | Jul 23 |
-| **[Cydecor, Inc.](http://www.cydecor.com)** | **[Talent Acquisition SkillBridge Intern (Recruiter)](https://jobright.ai/jobs/info/6881ab4af4f06100f3a28d62?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
