@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Leaders In Volunteer Engagement](https://volunteeralive.org/)** | **[Career Development Program Candidate](https://jobright.ai/jobs/info/6888c7eaaab47a17f66fce20?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jul 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[Human Resources: Master's & MBA Internship Opportunities](https://jobright.ai/jobs/info/6888b57f9f961617fe20f6b7?utm_campaign=1054&utm_source=git)** | Redmond, WA | Hybrid | Jul 29 |
 | **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6888b12409808a6103e428ae?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[BDO USA](https://www.bdo.com/)** | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/6888a9a8aab47a17f66fc8ab?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Jul 29 |
 | ↳ | **[People & Culture Intern - Fall 2025 (Charlotte or Columbus)](https://jobright.ai/jobs/info/6888a84509808a6103e42794?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Jul 29 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[HR Graduate Intern](https://jobright.ai/jobs/info/6886de67fbbf032d00070a01?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jul 27 |
 | **[International Institute of New England](https://iine.org/)** | **[Employment Services Intern (IINE Lowell)](https://jobright.ai/jobs/info/6887e9004174df41e0fa1812?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Jul 27 |
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Career Pathways Intern (unpaid)](https://jobright.ai/jobs/info/68880b6efbbf032d0007857c?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Jul 27 |
-| **[International Institute of New England](https://iine.org/)** | **[Volunteer Program Intern (IINE Boston)](https://jobright.ai/jobs/info/68880183fbbf032d00078254?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jul 27 |
-| ↳ | **[Employment Services Intern (IINE Boston)](https://jobright.ai/jobs/info/6887fcad4174df41e0fa2238?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jul 27 |
+| **[International Institute of New England](https://iine.org/)** | **[Employment Services Intern (IINE Boston)](https://jobright.ai/jobs/info/6887fcad4174df41e0fa2238?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jul 27 |
+| ↳ | **[Volunteer Program Intern (IINE Boston)](https://jobright.ai/jobs/info/68880183fbbf032d00078254?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Jul 27 |
 | ↳ | **[Program Benefits & Administration Intern (IINE Lowell)](https://jobright.ai/jobs/info/6887fd7bfbbf032d00078037?utm_campaign=1054&utm_source=git)** | Lowell, MA | Hybrid | Jul 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Intern](https://jobright.ai/jobs/info/6886ada14174df41e0f9a714?utm_campaign=1054&utm_source=git)** | Slater, MO | On Site | Jul 27 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68865985b651c92cb78af33d?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Jul 27 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dd24174df41e0f95f9e?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
 | **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 26 |
+| **[Influur](https://www.influur.com)** | **[Human Resources Ninja - Internship](https://jobright.ai/jobs/info/6883aa506fcd973d15ae2444?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Jul 26 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6884a882b651c92cb78aa12e?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Jul 26 |
 | **[Haws®](http://hawsco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6884a6c74174df41e0f94fe9?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Jul 26 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern - Human Resources (Health Services) Fall 2025](https://jobright.ai/jobs/info/68849e4db651c92cb78a9edf?utm_campaign=1054&utm_source=git)** | Tahlequah, OK | On Site | Jul 26 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources - Co-Op](https://jobright.ai/jobs/info/6883efbc835a903aa07f910a?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 25 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/6883ebaf835a903aa07f8dbc?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Jul 25 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883e95f835a903aa07f8c38?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jul 25 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6883df7fb54cac0f1e73a7dd?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 25 |
 | **[WestRock Company](http://www.westrock.com)** | **[HR Co-op/Intern](https://jobright.ai/jobs/info/68845396fbbf032d0006793a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[HR Talent Acquisition - Intern (Plano, TX)  - Fall 2025](https://jobright.ai/jobs/info/6883ccd26fcd973d15ae3358?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Jul 25 |
 | **[SOLO LLC](https://gosolo.io/)** | **[HR Intern](https://jobright.ai/jobs/info/6883c9086fcd973d15ae316b?utm_campaign=1054&utm_source=git)** | Solo, MO | On Site | Jul 25 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[General Intern (Employment, Classification, and Development)](https://jobright.ai/jobs/info/6883e3a3835a903aa07f89b3?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Jul 25 |
 | **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883b614835a903aa07f6f86?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
-| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[College Aide](https://jobright.ai/jobs/info/6883ae1a835a903aa07f6c1f?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Jul 25 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Human Resources Intern (Master's)](https://jobright.ai/jobs/info/684b24d71bb5c9c676f250a9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
