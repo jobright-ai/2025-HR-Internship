@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Human Resource College Co-op](https://jobright.ai/jobs/info/68893fbc09808a6103e46315?utm_campaign=1054&utm_source=git)** | Ridgway, PA | On Site | Jul 29 |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68893e6b9f961617fe212fa3?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Jul 29 |
+| **[American Electric Power](http://aep.com)** | **[SkillBridge Military Intern (DOD)](https://jobright.ai/jobs/info/688931a1aab47a17f66ffd21?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Jul 29 |
+| **[St. Tammany Health System](https://www.sttammany.health)** | **[HR Intern](https://jobright.ai/jobs/info/6889317a09808a6103e45bba?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Jul 29 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Internship (12 months) - Salt Lake Temple Celebration](https://jobright.ai/jobs/info/6889304a09808a6103e45a0c?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 29 |
+| **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Associate Specialist, Project Engineer - Global Engineering Solutions Co-op (Fall 2025 Start)](https://jobright.ai/jobs/info/68892b5d09808a6103e4584e?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Jul 29 |
 | **[PMReady](https://www.linkedin.com/company/93822056)** | **[Talent Acquisition Manager (Early Career/Student)](https://jobright.ai/jobs/info/688923be9f961617fe2123a4?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Jul 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/688921b59f961617fe212183?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
 | ↳ | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/6889212109808a6103e45343?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Work Study - HR Employment Office Aide](https://jobright.ai/jobs/info/68861cd14174df41e0f99b43?utm_campaign=1054&utm_source=git)** | Laramie, WY | On Site | Jul 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Talent Development SkillBridge Intern](https://jobright.ai/jobs/info/684b84b44025a751a37f9989?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68856e05b651c92cb78abb4b?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Jul 26 |
-| **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68855b43fbbf032d0006c5eb?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Jul 26 |
-| **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/688549cdb651c92cb78ab89f?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Jul 26 |
-| **[CAMBA](https://camba.org/)** | **[Internship Placement Specialist, Learning to Work (LTW), Manhattan](https://jobright.ai/jobs/info/688511b64174df41e0f960ef?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68850dda4174df41e0f95fac?utm_campaign=1054&utm_source=git)** | Culver City, California | On Site | Jul 26 |
-| **[eClerx](https://eclerx.com/)** | **[Opportunities Await – Join Our US Talent Network](https://jobright.ai/jobs/info/684b35ce961b7f0677318586?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 26 |
-| **[Benesch](https://www.benesch.com)** | **[Future Internship Opportunities - Join our Talent Network](https://jobright.ai/jobs/info/684b8fa8a36551061370d9a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
