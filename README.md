@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Medicine](http://nm.org)** | **[Recovery Support Specialist Internship](https://jobright.ai/jobs/info/688a715faab47a17f6708d42?utm_campaign=1054&utm_source=git)** | 12 Health Services Dr, DeKalb, IL 60115, USA | On Site | Jul 30 |
+| **[Giorgio Armani](http://www.armani.com)** | **[Intern, HR Retail](https://jobright.ai/jobs/info/688a5cd509808a6103e4e1a6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Regal Technology Partners](https://www.regaltechnology.com)** | **[People & Culture Assistant (Intern)](https://jobright.ai/jobs/info/688a6803aab47a17f67086df?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Jul 30 |
 | **[Jetvoy.com](https://www.jetvoy.com/)** | **[Unpaid Opportunity: Cross-Functional Ops & Organization Interns (Part-Time · Remote · Flexible)](https://jobright.ai/jobs/info/688a471d09808a6103e4d7e2?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Talent Acquisition Co-Op](https://jobright.ai/jobs/info/688a22e99f961617fe219945?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 30 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/6889d4119f961617fe218a9c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/688921b59f961617fe212183?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
 | ↳ | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/6889212109808a6103e45343?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68898f3d9f961617fe2157e7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 29 |
-| **[YourBookTeam](https://yourbookteam.com)** | **[Interviewer Presenter Intern](https://jobright.ai/jobs/info/688907b709808a6103e443db?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 29 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Human Resources Student Associate – Employee Development and Engagement](https://jobright.ai/jobs/info/6889046baab47a17f66fe465?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Jul 29 |
 | ↳ | **[Human Resources Student Associate – Employee Development and Engagement](https://jobright.ai/jobs/info/6889040d09808a6103e442b4?utm_campaign=1054&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 29 |
 | **[Catholic Charities, Diocese of Paterson](https://catholicharities.org/)** | **[Counselor Intern (380/390) (PAID POSITION)](https://jobright.ai/jobs/info/6888fdaf9f961617fe210d63?utm_campaign=1054&utm_source=git)** | Straight, OK | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Skills & Talent Intern](https://jobright.ai/jobs/info/6887da1973e3e13cbd94093a?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Jul 28 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/6887d97a73e3e13cbd9408f8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 28 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Search and Advisroy](https://jobright.ai/jobs/info/6887c99f4174df41e0fa0a4c?utm_campaign=1054&utm_source=git)** | Dallas, Texas, United States | On Site | Jul 28 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/6887c973fbbf032d0007687e?utm_campaign=1054&utm_source=git)** | San Antonio, Texas | Remote | Jul 28 |
-| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/6887c84473e3e13cbd9400bb?utm_campaign=1054&utm_source=git)** | Austin, Texas | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
