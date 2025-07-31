@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/688b1e269f961617fe221d0d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 30 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/688ad8a99f961617fe21e7e6?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (unpaid)](https://jobright.ai/jobs/info/688af35c9f961617fe21fafc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/6889bdfd9f961617fe21812d?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jul 29 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/6889bc5109808a6103e4b3c7?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Jul 29 |
 | **[Museum of Science](http://www.mos.org)** | **[Advancement Internship](https://jobright.ai/jobs/info/6889b161aab47a17f67049a6?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jul 29 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/6827ff775ddfbbc70b63f8ea?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Jul 29 |
 | **[SOLO LLC](https://gosolo.io/)** | **[HR Intern](https://jobright.ai/jobs/info/6889a749aab47a17f6703ee8?utm_campaign=1054&utm_source=git)** | Solo, MO | On Site | Jul 29 |
 | **[Museum of Science](http://www.mos.org)** | **[Advancement Internship](https://jobright.ai/jobs/info/688b015209808a6103e5399c?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Jul 29 |
 | **[A#1 Air, Inc.](https://www.anumber1air.com)** | **[Talent Acquisition Fall Intern](https://jobright.ai/jobs/info/688986f809808a6103e482a6?utm_campaign=1054&utm_source=git)** | Lewisville, TX | On Site | Jul 29 |
@@ -116,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Internship (12 months) - Salt Lake Temple Celebration](https://jobright.ai/jobs/info/6889304a09808a6103e45a0c?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 29 |
 | **[Materion Corporation](https://materion.com)** | **[2024 Internship Program](https://jobright.ai/jobs/info/688991239f961617fe21590b?utm_campaign=1054&utm_source=git)** | Delta, UT | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688993309f961617fe215a82?utm_campaign=1054&utm_source=git)** | Reading, PA | On Site | Jul 29 |
-| ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688994a1aab47a17f6702d3d?utm_campaign=1054&utm_source=git)** | Lorain, OH | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/68898d0f9f961617fe21568b?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Jul 29 |
+| ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688994a1aab47a17f6702d3d?utm_campaign=1054&utm_source=git)** | Lorain, OH | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688994b909808a6103e48c5b?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Jul 29 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Associate Specialist, Project Engineer - Global Engineering Solutions Co-op (Fall 2025 Start)](https://jobright.ai/jobs/info/68892b5d09808a6103e4584e?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Jul 29 |
 | **[Materion Corporation](https://materion.com)** | **[2024 Internship Program](https://jobright.ai/jobs/info/688942949f961617fe2132cc?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Jul 29 |
-| ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/6889487209808a6103e467e8?utm_campaign=1054&utm_source=git)** | Westford, MA | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688946479f961617fe2134b9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 29 |
+| ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/6889487209808a6103e467e8?utm_campaign=1054&utm_source=git)** | Westford, MA | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688945beaab47a17f67007ae?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jul 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/688921b59f961617fe212183?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
 | ↳ | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/6889212109808a6103e45343?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/688869e9fbbf032d0007bd99?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Jul 28 |
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Internship-Human Resources](https://jobright.ai/jobs/info/688868614174df41e0fa5f57?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Jul 28 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6889b51009808a6103e4aadd?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Jul 28 |
-| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6889b142aab47a17f6704998?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Jul 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6888725327fa3c6292367970?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
