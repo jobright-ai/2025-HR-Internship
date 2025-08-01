@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688c1a6f3a30793eb963fe99?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
+| **[Institute for Youth in Policy](https://yipinstitute.org)** | **[Corporate Intern (Human Resources, Marketing, Development, Technology)](https://jobright.ai/jobs/info/688c18fb3a30793eb963fe18?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
+| **[Black Hawk College](http://www.bhc.edu/)** | **[East Campus Recruitment Work Study](https://jobright.ai/jobs/info/688c17ea3a30793eb963fdb7?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Jul 31 |
+| **[Rocket](https://rocket.com/?utm_source=linkedin&utm_medium=social&source=SocialMedia-LinkedInOrganic)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/688c08623a30793eb963f6c8?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jul 31 |
 | **[Adelphoi USA](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688bfe363a30793eb963f2ff?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Jul 31 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688bf129906ac06e1d1cf958?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[HR Intern - Administrative Support (unpaid)](https://jobright.ai/jobs/info/688bf0be3a30793eb963eceb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
@@ -85,10 +89,9 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/688b25e509808a6103e55422?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 30 |
 | ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/688b250e9f961617fe22213c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 30 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 30 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/688ad8a99f961617fe21e7e6?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (unpaid)](https://jobright.ai/jobs/info/688af35c9f961617fe21fafc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688bfcb51808534a89cb79c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| ↳ | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/688bfefe3a30793eb963f345?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/688bfefe3a30793eb963f345?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| ↳ | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688bfcb51808534a89cb79c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[YONDR](www.overyondr.com)** | **[HR Internship](https://jobright.ai/jobs/info/688aba9a09808a6103e50d45?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Jul 30 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Talent Solutions](https://jobright.ai/jobs/info/688ab92709808a6103e50caf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 30 |
 | **[YONDR](www.overyondr.com)** | **[HR Internship](https://jobright.ai/jobs/info/688ab43b09808a6103e50b26?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688946479f961617fe2134b9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Jul 29 |
 | ↳ | **[2024 Internship Program](https://jobright.ai/jobs/info/688945beaab47a17f67007ae?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Jul 29 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/688921b59f961617fe212183?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
-| ↳ | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/6889212109808a6103e45343?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Jul 29 |
-| **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68898f3d9f961617fe2157e7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Jul 29 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Human Resources Student Associate – Employee Development and Engagement](https://jobright.ai/jobs/info/6889046baab47a17f66fe465?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
