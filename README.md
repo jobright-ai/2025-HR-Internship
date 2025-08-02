@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/688dd1dbcdbd821a3663fd16?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/688d7bc5e5cead4afd455c56?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/688d7babe5cead4afd455c46?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[City of Irvine](https://www.cityofirvine.org)** | **[Program Assistant Apprenticeship - One Irvine Workforce](https://jobright.ai/jobs/info/688d7a00e5cead4afd455b69?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
 | **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Workforce Development Field Placement Intern](https://jobright.ai/jobs/info/688d73eb3a30793eb964afaa?utm_campaign=1054&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
 | **[Kerr Dental](https://www.kavokerr.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d6a401808534a89cc32ab?utm_campaign=1054&utm_source=git)** | Pomona, CA | On Site | Aug 01 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d6a3a3a30793eb964ac8b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
