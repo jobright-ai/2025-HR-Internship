@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Intern- MRS](https://jobright.ai/jobs/info/688cd0c81808534a89cbed6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 01 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688cc8333a30793eb9646441?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Aug 01 |
+| **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/685c92e0405e076a68e992ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 01 |
 | **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc46c3a30793eb9646357?utm_campaign=1054&utm_source=git)** | CA - San Francisco (94105) | On Site | Aug 01 |
 | **[Bertram Capital](https://bcap.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688cbaec1808534a89cbe82b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Atlanta History Center](https://www.atlantahistorycenter.com/)** | **[Manager of Volunteer and Intern Services (full-time)](https://jobright.ai/jobs/info/688cb3b83a30793eb9645de9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 31 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d584?utm_campaign=1054&utm_source=git)** | Mesquite, TX | On Site | Jul 31 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations (Fall 2025)](https://jobright.ai/jobs/info/687e3485db19f31cf0d689cf?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
