@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/688dd1dbcdbd821a3663fd16?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
+| ↳ | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/688d7bc5e5cead4afd455c56?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d584?utm_campaign=1054&utm_source=git)** | Mesquite, TX | On Site | Jul 31 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations (Fall 2025)](https://jobright.ai/jobs/info/687e3485db19f31cf0d689cf?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 31 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern HR Leave Administration Winter 2026](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454cff4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 31 |
-| **[Republican National Committee](http://www.gop.com/)** | **[2025 Fall Intern](https://jobright.ai/jobs/info/688c8cc93a30793eb964420e?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/688b1e269f961617fe221d0d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
-| **[Onbe](https://www.onbe.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/685088e907b5879386962908?utm_campaign=1054&utm_source=git)** | Buffalo, TX | Hybrid | Jul 31 |
-| **[Capita](https://www.capita.com)** | **[Join our Selborne Talent pool for future opportunities](https://jobright.ai/jobs/info/688db2b4e5cead4afd4595fc?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
