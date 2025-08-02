@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/688d7bc5e5cead4afd455c56?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations (Fall 2025)](https://jobright.ai/jobs/info/687e3485db19f31cf0d689cf?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 31 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern HR Leave Administration Winter 2026](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454cff4?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 31 |
 | **[Republican National Committee](http://www.gop.com/)** | **[2025 Fall Intern](https://jobright.ai/jobs/info/688c8cc93a30793eb964420e?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/688b1e269f961617fe221d0d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
 | **[Onbe](https://www.onbe.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/685088e907b5879386962908?utm_campaign=1054&utm_source=git)** | Buffalo, TX | Hybrid | Jul 31 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/688b25e509808a6103e55422?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 30 |
+| **[Capita](https://www.capita.com)** | **[Join our Selborne Talent pool for future opportunities](https://jobright.ai/jobs/info/688db2b4e5cead4afd4595fc?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
