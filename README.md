@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/688d486f1808534a89cc25e8?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Aug 01 |
 | **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d349a1808534a89cc1e19?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Pomona | On Site | Aug 01 |
 | ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d344a3a30793eb964972f?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Orange | On Site | Aug 01 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/688d2d8827f9022553c09c82?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688cd4283a30793eb9646726?utm_campaign=1054&utm_source=git)** | Troy, MI - USA | On Site | Aug 01 |
 | **[Tech Economy](https://techeconomy.net/)** | **[Connecting and Resourcing Empowered Women (CREW)](https://jobright.ai/jobs/info/688cfbc827f9022553c08431?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Aug 01 |
 | **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Intern- MRS](https://jobright.ai/jobs/info/688cd0c81808534a89cbed6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 01 |
+| **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688cc8333a30793eb9646441?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Aug 01 |
 | **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc46c3a30793eb9646357?utm_campaign=1054&utm_source=git)** | CA - San Francisco (94105) | On Site | Aug 01 |
 | **[Bertram Capital](https://bcap.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688cbaec1808534a89cbe82b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern: Floating](https://jobright.ai/jobs/info/688c280b3a30793eb9640609?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688c1a6f3a30793eb963fe99?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
 | **[Institute for Youth in Policy](https://yipinstitute.org)** | **[Corporate Intern (Human Resources, Marketing, Development, Technology)](https://jobright.ai/jobs/info/688c18fb3a30793eb963fe18?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
+| **[Colorado Behavioral Healthcare Council](https://www.cbhc.org)** | **[Child Outpatient and Internship Supervisor](https://jobright.ai/jobs/info/688d386f27f9022553c0a1c3?utm_campaign=1054&utm_source=git)** | Punta Gorda, FL | On Site | Jul 31 |
 | **[Rocket](https://rocket.com/?utm_source=linkedin&utm_medium=social&source=SocialMedia-LinkedInOrganic)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/688c08623a30793eb963f6c8?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Jul 31 |
 | **[Adelphoi USA](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688bfe363a30793eb963f2ff?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Jul 31 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688bf129906ac06e1d1cf958?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Jul 31 |
@@ -134,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/688b25e509808a6103e55422?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Jul 30 |
 | ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/688b250e9f961617fe22213c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 30 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (unpaid)](https://jobright.ai/jobs/info/688af35c9f961617fe21fafc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/688bfefe3a30793eb963f345?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| ↳ | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688bfcb51808534a89cb79c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688bfcb51808534a89cb79c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| ↳ | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/688bfefe3a30793eb963f345?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Talent Solutions](https://jobright.ai/jobs/info/688ab92709808a6103e50caf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Jul 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688ab2dd09808a6103e50a92?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Jul 30 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/688ad88c9f961617fe21e7d8?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Medicine](http://nm.org)** | **[Recovery Support Specialist Internship](https://jobright.ai/jobs/info/688a715faab47a17f6708d42?utm_campaign=1054&utm_source=git)** | 12 Health Services Dr, DeKalb, IL 60115, USA | On Site | Jul 30 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688ae75caab47a17f670c4ff?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD | On Site | Jul 30 |
 | **[Regal Technology Partners](https://www.regaltechnology.com)** | **[People & Culture Assistant (Intern)](https://jobright.ai/jobs/info/688a6803aab47a17f67086df?utm_campaign=1054&utm_source=git)** | Santa Ana, CA | On Site | Jul 30 |
-| **[Jetvoy.com](https://www.jetvoy.com/)** | **[Unpaid Opportunity: Cross-Functional Ops & Organization Interns (Part-Time · Remote · Flexible)](https://jobright.ai/jobs/info/688a471d09808a6103e4d7e2?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/688afec09f961617fe22034a?utm_campaign=1054&utm_source=git)** | Christiansburg, VA | On Site | Jul 30 |
-| **[Dana Incorporated](https://www.danatm4.com)** | **[Talent Acquisition Co-Op](https://jobright.ai/jobs/info/688a247709808a6103e4cbcb?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
