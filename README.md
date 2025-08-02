@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/688dd1dbcdbd821a3663fd16?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | ↳ | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Phoenix Companies, LLC](https://phoenixcompaniesllc.com/)** | **[2026 Corporate Internship Program](https://jobright.ai/jobs/info/688b5d7a3a30793eb963a0d0?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Jul 31 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Jul 31 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d584?utm_campaign=1054&utm_source=git)** | Mesquite, TX | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
