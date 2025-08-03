@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Carolina Complete Health Network, Inc.](https://network.carolinacompletehealth.com/)** | **[Join Our Talent Network!](https://jobright.ai/jobs/info/68549bdbfb806acc3f123f46?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
+| **[Eva's Village](https://www.evasvillage.org/)** | **[Exciting Masters Level Internship Opportunity](https://jobright.ai/jobs/info/6870209301cc0956e7e7f787?utm_campaign=1054&utm_source=git)** | Paterson, NJ | On Site | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
 | ↳ | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688ba5eb906ac06e1d1ccfed?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Jul 31 |
 | **[Sarasota Clerk of the Circuit Court and County Comptroller](http://www.SarasotaClerk.com)** | **[Human Resource Coordinator (Seasonal College Intern)](https://jobright.ai/jobs/info/688ba5553a30793eb963c298?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jul 31 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[People + Culture Intern](https://jobright.ai/jobs/info/688ba2b81808534a89cb4936?utm_campaign=1054&utm_source=git)** | Carmel | On Site | Jul 31 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Talent Intern](https://jobright.ai/jobs/info/688b9e7c3a30793eb963bfc9?utm_campaign=1054&utm_source=git)** | Washington, D.C. | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
