@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[HR Culture / Performance / Recruiting Specialist (Intern)](https://jobright.ai/jobs/info/688fb5d9cdbd821a36645e65?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Aug 03 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/688f1847cdbd821a366452ae?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Clerk of the Circuit Court and County Comptroller](http://www.SarasotaClerk.com)** | **[Human Resource Coordinator (Seasonal College Intern)](https://jobright.ai/jobs/info/688ba5553a30793eb963c298?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jul 31 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[People + Culture Intern](https://jobright.ai/jobs/info/688ba2b81808534a89cb4936?utm_campaign=1054&utm_source=git)** | Carmel | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Talent Intern](https://jobright.ai/jobs/info/688b9e7c3a30793eb963bfc9?utm_campaign=1054&utm_source=git)** | Washington, D.C. | On Site | Jul 31 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[WIOA Case Manager Intern (unpaid)](https://jobright.ai/jobs/info/688b9c23906ac06e1d1ccbf9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
