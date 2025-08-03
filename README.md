@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/688e9f8fcdbd821a36641cb5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
+| ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | **[Carolina Complete Health Network, Inc.](https://network.carolinacompletehealth.com/)** | **[Join Our Talent Network!](https://jobright.ai/jobs/info/68549bdbfb806acc3f123f46?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Talent Intern](https://jobright.ai/jobs/info/688b9e7c3a30793eb963bfc9?utm_campaign=1054&utm_source=git)** | Washington, D.C. | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[WIOA Case Manager Intern (unpaid)](https://jobright.ai/jobs/info/688b9c23906ac06e1d1ccbf9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Peace of Mind Mental Health, Inc.](www.peaceofmindmh.com)** | **[Mental Health Counselor - Registered Intern MHC/MFT](https://jobright.ai/jobs/info/688ba314906ac06e1d1ccefc?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jul 31 |
-| **[Harris | Oakmark](https://www.harrisassoc.com)** | **[Talent Community - Discover Your Potential](https://jobright.ai/jobs/info/67494e099f7da9d1b4398481?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
-| **[Phoenix Companies, LLC](https://phoenixcompaniesllc.com/)** | **[2026 Corporate Internship Program](https://jobright.ai/jobs/info/688b5d7a3a30793eb963a0d0?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Jul 31 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/688af68aaab47a17f670d0b9?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
