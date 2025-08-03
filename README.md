@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688edcda6a4aac5783cda723?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 01 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture Intern](https://jobright.ai/jobs/info/688d7bc5e5cead4afd455c56?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/688d7babe5cead4afd455c46?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[People + Culture Intern](https://jobright.ai/jobs/info/688ba2b81808534a89cb4936?utm_campaign=1054&utm_source=git)** | Carmel | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Talent Intern](https://jobright.ai/jobs/info/688b9e7c3a30793eb963bfc9?utm_campaign=1054&utm_source=git)** | Washington, D.C. | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[WIOA Case Manager Intern (unpaid)](https://jobright.ai/jobs/info/688b9c23906ac06e1d1ccbf9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Peace of Mind Mental Health, Inc.](www.peaceofmindmh.com)** | **[Mental Health Counselor - Registered Intern MHC/MFT](https://jobright.ai/jobs/info/688ba314906ac06e1d1ccefc?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
