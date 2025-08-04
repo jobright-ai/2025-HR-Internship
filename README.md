@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eutelsat Group](http://www.eutelsat.com)** | **[Career Opportunities: Internal & HR Communications Specialist (Apprenticeship) (5725)](https://jobright.ai/jobs/info/6890b7174c7e851b90ac8f36?utm_campaign=1054&utm_source=git)** | ID | Hybrid | Aug 04 |
+| **[Bramante Artists](www.bramanteartists.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6890d3704c7e851b90ac9ea7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Aug 04 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[The W Group - Artists and Entertainment LLC](https://twgtalentagency.com/)** | **[Intern](https://jobright.ai/jobs/info/68901079cdbd821a366466a0?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Remote | Aug 03 |
 | **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
