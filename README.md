@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
 | **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[PROJXON](www.projxon.com)** | **[HR Culture / Performance / Recruiting Specialist (Intern)](https://jobright.ai/jobs/info/688fb5d9cdbd821a36645e65?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Aug 03 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/688d7babe5cead4afd455c46?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Workforce Development Field Placement Intern](https://jobright.ai/jobs/info/688d73eb3a30793eb964afaa?utm_campaign=1054&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
 | **[Kerr Dental](https://www.kavokerr.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d6a401808534a89cc32ab?utm_campaign=1054&utm_source=git)** | Pomona, CA | On Site | Aug 01 |
-| **[Komatsu](http://www.ehrbar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d6a3a3a30793eb964ac8b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Program Assistant Apprenticeship - One Irvine Workforce](https://jobright.ai/jobs/info/688e7445e5cead4afd45cc43?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[ADMINISTRATIVE ASSISTANT INTERN (PART TIME)](https://jobright.ai/jobs/info/688d64101808534a89cc3000?utm_campaign=1054&utm_source=git)** | Davie, FL | On Site | Aug 01 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/688d63553a30793eb964a8a6?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Aug 01 |
