@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
+| **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
+| **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
+| **[Metalsa](https://www.kiswelusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6890e23bf47efe211395113c?utm_campaign=1054&utm_source=git)** | Hopkinsville, KY | On Site | Aug 04 |
 | **[Bramante Artists](www.bramanteartists.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6890d3704c7e851b90ac9ea7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Aug 04 |
+| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/6890da1e4c7e851b90aca268?utm_campaign=1054&utm_source=git)** | Ladson, SC | On Site | Aug 04 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[The W Group - Artists and Entertainment LLC](https://twgtalentagency.com/)** | **[Intern](https://jobright.ai/jobs/info/68901079cdbd821a366466a0?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Remote | Aug 03 |
 | **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688c38e81808534a89cb97ea?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Penn Community Bank](http://penncommunitybank.com)** | **[HR/Payroll Intern](https://jobright.ai/jobs/info/688bd0123a30793eb963dd62?utm_campaign=1054&utm_source=git)** | Perkasie, PA | On Site | Jul 31 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/688c25d71808534a89cb8c1d?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jul 31 |
-| **[Penn Community Bank](http://penncommunitybank.com)** | **[HR/Payroll Intern](https://jobright.ai/jobs/info/688bc448906ac06e1d1ce3a5?utm_campaign=1054&utm_source=git)** | US-PA-Perkasie | On Site | Jul 31 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Jul 31 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/688bbea03a30793eb963d439?utm_campaign=1054&utm_source=git)** | Campus: Tempe | On Site | Jul 31 |
-| **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern (Credit Only)](https://jobright.ai/jobs/info/688bbe973a30793eb963d42d?utm_campaign=1054&utm_source=git)** | United Way Miami Inc | On Site | Jul 31 |
-| **[ASU Gammage](https://www.asugammage.com/)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/688bbd0c1808534a89cb5958?utm_campaign=1054&utm_source=git)** | Campus: Tempe | On Site | Jul 31 |
-| **[Expedient](https://www.expedient.com/)** | **[Just Want to Send Your Resume?](https://jobright.ai/jobs/info/688bb7f4906ac06e1d1cdadb?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
