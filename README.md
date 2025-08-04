@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[The W Group - Artists and Entertainment LLC](https://twgtalentagency.com/)** | **[Intern](https://jobright.ai/jobs/info/68901079cdbd821a366466a0?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Remote | Aug 03 |
+| **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
 | **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID internship Human Resource Specialist](https://jobright.ai/jobs/info/688ca25227f9022553c05f5a?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Northwestern Medicine](http://nm.org)** | **[Recovery Support Specialist Internship](https://jobright.ai/jobs/info/688c9eaa1808534a89cbdccf?utm_campaign=1054&utm_source=git)** | DeKalb, IL | On Site | Jul 31 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[HR Service Center Representative Internship](https://jobright.ai/jobs/info/688ba6cf1808534a89cb4b11?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Jul 31 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688ba5eb906ac06e1d1ccfed?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Jul 31 |
-| **[Sarasota Clerk of the Circuit Court and County Comptroller](http://www.SarasotaClerk.com)** | **[Human Resource Coordinator (Seasonal College Intern)](https://jobright.ai/jobs/info/688ba5553a30793eb963c298?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
