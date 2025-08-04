@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eutelsat Group](http://www.eutelsat.com)** | **[Career Opportunities: Internal & HR Communications Specialist (Apprenticeship) (5725)](https://jobright.ai/jobs/info/6890b7174c7e851b90ac8f36?utm_campaign=1054&utm_source=git)** | ID | Hybrid | Aug 04 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[The W Group - Artists and Entertainment LLC](https://twgtalentagency.com/)** | **[Intern](https://jobright.ai/jobs/info/68901079cdbd821a366466a0?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Remote | Aug 03 |
 | **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
 | **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6890b9244c7e851b90ac9039?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[KRAFZEN](https://krafzen.com/)** | **[Human Resources Intern [Unpaid]](https://jobright.ai/jobs/info/6890427c4c7e851b90ac555f?utm_campaign=1054&utm_source=git)** | Casper, WY | Remote | Aug 02 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern (Credit Only)](https://jobright.ai/jobs/info/688bbe973a30793eb963d42d?utm_campaign=1054&utm_source=git)** | United Way Miami Inc | On Site | Jul 31 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/688bbd0c1808534a89cb5958?utm_campaign=1054&utm_source=git)** | Campus: Tempe | On Site | Jul 31 |
 | **[Expedient](https://www.expedient.com/)** | **[Just Want to Send Your Resume?](https://jobright.ai/jobs/info/688bb7f4906ac06e1d1cdadb?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Jul 31 |
-| **[Petroleum Marketing Group, Inc.](http://petromg.com)** | **[Part-Time HR Intern](https://jobright.ai/jobs/info/688ca0c827f9022553c05de5?utm_campaign=1054&utm_source=git)** | Falls Church, VA | On Site | Jul 31 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID internship Human Resource Specialist](https://jobright.ai/jobs/info/688ca25227f9022553c05f5a?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
