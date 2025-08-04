@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Life Help Disability Support](https://jobright.ai/jobs/info/689105d14c7e851b90acb530?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 04 |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
+| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
+| **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be423906ac06e1d1cf495?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | ↳ | **[Human Resources Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3471808534a89cb6f34?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | **[State of South Carolina](https://sc.gov/)** | **[Probation & Parole LEO I #14-2025 ***INTERNAL APPLICANTS ONLY***](https://jobright.ai/jobs/info/688c9a463a30793eb964502d?utm_campaign=1054&utm_source=git)** | Anderson County, SC | On Site | Jul 31 |
-| **[OSEA Malibu](https://oseamalibu.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/688c3d791808534a89cb9dbf?utm_campaign=1054&utm_source=git)** | United States | Remote | Jul 31 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Program Intern (unpaid)](https://jobright.ai/jobs/info/688c38e81808534a89cb97ea?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Penn Community Bank](http://penncommunitybank.com)** | **[HR/Payroll Intern](https://jobright.ai/jobs/info/688bd0123a30793eb963dd62?utm_campaign=1054&utm_source=git)** | Perkasie, PA | On Site | Jul 31 |
-| **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Human Resources](https://jobright.ai/jobs/info/688c25d71808534a89cb8c1d?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
