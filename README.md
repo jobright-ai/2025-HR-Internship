@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
 | **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
-| **[PROJXON](www.projxon.com)** | **[HR Culture / Performance / Recruiting Specialist (Intern)](https://jobright.ai/jobs/info/688fb5d9cdbd821a36645e65?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Aug 03 |
 | **[KRAFZEN](https://krafzen.com/)** | **[Human Resources Intern [Unpaid]](https://jobright.ai/jobs/info/6890427c4c7e851b90ac555f?utm_campaign=1054&utm_source=git)** | Casper, WY | Remote | Aug 02 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
@@ -73,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Eva's Village](https://www.evasvillage.org/)** | **[Exciting Masters Level Internship Opportunity](https://jobright.ai/jobs/info/6870209301cc0956e7e7f787?utm_campaign=1054&utm_source=git)** | Paterson, NJ | On Site | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| ↳ | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Aug 02 |
+| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
+| **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Aug 01 |
 | **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688edcda6a4aac5783cda723?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID internship Human Resource Specialist](https://jobright.ai/jobs/info/688ca25227f9022553c05f5a?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Northwestern Medicine](http://nm.org)** | **[Recovery Support Specialist Internship](https://jobright.ai/jobs/info/688c9eaa1808534a89cbdccf?utm_campaign=1054&utm_source=git)** | DeKalb, IL | On Site | Jul 31 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[HR Service Center Representative Internship](https://jobright.ai/jobs/info/688ba6cf1808534a89cb4b11?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Jul 31 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688ba5eb906ac06e1d1ccfed?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
