@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891ad3ef47efe2113958274?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ad22f5ee707a15dc16a7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891aab6f47efe2113958176?utm_campaign=1054&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 04 |
+| ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891aa854c7e851b90ad15f1?utm_campaign=1054&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 04 |
 | **[L'Oréal](https://www.loreal.com)** | **[12 Month Intern - Supply Chain](https://jobright.ai/jobs/info/6891825df5ee707a15dbf341?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891793bf47efe21139559b0?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Aug 04 |
 | ↳ | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68917124f47efe21139553df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
 | **[Metalsa](https://www.kiswelusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6890e23bf47efe211395113c?utm_campaign=1054&utm_source=git)** | Hopkinsville, KY | On Site | Aug 04 |
 | **[Bramante Artists](www.bramanteartists.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6890d3704c7e851b90ac9ea7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Aug 04 |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Employment Specialist - Compensation and Student Hire Onboarding](https://jobright.ai/jobs/info/6891ab04f5ee707a15dc15a0?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/6890da1e4c7e851b90aca268?utm_campaign=1054&utm_source=git)** | Ladson, SC | On Site | Aug 04 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Locus Fermentation Solutions](https://locusfs.com/)** | **[HR & Business Projects Intern](https://jobright.ai/jobs/info/6891760bf47efe2113955874?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Aug 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688cc8333a30793eb9646441?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Aug 01 |
 | **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/685c92e0405e076a68e992ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 01 |
-| **[Harris Williams](http://www.harriswilliams.com)** | **[2026 M&A Summer Associate](https://jobright.ai/jobs/info/688cc46c3a30793eb9646357?utm_campaign=1054&utm_source=git)** | CA - San Francisco (94105) | On Site | Aug 01 |
-| **[Bertram Capital](https://bcap.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688cbaec1808534a89cbe82b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
-| **[Atlanta History Center](https://www.atlantahistorycenter.com/)** | **[Manager of Volunteer and Intern Services (full-time)](https://jobright.ai/jobs/info/688cb3b83a30793eb9645de9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Aug 01 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/688ca64727f9022553c061f7?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
