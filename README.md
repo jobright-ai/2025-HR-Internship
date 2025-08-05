@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 05 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891d445f47efe2113958e7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b82ef5ee707a15dc1c83?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
-| **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[KRAFZEN](https://krafzen.com/)** | **[Human Resources Intern [Unpaid]](https://jobright.ai/jobs/info/6890427c4c7e851b90ac555f?utm_campaign=1054&utm_source=git)** | Casper, WY | Remote | Aug 02 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/689097984c7e851b90ac7af3?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Carolina Complete Health Network, Inc.](https://network.carolinacompletehealth.com/)** | **[Join Our Talent Network!](https://jobright.ai/jobs/info/68549bdbfb806acc3f123f46?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Project Rescue ' Project Rescue Intern (Bridgeport office only)](https://jobright.ai/jobs/info/688cfcae3a30793eb9647b20?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
 | **[Eva's Village](https://www.evasvillage.org/)** | **[Exciting Masters Level Internship Opportunity](https://jobright.ai/jobs/info/6870209301cc0956e7e7f787?utm_campaign=1054&utm_source=git)** | Paterson, NJ | On Site | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Aug 01 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689199b2f5ee707a15dc044c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
-| **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - General and Administrative](https://jobright.ai/jobs/info/68909a02f5ee707a15db7edc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688edcda6a4aac5783cda723?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 01 |
