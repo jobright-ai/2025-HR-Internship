@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ending Alzheimer's](https://www.endingalzheimers.org/start)** | **[Intern (unpaid HR & Outreach roles)](https://jobright.ai/jobs/info/68923f82f47efe211395ac4a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Omnicell](http://www.omnicell.com)** | **[Internship Talent Pipeline](https://jobright.ai/jobs/info/68923c82f5ee707a15dc3fbb?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
+| **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68923925f5ee707a15dc3ecf?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 05 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Aug 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 05 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891d445f47efe2113958e7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
@@ -75,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[City of Claremont](https://ci.claremont.ca.us/)** | **[Administrative Intern (Human Resources)](https://jobright.ai/jobs/info/689177d44c7e851b90acedf4?utm_campaign=1054&utm_source=git)** | Claremont, CA | On Site | Aug 04 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Catering & Operations Intern, Chartwells Higher Ed / University of Texas - Arlington](https://jobright.ai/jobs/info/689156cff5ee707a15dbdc02?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Aug 04 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6891558df5ee707a15dbdb80?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Aug 04 |
+| **[Lakeshore Management](http://www.lakeshoremhc.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68922a5cf5ee707a15dc389e?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Aug 04 |
 | **[Metrolina Greenhouses INC](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6891492af47efe211395421a?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Aug 04 |
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Director-Apprenticeship + Wkfc Solutions](https://jobright.ai/jobs/info/68917848f47efe211395593d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/689129a54c7e851b90acc9bf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -92,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[HR Intern](https://jobright.ai/jobs/info/688cf4e03a30793eb964774b?utm_campaign=1054&utm_source=git)** | Greenfield, IN | On Site | Aug 01 |
 | **[Esurgi, Inc.](https://myesurgi.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688cf31e3a30793eb964766b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Germantown Friends School](https://www.germantownfriends.org/)** | **[Human Resources Volunteer Intern Fall Spring 2025-26](https://jobright.ai/jobs/info/688cf0e027f9022553c07fca?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
-| **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688cd4283a30793eb9646726?utm_campaign=1054&utm_source=git)** | Troy, MI - USA | On Site | Aug 01 |
-| **[Tech Economy](https://techeconomy.net/)** | **[Connecting and Resourcing Empowered Women (CREW)](https://jobright.ai/jobs/info/688cfbc827f9022553c08431?utm_campaign=1054&utm_source=git)** | Atlanta Metro | On Site | Aug 01 |
-| **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Intern- MRS](https://jobright.ai/jobs/info/688cd0c81808534a89cbed6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 01 |
-| **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688cc8333a30793eb9646441?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
