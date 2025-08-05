@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/68925ff4f47efe211395bde3?utm_campaign=1054&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
+| **[Omnicell Specialty Pharmacy Services](http://receptrx.com/)** | **[Internship Talent Pipeline](https://jobright.ai/jobs/info/689256af4c7e851b90ad4b1d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68924459f5ee707a15dc4449?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Ending Alzheimer's](https://www.endingalzheimers.org/start)** | **[Intern (unpaid HR & Outreach roles)](https://jobright.ai/jobs/info/68923f82f47efe211395ac4a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
-| **[Omnicell](http://www.omnicell.com)** | **[Internship Talent Pipeline](https://jobright.ai/jobs/info/68923c82f5ee707a15dc3fbb?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68923925f5ee707a15dc3ecf?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Aug 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 05 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/685a627683b863ddccbf2ae5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891d445f47efe2113958e7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b82ef5ee707a15dc1c83?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
@@ -97,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Fall Intern - Talent Agency](https://jobright.ai/jobs/info/688d05db27f9022553c086ec?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/688cff831808534a89cc0304?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/688cf6b73a30793eb964782b?utm_campaign=1054&utm_source=git)** | San Francisco | On Site | Aug 01 |
-| **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[HR Intern](https://jobright.ai/jobs/info/688cf4e03a30793eb964774b?utm_campaign=1054&utm_source=git)** | Greenfield, IN | On Site | Aug 01 |
-| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/688cf31e3a30793eb964766b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
-| **[Germantown Friends School](https://www.germantownfriends.org/)** | **[Human Resources Volunteer Intern Fall Spring 2025-26](https://jobright.ai/jobs/info/688cf0e027f9022553c07fca?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
