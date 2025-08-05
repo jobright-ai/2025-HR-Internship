@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891d445f47efe2113958e7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b82ef5ee707a15dc1c83?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891ad3ef47efe2113958274?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ad22f5ee707a15dc16a7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Locus Fermentation Solutions](https://locusfs.com/)** | **[HR & Business Projects Intern](https://jobright.ai/jobs/info/6891285af47efe2113953336?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Aug 04 |
 | **[Precor](http://www.precor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689123054c7e851b90acc5ec?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Aug 04 |
 | **[Barnhart Crane & Rigging](https://www.barnhartcrane.com/)** | **[People Development Support Intern - 4242](https://jobright.ai/jobs/info/68911fd1f47efe2113952f7e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Aug 04 |
-| **[Paybility Financial](www.paybility.net)** | **[Fall Intern](https://jobright.ai/jobs/info/68911f414c7e851b90acc45b?utm_campaign=1054&utm_source=git)** | Roanoke, VA | Remote | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/68911c244c7e851b90acc2a4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[IT and Cybersecurity Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68911acdf47efe2113952c0f?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6891114ef47efe21139527a0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Bramante Artists](www.bramanteartists.com)** | **[Fall Intern](https://jobright.ai/jobs/info/6890d3704c7e851b90ac9ea7?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Aug 04 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Employment Specialist - Compensation and Student Hire Onboarding](https://jobright.ai/jobs/info/6891ab04f5ee707a15dc15a0?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 04 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[DoD SkillBridge Intern](https://jobright.ai/jobs/info/6890da1e4c7e851b90aca268?utm_campaign=1054&utm_source=git)** | Ladson, SC | On Site | Aug 04 |
+| **[Stand Together](https://standtogether.org/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e6bc8ce8d927129d239fb?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Aug 04 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68901b8d6a4aac5783cde3b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Locus Fermentation Solutions](https://locusfs.com/)** | **[HR & Business Projects Intern](https://jobright.ai/jobs/info/6891760bf47efe2113955874?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Aug 03 |
 | **[Arizona State University](http://www.asu.edu)** | **[Peace Corps Strategic Campus Recruiter/ Management Intern](https://jobright.ai/jobs/info/689023536a4aac5783cde965?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities, Diocese of Cleveland](https://www.ccdocle.org)** | **[Intern- MRS](https://jobright.ai/jobs/info/688cd0c81808534a89cbed6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 01 |
 | **[Pizza Hut](https://www.pizzahut.com/)** | **[Pizza Hut -Join Our Talent Pool!](https://jobright.ai/jobs/info/67ab168705c21060d4d2877d?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688cc8333a30793eb9646441?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Aug 01 |
-| **[Alignable](http://www.alignable.com)** | **[Future Consideration - Join the Alignable Talent Community!](https://jobright.ai/jobs/info/685c92e0405e076a68e992ea?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
