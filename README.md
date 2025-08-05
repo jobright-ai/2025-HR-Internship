@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891ad3ef47efe2113958274?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ce1af5ee707a15dc21e8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b82ef5ee707a15dc1c83?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891ad3ef47efe2113958274?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ad22f5ee707a15dc16a7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891aab6f47efe2113958176?utm_campaign=1054&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 04 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891aa854c7e851b90ad15f1?utm_campaign=1054&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 04 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/68911c244c7e851b90acc2a4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[IT and Cybersecurity Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68911acdf47efe2113952c0f?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6891114ef47efe21139527a0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/689135614c7e851b90acce82?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Life Help Disability Support](https://jobright.ai/jobs/info/689105d14c7e851b90acb530?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 04 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/688d486f1808534a89cc25e8?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Aug 01 |
 | **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d349a1808534a89cc1e19?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Pomona | On Site | Aug 01 |
 | ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d344a3a30793eb964972f?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Orange | On Site | Aug 01 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - Volunteer Recruiter](https://jobright.ai/jobs/info/688d2d8827f9022553c09c82?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern, People + Culture (HR) - InterContinental San Francisco](https://jobright.ai/jobs/info/688d2d7b1808534a89cc1a8f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c1d1808534a89cc197f?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Aug 01 |
 | **[Sun World International](http://sun-world.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c0927f9022553c09b93?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 01 |
