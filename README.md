@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOLT Group](https://holtgrp.com)** | **[Human Resources Intern- College](https://jobright.ai/jobs/info/68915cb6f47efe2113954a09?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 04 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources Intern - Santa Barbara, CA](https://jobright.ai/jobs/info/68915ae0f47efe2113954820?utm_campaign=1054&utm_source=git)** | California | Hybrid | Aug 04 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Catering & Operations Intern, Chartwells Higher Ed / University of Texas - Arlington](https://jobright.ai/jobs/info/689156cff5ee707a15dbdc02?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Aug 04 |
+| **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/6891558df5ee707a15dbdb80?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Aug 04 |
+| **[Metrolina Greenhouses INC](http://www.metrolinagreenhouses.com/our-story)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6891492af47efe211395421a?utm_campaign=1054&utm_source=git)** | Huntersville, NC | On Site | Aug 04 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/689129a54c7e851b90acc9bf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891295b4c7e851b90acc941?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
 | ↳ | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912929f47efe2113953427?utm_campaign=1054&utm_source=git)** | Champaign, IL | On Site | Aug 04 |
@@ -74,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Division of Emergency Management](https://www.tdem.texas.gov)** | **[Student Worker, Human Resources](https://jobright.ai/jobs/info/688fefd5cdbd821a366463a0?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[Top Concepts](https://www.topconcepts.us/)** | **[People Operations Intern](https://jobright.ai/jobs/info/688fda516a4aac5783cdddcb?utm_campaign=1054&utm_source=git)** | Pigeon Forge, TN | On Site | Aug 03 |
 | **[EVOXA IO](https://evoxa.io/)** | **[Talent Engagement Intern](https://jobright.ai/jobs/info/688fd1f06a4aac5783cddd21?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Year Up United](http://yearup.org)** | **[Financial Operations Job Training Opportunity](https://jobright.ai/jobs/info/6890b9244c7e851b90ac9039?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[KRAFZEN](https://krafzen.com/)** | **[Human Resources Intern [Unpaid]](https://jobright.ai/jobs/info/6890427c4c7e851b90ac555f?utm_campaign=1054&utm_source=git)** | Casper, WY | Remote | Aug 02 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Outreach and Student Recruitment - Federal Work Study Student Assistant](https://jobright.ai/jobs/info/688e8ac86a4aac5783cd9777?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
 | ↳ | **[Employer Relations Coordinator (Student Services Professional III), Career Center](https://jobright.ai/jobs/info/688e8ac3cdbd821a36641b21?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | On Site | Aug 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Human Resources Summer 2026 Associate](https://jobright.ai/jobs/info/688c5f073a30793eb9642c69?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Jul 31 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern (Credit Only)](https://jobright.ai/jobs/info/688c500d906ac06e1d1d309a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Jul 31 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/688da0ad6a4aac5783cd4f65?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[General Dynamics NASSCO](http://www.nassco.com/)** | **[Security Support Specialist- DOD Skillbridge Internship Applicants Only](https://jobright.ai/jobs/info/688c39c51808534a89cb987e?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Jul 31 |
-| **[YMCA of the Iowa Mississippi Valley](https://www.ymcaimv.org)** | **[Internship - Human Resources, Spring 2026](https://jobright.ai/jobs/info/688da2c2e5cead4afd458790?utm_campaign=1054&utm_source=git)** | Davenport, IA | Hybrid | Jul 31 |
-| **[Caddell Construction](http://caddell.com)** | **[Intern Program & Outreach Manager](https://jobright.ai/jobs/info/688c2d1e3a30793eb96408ea?utm_campaign=1054&utm_source=git)** | Montgomery, AL | On Site | Jul 31 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern: Floating](https://jobright.ai/jobs/info/688c280b3a30793eb9640609?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
