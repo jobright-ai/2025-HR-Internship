@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L'Oréal](https://www.loreal.com)** | **[12 Month Intern - Supply Chain](https://jobright.ai/jobs/info/6891825df5ee707a15dbf341?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891793bf47efe21139559b0?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Aug 04 |
 | ↳ | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68917124f47efe21139553df?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 | ↳ | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916fc94c7e851b90ace854?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Aug 01 |
+| **[Komatsu](http://www.ehrbar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689199b2f5ee707a15dc044c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
 | **[MantraCare](https://mantracare.org/)** | **[Job Freelance Psychologist - Hotline – Europe (Remote)](https://jobright.ai/jobs/info/688dc5226a4aac5783cd7391?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Aug 01 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - General and Administrative](https://jobright.ai/jobs/info/68909a02f5ee707a15db7edc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta History Center](https://www.atlantahistorycenter.com/)** | **[Manager of Volunteer and Intern Services (full-time)](https://jobright.ai/jobs/info/688cb3b83a30793eb9645de9?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/682df49df64dc207fd7226d5?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Aug 01 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[HR Internship - Summer 2026](https://jobright.ai/jobs/info/688ca64727f9022553c061f7?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Aug 01 |
-| **[Cedar](http://www.cedar.com)** | **[Join Cedar's Talent Community!](https://jobright.ai/jobs/info/68378ac5fec8af0ffdbaf86c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 01 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e0c?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
