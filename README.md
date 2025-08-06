@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AvantStay](http://avantstay.com)** | **[People & Talent Internship](https://jobright.ai/jobs/info/6893b09ca9199876488df551?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 06 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6893afaf4c7e851b90adf8b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Insurance Intern - Employee Benefits & Workforce Solutions](https://jobright.ai/jobs/info/6893aebd4c7e851b90adf83b?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 06 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Fall 2025](https://jobright.ai/jobs/info/6893a9ab4c7e851b90adf4c8?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Aug 06 |
+| **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893a6be4c7e851b90adf25a?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 06 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/6893a457f47efe21139658c0?utm_campaign=1054&utm_source=git)** | Eden Prairie,  MN | On Site | Aug 06 |
 | **[Centerstone](https://centerstone.org/)** | **[Research & Evaluation Intern](https://jobright.ai/jobs/info/689395244c7e851b90ade8bc?utm_campaign=1054&utm_source=git)** | Nashville, Tennessee | Remote | Aug 06 |
 | **[Clark Capital Management Group](http://ccmg.com)** | **[2026 Clark Capital Mentoring/Internship Program](https://jobright.ai/jobs/info/68938d9d4c7e851b90ade4a0?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[VF Corporation](http://www.vfc.com)** | **[Recruiter Intern UK](https://jobright.ai/jobs/info/68937692f47efe2113964485?utm_campaign=1054&utm_source=git)** | EMEA > GBR > Bardon > Bardon DC | On Site | Aug 06 |
@@ -73,7 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6892a748f47efe211395e0fe?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 05 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Talent Acquisition Analyst](https://jobright.ai/jobs/info/6892a604f5ee707a15dc7416?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - HR Intern - Talent Acquisition Team](https://jobright.ai/jobs/info/6892a5614c7e851b90ad74bb?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
+| **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893ad62f47efe2113966011?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 05 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York | On Site | Aug 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68928afd4c7e851b90ad6a8f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892859df5ee707a15dc6621?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/6892e3154c7e851b90ad9cd5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68927a3bf47efe211395cafd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 05 |
@@ -82,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892814cf47efe211395d05c?utm_campaign=1054&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/68925ff4f47efe211395bde3?utm_campaign=1054&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6892d9aff47efe211395ff09?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68924459f5ee707a15dc4449?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/6892e0744c7e851b90ad9b4a?utm_campaign=1054&utm_source=git)** | Maitland, FL | Hybrid | Aug 05 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68923925f5ee707a15dc3ecf?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Aug 05 |
@@ -128,7 +135,8 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Fall Internship 2025 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/6887d97a73e3e13cbd9408f8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
 | **[Metalsa](https://www.kiswelusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6890e23bf47efe211395113c?utm_campaign=1054&utm_source=git)** | Hopkinsville, KY | On Site | Aug 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Project Rescue ' Project Rescue Intern (Bridgeport office only)](https://jobright.ai/jobs/info/688cfcae3a30793eb9647b20?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
-| **[Eva's Village](https://www.evasvillage.org/)** | **[Exciting Masters Level Internship Opportunity](https://jobright.ai/jobs/info/6870209301cc0956e7e7f787?utm_campaign=1054&utm_source=git)** | Paterson, NJ | On Site | Aug 02 |
-| **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 02 |
-| **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/688dc189cdbd821a3663f171?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| **[Legends](http://legends.net)** | **[Intern, Hospitality](https://jobright.ai/jobs/info/6853eb96963664268c62bf91?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Aug 01 |
-| **[Komatsu](http://www.ehrbar.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689199b2f5ee707a15dc044c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 01 |
-| **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - General and Administrative](https://jobright.ai/jobs/info/68909a02f5ee707a15db7edc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
