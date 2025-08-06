@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad – Fall 2025, Winter 2026, Summer 2026, and Fall 2026 Start](https://jobright.ai/jobs/info/68935302f47efe21139639f7?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Aug 06 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6893390ff47efe2113963359?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Aug 06 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/68931f80f47efe2113962f8d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Internship](https://jobright.ai/jobs/info/689097984c7e851b90ac7af3?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Carolina Complete Health Network, Inc.](https://network.carolinacompletehealth.com/)** | **[Join Our Talent Network!](https://jobright.ai/jobs/info/68549bdbfb806acc3f123f46?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/688e0179cdbd821a36640429?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 02 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Project Rescue ' Project Rescue Intern (Bridgeport office only)](https://jobright.ai/jobs/info/688cfcae3a30793eb9647b20?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Aug 02 |
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688ddf07cdbd821a36640007?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
 | **[Eva's Village](https://www.evasvillage.org/)** | **[Exciting Masters Level Internship Opportunity](https://jobright.ai/jobs/info/6870209301cc0956e7e7f787?utm_campaign=1054&utm_source=git)** | Paterson, NJ | On Site | Aug 02 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Internship in People Development (HR), Crisis Management, and Special Project Management](https://jobright.ai/jobs/info/688dd540cdbd821a3663fe49?utm_campaign=1054&utm_source=git)** | Uniondale, NY | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688edcda6a4aac5783cda723?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 01 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6892cf93f47efe211395f4c3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Workforce Development Field Placement Intern](https://jobright.ai/jobs/info/688d73eb3a30793eb964afaa?utm_campaign=1054&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
-| **[Kerr Dental](https://www.kavokerr.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d6a401808534a89cc32ab?utm_campaign=1054&utm_source=git)** | Pomona, CA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
