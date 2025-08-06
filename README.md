@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/68931f80f47efe2113962f8d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 06 |
 | **[Evoxa Soar](https://www.linkedin.com/company/107799631)** | **[Recruiter Intern](https://jobright.ai/jobs/info/6893033ef5ee707a15dcb933?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 06 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/6892ef514c7e851b90ada72d?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6892cbaef47efe211395f29b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
@@ -69,11 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68928afd4c7e851b90ad6a8f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892859df5ee707a15dc6621?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/6892e3154c7e851b90ad9cd5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68927d41f47efe211395cdec?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68927a3bf47efe211395cafd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 05 |
 | **[State of South Carolina](https://sc.gov/)** | **[Probation & Parole LEO I #15-2025 ***INTERNAL APPLICANTS ONLY***](https://jobright.ai/jobs/info/6892ddf34c7e851b90ad9983?utm_campaign=1054&utm_source=git)** | Charleston County, SC | On Site | Aug 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern](https://jobright.ai/jobs/info/6892709f4c7e851b90ad5ce2?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 05 |
-| **[Flexware Innovation](http://www.flexwareinnovation.com/)** | **[2026 Trailblazer Summer Internship Program](https://jobright.ai/jobs/info/6892f8944c7e851b90adae71?utm_campaign=1054&utm_source=git)** | Fishers, IN | On Site | Aug 05 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892814cf47efe211395d05c?utm_campaign=1054&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/68925ff4f47efe211395bde3?utm_campaign=1054&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6892d9aff47efe211395ff09?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
@@ -89,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ad22f5ee707a15dc16a7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891aab6f47efe2113958176?utm_campaign=1054&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 04 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/6891aa854c7e851b90ad15f1?utm_campaign=1054&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 04 |
+| ↳ | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/68930afbf47efe211396292d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[City of Claremont](https://ci.claremont.ca.us/)** | **[Administrative Intern (Human Resources)](https://jobright.ai/jobs/info/689306054c7e851b90adb960?utm_campaign=1054&utm_source=git)** | Claremont, CA | On Site | Aug 04 |
 | **[L'Oréal](https://www.loreal.com)** | **[12 Month Intern - Supply Chain](https://jobright.ai/jobs/info/6891825df5ee707a15dbf341?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891793bf47efe21139559b0?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Aug 04 |
@@ -120,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
 | **[Metalsa](https://www.kiswelusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6890e23bf47efe211395113c?utm_campaign=1054&utm_source=git)** | Hopkinsville, KY | On Site | Aug 04 |
