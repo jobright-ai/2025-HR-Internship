@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6892a748f47efe211395e0fe?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 05 |
+| **[Emerging Tech](https://emergingtech.co)** | **[Talent Acquisition Analyst](https://jobright.ai/jobs/info/6892a604f5ee707a15dc7416?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - HR Intern - Talent Acquisition Team](https://jobright.ai/jobs/info/6892a5614c7e851b90ad74bb?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York | On Site | Aug 05 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68928afd4c7e851b90ad6a8f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892859df5ee707a15dc6621?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
-| **[Flexware Innovation](http://www.flexwareinnovation.com/)** | **[2026 Trailblazer Summer Internship Program](https://jobright.ai/jobs/info/689284814c7e851b90ad66f3?utm_campaign=1054&utm_source=git)** | Fishers, IN | On Site | Aug 05 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68927d41f47efe211395cdec?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68927a3bf47efe211395cafd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern](https://jobright.ai/jobs/info/6892709f4c7e851b90ad5ce2?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 05 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892814cf47efe211395d05c?utm_campaign=1054&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/68925ff4f47efe211395bde3?utm_campaign=1054&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68924459f5ee707a15dc4449?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68923925f5ee707a15dc3ecf?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6875bb6dae2f413e4a5a96e8?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Aug 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c1d1808534a89cc197f?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Aug 01 |
 | **[Sun World International](http://sun-world.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c0927f9022553c09b93?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 01 |
 | **[The Vincit Group](http://vincitgroup.com)** | **[Inspired Performance Team (HR) Intern](https://jobright.ai/jobs/info/688d29313a30793eb9648eaf?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Aug 01 |
-| **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Aug 01 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Recruiting/HR Coordinator)](https://jobright.ai/jobs/info/6883df7fb54cac0f1e73a7dd?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
