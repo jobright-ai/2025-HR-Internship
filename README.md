@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6892cbaef47efe211395f29b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6892b898f47efe211395e793?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 05 |
+| **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Industry Navigator - Clean Technology, Energy, and Natural Resources](https://jobright.ai/jobs/info/6892b6d74c7e851b90ad7c2e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 05 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6892a748f47efe211395e0fe?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 05 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Talent Acquisition Analyst](https://jobright.ai/jobs/info/6892a604f5ee707a15dc7416?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - HR Intern - Talent Acquisition Team](https://jobright.ai/jobs/info/6892a5614c7e851b90ad74bb?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68927d41f47efe211395cdec?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68927a3bf47efe211395cafd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern](https://jobright.ai/jobs/info/6892709f4c7e851b90ad5ce2?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 05 |
+| **[Flexware Innovation](http://www.flexwareinnovation.com/)** | **[2026 Trailblazer Summer Internship Program](https://jobright.ai/jobs/info/6892cee84c7e851b90ad8e07?utm_campaign=1054&utm_source=git)** | Fishers, IN | On Site | Aug 05 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6892814cf47efe211395d05c?utm_campaign=1054&utm_source=git)** | Middletown, NY | On Site | Aug 05 |
 | **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/68925ff4f47efe211395bde3?utm_campaign=1054&utm_source=git)** | Atlanta-GA-US | On Site | Aug 05 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68923925f5ee707a15dc3ecf?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 05 |
@@ -107,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/689102bd4c7e851b90acb27b?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Aug 04 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/6891006d4c7e851b90acb19a?utm_campaign=1054&utm_source=git)** | Connecticut, United States | Remote | Aug 04 |
 | **[University of South Florida](http://www.usf.edu)** | **[Athletics Assistant- On Campus Recruiting Intern](https://jobright.ai/jobs/info/6890fb97f5ee707a15dbb1c3?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 04 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f0f9f5ee707a15dbad97?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - Roc Nation Sports (Basketball)](https://jobright.ai/jobs/info/6890f003f5ee707a15dbac67?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Aug 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Talent Relations Intern: ATL - Fall 2025](https://jobright.ai/jobs/info/6890e4fbf5ee707a15dba87d?utm_campaign=1054&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Aug 04 |
 | **[Evoxa Sync](https://www.linkedin.com/company/107033981)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6890e414f5ee707a15dba76d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 04 |
 | **[City of Lakewood](https://www.lakewood.org/)** | **[Variable Human Resources Intern](https://jobright.ai/jobs/info/6890e3d4f5ee707a15dba713?utm_campaign=1054&utm_source=git)** | Lakewood, CO | On Site | Aug 04 |
@@ -140,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Clerkie](https://clerkie.io)** | **[People Ops Intern](https://jobright.ai/jobs/info/688d85d2e5cead4afd456595?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Aptiv](http://www.aptiv.com)** | **[Corporate HR Apprentice](https://jobright.ai/jobs/info/688edcda6a4aac5783cda723?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 01 |
 | **[Washington Commanders](http://www.commanders.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/688d8015cdbd821a3663aa55?utm_campaign=1054&utm_source=git)** | Riverdale, MD | On Site | Aug 01 |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6892cf93f47efe211395f4c3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Greater Philadelphia YMCA](https://philaymca.org/)** | **[Workforce Development Field Placement Intern](https://jobright.ai/jobs/info/688d73eb3a30793eb964afaa?utm_campaign=1054&utm_source=git)** | Association Office, Conshohocken, Pennsylvania, United States of America | Hybrid | Aug 01 |
 | **[Kerr Dental](https://www.kavokerr.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d6a401808534a89cc32ab?utm_campaign=1054&utm_source=git)** | Pomona, CA | On Site | Aug 01 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Program Assistant Apprenticeship - One Irvine Workforce](https://jobright.ai/jobs/info/688e7445e5cead4afd45cc43?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Porte Brown LLC](https://www.portebrown.com)** | **[Porte Brown - Recruiting Event (Summer 2025)](https://jobright.ai/jobs/info/688d78a1cdbd821a3663a597?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Aug 01 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Human Resources Specialist](https://jobright.ai/jobs/info/688d486f1808534a89cc25e8?utm_campaign=1054&utm_source=git)** | Athens, GA | On Site | Aug 01 |
 | **[Envista Holdings Corporation](http://www.envistaco.com/)** | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d349a1808534a89cc1e19?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Pomona | On Site | Aug 01 |
-| ↳ | **[HR Intern - Operations](https://jobright.ai/jobs/info/688d344a3a30793eb964972f?utm_campaign=1054&utm_source=git)** | United States of America,  California,  Orange | On Site | Aug 01 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern, People + Culture (HR) - InterContinental San Francisco](https://jobright.ai/jobs/info/688d2d7b1808534a89cc1a8f?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 01 |
-| **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c1d1808534a89cc197f?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Aug 01 |
-| **[Sun World International](http://sun-world.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688d2c0927f9022553c09b93?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 01 |
-| **[The Vincit Group](http://vincitgroup.com)** | **[Inspired Performance Team (HR) Intern](https://jobright.ai/jobs/info/688d29313a30793eb9648eaf?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
