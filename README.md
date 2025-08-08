@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO Construction Inc](http://www.arcoroof.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6895c5524ed2ea559ca5943c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/6895c34b4ed2ea559ca59409?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 08 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/6895af264ed2ea559ca58cbc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 08 |
 | **[DNI (Delaware Nation Industries)](https://dnigov.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6895827b73b3a600fe888300?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 07 |
 | **[Interlinked](https://interlynked.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68955eb973b3a600fe886f10?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/689558d58c6d6b44267791a4?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
@@ -95,9 +98,9 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Carroll College](http://www.carroll.edu/)** | **[Student Employment - Sodexo](https://jobright.ai/jobs/info/689476514ed2ea559ca4de1c?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 07 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Associate](https://jobright.ai/jobs/info/689475c08c6d6b4426771d7c?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Aug 07 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/689463048c6d6b4426771629?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 07 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/689450e2a9199876488e4c18?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Aug 07 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Office & Event Internship](https://jobright.ai/jobs/info/6894375e4c7e851b90ae408e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Spring 2026](https://jobright.ai/jobs/info/689430c3f47efe211396a29a?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Aug 06 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/68942d36a9199876488e339f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Evoxa Ignite](https://www.linkedin.com/company/107102468)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68941f2cf47efe211396998d?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[HR Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68941045f47efe2113969085?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 06 |
 | **[HL-GA Battery Company LLC](https://hlgabattery.com/)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/689575f173b3a600fe887b67?utm_campaign=1054&utm_source=git)** | Ellabell, GA | On Site | Aug 06 |
@@ -155,7 +158,4 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - HR Intern - Talent Acquisition Team](https://jobright.ai/jobs/info/6892a5614c7e851b90ad74bb?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
 | **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893ad62f47efe2113966011?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 05 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York | On Site | Aug 05 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68928afd4c7e851b90ad6a8f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[HD Supply](http://hdsupply.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/6892e3154c7e851b90ad9cd5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
-| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68927a3bf47efe211395cafd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
