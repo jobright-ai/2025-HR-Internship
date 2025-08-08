@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soven Developer ](https://sovendeveloper.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689607bd8c6d6b442677e71f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Aug 08 |
 | ↳ | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 08 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689606208c6d6b442677e5a5?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 08 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2dcb?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
 | **[ARCO Construction Inc](http://www.arcoroof.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6895c5524ed2ea559ca5943c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/6895c34b4ed2ea559ca59409?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 08 |
@@ -83,7 +85,6 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Hope for New York](https://www.hfny.org/)** | **[Programs Intern](https://jobright.ai/jobs/info/689517ce4ed2ea559ca53676?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689514ef73b3a600fe884fe9?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Aug 07 |
 | **[Evers & Sons Inc.](https://eversandsons.com/)** | **[HR Internship](https://jobright.ai/jobs/info/689514128c6d6b44267773a9?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Aug 07 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/68950c8c8c6d6b4426776dfc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6895038573b3a600fe884565?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | **[Cardiovascular Institute of the South](http://cardio.com)** | **[Electronic Filing Intern (Temporary)](https://jobright.ai/jobs/info/6894ff428c6d6b4426776621?utm_campaign=1054&utm_source=git)** | Houma, LA | On Site | Aug 07 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) Human Resources](https://jobright.ai/jobs/info/688dc58a6a4aac5783cd74c2?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 07 |
@@ -103,9 +104,9 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Carroll College](http://www.carroll.edu/)** | **[Student Employment - Sodexo](https://jobright.ai/jobs/info/689476514ed2ea559ca4de1c?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 07 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Associate](https://jobright.ai/jobs/info/689475c08c6d6b4426771d7c?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Aug 07 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/689463048c6d6b4426771629?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 07 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/689450e2a9199876488e4c18?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Aug 07 |
 | **[S.A.F.E. Management](http://www.safemanagement.net)** | **[Office & Event Internship](https://jobright.ai/jobs/info/6894375e4c7e851b90ae408e?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Spring 2026](https://jobright.ai/jobs/info/689430c3f47efe211396a29a?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Aug 06 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Human Resources Internship Summer 2026](https://jobright.ai/jobs/info/68942d36a9199876488e339f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Evoxa Ignite](https://www.linkedin.com/company/107102468)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68941f2cf47efe211396998d?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[HR Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68941045f47efe2113969085?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 06 |
 | **[HL-GA Battery Company LLC](https://hlgabattery.com/)** | **[Human Resources Intern (Part-time)](https://jobright.ai/jobs/info/689575f173b3a600fe887b67?utm_campaign=1054&utm_source=git)** | Ellabell, GA | On Site | Aug 06 |
@@ -126,7 +127,7 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68943fb8f47efe211396ae57?utm_campaign=1054&utm_source=git)** | Manheim, PA | On Site | Aug 06 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6893b269a9199876488df671?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 06 |
 | **[AvantStay](http://avantstay.com)** | **[People & Talent Internship](https://jobright.ai/jobs/info/6893b09ca9199876488df551?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 06 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6893af704c7e851b90adf899?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6893afaf4c7e851b90adf8b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Insurance Intern - Employee Benefits & Workforce Solutions](https://jobright.ai/jobs/info/6893aebd4c7e851b90adf83b?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 06 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Fall 2025](https://jobright.ai/jobs/info/6893a9ab4c7e851b90adf4c8?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Aug 06 |
 | **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893a6be4c7e851b90adf25a?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 06 |
@@ -147,6 +148,7 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Idaho)](https://jobright.ai/jobs/info/68254f28e46cdad6a4b1fddc?utm_campaign=1054&utm_source=git)** | Kimberly, ID | On Site | Aug 06 |
 | **[Shennon Biotechnologies](https://www.shennonbio.com/)** | **[Join our Talent Pool!](https://jobright.ai/jobs/info/67882e7d32f192eebe7bbf36?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 06 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Multiple Locations – Career Opportunities for Indigenous Peoples – Intern/Co-op/New Grad – Fall 2025, Winter 2026, Summer 2026, and Fall 2026 Start](https://jobright.ai/jobs/info/68935302f47efe21139639f7?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Aug 06 |
+| **[Adelphoi USA](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/688bfe363a30793eb963f2ff?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Aug 06 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6893390ff47efe2113963359?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Aug 06 |
 | **[Family Service of Rhode Island](https://www.familyserviceri.org/)** | **[Intern](https://jobright.ai/jobs/info/6894955b73b3a600fe8806c0?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Aug 06 |
@@ -156,6 +158,4 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[City of Altamonte Springs](https://www.altamonte.org)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68956de34ed2ea559ca55ae9?utm_campaign=1054&utm_source=git)** | Altamonte Springs, FL | On Site | Aug 05 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6892b898f47efe211395e793?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 05 |
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Industry Navigator - Clean Technology, Energy, and Natural Resources](https://jobright.ai/jobs/info/6892b6d74c7e851b90ad7c2e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 05 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6892a748f47efe211395e0fe?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 05 |
-| **[Emerging Tech](https://emergingtech.co)** | **[Talent Acquisition Analyst](https://jobright.ai/jobs/info/6892a604f5ee707a15dc7416?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
