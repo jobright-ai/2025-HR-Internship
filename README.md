@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Aug 08 |
+| ↳ | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 08 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2dcb?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
 | **[ARCO Construction Inc](http://www.arcoroof.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6895c5524ed2ea559ca5943c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/6895c34b4ed2ea559ca59409?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 08 |
@@ -80,7 +82,7 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Director of Human Resources FT – 6375](https://jobright.ai/jobs/info/689519ff8c6d6b4426777658?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Aug 07 |
 | **[Hope for New York](https://www.hfny.org/)** | **[Programs Intern](https://jobright.ai/jobs/info/689517ce4ed2ea559ca53676?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689514ef73b3a600fe884fe9?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Aug 07 |
-| **[Evers and Sons Inc.](https://eversandsons.com/)** | **[HR Internship](https://jobright.ai/jobs/info/689514128c6d6b44267773a9?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Aug 07 |
+| **[Evers & Sons Inc.](https://eversandsons.com/)** | **[HR Internship](https://jobright.ai/jobs/info/689514128c6d6b44267773a9?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/68950c8c8c6d6b4426776dfc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6895038573b3a600fe884565?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | **[Cardiovascular Institute of the South](http://cardio.com)** | **[Electronic Filing Intern (Temporary)](https://jobright.ai/jobs/info/6894ff428c6d6b4426776621?utm_campaign=1054&utm_source=git)** | Houma, LA | On Site | Aug 07 |
@@ -97,6 +99,7 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Benefits Administration Internship](https://jobright.ai/jobs/info/68949f6a8c6d6b4426772efc?utm_campaign=1054&utm_source=git)** | USA PA Clarks Summit | On Site | Aug 07 |
 | **[Third Street Family Health Services](https://thirdstreetfamily.org/)** | **[Administrative Intern – FQHC (HR, IT, Marketing, Billing, HIM, or Finance)](https://jobright.ai/jobs/info/689594c28c6d6b442677b229?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Aug 07 |
 | **[Amphenol RF](http://www.amphenolrf.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6894823573b3a600fe87fc97?utm_campaign=1054&utm_source=git)** | Danbury, CT | On Site | Aug 07 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6893b533f47efe2113966417?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 07 |
 | **[Carroll College](http://www.carroll.edu/)** | **[Student Employment - Sodexo](https://jobright.ai/jobs/info/689476514ed2ea559ca4de1c?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 07 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Program/Project Associate](https://jobright.ai/jobs/info/689475c08c6d6b4426771d7c?utm_campaign=1054&utm_source=git)** | Manhattan, KS | On Site | Aug 07 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/689463048c6d6b4426771629?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 07 |
@@ -147,7 +150,6 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[The Haskell Company](http://www.haskell.com)** | **[Workforce / University Relations Intern (Fall 2025)](https://jobright.ai/jobs/info/685a50feb61b97102caf06ed?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6893390ff47efe2113963359?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Aug 06 |
 | **[Family Service of Rhode Island](https://www.familyserviceri.org/)** | **[Intern](https://jobright.ai/jobs/info/6894955b73b3a600fe8806c0?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Aug 06 |
-| **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68958e008c6d6b442677ae37?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[BOAB Ventures](https://www.linkedin.com/company/100573727)** | **[Intern with Security Clearance](https://jobright.ai/jobs/info/6894a3558c6d6b4426773225?utm_campaign=1054&utm_source=git)** | Reston, VA | On Site | Aug 05 |
 | **[Lawley](http://www.lawleyinsurance.com/)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/6894365d4c7e851b90ae3ffa?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6892cbaef47efe211395f29b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 05 |
@@ -156,6 +158,4 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Metropolitan State University of Denver](http://www.msudenver.edu)** | **[Industry Navigator - Clean Technology, Energy, and Natural Resources](https://jobright.ai/jobs/info/6892b6d74c7e851b90ad7c2e?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 05 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/6892a748f47efe211395e0fe?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 05 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Talent Acquisition Analyst](https://jobright.ai/jobs/info/6892a604f5ee707a15dc7416?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 05 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - HR Intern - Talent Acquisition Team](https://jobright.ai/jobs/info/6892a5614c7e851b90ad74bb?utm_campaign=1054&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Aug 05 |
-| **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893ad62f47efe2113966011?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
