@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/67535a42efb161a8b9a13a87?utm_campaign=1054&utm_source=git)** | Hurricane, WV | On Site | Jul 14 |
 | **[Uniqonix IT Solutions](www.uniqonixitsolutions.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/681e634c058dd3086493878c?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Jul 13 |
 | **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Jul 12 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Utah)](https://jobright.ai/jobs/info/682d5deea7e5965985a8c1de?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
