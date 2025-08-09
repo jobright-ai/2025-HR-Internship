@@ -96,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[General Mills](http://www.generalmills.com)** | **[Internship, Human Resources Business Associate](https://jobright.ai/jobs/info/68953a908c6d6b442677834f?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
 | **[S&T Bank](https://www.stbank.com/)** | **[HRIS Workday Intern](https://jobright.ai/jobs/info/68952fbe73b3a600fe8859f8?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | Aug 07 |
 | **[Tower Semiconductor](https://towersemi.com)** | **[HR Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6874686bae2f413e4a59c270?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | On Site | Aug 07 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Resource Mobilization and Outreach Intern
-Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Aug 07 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Director of Human Resources FT – 6375](https://jobright.ai/jobs/info/689519ff8c6d6b4426777658?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Aug 07 |
 | **[Hope for New York](https://www.hfny.org/)** | **[Programs Intern](https://jobright.ai/jobs/info/689517ce4ed2ea559ca53676?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[Evers & Sons Inc.](https://eversandsons.com/)** | **[HR Internship](https://jobright.ai/jobs/info/689514128c6d6b44267773a9?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Aug 07 |
@@ -141,7 +139,7 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68943fb8f47efe211396ae57?utm_campaign=1054&utm_source=git)** | Manheim, PA | On Site | Aug 06 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6893b269a9199876488df671?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 06 |
 | **[AvantStay](http://avantstay.com)** | **[People & Talent Internship](https://jobright.ai/jobs/info/6893b09ca9199876488df551?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 06 |
-| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6893af704c7e851b90adf899?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6893afaf4c7e851b90adf8b3?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[TrueNorth Companies, L.C.](https://truenorthcompanies.com/)** | **[Insurance Intern - Employee Benefits & Workforce Solutions](https://jobright.ai/jobs/info/6893aebd4c7e851b90adf83b?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 06 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Human Resources & Talent Acquisition Intern, Fall 2025](https://jobright.ai/jobs/info/6893a9ab4c7e851b90adf4c8?utm_campaign=1054&utm_source=git)** | Remote - United States | Remote | Aug 06 |
 | **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6893a6be4c7e851b90adf25a?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Aug 06 |
@@ -158,4 +156,5 @@ Job ID : 262199](https://jobright.ai/jobs/info/68951a318c6d6b442677766b?utm_camp
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8f1?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Aug 06 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Greenville, TX)](https://jobright.ai/jobs/info/6876d3d75cebcd1dd51ccc5e?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Aug 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR](https://jobright.ai/jobs/info/6859dee3e3c39f96592da72e?utm_campaign=1054&utm_source=git)** | Richmond, CA | On Site | Aug 06 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Rockwall, TX) 1](https://jobright.ai/jobs/info/6876c482299cbc74b8760699?utm_campaign=1054&utm_source=git)** | Greenville, TX | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
