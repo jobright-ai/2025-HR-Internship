@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Engineering Immortality](https://engineeringimmortality.com)** | **[Research Assistant](https://jobright.ai/jobs/info/6898f78d5574fd6bc0c7adf4?utm_campaign=1054&utm_source=git)** | Cambridge, MA | Hybrid | Aug 10 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/6898ecff83d13d1f5b691209?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Intern/volunteer position - Volunteer Recruiter - Outreach](https://jobright.ai/jobs/info/6898d6a683d13d1f5b690ecd?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6898d15283d13d1f5b690e68?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wells Fargo Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6850d84a2a14ba8ace49412a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689807d28c6d6b4426794a5a?utm_campaign=1054&utm_source=git)** | Osceola, WI | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980b0b73b3a600fe8a20dd?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980c328c6d6b4426794ca0?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897cdcf1b9e81727f1a1402?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897c4ac73b3a600fe89f493?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897cdcf1b9e81727f1a1402?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6898370683d13d1f5b68bf47?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Aug 09 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 09 |
@@ -80,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68980aa473b3a600fe8a20a1?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Aug 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 08 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897afd88c6d6b4426790700?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA, USA | On Site | Aug 08 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897a5828c6d6b442678f68f?utm_campaign=1054&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897605173b3a600fe897f50?utm_campaign=1054&utm_source=git)** | Osceola, WI, USA | On Site | Aug 08 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897a5828c6d6b442678f68f?utm_campaign=1054&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897b0d08c6d6b4426790931?utm_campaign=1054&utm_source=git)** | Medina, MN, USA | On Site | Aug 08 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897605173b3a600fe897f4f?utm_campaign=1054&utm_source=git)** | Wyoming, MN, USA | On Site | Aug 08 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897b0d08c6d6b4426790931?utm_campaign=1054&utm_source=git)** | Medina, MN, USA | On Site | Aug 08 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897afd88c6d6b4426790700?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA, USA | On Site | Aug 08 |
 | **[PNC](http://www.pnc.com)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68975e2a8c6d6b442678a4ba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
 | **[Rivier University](https://linktr.ee/rivieruniversity)** | **[Graduate Assistant](https://jobright.ai/jobs/info/68975e1773b3a600fe897cba?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Aug 08 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Join Our Talent Network](https://jobright.ai/jobs/info/68984752faa4e875e824cd27?utm_campaign=1054&utm_source=git)** | Rye Brook, NY | On Site | Aug 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685ac39ea9e0d152e7eeccf3?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Aug 07 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - General and Administrative](https://jobright.ai/jobs/info/68909a02f5ee707a15db7edc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e440?utm_campaign=1054&utm_source=git)** | Rio Rancho, NM | On Site | Aug 07 |
-| **[Baker Tilly](https://www.bakertilly.global/)** | **[Benefits Administration Internship](https://jobright.ai/jobs/info/68949f6a8c6d6b4426772efc?utm_campaign=1054&utm_source=git)** | USA PA Clarks Summit | On Site | Aug 07 |
-| **[Third Street Family Health Services](https://thirdstreetfamily.org/)** | **[Administrative Intern – FQHC (HR, IT, Marketing, Billing, HIM, or Finance)](https://jobright.ai/jobs/info/689771828c6d6b442678bbad?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
