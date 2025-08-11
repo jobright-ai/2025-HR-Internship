@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Honors Office Clerk](https://jobright.ai/jobs/info/6899c9435574fd6bc0c7e044?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
+| **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Admissions Associate](https://jobright.ai/jobs/info/6899bf2a5574fd6bc0c7de6b?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Aug 11 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6899b64b83d13d1f5b694246?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b34bfaa4e875e8253df1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a28b5574fd6bc0c7db88?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980c328c6d6b4426794ca0?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897cdcf1b9e81727f1a1402?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897c4ac73b3a600fe89f493?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6898370683d13d1f5b68bf47?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Aug 09 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 09 |
 | **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Aug 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Aug 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tower Semiconductor](https://towersemi.com)** | **[HR Learning & Organizational Development Intern](https://jobright.ai/jobs/info/6874686bae2f413e4a59c270?utm_campaign=1054&utm_source=git)** | Newport Beach, CA | On Site | Aug 07 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Director of Human Resources FT – 6375](https://jobright.ai/jobs/info/689519ff8c6d6b4426777658?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Aug 07 |
 | **[Hope for New York](https://www.hfny.org/)** | **[Programs Intern](https://jobright.ai/jobs/info/689517ce4ed2ea559ca53676?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
-| **[Evers & Sons Inc.](https://eversandsons.com/)** | **[HR Internship](https://jobright.ai/jobs/info/689514128c6d6b44267773a9?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Aug 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6895038573b3a600fe884565?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
