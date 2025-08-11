@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689a516ffaa4e875e8257ee5?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Aug 11 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/689a4fcbfaa4e875e8257d78?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/689a4b5583d13d1f5b697ced?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Aug 11 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Destination Experience](https://jobright.ai/jobs/info/689a44cbfaa4e875e82574eb?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Aug 11 |
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a440d83d13d1f5b6977bb?utm_campaign=1054&utm_source=git)** | Boston, MA or Remote - US | Remote | Aug 11 |
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689a4406faa4e875e8257418?utm_campaign=1054&utm_source=git)** | Shodair Children's Hospital | On Site | Aug 11 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/6897d9ff1b9e81727f1a1e2c?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 09 |
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a96e02097a271a897fdc1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oklahoma)](https://jobright.ai/jobs/info/682032e4f9c123e6ef7980aa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 09 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 09 |
 | **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Aug 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Aug 09 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[University Internship Recruiter](https://jobright.ai/jobs/info/68973e8873b3a600fe8956e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h (Henderson)](https://jobright.ai/jobs/info/68983849faa4e875e824c11b?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec210318026f5d538b2fcf?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Aug 08 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Director Talent Operations](https://jobright.ai/jobs/info/689865ee83d13d1f5b68ff00?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 08 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Crew Leader (INTERNAL ONLY POSTING FOR CURRENT KSU AFSCME EMPLOYEES ONLY)](https://jobright.ai/jobs/info/689857b883d13d1f5b68eae2?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 08 |
 | **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Fall 2025)](https://jobright.ai/jobs/info/689550cf8c6d6b4426778e5f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 07 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/6897cc3a73b3a600fe89f998?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | ↳ | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/68954c8773b3a600fe8867b6?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
-| **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68954bbc73b3a600fe886675?utm_campaign=1054&utm_source=git)** | Merrill Main Office | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
