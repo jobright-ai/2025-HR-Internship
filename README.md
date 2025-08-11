@@ -75,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Intern/volunteer position - Volunteer Recruiter - Outreach](https://jobright.ai/jobs/info/6898d6a683d13d1f5b690ecd?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6898d15283d13d1f5b690e68?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wells Fargo Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6850d84a2a14ba8ace49412a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/6899f3375574fd6bc0c7ec97?utm_campaign=1054&utm_source=git)** | Boardman, OR | On Site | Aug 10 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Internship](https://jobright.ai/jobs/info/67bfd2434a102383729cbecf?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Aug 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d5e2?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 10 |
 | **[Firaxis Games](http://www.firaxis.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/67d2182c7c9a6ce749962851?utm_campaign=1054&utm_source=git)** | Sparks Glencoe, MD | On Site | Aug 10 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687a8c71764c3d7411c2ddb6?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Aug 10 |
@@ -89,12 +89,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/6897d9ff1b9e81727f1a1e2c?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 09 |
 | **[BTIG](https://www.btig.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/687a96e02097a271a897fdc1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oklahoma)](https://jobright.ai/jobs/info/682032e4f9c123e6ef7980aa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 09 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980b0b73b3a600fe8a20dd?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980c328c6d6b4426794ca0?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68980c328c6d6b4426794ca0?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897cdcf1b9e81727f1a1402?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6897c4ac73b3a600fe89f493?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/6898370683d13d1f5b68bf47?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Aug 09 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68985887faa4e875e824eba3?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 09 |
 | **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Aug 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Aug 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/689545914ed2ea559ca548f7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 07 |
 | **[Rush Enterprises, Inc](http://www.rushenterprises.com/)** | **[Intern Corporate](https://jobright.ai/jobs/info/689545238c6d6b44267787de?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship, Human Resources Business Associate](https://jobright.ai/jobs/info/68953a908c6d6b442677834f?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
+| **[S&T Bank](https://www.stbank.com/)** | **[HRIS Workday Intern](https://jobright.ai/jobs/info/68952fbe73b3a600fe8859f8?utm_campaign=1054&utm_source=git)** | Indiana, PA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
