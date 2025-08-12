@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwest Healthcare Tucson](https://www.healthiertucson.com)** | **[Internship Houghton Hospital-September 2025](https://jobright.ai/jobs/info/689a97385574fd6bc0c83ddb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Aug 11 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/689a94ad83d13d1f5b699faf?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 11 |
+| **[Safe Passages](https://safepassages.org)** | **[AmeriCorps - Family Resource Center Intern](https://jobright.ai/jobs/info/689a8fa1faa4e875e8259a96?utm_campaign=1054&utm_source=git)** | Oakland, California, United States | Hybrid | Aug 11 |
+| **[House of Ruth Maryland](http://www.hruth.org)** | **[HR Intern](https://jobright.ai/jobs/info/689a840afaa4e875e82595b5?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
+| **[Shodair Children's Hospital](https://shodair.org)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689a82b5faa4e875e825945e?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
+| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Human Resources Intern - Moda Center](https://jobright.ai/jobs/info/689a819183d13d1f5b6995fc?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a809cfaa4e875e82592bc?utm_campaign=1054&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/689a7f5a5574fd6bc0c82f91?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
 | **[LTVplus](https://www.ltvplus.com/)** | **[HR Assistant Apprenticeship Program](https://jobright.ai/jobs/info/689a7c2a83d13d1f5b699327?utm_campaign=1054&utm_source=git)** | Brandon, FL | On Site | Aug 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Aug 08 |
 | ↳ | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 08 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2dcb?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
-| **[GILLIG](http://gillig.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/673ff5219023c49b82b344fd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Aug 08 |
-| **[ARCO Construction Inc](http://www.arcoroof.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/689855fb5574fd6bc0c78433?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8d5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 07 |
-| **[DNI (Delaware Nation Industries)](https://dnigov.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6895827b73b3a600fe888300?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 07 |
-| **[Rush Enterprises, Inc](http://www.rushenterprises.com/)** | **[Intern Corporate](https://jobright.ai/jobs/info/6897ac8f8c6d6b44267901aa?utm_campaign=1054&utm_source=git)** | New Braunfels, Texas | On Site | Aug 07 |
-| **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6897436b73b3a600fe895c63?utm_campaign=1054&utm_source=git)** | US-PA-Philadelphia | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
