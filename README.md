@@ -57,9 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb52079a9f966625330db?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Aug 12 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/689bb39083d13d1f5b6a2ab1?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 12 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb24783d13d1f5b6a2860?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Aug 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Aug 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb1b679a9f96662532c70?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Aug 12 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/689bacc4faa4e875e8262698?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Aug 12 |
+| **[Grande Cheese Company](https://www.grande.com/)** | **[HR Intern - Recruitment & Training](https://jobright.ai/jobs/info/689bab3883d13d1f5b6a24b2?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 12 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689baaf5faa4e875e826240c?utm_campaign=1054&utm_source=git)** | Newton, NC | On Site | Aug 12 |
+| **[Stantec](http://www.stantec.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/689ba2c6faa4e875e8261e9e?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 12 |
+| **[Perlick Corporation](https://www.perlick.com/)** | **[Part-time Human Resources Intern](https://jobright.ai/jobs/info/689ba14b83d13d1f5b6a1d54?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 12 |
+| **[Interactive Strategies](http://interactivestrategies.com)** | **[Operations & HR Intern](https://jobright.ai/jobs/info/689b9d1179a9f96662531f81?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[Samba TV](http://www.samba.tv)** | **[People Operations Intern](https://jobright.ai/jobs/info/689b959183d13d1f5b6a1605?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Aug 12 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/689b93e283d13d1f5b6a1490?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
-| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/689b932883d13d1f5b6a13b5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
+| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6894612373b3a600fe87f0dd?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 12 |
+| **[Samba TV](http://www.samba.tv)** | **[People Operations Intern](https://jobright.ai/jobs/info/689b932883d13d1f5b6a13b5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/689b87e283d13d1f5b6a0ad0?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Aug 12 |
 | **[Guillevin](https://www.guillevin.com/)** | **[Human Resources - Recruitment Co-Op](https://jobright.ai/jobs/info/689b631079a9f96662530276?utm_campaign=1054&utm_source=git)** | Concord | On Site | Aug 12 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b626379a9f966625301bb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rivier University](https://linktr.ee/rivieruniversity)** | **[Graduate Assistant](https://jobright.ai/jobs/info/68975e1773b3a600fe897cba?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Aug 08 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/68930afbf47efe211396292d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Join Our Talent Network](https://jobright.ai/jobs/info/68984752faa4e875e824cd27?utm_campaign=1054&utm_source=git)** | Rye Brook, NY | On Site | Aug 08 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/689839925574fd6bc0c75f07?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 08 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[University Internship Recruiter](https://jobright.ai/jobs/info/68973e8873b3a600fe8956e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 08 |
-| **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h (Henderson)](https://jobright.ai/jobs/info/68983849faa4e875e824c11b?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec210318026f5d538b2fcf?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Aug 08 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Crew Leader (INTERNAL ONLY POSTING FOR CURRENT KSU AFSCME EMPLOYEES ONLY)](https://jobright.ai/jobs/info/689857b883d13d1f5b68eae2?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 08 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 08 |
-| **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Fall Intern - Talent Agency](https://jobright.ai/jobs/info/6898333883d13d1f5b68b94c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Utica](https://jobright.ai/jobs/info/6897a3ff73b3a600fe89cc26?utm_campaign=1054&utm_source=git)** | Utica, NY | Hybrid | Aug 08 |
-| ↳ | **[Regional Internship Coordinator - Brentwood](https://jobright.ai/jobs/info/68975f911b9e81727f19955b?utm_campaign=1054&utm_source=git)** | Brentwood, NY | Hybrid | Aug 08 |
-| ↳ | **[Regional Internship Coordinator - Buffalo](https://jobright.ai/jobs/info/6897e5b773b3a600fe8a10f1?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Aug 08 |
-| **[Pfizer](http://www.pfizer.com)** | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/689724418c6d6b4426785825?utm_campaign=1054&utm_source=git)** | United States - Florida - Tampa | On Site | Aug 08 |
-| ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
-| **[Locality Bank](https://localitybank.com)** | **[Intern](https://jobright.ai/jobs/info/6897a92373b3a600fe89d42c?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 08 |
-| **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6897d84973b3a600fe8a0259?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
