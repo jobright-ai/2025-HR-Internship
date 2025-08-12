@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b621379a9f96662530160?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
-| **[Cabarrus County North Carolina](https://www.cabarruscounty.us)** | **[PAID INTERNSHIPS - VARIOUS DEPARTMENTS](https://jobright.ai/jobs/info/689b606679a9f9666252ff88?utm_campaign=1054&utm_source=git)** | Cabarrus County, NC | On Site | Aug 12 |
+| **[HUB International](https://www.hubinternational.com)** | **[Program Manager, Internship](https://jobright.ai/jobs/info/689b7df2faa4e875e826088b?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Aug 12 |
+| **[Athena](https://athenapsych.com)** | **[HR Intern - UNPAID](https://jobright.ai/jobs/info/689b6cd179a9f96662530620?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
+| **[Guillevin](https://www.guillevin.com/)** | **[Human Resources - Recruitment Co-Op](https://jobright.ai/jobs/info/689b631079a9f96662530276?utm_campaign=1054&utm_source=git)** | Concord | On Site | Aug 12 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b626379a9f966625301bb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689b5f1779a9f9666252fdea?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[Force Factor](https://forcefactor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689b5e4183d13d1f5b69fb63?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 12 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Human Resources Internship](https://jobright.ai/jobs/info/687e822a2097a271a899597f?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/682d44e62ddedbbfeacd105e?utm_campaign=1054&utm_source=git)** | Dickinson, ND | On Site | Aug 12 |
+| ↳ | **[DoD SkillBridge Internship Application (Kentucky)](https://jobright.ai/jobs/info/6753b08164bf78ef6c87068a?utm_campaign=1054&utm_source=git)** | Shelbyville, KY | On Site | Aug 12 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/689b0809faa4e875e825e99e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 12 |
 | **[Episcopal Children's Services, Inc.](https://www.ecs4kids.org)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/689af0a55574fd6bc0c881f6?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Aug 12 |
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689ad10b5574fd6bc0c864ae?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Safe Passages](https://safepassages.org)** | **[AmeriCorps - Family Resource Center Intern](https://jobright.ai/jobs/info/689a8fa1faa4e875e8259a96?utm_campaign=1054&utm_source=git)** | Oakland, California, United States | Hybrid | Aug 11 |
 | **[Northwest Healthcare Tucson](https://www.healthiertucson.com)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689abe24faa4e875e825bc93?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Aug 11 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 11 |
+| **[Tecomet, Inc](http://www.tecomet.com)** | **[HR Intern (Part Time)](https://jobright.ai/jobs/info/689b63d983d13d1f5b69ff40?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Aug 11 |
 | **[House of Ruth Maryland](http://www.hruth.org)** | **[HR Intern](https://jobright.ai/jobs/info/689a840afaa4e875e82595b5?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
 | **[Shodair Children's Hospital](https://shodair.org)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689a82b5faa4e875e825945e?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Human Resources Intern - Moda Center](https://jobright.ai/jobs/info/689a819183d13d1f5b6995fc?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 11 |
@@ -105,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b34bfaa4e875e8253df1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a28b5574fd6bc0c7db88?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | **[PKF Durban](https://www.pkf.co.za/locations/pkf-durban/)** | **[CA Graduate Experience 2025 / VAC WEEK PKF(PE)](https://jobright.ai/jobs/info/6899973b5574fd6bc0c7d48d?utm_campaign=1054&utm_source=git)** | Port Elizabeth, NJ | On Site | Aug 11 |
-| **[Materion Corporation](https://materion.com)** | **[2024 Internship Program](https://jobright.ai/jobs/info/688994b909808a6103e48c5b?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Aug 10 |
 | **[DefenseStorm](https://www.defensestorm.com/)** | **[General Job Application](https://jobright.ai/jobs/info/68998fb0faa4e875e825341b?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (New Mexico)](https://jobright.ai/jobs/info/67dce43cfd22caf003f7ca32?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | On Site | Aug 10 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion only - Pension Outsourcing Analyst - 2026](https://jobright.ai/jobs/info/68993b0783d13d1f5b691794?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Aug 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6897d84973b3a600fe8a0259?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Brooklyn](https://jobright.ai/jobs/info/68974d038c6d6b4426788e96?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
 | ↳ | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/689830865574fd6bc0c7510f?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b82ef5ee707a15dc1c83?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
-| **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor - TX LCDC INTERN (Substance Abuse)](https://jobright.ai/jobs/info/68984876faa4e875e824cf45?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Aug 08 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6897d9a91b9e81727f1a1dc8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6897a7591b9e81727f19ec19?utm_campaign=1054&utm_source=git)** | 12100 Samsung Blvd, Austin, TX, USA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
