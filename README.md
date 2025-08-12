@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b621379a9f96662530160?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
+| **[Cabarrus County North Carolina](https://www.cabarruscounty.us)** | **[PAID INTERNSHIPS - VARIOUS DEPARTMENTS](https://jobright.ai/jobs/info/689b606679a9f9666252ff88?utm_campaign=1054&utm_source=git)** | Cabarrus County, NC | On Site | Aug 12 |
+| **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689b5f1779a9f9666252fdea?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
+| **[Force Factor](https://forcefactor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689b5e4183d13d1f5b69fb63?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 12 |
+| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Human Resources Internship](https://jobright.ai/jobs/info/687e822a2097a271a899597f?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/689b0809faa4e875e825e99e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 12 |
 | **[Episcopal Children's Services, Inc.](https://www.ecs4kids.org)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/689af0a55574fd6bc0c881f6?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Aug 12 |
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689ad10b5574fd6bc0c864ae?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
-| **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689afe40faa4e875e825e81f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Spark Car Wash](https://sparkcarwash.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ab86b5574fd6bc0c85603?utm_campaign=1054&utm_source=git)** | Summit, NJ | On Site | Aug 11 |
 | **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruitment Intern](https://jobright.ai/jobs/info/689aa897faa4e875e825aa09?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 11 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/689a9d2e5574fd6bc0c84172?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 11 |
@@ -143,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Utica](https://jobright.ai/jobs/info/6897a3ff73b3a600fe89cc26?utm_campaign=1054&utm_source=git)** | Utica, NY | Hybrid | Aug 08 |
 | ↳ | **[Regional Internship Coordinator - Brentwood](https://jobright.ai/jobs/info/68975f911b9e81727f19955b?utm_campaign=1054&utm_source=git)** | Brentwood, NY | Hybrid | Aug 08 |
 | ↳ | **[Regional Internship Coordinator - Buffalo](https://jobright.ai/jobs/info/6897e5b773b3a600fe8a10f1?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Aug 08 |
-| **[Pfizer](http://www.pfizer.com)** | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
-| ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/689724418c6d6b4426785825?utm_campaign=1054&utm_source=git)** | United States - Florida - Tampa | On Site | Aug 08 |
+| **[Pfizer](http://www.pfizer.com)** | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/689724418c6d6b4426785825?utm_campaign=1054&utm_source=git)** | United States - Florida - Tampa | On Site | Aug 08 |
+| ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
 | **[Locality Bank](https://localitybank.com)** | **[Intern](https://jobright.ai/jobs/info/6897a92373b3a600fe89d42c?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 08 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6897d84973b3a600fe8a0259?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Brooklyn](https://jobright.ai/jobs/info/68974d038c6d6b4426788e96?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor - TX LCDC INTERN (Substance Abuse)](https://jobright.ai/jobs/info/68984876faa4e875e824cf45?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Aug 08 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6897d9a91b9e81727f1a1dc8?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 08 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6897a7591b9e81727f19ec19?utm_campaign=1054&utm_source=git)** | 12100 Samsung Blvd, Austin, TX, USA | On Site | Aug 08 |
-| **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6898498bfaa4e875e824d157?utm_campaign=1054&utm_source=git)** | Abbeville, AL | On Site | Aug 08 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67d0ef10cbce811b59328ecb?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/68202704b9ce836c49e0049f?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Aug 08 |
-| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Human Resources Intern](https://jobright.ai/jobs/info/68985be85574fd6bc0c78efd?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
