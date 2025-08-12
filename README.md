@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spark Car Wash](https://sparkcarwash.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ab86b5574fd6bc0c85603?utm_campaign=1054&utm_source=git)** | Summit, NJ | On Site | Aug 11 |
+| **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruitment Intern](https://jobright.ai/jobs/info/689aa897faa4e875e825aa09?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 11 |
+| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/689a9d2e5574fd6bc0c84172?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 11 |
 | **[Northwest Healthcare Tucson](https://www.healthiertucson.com)** | **[Internship Houghton Hospital-September 2025](https://jobright.ai/jobs/info/689a97385574fd6bc0c83ddb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Aug 11 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/689a94ad83d13d1f5b699faf?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 11 |
 | **[Safe Passages](https://safepassages.org)** | **[AmeriCorps - Family Resource Center Intern](https://jobright.ai/jobs/info/689a8fa1faa4e875e8259a96?utm_campaign=1054&utm_source=git)** | Oakland, California, United States | Hybrid | Aug 11 |
+| **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Fall 2025](https://jobright.ai/jobs/info/687164fea5ae807a59cff514?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 11 |
 | **[House of Ruth Maryland](http://www.hruth.org)** | **[HR Intern](https://jobright.ai/jobs/info/689a840afaa4e875e82595b5?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
 | **[Shodair Children's Hospital](https://shodair.org)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689a82b5faa4e875e825945e?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Human Resources Intern - Moda Center](https://jobright.ai/jobs/info/689a819183d13d1f5b6995fc?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 11 |
@@ -84,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a48e05574fd6bc0c8166e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 11 |
 | **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Community Health Systems](http://www.chs.net)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689a1a8783d13d1f5b6961a9?utm_campaign=1054&utm_source=git)** | 6200 N LA CHOLLA BLVD, TUCSON, AZ, 85741, US | On Site | Aug 11 |
+| **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Human Resources Leadership Development Internship Program – Summer 2026 at Pentair](https://jobright.ai/jobs/info/6899dbd55574fd6bc0c7e2a4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Honors Office Clerk](https://jobright.ai/jobs/info/6899c9435574fd6bc0c7e044?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
 | **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Admissions Associate](https://jobright.ai/jobs/info/6899bf2a5574fd6bc0c7de6b?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Aug 11 |
@@ -126,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Rapid Response Monitoring](http://www.rrms.com/)** | **[Recruiting Intern - $18-20/h (Henderson)](https://jobright.ai/jobs/info/68983849faa4e875e824c11b?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec210318026f5d538b2fcf?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Aug 08 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Crew Leader (INTERNAL ONLY POSTING FOR CURRENT KSU AFSCME EMPLOYEES ONLY)](https://jobright.ai/jobs/info/689857b883d13d1f5b68eae2?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 08 |
-| **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 08 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Lavonne's The Agency](https://lavonnestheagency.com/)** | **[Fall Intern - Talent Agency](https://jobright.ai/jobs/info/6898333883d13d1f5b68b94c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Utica](https://jobright.ai/jobs/info/6897a3ff73b3a600fe89cc26?utm_campaign=1054&utm_source=git)** | Utica, NY | Hybrid | Aug 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities of the Archdiocese of New York](http://catholiccharitiesny.org/)** | **[Internship Coordinator](https://jobright.ai/jobs/info/6897655873b3a600fe89850b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Oregon)](https://jobright.ai/jobs/info/68048832493bc509aa1332c1?utm_campaign=1054&utm_source=git)** | Bend, OR | On Site | Aug 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec058eac82e86de266e325?utm_campaign=1054&utm_source=git)** | El Paso, TX | Hybrid | Aug 08 |
-| **[NEPSI](http://nepsi.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6897dabb73b3a600fe8a0502?utm_campaign=1054&utm_source=git)** | Queensbury, NY | On Site | Aug 08 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/685c8ccdf6dc724097690af1?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Aug 08 |
-| ↳ | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 08 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2dcb?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
