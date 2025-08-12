@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HUB International](https://www.hubinternational.com)** | **[Program Manager, Internship](https://jobright.ai/jobs/info/689b7df2faa4e875e826088b?utm_campaign=1054&utm_source=git)** | Sacramento, CA | Hybrid | Aug 12 |
-| **[Athena](https://athenapsych.com)** | **[HR Intern - UNPAID](https://jobright.ai/jobs/info/689b6cd179a9f96662530620?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
+| **[Samba TV](http://www.samba.tv)** | **[People Operations Intern](https://jobright.ai/jobs/info/689b959183d13d1f5b6a1605?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Aug 12 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/689b93e283d13d1f5b6a1490?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
+| ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/689b932883d13d1f5b6a13b5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/689b87e283d13d1f5b6a0ad0?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Aug 12 |
 | **[Guillevin](https://www.guillevin.com/)** | **[Human Resources - Recruitment Co-Op](https://jobright.ai/jobs/info/689b631079a9f96662530276?utm_campaign=1054&utm_source=git)** | Concord | On Site | Aug 12 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b626379a9f966625301bb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
+| **[Athena](https://athenapsych.com)** | **[HR Intern - UNPAID](https://jobright.ai/jobs/info/689b8144faa4e875e8260a08?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689b5f1779a9f9666252fdea?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[Force Factor](https://forcefactor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689b5e4183d13d1f5b69fb63?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 12 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Human Resources Internship](https://jobright.ai/jobs/info/687e822a2097a271a899597f?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Episcopal Children's Services, Inc.](https://www.ecs4kids.org)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/689af0a55574fd6bc0c881f6?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Aug 12 |
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689ad10b5574fd6bc0c864ae?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
 | **[Spark Car Wash](https://sparkcarwash.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ab86b5574fd6bc0c85603?utm_campaign=1054&utm_source=git)** | Summit, NJ | On Site | Aug 11 |
-| **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruitment Intern](https://jobright.ai/jobs/info/689aa897faa4e875e825aa09?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 11 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/689a9d2e5574fd6bc0c84172?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 11 |
 | **[Northwest Healthcare Tucson](https://www.healthiertucson.com)** | **[Internship Houghton Hospital-September 2025](https://jobright.ai/jobs/info/689a97385574fd6bc0c83ddb?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Aug 11 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/689a94ad83d13d1f5b699faf?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
 | **[Locality Bank](https://localitybank.com)** | **[Intern](https://jobright.ai/jobs/info/6897a92373b3a600fe89d42c?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 08 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6897d84973b3a600fe8a0259?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 08 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Brooklyn](https://jobright.ai/jobs/info/68974d038c6d6b4426788e96?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
-| ↳ | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/689830865574fd6bc0c7510f?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
