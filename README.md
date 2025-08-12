@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a809cfaa4e875e82592bc?utm_campaign=1054&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/689a7f5a5574fd6bc0c82f91?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
+| **[LTVplus](https://www.ltvplus.com/)** | **[HR Assistant Apprenticeship Program](https://jobright.ai/jobs/info/689a7c2a83d13d1f5b699327?utm_campaign=1054&utm_source=git)** | Brandon, FL | On Site | Aug 11 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a76bb5574fd6bc0c82c21?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Aug 11 |
+| **[House of Ruth Maryland](http://www.hruth.org)** | **[HR Volunteer](https://jobright.ai/jobs/info/689a75405574fd6bc0c82ace?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
+| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern Human Resources](https://jobright.ai/jobs/info/689a71e65574fd6bc0c829fa?utm_campaign=1054&utm_source=git)** | Chippewa Falls, WI | On Site | Aug 11 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689a516ffaa4e875e8257ee5?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Aug 11 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/689a4fcbfaa4e875e8257d78?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Bridgewell](https://bridgewell.org)** | **[Human Resources Recruitment Intern](https://jobright.ai/jobs/info/689a4b5583d13d1f5b697ced?utm_campaign=1054&utm_source=git)** | Peabody, MA | On Site | Aug 11 |
@@ -70,11 +76,9 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/689a38cd83d13d1f5b696f6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 11 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/689a2dfa5574fd6bc0c8061b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a48e05574fd6bc0c8166e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a2297faa4e875e825618a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Community Health Systems](http://www.chs.net)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689a1a8783d13d1f5b6961a9?utm_campaign=1054&utm_source=git)** | 6200 N LA CHOLLA BLVD, TUCSON, AZ, 85741, US | On Site | Aug 11 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/6899f615faa4e875e8254f2c?utm_campaign=1054&utm_source=git)** | US - UPS CORPORATE OFFICES (GACOR) | On Site | Aug 11 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Summer 2026 Internship – Nationwide Opportunities at Cintas Corporation](https://jobright.ai/jobs/info/6899dbff5574fd6bc0c7e2e8?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| ↳ | **[Human Resources Leadership Development Internship Program – Summer 2026 at Pentair](https://jobright.ai/jobs/info/6899dbd55574fd6bc0c7e2a4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Human Resources Leadership Development Internship Program – Summer 2026 at Pentair](https://jobright.ai/jobs/info/6899dbd55574fd6bc0c7e2a4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Honors Office Clerk](https://jobright.ai/jobs/info/6899c9435574fd6bc0c7e044?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
 | **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Admissions Associate](https://jobright.ai/jobs/info/6899bf2a5574fd6bc0c7de6b?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Aug 11 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6899b64b83d13d1f5b694246?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 11 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Utica](https://jobright.ai/jobs/info/6897a3ff73b3a600fe89cc26?utm_campaign=1054&utm_source=git)** | Utica, NY | Hybrid | Aug 08 |
 | ↳ | **[Regional Internship Coordinator - Brentwood](https://jobright.ai/jobs/info/68975f911b9e81727f19955b?utm_campaign=1054&utm_source=git)** | Brentwood, NY | Hybrid | Aug 08 |
 | ↳ | **[Regional Internship Coordinator - Buffalo](https://jobright.ai/jobs/info/6897e5b773b3a600fe8a10f1?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Aug 08 |
-| **[Pfizer](http://www.pfizer.com)** | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
-| ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/689724418c6d6b4426785825?utm_campaign=1054&utm_source=git)** | United States - Florida - Tampa | On Site | Aug 08 |
+| **[Pfizer](http://www.pfizer.com)** | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/689724418c6d6b4426785825?utm_campaign=1054&utm_source=git)** | United States - Florida - Tampa | On Site | Aug 08 |
+| ↳ | **[Join Pfizer's 2025 Digital Hackathon Talent Community](https://jobright.ai/jobs/info/6897ab0573b3a600fe89d76a?utm_campaign=1054&utm_source=git)** | United States - Pennsylvania - Collegeville | On Site | Aug 08 |
 | **[Locality Bank](https://localitybank.com)** | **[Intern](https://jobright.ai/jobs/info/6897a92373b3a600fe89d42c?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 08 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/6897d84973b3a600fe8a0259?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 08 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Brooklyn](https://jobright.ai/jobs/info/68974d038c6d6b4426788e96?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DNI (Delaware Nation Industries)](https://dnigov.com/)** | **[DoD Skillbridge Internship](https://jobright.ai/jobs/info/6895827b73b3a600fe888300?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 07 |
 | **[Rush Enterprises, Inc](http://www.rushenterprises.com/)** | **[Intern Corporate](https://jobright.ai/jobs/info/6897ac8f8c6d6b44267901aa?utm_campaign=1054&utm_source=git)** | New Braunfels, Texas | On Site | Aug 07 |
 | **[Philadelphia Gas Works](http://www.pgworks.com)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/6897436b73b3a600fe895c63?utm_campaign=1054&utm_source=git)** | US-PA-Philadelphia | On Site | Aug 07 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/689558d58c6d6b44267791a4?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Fall 2025)](https://jobright.ai/jobs/info/689550cf8c6d6b4426778e5f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 07 |
-| **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/6897cc3a73b3a600fe89f998?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
-| ↳ | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/68954c8773b3a600fe8867b6?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
