@@ -92,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/689a38cd83d13d1f5b696f6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 11 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/689a2dfa5574fd6bc0c8061b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a48e05574fd6bc0c8166e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a2297faa4e875e825618a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Community Health Systems](http://www.chs.net)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689a1a8783d13d1f5b6961a9?utm_campaign=1054&utm_source=git)** | 6200 N LA CHOLLA BLVD, TUCSON, AZ, 85741, US | On Site | Aug 11 |
 | **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Associate](https://jobright.ai/jobs/info/689ad04a5574fd6bc0c86403?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 09 |
 | **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Aug 09 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2025 Intern - HR Rewards - Compensation & Benefits](https://jobright.ai/jobs/info/687a2503ed63844c944a1898?utm_campaign=1054&utm_source=git)** | Shanghai, VA | Hybrid | Aug 09 |
+| **[Woolpert](http://www.woolpert.com)** | **[Expression of Interest - Internships](https://jobright.ai/jobs/info/688b87af3a30793eb963b35f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 08 |
 | **[PNC](http://www.pnc.com)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68975e2a8c6d6b442678a4ba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
 | **[Rivier University](https://linktr.ee/rivieruniversity)** | **[Graduate Assistant](https://jobright.ai/jobs/info/68975e1773b3a600fe897cba?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Ads](http://www.samsungads.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6897a7591b9e81727f19ec19?utm_campaign=1054&utm_source=git)** | 12100 Samsung Blvd, Austin, TX, USA | On Site | Aug 08 |
 | **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6898498bfaa4e875e824d157?utm_campaign=1054&utm_source=git)** | Abbeville, AL | On Site | Aug 08 |
 | **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/67d0ef10cbce811b59328ecb?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Aug 08 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Kansas)](https://jobright.ai/jobs/info/68202704b9ce836c49e0049f?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
