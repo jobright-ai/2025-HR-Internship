@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/689b0809faa4e875e825e99e?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 12 |
 | **[Episcopal Children's Services, Inc.](https://www.ecs4kids.org)** | **[Volunteer & Intern Coordinator](https://jobright.ai/jobs/info/689af0a55574fd6bc0c881f6?utm_campaign=1054&utm_source=git)** | Florida, United States | On Site | Aug 12 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Agent Recruiting Intern (Part-Time)](https://jobright.ai/jobs/info/689aeac2faa4e875e825de90?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Aug 12 |
 | **[ArborSys Group](https://www.arborsys.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/689ad10b5574fd6bc0c864ae?utm_campaign=1054&utm_source=git)** | Helena, MT | On Site | Aug 11 |
+| **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689afe40faa4e875e825e81f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Spark Car Wash](https://sparkcarwash.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ab86b5574fd6bc0c85603?utm_campaign=1054&utm_source=git)** | Summit, NJ | On Site | Aug 11 |
 | **[Pulse EDU](https://www.linkedin.com/company/107649110)** | **[Recruitment Intern](https://jobright.ai/jobs/info/689aa897faa4e875e825aa09?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Aug 11 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/689a9d2e5574fd6bc0c84172?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 11 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a809cfaa4e875e82592bc?utm_campaign=1054&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/689a7f5a5574fd6bc0c82f91?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
 | **[LTVplus](https://www.ltvplus.com/)** | **[HR Assistant Apprenticeship Program](https://jobright.ai/jobs/info/689a7c2a83d13d1f5b699327?utm_campaign=1054&utm_source=git)** | Brandon, FL | On Site | Aug 11 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a76bb5574fd6bc0c82c21?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Aug 11 |
 | **[House of Ruth Maryland](http://www.hruth.org)** | **[HR Volunteer](https://jobright.ai/jobs/info/689a75405574fd6bc0c82ace?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Aug 11 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Business Intern Human Resources](https://jobright.ai/jobs/info/689a71e65574fd6bc0c829fa?utm_campaign=1054&utm_source=git)** | Chippewa Falls, WI | On Site | Aug 11 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689abf61faa4e875e825be0e?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 11 |
@@ -91,11 +92,10 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/689a38cd83d13d1f5b696f6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 11 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/689a2dfa5574fd6bc0c8061b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a48e05574fd6bc0c8166e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a2297faa4e875e825618a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Community Health Systems](http://www.chs.net)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689a1a8783d13d1f5b6961a9?utm_campaign=1054&utm_source=git)** | 6200 N LA CHOLLA BLVD, TUCSON, AZ, 85741, US | On Site | Aug 11 |
 | **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Associate](https://jobright.ai/jobs/info/689ad04a5574fd6bc0c86403?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Human Resources Leadership Development Internship Program – Summer 2026 at Pentair](https://jobright.ai/jobs/info/6899dbd55574fd6bc0c7e2a4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[Honors Office Clerk](https://jobright.ai/jobs/info/6899c9435574fd6bc0c7e044?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Aug 11 |
 | **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Admissions Associate](https://jobright.ai/jobs/info/6899bf2a5574fd6bc0c7de6b?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Aug 11 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6899b64b83d13d1f5b694246?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 11 |
