@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](https://www.bbrown.com/us/)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/689c7b9c83d13d1f5b6a88da?utm_campaign=1054&utm_source=git)** | Rochester, NY, USA | On Site | Aug 13 |
+| **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689c70b779a9f96662538b63?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Aug 13 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/689c5470faa4e875e826841f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 13 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[HR Intern](https://jobright.ai/jobs/info/689c2dca79a9f966625376f7?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Aug 12 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc11afaa4e875e826346b?utm_campaign=1054&utm_source=git)** | USA - Kent, WA | On Site | Aug 12 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Bilingual Undergraduate Research Assistant (RA) – Chinese (Simplified & Traditional), Community-Based Recruitment](https://jobright.ai/jobs/info/689bc109faa4e875e8263445?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Aug 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0e683d13d1f5b6a3366?utm_campaign=1054&utm_source=git)** | USA - Hazelwood, MO | On Site | Aug 12 |
-| ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0e083d13d1f5b6a335d?utm_campaign=1054&utm_source=git)** | USA - Tukwila, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0e0faa4e875e82633f5?utm_campaign=1054&utm_source=git)** | USA - Mesa, AZ | On Site | Aug 12 |
+| ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0e083d13d1f5b6a335d?utm_campaign=1054&utm_source=git)** | USA - Tukwila, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0ce83d13d1f5b6a3345?utm_campaign=1054&utm_source=git)** | USA - Mukilteo, WA | On Site | Aug 12 |
 | **[Grande Custom Ingredients Group](http://www.grandecig.com)** | **[HR Intern - Recruitment & Training](https://jobright.ai/jobs/info/689bba2883d13d1f5b6a30f1?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 12 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
@@ -101,11 +103,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/689b93e283d13d1f5b6a1490?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6894612373b3a600fe87f0dd?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 12 |
 | **[Samba TV](http://www.samba.tv)** | **[People Operations Intern](https://jobright.ai/jobs/info/689b932883d13d1f5b6a13b5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Aug 12 |
-| **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/689b87e283d13d1f5b6a0ad0?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Aug 12 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/689b8e9979a9f96662531295?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Aug 12 |
 | **[Guillevin](https://www.guillevin.com/)** | **[Human Resources - Recruitment Co-Op](https://jobright.ai/jobs/info/689b631079a9f96662530276?utm_campaign=1054&utm_source=git)** | Concord | On Site | Aug 12 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b621379a9f96662530160?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b626379a9f966625301bb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
 | **[Athena](https://athenapsych.com)** | **[HR Intern - UNPAID](https://jobright.ai/jobs/info/689b8144faa4e875e8260a08?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
-| **[Gotion Inc.](https://www.gotion.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689b5f1779a9f9666252fdea?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[Force Factor](https://forcefactor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689b5e4183d13d1f5b69fb63?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 12 |
 | **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Human Resources Internship](https://jobright.ai/jobs/info/687e822a2097a271a899597f?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/682d44e62ddedbbfeacd105e?utm_campaign=1054&utm_source=git)** | Dickinson, ND | On Site | Aug 12 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[The Centers](https://thecentersohio.org/)** | **[Case Management Intern Harm Reduction](https://jobright.ai/jobs/info/689a38cd83d13d1f5b696f6e?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 11 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/689a2dfa5574fd6bc0c8061b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[LogRocket](https://logrocket.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/689a48e05574fd6bc0c8166e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a2297faa4e875e825618a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Community Health Systems](http://www.chs.net)** | **[Internship Northwest Medical Center- September 2025](https://jobright.ai/jobs/info/689a1a8783d13d1f5b6961a9?utm_campaign=1054&utm_source=git)** | 6200 N LA CHOLLA BLVD, TUCSON, AZ, 85741, US | On Site | Aug 11 |
 | **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/6897dba58c6d6b442679308a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Associate](https://jobright.ai/jobs/info/689ad04a5574fd6bc0c86403?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Admissions Associate](https://jobright.ai/jobs/info/6899bf2a5574fd6bc0c7de6b?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Aug 11 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6899b64b83d13d1f5b694246?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Market and Wealth Services (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b34bfaa4e875e8253df1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
-| ↳ | **[2026 BNY Summer Internship Program - The People Team (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a28b5574fd6bc0c7db88?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
