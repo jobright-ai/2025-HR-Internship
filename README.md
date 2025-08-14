@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III - HR - Seasonal](https://jobright.ai/jobs/info/689d49ce79a9f9666253ed19?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Aug 13 |
 | **[Pet Food Experts](https://www.petfoodexperts.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/689d3f7a79a9f9666253ea4d?utm_campaign=1054&utm_source=git)** | Pawtucket, RI | On Site | Aug 13 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/689d35ef79a9f9666253e4bf?utm_campaign=1054&utm_source=git)** | HQ - Pawtucket, RI | Hybrid | Aug 13 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Human Resource / Administrative Assistant Intern](https://jobright.ai/jobs/info/689d35b379a9f9666253e356?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
@@ -74,8 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96ffaa4e875e826bd68?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96c83d13d1f5b6abecf?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Aug 13 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation - EDRP Approved](https://jobright.ai/jobs/info/689ce93483d13d1f5b6abe3e?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Aug 13 |
-| **[RR Donnelley](http://www.rrd.com)** | **[H0338 Intern](https://jobright.ai/jobs/info/689ce332faa4e875e826b999?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
-| ↳ | **[H0338 Intern](https://jobright.ai/jobs/info/689ce21a79a9f9666253bcc8?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
+| **[RR Donnelley](http://www.rrd.com)** | **[H0338 Intern](https://jobright.ai/jobs/info/689ce21a79a9f9666253bcc8?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689cdf72faa4e875e826b6fe?utm_campaign=1054&utm_source=git)** | Everett, WA | On Site | Aug 13 |
 | **[My Amazon Guy](https://www.myamazonguy.com)** | **[Talent Acquisition Specialist Intern](https://jobright.ai/jobs/info/689cded5faa4e875e826b476?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Aug 13 |
 | **[Proskauer Rose LLP](http://www.proskauer.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/689cde8dfaa4e875e826b37e?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 13 |
@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc02383d13d1f5b6aa44d?utm_campaign=1054&utm_source=git)** | 0060 - Monroeville - Supermarket | On Site | Aug 13 |
 | ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc01279a9f9666253a786?utm_campaign=1054&utm_source=git)** | 0040 - Shadyside - Market District | On Site | Aug 13 |
 | ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc00979a9f9666253a75f?utm_campaign=1054&utm_source=git)** | 0047 - Robinson (Settlers Ridge) - Market District | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc001faa4e875e826a346?utm_campaign=1054&utm_source=git)** | 0070 - Donaldson's Crossroads - Supermarket | On Site | Aug 13 |
 | ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc00179a9f9666253a739?utm_campaign=1054&utm_source=git)** | 0043 - Pine Twp - Market District | On Site | Aug 13 |
+| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc001faa4e875e826a346?utm_campaign=1054&utm_source=git)** | 0070 - Donaldson's Crossroads - Supermarket | On Site | Aug 13 |
 | ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cbff183d13d1f5b6aa39e?utm_campaign=1054&utm_source=git)** | 0008 - New Kensington - Supermarket | On Site | Aug 13 |
 | **[ZF Group](https://www.zf.com/)** | **[HR Intern](https://jobright.ai/jobs/info/689cb303faa4e875e8269f2a?utm_campaign=1054&utm_source=git)** | Marysville, MI | On Site | Aug 13 |
 | **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/68826b84835a903aa07ed610?utm_campaign=1054&utm_source=git)** | Beachwood, OH | On Site | Aug 13 |
@@ -108,6 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/689c5470faa4e875e826841f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 13 |
 | **[Patelco Credit Union](http://www.patelco.org)** | **[HR Intern](https://jobright.ai/jobs/info/689c2dca79a9f966625376f7?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Aug 12 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/689d5aa283d13d1f5b6aef3c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
+| **[Cabarrus County North Carolina](https://www.cabarruscounty.us)** | **[PAID INTERNSHIPS - VARIOUS DEPARTMENTS](https://jobright.ai/jobs/info/689d5af879a9f9666253f4dc?utm_campaign=1054&utm_source=git)** | Cabarrus County, NC | On Site | Aug 12 |
 | **[Foothill Family](https://www.foothillfamily.org/)** | **[Human Resources Intern (Temporary)](https://jobright.ai/jobs/info/689be7e079a9f96662534aa4?utm_campaign=1054&utm_source=git)** | Pasadena, CA | On Site | Aug 12 |
 | **[Legrand, North America](http://www.legrand.us)** | **[HR Intern (Part-Time)](https://jobright.ai/jobs/info/689be75efaa4e875e82646eb?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Aug 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - IN Indianapolis](https://jobright.ai/jobs/info/689be2f8faa4e875e82642f8?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 12 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/689c53eb79a9f966625387f0?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 12 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Student Assistant - Human Resources](https://jobright.ai/jobs/info/689bd3c383d13d1f5b6a3c52?utm_campaign=1054&utm_source=git)** | Newport, KY | On Site | Aug 12 |
 | **[RPA](http://www.rpa.com)** | **[People Team HR Intern](https://jobright.ai/jobs/info/689bc4ab79a9f966625339c8?utm_campaign=1054&utm_source=git)** | Santa Monica, CA - Remote | Remote | Aug 12 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc19979a9f96662533834?utm_campaign=1054&utm_source=git)** | USA - Bellevue, WA | On Site | Aug 12 |
-| ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc199faa4e875e8263563?utm_campaign=1054&utm_source=git)** | USA - Everett, WA | On Site | Aug 12 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc199faa4e875e8263563?utm_campaign=1054&utm_source=git)** | USA - Everett, WA | On Site | Aug 12 |
+| ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc19979a9f96662533834?utm_campaign=1054&utm_source=git)** | USA - Bellevue, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc19679a9f9666253382d?utm_campaign=1054&utm_source=git)** | USA - SeaTac, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc17883d13d1f5b6a344e?utm_campaign=1054&utm_source=git)** | USA - Auburn, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc170faa4e875e826352b?utm_campaign=1054&utm_source=git)** | USA - Puyallup, WA | On Site | Aug 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources AI Technology Solutions Intern](https://jobright.ai/jobs/info/689b626379a9f966625301bb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Aug 12 |
 | **[Athena](https://athenapsych.com)** | **[HR Intern - UNPAID](https://jobright.ai/jobs/info/689b8144faa4e875e8260a08?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Force Factor](https://forcefactor.com/)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/689b5e4183d13d1f5b69fb63?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 12 |
-| **[National Women's Law Center](http://www.nwlc.org/)** | **[Fall 2025 Human Resources Internship](https://jobright.ai/jobs/info/687e822a2097a271a899597f?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Aug 12 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (North Dakota)](https://jobright.ai/jobs/info/682d44e62ddedbbfeacd105e?utm_campaign=1054&utm_source=git)** | Dickinson, ND | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
