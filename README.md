@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knorr Brake Company](http://knorrbrake.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57de79a9f9666254b5af?utm_campaign=1054&utm_source=git)** | Westminster, MD | Hybrid | Aug 14 |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57b079a9f9666254b58f?utm_campaign=1054&utm_source=git)** | Huntington, IN | Hybrid | Aug 14 |
+| **[Element Materials Technology](https://www.element.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e5495faa4e875e827b166?utm_campaign=1054&utm_source=git)** | Huntington Beach, CA | Hybrid | Aug 14 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Korean Bilingual Undergraduate Research Assistant (RA) - Community-Based Recruitment](https://jobright.ai/jobs/info/689e547783d13d1f5b6badf1?utm_campaign=1054&utm_source=git)** | AUSTIN, TX | On Site | Aug 14 |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Human Resources Specialist (Internship)](https://jobright.ai/jobs/info/689e51a279a9f9666254ae57?utm_campaign=1054&utm_source=git)** | Torrance, CA | On Site | Aug 14 |
+| **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/689e4a6d83d13d1f5b6b9786?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 14 |
 | **[Continental](https://www.continental.com)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/689e3a34faa4e875e8278196?utm_campaign=1054&utm_source=git)** | 703 S Cleveland Massillon Rd, Fairlawn, OH 44333, USA | Hybrid | Aug 14 |
 | **[Lennox](http://www.lennox.com)** | **[HR Leadership Program Intern](https://jobright.ai/jobs/info/689e389e79a9f96662548354?utm_campaign=1054&utm_source=git)** | Richardson, TX | On Site | Aug 14 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/689e36ccfaa4e875e827812e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Vessco Water](https://www.vesscowater.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689df61e83d13d1f5b6b5a88?utm_campaign=1054&utm_source=git)** | Chanhassen, MN | On Site | Aug 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Aug 14 |
 | **[Risepoint](http://www.risepoint.com)** | **[People Program Intern (Active Students Only)](https://jobright.ai/jobs/info/689dd79b83d13d1f5b6b49bd?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 14 |
+| **[Cain Watters & Associates](https://www.cainwatters.com/)** | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/6881366b16ea5743a3737487?utm_campaign=1054&utm_source=git)** | Frisco, TX | Hybrid | Aug 14 |
 | **[DriveTime](https://www.drivetime.com)** | **[DriveTime Family of Brands Internship Talent Community](https://jobright.ai/jobs/info/689db4b479a9f96662544059?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 14 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/684a84ef2b948718a2c418ca?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Aug 14 |
 | **[XPENG Deutschland](https://www.xpeng.com/de)** | **[2026 Campus Recruiting Robotics Center Internship Position](https://jobright.ai/jobs/info/689d5e18faa4e875e826f17e?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 13 |
@@ -89,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[SPECIALIZED SUPPORT-STUDENT ASSISTANT (HR DATA ANALYITICS DISTRICT OFFICE)](https://jobright.ai/jobs/info/689d128f83d13d1f5b6acf5b?utm_campaign=1054&utm_source=git)** | Dallas College Administration | On Site | Aug 13 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Rotational Internship - Tampa Florida](https://jobright.ai/jobs/info/689d0ebf79a9f9666253d118?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Aug 13 |
 | **[MarshBerry](http://marshberry.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ceca383d13d1f5b6ac11c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 13 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9d379a9f9666253c31d?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9a583d13d1f5b6abfaa?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce99a79a9f9666253c244?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
-| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96ffaa4e875e826bd68?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
+| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce991faa4e875e826be29?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96c83d13d1f5b6abecf?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Aug 13 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation - EDRP Approved](https://jobright.ai/jobs/info/689ce93483d13d1f5b6abe3e?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Aug 13 |
 | **[RR Donnelley](http://www.rrd.com)** | **[H0338 Intern](https://jobright.ai/jobs/info/689ce21a79a9f9666253bcc8?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Boeing Business Internship Program (Paid) Summer 2026 - Human Resources](https://jobright.ai/jobs/info/689bc0ce83d13d1f5b6a3345?utm_campaign=1054&utm_source=git)** | USA - Mukilteo, WA | On Site | Aug 12 |
 | **[Grande Custom Ingredients Group](http://www.grandecig.com)** | **[HR Intern - Recruitment & Training](https://jobright.ai/jobs/info/689bba2883d13d1f5b6a30f1?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 12 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb7adfaa4e875e8262fb5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb52079a9f966625330db?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb24783d13d1f5b6a2860?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb20883d13d1f5b6a2830?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bb1b679a9f96662532c70?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Aug 12 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/689bacc4faa4e875e8262698?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Aug 12 |
-| **[Grande Cheese Company](https://www.grande.com/)** | **[HR Intern - Recruitment & Training](https://jobright.ai/jobs/info/689bab3883d13d1f5b6a24b2?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
