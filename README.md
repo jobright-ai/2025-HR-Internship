@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[MBA 2026 Summer Intern, Corporate Performance Improvement (CPI)](https://jobright.ai/jobs/info/689f71ca79a9f96662557ddb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
+| ↳ | **[MBA 2026 Summer Intern, Corporate Performance Improvement (CPI)](https://jobright.ai/jobs/info/689f6ec9faa4e875e8286d4a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
+| **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Talent Management & Human Resources Intern](https://jobright.ai/jobs/info/689f6bb279a9f96662556ca3?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Aug 15 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources (HR) Technology](https://jobright.ai/jobs/info/689f682a79a9f96662556aa4?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 15 |
+| **[RKL LLP](https://www.rklcpa.com)** | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f63c7faa4e875e82866e8?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f639b83d13d1f5b6c6320?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f639bfaa4e875e8286655?utm_campaign=1054&utm_source=git)** | Reading, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f639afaa4e875e8286650?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f638879a9f9666255683e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f634c83d13d1f5b6c621b?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 15 |
+| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/689f634179a9f96662556760?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Aug 15 |
+| **[Dana-co LLC](https://www.dana-co.com)** | **[Part-Time HR Recruiting Assistant Internship – Fall 2025](https://jobright.ai/jobs/info/689f5e74faa4e875e8286461?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Aug 15 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Admissions](https://jobright.ai/jobs/info/689f533dfaa4e875e8285e75?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 15 |
 | **[Willis Lease Finance Corporation](https://www.wlfc.global/)** | **[Intern, Talent Acquisition & HRIS](https://jobright.ai/jobs/info/689f530879a9f96662556060?utm_campaign=1054&utm_source=git)** | Coconut Creek, FL | On Site | Aug 15 |
 | **[Paybility Financial](www.paybility.net)** | **[HR Intern](https://jobright.ai/jobs/info/689f455983d13d1f5b6c5470?utm_campaign=1054&utm_source=git)** | Roanoke, VA | Remote | Aug 15 |
@@ -66,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[McDaniel College](http://www.mcdaniel.edu/)** | **[Student Worker, HR Assistant -- Work Study - McDaniel College](https://jobright.ai/jobs/info/689ef60e83d13d1f5b6c3a8a?utm_campaign=1054&utm_source=git)** | Westminster, MD | On Site | Aug 15 |
 | **[BayMark Health Services](http://baymark.com/)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/689ee22cfaa4e875e8283080?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 15 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Salt Lake City / Human Capital Management / Summer Analyst](https://jobright.ai/jobs/info/689ee4df79a9f96662553ae6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689ec12379a9f96662550dc0?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 14 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689ec16b79a9f96662550f1c?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - South Shore, MA](https://jobright.ai/jobs/info/689ebdf883d13d1f5b6c0c29?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Aug 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (Trades Helper) - Bureau of Field Services](https://jobright.ai/jobs/info/689e9d3383d13d1f5b6be185?utm_campaign=1054&utm_source=git)** | Dimondale, MI | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Mobility Coordinator Intern-(HROP) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8edd83d13d1f5b6bda9f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
@@ -77,12 +89,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e814efaa4e875e827d217?utm_campaign=1054&utm_source=git)** | Westminster, MD | On Site | Aug 14 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/689ea6b6faa4e875e827e996?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 | **[Sparton](http://www.sparton.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e745779a9f9666254ce90?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Aug 14 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e6a6c83d13d1f5b6bc1f9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
-| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6a0f83d13d1f5b6bc0a3?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
-| ↳ | **[HR Intern - Bozeman](https://jobright.ai/jobs/info/689e691e83d13d1f5b6bbc8d?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Aug 14 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68e8faa4e875e827be1d?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
+| **[UPS](http://www.ups.com)** | **[HR Intern - Redmond](https://jobright.ai/jobs/info/689e6b0383d13d1f5b6bc423?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
+| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6953faa4e875e827bf60?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68ee83d13d1f5b6bbbf1?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| ↳ | **[HR Intern - Bozeman](https://jobright.ai/jobs/info/689e677779a9f9666254c319?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Aug 14 |
 | **[Brightstar Lottery](www.brightstarlottery.com)** | **[Global Lottery Talent Acquisition Intern](https://jobright.ai/jobs/info/689e864c79a9f9666254daa3?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Aug 14 |
-| **[UPS](http://www.ups.com)** | **[HR Intern - Redmond](https://jobright.ai/jobs/info/689e660279a9f9666254bed4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e65d979a9f9666254be6a?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Knorr Brake Company](http://knorrbrake.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57de79a9f9666254b5af?utm_campaign=1054&utm_source=git)** | Westminster, MD | Hybrid | Aug 14 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57b079a9f9666254b58f?utm_campaign=1054&utm_source=git)** | Huntington, IN | Hybrid | Aug 14 |
 | **[Element Materials Technology](https://www.element.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e5495faa4e875e827b166?utm_campaign=1054&utm_source=git)** | Huntington Beach, CA | Hybrid | Aug 14 |
@@ -102,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/689e1be3faa4e875e8276c5e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 14 |
 | **[Adelphoi USA](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689e132ffaa4e875e82768fc?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Aug 14 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Human Resources Intern - May 2026 - May 2027](https://jobright.ai/jobs/info/689e110479a9f96662546aa6?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Aug 14 |
+| **[State of Washington](http://access.wa.gov/)** | **[Corrections & Custody Officer 3 - INTERNAL Workcrew - Seattle](https://jobright.ai/jobs/info/689f5aa479a9f9666255657c?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | On Site | Aug 14 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Associate](https://jobright.ai/jobs/info/689dfda479a9f9666254621d?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 14 |
 | **[Vessco Water](https://www.vesscowater.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689df61e83d13d1f5b6b5a88?utm_campaign=1054&utm_source=git)** | Chanhassen, MN | On Site | Aug 14 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Aug 14 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Float Staffing](https://jobright.ai/jobs/info/6865860b0e5363198828bf42?utm_campaign=1054&utm_source=git)** | Destin, FL | On Site | Aug 14 |
 | **[Risepoint](http://www.risepoint.com)** | **[People Program Intern (Active Students Only)](https://jobright.ai/jobs/info/689dd79b83d13d1f5b6b49bd?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 14 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Learning and Development Intern](https://jobright.ai/jobs/info/6880d74ef4f06100f3a214d0?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Aug 14 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 14 |
@@ -131,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[SPECIALIZED SUPPORT-STUDENT ASSISTANT (HR DATA ANALYITICS DISTRICT OFFICE)](https://jobright.ai/jobs/info/689d128f83d13d1f5b6acf5b?utm_campaign=1054&utm_source=git)** | Dallas College Administration | On Site | Aug 13 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Rotational Internship - Tampa Florida](https://jobright.ai/jobs/info/689d0ebf79a9f9666253d118?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Aug 13 |
 | **[MarshBerry](http://marshberry.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ceca383d13d1f5b6ac11c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 13 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce99a79a9f9666253c244?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
-| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce991faa4e875e826be29?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9d379a9f9666253c31d?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
+| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce99a79a9f9666253c244?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96ffaa4e875e826bd68?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96c83d13d1f5b6abecf?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Aug 13 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation - EDRP Approved](https://jobright.ai/jobs/info/689ce93483d13d1f5b6abe3e?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Aug 13 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clarion Psychiatric Center](https://clarioncenter.com/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/689d8ca7faa4e875e8271432?utm_campaign=1054&utm_source=git)** | Clarion, PA | On Site | Aug 13 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Culinary International Internship](https://jobright.ai/jobs/info/689cd8b7faa4e875e826afcc?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Aug 13 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Campus Recruiting Events Intern](https://jobright.ai/jobs/info/689cd19efaa4e875e826ac74?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Aug 13 |
-| ↳ | **[Campus Recruiting Events Intern](https://jobright.ai/jobs/info/689ccf87faa4e875e826ab64?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto | On Site | Aug 13 |
-| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc02383d13d1f5b6aa44d?utm_campaign=1054&utm_source=git)** | 0060 - Monroeville - Supermarket | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc01279a9f9666253a786?utm_campaign=1054&utm_source=git)** | 0040 - Shadyside - Market District | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc00979a9f9666253a75f?utm_campaign=1054&utm_source=git)** | 0047 - Robinson (Settlers Ridge) - Market District | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc00179a9f9666253a739?utm_campaign=1054&utm_source=git)** | 0043 - Pine Twp - Market District | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cc001faa4e875e826a346?utm_campaign=1054&utm_source=git)** | 0070 - Donaldson's Crossroads - Supermarket | On Site | Aug 13 |
-| ↳ | **[Now Accepting Applications for 2026 Summer Internship - Greater Pittsburgh Area](https://jobright.ai/jobs/info/689cbff183d13d1f5b6aa39e?utm_campaign=1054&utm_source=git)** | 0008 - New Kensington - Supermarket | On Site | Aug 13 |
-| **[ZF Group](https://www.zf.com/)** | **[HR Intern](https://jobright.ai/jobs/info/689cb303faa4e875e8269f2a?utm_campaign=1054&utm_source=git)** | Marysville, MI | On Site | Aug 13 |
-| **[MarshBerry](http://marshberry.com)** | **[HR Intern](https://jobright.ai/jobs/info/68826b84835a903aa07ed610?utm_campaign=1054&utm_source=git)** | Beachwood, OH | On Site | Aug 13 |
-| **[You're With Us!](http://www.yourewithus.org)** | **[You're With Us! Coordinator](https://jobright.ai/jobs/info/689d8cd0faa4e875e82714ac?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Aug 13 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Change Management (Hybrid Opportunity)](https://jobright.ai/jobs/info/689c9f33faa4e875e82692d5?utm_campaign=1054&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Aug 13 |
-| **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
