@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Salt Lake City / Human Capital Management / Summer Analyst](https://jobright.ai/jobs/info/689ee4df79a9f96662553ae6?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 15 |
+| **[BayMark Health Services](http://baymark.com/)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/689ee22cfaa4e875e8283080?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 15 |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / San Francisco / Wealth Management, Private Wealth Management / Summer Associate](https://jobright.ai/jobs/info/689edf9583d13d1f5b6c2f01?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 15 |
+| ↳ | **[2026 / Americas /Dallas / Wealth Management, Financial Planning / Summer Associate](https://jobright.ai/jobs/info/689edf8183d13d1f5b6c2e89?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
+| ↳ | **[2026 / Americas / Dallas Metro Area / Wealth Management, Private Wealth Management / Summer Associate](https://jobright.ai/jobs/info/689edf29faa4e875e8282e9d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689ec12379a9f96662550dc0?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - South Shore, MA](https://jobright.ai/jobs/info/689ebdf883d13d1f5b6c0c29?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Aug 14 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (Trades Helper) - Bureau of Field Services](https://jobright.ai/jobs/info/689e9d3383d13d1f5b6be185?utm_campaign=1054&utm_source=git)** | Dimondale, MI | On Site | Aug 14 |
@@ -69,12 +74,13 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/689ea6b6faa4e875e827e996?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 | **[Mental Health Resources](https://www.mhrnewmexico.com)** | **[Master's Level Unpaid Intern (Fall '25)](https://jobright.ai/jobs/info/689ea6f9faa4e875e827eaf9?utm_campaign=1054&utm_source=git)** | Clovis, NM | On Site | Aug 14 |
 | **[Sparton](http://www.sparton.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e745779a9f9666254ce90?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Aug 14 |
-| **[UPS](http://www.ups.com)** | **[HR Intern - Redmond](https://jobright.ai/jobs/info/689e6b0383d13d1f5b6bc423?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
-| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6a0f83d13d1f5b6bc0a3?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
+| **[MedMark Treatment Centers](https://medmark.com)** | **[Substance Use Counselor Intern](https://jobright.ai/jobs/info/689ee515faa4e875e828363f?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 14 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e6a6c83d13d1f5b6bc1f9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6953faa4e875e827bf60?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
 | ↳ | **[HR Intern - Bozeman](https://jobright.ai/jobs/info/689e691e83d13d1f5b6bbc8d?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Aug 14 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68ee83d13d1f5b6bbbf1?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68e8faa4e875e827be1d?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Brightstar Lottery](www.brightstarlottery.com)** | **[Global Lottery Talent Acquisition Intern](https://jobright.ai/jobs/info/689e864c79a9f9666254daa3?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Aug 14 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e65d979a9f9666254be6a?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
+| **[UPS](http://www.ups.com)** | **[HR Intern - Redmond](https://jobright.ai/jobs/info/689e660279a9f9666254bed4?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Knorr Brake Company](http://knorrbrake.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57de79a9f9666254b5af?utm_campaign=1054&utm_source=git)** | Westminster, MD | Hybrid | Aug 14 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57b079a9f9666254b58f?utm_campaign=1054&utm_source=git)** | Huntington, IN | Hybrid | Aug 14 |
 | **[Element Materials Technology](https://www.element.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e5495faa4e875e827b166?utm_campaign=1054&utm_source=git)** | Huntington Beach, CA | Hybrid | Aug 14 |
@@ -102,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Cain Watters & Associates](https://www.cainwatters.com/)** | **[Internal Communications Coordinator](https://jobright.ai/jobs/info/6881366b16ea5743a3737487?utm_campaign=1054&utm_source=git)** | Frisco, TX | Hybrid | Aug 14 |
 | **[DriveTime](https://www.drivetime.com)** | **[DriveTime Family of Brands Internship Talent Community](https://jobright.ai/jobs/info/689db4b479a9f96662544059?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Aug 14 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/684a84ef2b948718a2c418ca?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Aug 14 |
+| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Search and Advisory](https://jobright.ai/jobs/info/689ede4879a9f96662552f8d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[HR Intern](https://jobright.ai/jobs/info/689eca9583d13d1f5b6c14e4?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Aug 13 |
 | **[XPENG Deutschland](https://www.xpeng.com/de)** | **[2026 Campus Recruiting Robotics Center Internship Position](https://jobright.ai/jobs/info/689d5e18faa4e875e826f17e?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 13 |
 | **[Trinity River Authority of Texas](https://www.trinityra.org/)** | **[Intern III - HR - Seasonal](https://jobright.ai/jobs/info/689d49ce79a9f9666253ed19?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Aug 13 |
@@ -120,9 +127,9 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Rotational Internship - Tampa Florida](https://jobright.ai/jobs/info/689d0ebf79a9f9666253d118?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Aug 13 |
 | **[MarshBerry](http://marshberry.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689ceca383d13d1f5b6ac11c?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 13 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9de79a9f9666253c350?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Aug 13 |
-| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9d379a9f9666253c31d?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
+| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce9a583d13d1f5b6abfaa?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
 | ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce99a79a9f9666253c244?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
-| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce96ffaa4e875e826bd68?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Aug 13 |
+| ↳ | **[2026 - Human Resources](https://jobright.ai/jobs/info/689ce991faa4e875e826be29?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 13 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation - EDRP Approved](https://jobright.ai/jobs/info/689ce93483d13d1f5b6abe3e?utm_campaign=1054&utm_source=git)** | Tyler, TX | On Site | Aug 13 |
 | **[RR Donnelley](http://www.rrd.com)** | **[H0338 Intern](https://jobright.ai/jobs/info/689ce21a79a9f9666253bcc8?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Aug 13 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Talent Acquisition and University Relations Intern](https://jobright.ai/jobs/info/689e7fe483d13d1f5b6bcf56?utm_campaign=1054&utm_source=git)** | Phoenix Metro Area - Arizona - USA (Remote) | Remote | Aug 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD SkillBridge Internship Application (Massachusetts)](https://jobright.ai/jobs/info/675337098aa41e895d5be2b5?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Aug 13 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689c70b779a9f96662538b63?utm_campaign=1054&utm_source=git)** | Salem, MA | On Site | Aug 13 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Aug 13 |
-| **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MDCOB MBA Office (part-time)](https://jobright.ai/jobs/info/689cae8979a9f96662539ff5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 13 |
-| **[Patelco Credit Union](http://www.patelco.org)** | **[HR Intern](https://jobright.ai/jobs/info/689c2dca79a9f966625376f7?utm_campaign=1054&utm_source=git)** | Dublin, CA | Hybrid | Aug 12 |
-| **[Northwest Youth Services](https://www.nwys.org)** | **[Case Aid Intern](https://jobright.ai/jobs/info/689d82cefaa4e875e8270eab?utm_campaign=1054&utm_source=git)** | Bellingham, WA | On Site | Aug 12 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/689ecb90faa4e875e82816eb?utm_campaign=1054&utm_source=git)** | Eagle Mountain, UT | On Site | Aug 12 |
-| ↳ | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/689ec2abfaa4e875e82810c6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Summer Safety Internship (Multiple Locations)](https://jobright.ai/jobs/info/689eb49e83d13d1f5b6bfc4e?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
