@@ -74,9 +74,10 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Working Student (f/m/d) Talent Acquisition & Employer Branding](https://jobright.ai/jobs/info/68a02ca883d13d1f5b6ceea5?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 15 |
 | **[The Block](https://www.theblock.co)** | **[HR Operations Intern](https://jobright.ai/jobs/info/68a00f1acc9ee94dc911bcc0?utm_campaign=1054&utm_source=git)** | Remote within United States | Remote | Aug 15 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a8d83d13d1f5b6cccfb?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a5cfaa4e875e828ceff?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00a5bfaa4e875e828cefc?utm_campaign=1054&utm_source=git)** | Earth City, MO | On Site | Aug 15 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00919cc9ee94dc911b9fc?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
+| **[Dallas College](https://www.dcccd.edu)** | **[Opportunity Youth Intern-1](https://jobright.ai/jobs/info/68a14dee83d13d1f5b6d2ddb?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be95?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6effaa4e875e828be70?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6b083d13d1f5b6cbb9a?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07ffaa4e875e828bba4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07ecc9ee94dc911a638?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[New York State Center for Recruitment & Public Service](http://www.ny.gov/)** | **[Student Assistant](https://jobright.ai/jobs/info/689fd96183d13d1f5b6cb79b?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Aug 15 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6888710927fa3c6292367837?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS (Temporary)](https://jobright.ai/jobs/info/689fd0aefaa4e875e828b485?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 15 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/689fcdbe83d13d1f5b6cb0e7?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 15 |
 | **[Kurt J. Lesker Company](http://lesker.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/689ff8e7cc9ee94dc911b069?utm_campaign=1054&utm_source=git)** | Jefferson, PA | On Site | Aug 15 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/689ea6b6faa4e875e827e996?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 | **[Sparton](http://www.sparton.com)** | **[HR Intern](https://jobright.ai/jobs/info/689e745779a9f9666254ce90?utm_campaign=1054&utm_source=git)** | De Leon Springs, FL | On Site | Aug 14 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - Redmond](https://jobright.ai/jobs/info/689e6b0383d13d1f5b6bc423?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
-| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6a0f83d13d1f5b6bc0a3?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
+| ↳ | **[HR Intern - Oregon](https://jobright.ai/jobs/info/689e6953faa4e875e827bf60?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 14 |
 | ↳ | **[HR Intern - Bozeman](https://jobright.ai/jobs/info/689e691e83d13d1f5b6bbc8d?utm_campaign=1054&utm_source=git)** | Billings, MT | On Site | Aug 14 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68ee83d13d1f5b6bbbf1?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/689e68e8faa4e875e827be1d?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Brightstar Lottery](www.brightstarlottery.com)** | **[Global Lottery Talent Acquisition Intern](https://jobright.ai/jobs/info/689e864c79a9f9666254daa3?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Aug 14 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/6812a229776be1fec519fd8f?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Aug 14 |
-| **[Knorr Brake Company](http://knorrbrake.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57de79a9f9666254b5af?utm_campaign=1054&utm_source=git)** | Westminster, MD | Hybrid | Aug 14 |
-| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/689e57b079a9f9666254b58f?utm_campaign=1054&utm_source=git)** | Huntington, IN | Hybrid | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
