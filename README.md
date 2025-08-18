@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Volunteer Engagement Manager (Volunteer)](https://jobright.ai/jobs/info/68a393fb403ad4363b1c26d3?utm_campaign=1054&utm_source=git)** | New Haven, CT | Remote | Aug 18 |
+| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Summer Paid Internship - 2026](https://jobright.ai/jobs/info/68a3912e1ab5f8579e8a6cfe?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 18 |
+| **[Cultivate Advisors](https://cultivateadvisors.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/68a38f9b403ad4363b1c2389?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Remote | Aug 18 |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Marietta, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a3877b37d3cc6b0d577edf?utm_campaign=1054&utm_source=git)** | Marietta, OH | On Site | Aug 18 |
+| ↳ | **[Caseworker Intern – [Cleveland, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a3874137d3cc6b0d577e87?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 18 |
+| ↳ | **[Caseworker Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a3860a403ad4363b1c2122?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Aug 18 |
 | **[Hellmann Worldwide Logistics](https://www.hellmann.com/en)** | **[HR Intern](https://jobright.ai/jobs/info/68a37da437d3cc6b0d577789?utm_campaign=1054&utm_source=git)** | Doral, FL | On Site | Aug 18 |
 | **[Cantex](https://www.cantexcc.com)** | **[Human Resources Intern (18878)](https://jobright.ai/jobs/info/68a37cb7403ad4363b1c1936?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | Aug 18 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Human Resources Leadership Development Program - Summer Intern (On-Site)](https://jobright.ai/jobs/info/68a37aa837d3cc6b0d577601?utm_campaign=1054&utm_source=git)** | Bloomfield, CT | On Site | Aug 18 |
@@ -65,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Human Resources Leadership Development Program - Summer Intern (On-Site)](https://jobright.ai/jobs/info/68a378711ab5f8579e8a6083?utm_campaign=1054&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
 | ↳ | **[Human Resources Leadership Development Program - Summer Intern (On-Site)](https://jobright.ai/jobs/info/68a3782e403ad4363b1c1573?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 18 |
 | **[Jinko U.S.](https://jinkosolar.us/)** | **[HR Project Intern](https://jobright.ai/jobs/info/68a36f6437d3cc6b0d576c2d?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 18 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a36f221ab5f8579e8a589c?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a365e51ab5f8579e8a54b4?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68a365ab1ab5f8579e8a547c?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68a36579403ad4363b1c0b1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Aug 18 |
@@ -98,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fcd7403ad4363b1be355?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Aug 18 |
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fcc81ab5f8579e8a2e18?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 18 |
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fc6d403ad4363b1be22a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Aug 18 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68a2f5e2ff570d7ffd65e825?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 18 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Payroll - Fall 2025](https://jobright.ai/jobs/info/68865985b651c92cb78af33d?utm_campaign=1054&utm_source=git)** | Culver City, CA | On Site | Aug 18 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68a2f3a4da4b7a7e730745e1?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 18 |
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – HR Communications](https://jobright.ai/jobs/info/68a2ecc2da4b7a7e730744f0?utm_campaign=1054&utm_source=git)** | Downtown Seattle | Hybrid | Aug 18 |
@@ -129,15 +133,14 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern / Greater New York](https://jobright.ai/jobs/info/688411016fcd973d15ae56de?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Human Resources - Co-Op](https://jobright.ai/jobs/info/6883efbc835a903aa07f910a?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Aug 16 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67a073758546b803b7a4e26f?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Aug 16 |
-| **[Hudl](http://www.hudl.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6883e95f835a903aa07f8c38?utm_campaign=1054&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Aug 16 |
 | **[DHL eCommerce](http://dhl.com/ecommerce-solutions)** | **[HR Intern](https://jobright.ai/jobs/info/68a186e4cc9ee94dc912386a?utm_campaign=1054&utm_source=git)** | Weston, FL | On Site | Aug 16 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Human Resources Intern UG](https://jobright.ai/jobs/info/68a02cc2faa4e875e828f0ee?utm_campaign=1054&utm_source=git)** | Round Rock, TX | On Site | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[Working Student (f/m/d) Talent Acquisition & Employer Branding](https://jobright.ai/jobs/info/68a02ca883d13d1f5b6ceea5?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 15 |
 | **[Dana-co LLC](https://www.dana-co.com)** | **[Human Resources Recruiting Internship – Fall 2025](https://jobright.ai/jobs/info/689f5e74faa4e875e8286461?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Aug 15 |
 | **[The Block](https://www.theblock.co)** | **[HR Operations Intern](https://jobright.ai/jobs/info/68a00f1acc9ee94dc911bcc0?utm_campaign=1054&utm_source=git)** | Remote within United States | Remote | Aug 15 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a5cfaa4e875e828cf00?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00a5bfaa4e875e828cefc?utm_campaign=1054&utm_source=git)** | Earth City, MO | On Site | Aug 15 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a5bfaa4e875e828cefc?utm_campaign=1054&utm_source=git)** | Earth City, MO | On Site | Aug 15 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a0092fcc9ee94dc911ba05?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00919cc9ee94dc911b9fc?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be95?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6effaa4e875e828be70?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas College](https://www.dcccd.edu)** | **[Opportunity Youth Intern-1](https://jobright.ai/jobs/info/689fa80e83d13d1f5b6ca4c8?utm_campaign=1054&utm_source=git)** | Bill J Priest Center | On Site | Aug 15 |
 | **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/689fa07dfaa4e875e828a4f9?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 15 |
 | **[The Boldt Company](https://www.boldt.com)** | **[HR Youth Apprentice – Learning & Development](https://jobright.ai/jobs/info/689f92b0faa4e875e8289d9c?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Aug 15 |
-| **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA HR (NY/NJ) Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689f9142b3e889632cf08c0c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689f8c23faa4e875e8289a74?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | Aug 15 |
-| **[Dana-co LLC](https://www.dana-co.com)** | **[Human Resources Recruiting Internship](https://jobright.ai/jobs/info/689f8b79b3e889632cf088fe?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
