@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grande Custom Ingredients Group](http://www.grandecig.com)** | **[HR Intern - Associate (Employee) Engagement](https://jobright.ai/jobs/info/68a3ba8a1ab5f8579e8a7d5f?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 18 |
+| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68a3b7321ab5f8579e8a7c23?utm_campaign=1054&utm_source=git)** | Norman, OK | On Site | Aug 18 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68a3b69e403ad4363b1c3181?utm_campaign=1054&utm_source=git)** | Crete, NE | On Site | Aug 18 |
+| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a3b0b037d3cc6b0d578d69?utm_campaign=1054&utm_source=git)** | Remote - Maryland, USA | Hybrid | Aug 18 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a3ac3e37d3cc6b0d578b3e?utm_campaign=1054&utm_source=git)** | Ventura, CA | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3ac0a1ab5f8579e8a7690?utm_campaign=1054&utm_source=git)** | Goleta, CA | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3ac00403ad4363b1c2d9b?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3abd437d3cc6b0d578a81?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3ab741ab5f8579e8a7589?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Volunteer Engagement Manager (Volunteer)](https://jobright.ai/jobs/info/68a393fb403ad4363b1c26d3?utm_campaign=1054&utm_source=git)** | New Haven, CT | Remote | Aug 18 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Summer Paid Internship - 2026](https://jobright.ai/jobs/info/68a3912e1ab5f8579e8a6cfe?utm_campaign=1054&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 18 |
 | **[Cultivate Advisors](https://cultivateadvisors.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/68a38f9b403ad4363b1c2389?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Remote | Aug 18 |
@@ -73,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Jinko U.S.](https://jinkosolar.us/)** | **[HR Project Intern](https://jobright.ai/jobs/info/68a36f6437d3cc6b0d576c2d?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a365e51ab5f8579e8a54b4?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68a365ab1ab5f8579e8a547c?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68a36579403ad4363b1c0b1a?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Aug 18 |
-| **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3651f1ab5f8579e8a5361?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
+| ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3651f1ab5f8579e8a5361?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 18 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Human Resources Office Assistant](https://jobright.ai/jobs/info/68a36485403ad4363b1c09a8?utm_campaign=1054&utm_source=git)** | Macon Campus | On Site | Aug 18 |
 | **[Drinks Food Life](www.drinksfoodlife.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68a3614e403ad4363b1c0828?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 18 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a355f937d3cc6b0d575f94?utm_campaign=1054&utm_source=git)** | RENSSELAER | On Site | Aug 18 |
@@ -139,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 15 |
 | **[Dana-co LLC](https://www.dana-co.com)** | **[Human Resources Recruiting Internship – Fall 2025](https://jobright.ai/jobs/info/689f5e74faa4e875e8286461?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Aug 15 |
 | **[The Block](https://www.theblock.co)** | **[HR Operations Intern](https://jobright.ai/jobs/info/68a00f1acc9ee94dc911bcc0?utm_campaign=1054&utm_source=git)** | Remote within United States | Remote | Aug 15 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a5bfaa4e875e828cefc?utm_campaign=1054&utm_source=git)** | Earth City, MO | On Site | Aug 15 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a0092fcc9ee94dc911ba05?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a00a8483d13d1f5b6ccceb?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Aug 15 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00a5bfaa4e875e828cefc?utm_campaign=1054&utm_source=git)** | Earth City, MO | On Site | Aug 15 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a00919cc9ee94dc911b9fc?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be95?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6effaa4e875e828be70?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07ffaa4e875e828bba4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07ecc9ee94dc911a638?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[New York State Center for Recruitment & Public Service](http://www.ny.gov/)** | **[Student Assistant](https://jobright.ai/jobs/info/689fd96183d13d1f5b6cb79b?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Aug 15 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6888710927fa3c6292367837?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS (Temporary)](https://jobright.ai/jobs/info/689fd0aefaa4e875e828b485?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Aug 15 |
-| **[Kurt J. Lesker Company](http://lesker.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/689ff8e7cc9ee94dc911b069?utm_campaign=1054&utm_source=git)** | Jefferson, PA | On Site | Aug 15 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6889b142aab47a17f6704998?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 15 |
-| **[Elite Dental Care](http://www.elitedentalcare.com)** | **[Job Shadow/Intern](https://jobright.ai/jobs/info/689fb935faa4e875e828ab8a?utm_campaign=1054&utm_source=git)** | Trenton, TN | On Site | Aug 15 |
-| **[Dallas College](https://www.dcccd.edu)** | **[Opportunity Youth Intern-1](https://jobright.ai/jobs/info/689fa80e83d13d1f5b6ca4c8?utm_campaign=1054&utm_source=git)** | Bill J Priest Center | On Site | Aug 15 |
-| **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/689fa07dfaa4e875e828a4f9?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 15 |
-| **[The Boldt Company](https://www.boldt.com)** | **[HR Youth Apprentice – Learning & Development](https://jobright.ai/jobs/info/689f92b0faa4e875e8289d9c?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
