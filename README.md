@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/68a42bc82d2a252445cd650b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 19 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68a43d89541cc3479840b26a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 19 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
+Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 19 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Temporary College Recruiter - East Campus](https://jobright.ai/jobs/info/68a425f3e9f1c744da121164?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Aug 19 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a41dbe541cc3479840a8ae?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bdc541cc34798409d5a?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc9541cc34798409d54?utm_campaign=1054&utm_source=git)** | Irving, Texas | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc9541cc34798409d53?utm_campaign=1054&utm_source=git)** | Corinth, Mississippi | On Site | Aug 18 |
-| ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51de?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51df?utm_campaign=1054&utm_source=git)** | Mapleton, Illinois | On Site | Aug 18 |
+| ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51de?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51e0?utm_campaign=1054&utm_source=git)** | Seguin, Texas | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bbfe9f1c744da120245?utm_campaign=1054&utm_source=git)** | Mossville, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bb3e9f1c744da12023b?utm_campaign=1054&utm_source=git)** | Peoria, Illinois | On Site | Aug 18 |
@@ -86,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Academy Sports + Outdoors](http://www.academy.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68a3d1a537d3cc6b0d579dec?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Aug 18 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: People & Culture (Fall 2025)](https://jobright.ai/jobs/info/68a3d18637d3cc6b0d579da9?utm_campaign=1054&utm_source=git)** | Shippensburg, PA | On Site | Aug 18 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Human Resources Manager Internship](https://jobright.ai/jobs/info/68a3cabf403ad4363b1c3ba3?utm_campaign=1054&utm_source=git)** | Cincinnati | On Site | Aug 18 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a3c8561ab5f8579e8a8254?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Aug 18 |
+| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a3ca7f1ab5f8579e8a8456?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Aug 18 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[HR Intern - Associate (Employee) Engagement](https://jobright.ai/jobs/info/68a3c566403ad4363b1c3a7d?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Aug 18 |
 | **[Precision Castparts](http://precast.com)** | **[HR Co-Op Fall](https://jobright.ai/jobs/info/68a3c50e37d3cc6b0d579768?utm_campaign=1054&utm_source=git)** | Eastlake, OH | On Site | Aug 18 |
 | **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a3e5fc2d2a252445cd3d73?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Pantex Plant](https://www.pantex.com)** | **[SkillBridge Military Intern](https://jobright.ai/jobs/info/68a2e367ff570d7ffd65e59d?utm_campaign=1054&utm_source=git)** | Amarillo, TX | Hybrid | Aug 18 |
 | **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Human Resources](https://jobright.ai/jobs/info/68a2d9cf468ac21d6fabb469?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2c539da4b7a7e730739ff?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Aug 17 |
-| **[Cummings Aerospace](https://www.cummingsaerospace.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68a411d9e9f1c744da12091e?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
