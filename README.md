@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 19 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Pilot Resources (Spring, 2025)](https://jobright.ai/jobs/info/68a456c6e9f1c744da121943?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68a44e44e9f1c744da1217fe?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68a43d89541cc3479840b26a?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
 Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 19 |
@@ -65,21 +68,21 @@ Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_camp
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bdc541cc34798409d5a?utm_campaign=1054&utm_source=git)** | Chicago, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc9541cc34798409d54?utm_campaign=1054&utm_source=git)** | Irving, Texas | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc9541cc34798409d53?utm_campaign=1054&utm_source=git)** | Corinth, Mississippi | On Site | Aug 18 |
-| ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51df?utm_campaign=1054&utm_source=git)** | Mapleton, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51de?utm_campaign=1054&utm_source=git)** | Lafayette, Indiana | On Site | Aug 18 |
+| ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51df?utm_campaign=1054&utm_source=git)** | Mapleton, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bc42d2a252445cd51e0?utm_campaign=1054&utm_source=git)** | Seguin, Texas | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bbfe9f1c744da120245?utm_campaign=1054&utm_source=git)** | Mossville, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bb3e9f1c744da12023b?utm_campaign=1054&utm_source=git)** | Peoria, Illinois | On Site | Aug 18 |
 | ↳ | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a40bb0e9f1c744da120238?utm_campaign=1054&utm_source=git)** | Pontiac, Illinois | On Site | Aug 18 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Human Resources Manager Internship](https://jobright.ai/jobs/info/68a408492d2a252445cd4fc9?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a4019b2d2a252445cd4d76?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a40199541cc347984099ef?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a401762d2a252445cd4d1f?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a401422d2a252445cd4c84?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a40135541cc347984098d6?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Aug 18 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a401132d2a252445cd4c21?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a400f72d2a252445cd4bcb?utm_campaign=1054&utm_source=git)** | Goleta, CA | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3fd4fe9f1c744da11fb86?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Aug 18 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3fd2fe9f1c744da11fb75?utm_campaign=1054&utm_source=git)** | Round Rock, TX | On Site | Aug 18 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3fcf8e9f1c744da11fb56?utm_campaign=1054&utm_source=git)** | Round Rock, TX | On Site | Aug 18 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a3fcefe9f1c744da11fb51?utm_campaign=1054&utm_source=git)** | Ventura, CA | On Site | Aug 18 |
 | **[Cultivate Advisors](https://cultivateadvisors.com)** | **[Recruiting & Sales Intern](https://jobright.ai/jobs/info/68a3e67ee9f1c744da11ef72?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Remote | Aug 18 |
 | **[Saint Mary-of-the-Woods College](http://www.smwc.edu/)** | **[Student Employment - Human Resources Intern](https://jobright.ai/jobs/info/68a3e5afe9f1c744da11ec7b?utm_campaign=1054&utm_source=git)** | Saint Mary-of-the-Woods, IN | On Site | Aug 18 |
@@ -133,8 +136,8 @@ Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_camp
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68a355381ab5f8579e8a4bd9?utm_campaign=1054&utm_source=git)** | RENSSELAER | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3552d403ad4363b1c033f?utm_campaign=1054&utm_source=git)** | Warren | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68a355191ab5f8579e8a4ba2?utm_campaign=1054&utm_source=git)** | TARRYTOWN | On Site | Aug 18 |
-| ↳ | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3550c1ab5f8579e8a4b7a?utm_campaign=1054&utm_source=git)** | Armonk | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3550c1ab5f8579e8a4b77?utm_campaign=1054&utm_source=git)** | SLEEPY HOLLOW | On Site | Aug 18 |
+| ↳ | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a3550c1ab5f8579e8a4b7a?utm_campaign=1054&utm_source=git)** | Armonk | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a354f7403ad4363b1c02ad?utm_campaign=1054&utm_source=git)** | Warren | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a354ec1ab5f8579e8a4b40?utm_campaign=1054&utm_source=git)** | Armonk | On Site | Aug 18 |
 | ↳ | **[Summer 2026 Intern- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68a354a01ab5f8579e8a4ab9?utm_campaign=1054&utm_source=git)** | SLEEPY HOLLOW | On Site | Aug 18 |
@@ -146,8 +149,7 @@ Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_camp
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 18 |
 | **[RKL eSolutions LLC](http://rklesolutions.com)** | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fd7137d3cc6b0d5742ec?utm_campaign=1054&utm_source=git)** | Reading, PA | On Site | Aug 18 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Non-Workstudy)- Housing](https://jobright.ai/jobs/info/68a2fd4037d3cc6b0d57425a?utm_campaign=1054&utm_source=git)** | Shelby, NC | On Site | Aug 18 |
-| **[RKL eSolutions LLC](http://rklesolutions.com)** | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fd3b403ad4363b1be49b?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Aug 18 |
-| ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fceb37d3cc6b0d574169?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 18 |
+| **[RKL eSolutions LLC](http://rklesolutions.com)** | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fceb37d3cc6b0d574169?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Aug 18 |
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fcd7403ad4363b1be355?utm_campaign=1054&utm_source=git)** | Chambersburg, PA | On Site | Aug 18 |
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fcc81ab5f8579e8a2e18?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Aug 18 |
 | ↳ | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a2fc6d403ad4363b1be22a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Aug 18 |
@@ -156,6 +158,4 @@ Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_camp
 | **[Port of Seattle](http://www.portseattle.org/Pages/default.aspx)** | **[College Intern – HR Communications](https://jobright.ai/jobs/info/68a2ecc2da4b7a7e730744f0?utm_campaign=1054&utm_source=git)** | Downtown Seattle | Hybrid | Aug 18 |
 | **[Shennon Biotechnologies](https://www.shennonbio.com/)** | **[Join our Talent Pool!](https://jobright.ai/jobs/info/67882e7d32f192eebe7bbf36?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | **[Pantex Plant](https://www.pantex.com)** | **[SkillBridge Military Intern](https://jobright.ai/jobs/info/68a2e367ff570d7ffd65e59d?utm_campaign=1054&utm_source=git)** | Amarillo, TX | Hybrid | Aug 18 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Human Resources](https://jobright.ai/jobs/info/68a2d9cf468ac21d6fabb469?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2c539da4b7a7e730739ff?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
