@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68a6e549b6a3617d7fa7b0bc?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 21 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68a6d5b3b6a3617d7fa7aec5?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 21 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a6d11033dd7158bbca3605?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsRecruiting Intern](https://jobright.ai/jobs/info/68a6bde433dd7158bbca2705?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 20 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68a6aba733dd7158bbca1b66?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 20 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a6a537b6a3617d7fa78f31?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Aug 20 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a65f2e758f2e4ac3fe47f4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[AirClean Systems](https://www.aircleansystems.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68a68ed8758f2e4ac3fe58d2?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Aug 20 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Intern - Lantern House](https://jobright.ai/jobs/info/68a68fa5b6a3617d7fa782e1?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 20 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a64e59b6a3617d7fa76c0a?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a64f5c758f2e4ac3fe429a?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68a6c33d33dd7158bbca2a79?utm_campaign=1054&utm_source=git)** | North Sioux City, SD | On Site | Aug 20 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/68a64065b6a3617d7fa767f1?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Aug 20 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Talent and Culture Summer Intern](https://jobright.ai/jobs/info/68a63fd033dd7158bbc9f004?utm_campaign=1054&utm_source=git)** | Raleigh, NC United States of America | Hybrid | Aug 20 |
@@ -104,10 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68893e6b9f961617fe212fa3?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Aug 20 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN](https://jobright.ai/jobs/info/68a59aa3758f2e4ac3fe0081?utm_campaign=1054&utm_source=git)** | Del Valle, TX | On Site | Aug 20 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/68a5841033dd7158bbc9b12f?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Aug 20 |
+| **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[International Admissions Counselor](https://jobright.ai/jobs/info/68a6cf9b33dd7158bbca355c?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/68a6c9c5b6a3617d7fa7aa82?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 19 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2025](https://jobright.ai/jobs/info/68a56eac758f2e4ac3fdf37d?utm_campaign=1054&utm_source=git)** | Burbank CHQ | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689df5f083d13d1f5b6b59f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[Terrestris LLC](http://www.terrestrisllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a6c34433dd7158bbca2a80?utm_campaign=1054&utm_source=git)** | Woodbridge, VA | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5533c758f2e4ac3fddffa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5530833dd7158bbc992b5?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 19 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Human Resources Intern - Fall 2025](https://jobright.ai/jobs/info/68a52b9333dd7158bbc97b4b?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[State of South Carolina](https://sc.gov/)** | **[Probation & Parole LEO I #16-2025 ***INTERNAL APPLICANTS ONLY***](https://jobright.ai/jobs/info/68a52a15758f2e4ac3fdc836?utm_campaign=1054&utm_source=git)** | South Carolina, United States | On Site | Aug 19 |
@@ -120,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern (Credit Only)](https://jobright.ai/jobs/info/68a50bf233dd7158bbc96a1b?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 19 |
 | **[KoolShiit](https://www.koolshiit.com/)** | **[Operations & Communications - internship](https://jobright.ai/jobs/info/68a56901b6a3617d7fa717fb?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5091b758f2e4ac3fdb675?utm_campaign=1054&utm_source=git)** | Lathrop, CA | On Site | Aug 19 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a528f6758f2e4ac3fdc6a6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a508e1758f2e4ac3fdb644?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5016333dd7158bbc966c7?utm_campaign=1054&utm_source=git)** | Ravenna, OH | On Site | Aug 19 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a4fdfb758f2e4ac3fdb234?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Aug 19 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/68a4fa68b6a3617d7fa6db21?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 19 |
@@ -152,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/6888650e73e3e13cbd9451d2?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6895038573b3a600fe884565?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Mobility Coordinator Intern-(HROP) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689e8edd83d13d1f5b6bda9f?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
-Job ID : 262945](https://jobright.ai/jobs/info/68a437f42d2a252445cd6696?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Aug 19 |
-| **[RKL eSolutions LLC](http://rklesolutions.com)** | **[Internship - Spring & Summer 2026 (Tax, Audit, Small Business)](https://jobright.ai/jobs/info/68a6c698758f2e4ac3fe7c99?utm_campaign=1054&utm_source=git)** | Exton, PA | On Site | Aug 18 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a41dbe541cc3479840a8ae?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Aug 18 |
-| **[City of Jersey Village](https://www.jerseyvillagetx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a4bcfd541cc3479840d566?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
