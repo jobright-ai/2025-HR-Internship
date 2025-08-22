@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688caaaa27f9022553c0643c?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
+| **[Hays County](http://hayscountytx.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a8660e758f2e4ac3ff22fc?utm_campaign=1054&utm_source=git)** | San Marcos, TX | On Site | Aug 22 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68a841a9d627244576e32117?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68a8416fd627244576e32107?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
@@ -101,6 +103,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | ↳ | **[Intern - Early Career Development Program](https://jobright.ai/jobs/info/68a71f13758f2e4ac3fe9894?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Aug 21 |
 | **[DHL eCommerce](http://dhl.com/ecommerce-solutions)** | **[HR Intern](https://jobright.ai/jobs/info/68a186e4cc9ee94dc912386a?utm_campaign=1054&utm_source=git)** | Weston, FL | Hybrid | Aug 21 |
 | **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689f8c23faa4e875e8289a74?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | Aug 21 |
+| **[Cintas](https://www.cintas.com)** | **[Human Resources Trainee](https://jobright.ai/jobs/info/68535c9fd2ce0671328e216f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/688b25e509808a6103e55422?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Aug 21 |
 | **[Loretto](https://lorettocny.org/)** | **[Unpaid Intern - Talent Acquisition Customer Service Internship](https://jobright.ai/jobs/info/688a937209808a6103e4fe57?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/68a70f4dd627244576e296d7?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Aug 21 |
@@ -110,7 +113,6 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/688b1e269f961617fe221d0d?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68a709eb758f2e4ac3fe90dd?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/688b250e9f961617fe22213c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Aug 21 |
-| **[Orchard Place](https://www.orchardplace.org)** | **[Orchard Place 2025 Internships](https://jobright.ai/jobs/info/68a70477758f2e4ac3fe903a?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Aug 21 |
 | **[Versar Global Solutions](http://www.geomet.com/)** | **[SkillBridge Military Internship Opportunities](https://jobright.ai/jobs/info/685f7b94eefff68318ecdd2f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Talent Solutions](https://jobright.ai/jobs/info/688ab92709808a6103e50caf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688ab2dd09808a6103e50a92?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Aug 21 |
@@ -142,7 +144,6 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern: Floating](https://jobright.ai/jobs/info/688c280b3a30793eb9640609?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2025](https://jobright.ai/jobs/info/68a61c1d758f2e4ac3fe2c55?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Aug 20 |
 | **[North Central Texas Council of Governments](https://www.nctcog.org/)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/68a61b4ab6a3617d7fa75577?utm_campaign=1054&utm_source=git)** | NCTCOG - ARLINGTON, TX 76005 US (Primary) | Hybrid | Aug 20 |
-| **[AAM - American Axle & Manufacturing](http://aam.com)** | **[Human Resources College Co-op](https://jobright.ai/jobs/info/6889625f9f961617fe213f0f?utm_campaign=1054&utm_source=git)** | Ridgway, PA | On Site | Aug 20 |
 | **[Vi](https://www.viliving.com)** | **[HRIS Apprentice](https://jobright.ai/jobs/info/68a615a7758f2e4ac3fe268d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a6153a758f2e4ac3fe262f?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/68a60fd833dd7158bbc9d66e?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Aug 20 |
@@ -157,5 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[MCW Graduate School](http://www.mcw.edu/gradschool)** | **[Facilitator Intern](https://jobright.ai/jobs/info/68a5c3ba758f2e4ac3fe06f2?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, 53201, USA | On Site | Aug 20 |
 | **[Five Iron Golf](https://fiveirongolf.com/)** | **[Human Resources Post-Grad Internship (Full-Time, Paid)](https://jobright.ai/jobs/info/68a5b686758f2e4ac3fe04ee?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b069b6a3617d7fa72e0e?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/68a5a627758f2e4ac3fe0291?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
