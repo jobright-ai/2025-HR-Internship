@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68a841a9d627244576e32117?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 22 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68a8416fd627244576e32107?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
 Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Aug 22 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/68a8337ed627244576e31e38?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Aug 22 |
@@ -71,7 +73,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68a7b958758f2e4ac3fedeee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a66033dd7158bbca88da?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a79f89758f2e4ac3fed511?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Mortenson](https://www.mortenson.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a78502d627244576e2cf89?utm_campaign=1054&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a77d1933dd7158bbca7a60?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
@@ -131,7 +133,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a65f2e758f2e4ac3fe47f4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 20 |
 | **[AirClean Systems](https://www.aircleansystems.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68a68ed8758f2e4ac3fe58d2?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Aug 20 |
 | **[Goodwill Industries of Greater New York and Northern New Jersey](https://www.goodwillnynj.org/)** | **[Intern - Lantern House](https://jobright.ai/jobs/info/68a68fa5b6a3617d7fa782e1?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 20 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a64f5c758f2e4ac3fe429a?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a64e59b6a3617d7fa76c0a?utm_campaign=1054&utm_source=git)** | Anchorage, AK | On Site | Aug 20 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68a6c33d33dd7158bbca2a79?utm_campaign=1054&utm_source=git)** | North Sioux City, SD | On Site | Aug 20 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/68a64065b6a3617d7fa767f1?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Aug 20 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Talent and Culture Summer Intern](https://jobright.ai/jobs/info/68a63fd033dd7158bbc9f004?utm_campaign=1054&utm_source=git)** | Raleigh, NC United States of America | Hybrid | Aug 20 |
@@ -156,6 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Five Iron Golf](https://fiveirongolf.com/)** | **[Human Resources Post-Grad Internship (Full-Time, Paid)](https://jobright.ai/jobs/info/68a5b686758f2e4ac3fe04ee?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b069b6a3617d7fa72e0e?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Aug 20 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Human Resources Fellow — (Volunteer Intern)](https://jobright.ai/jobs/info/68a5a627758f2e4ac3fe0291?utm_campaign=1054&utm_source=git)** | Gloucester, MA | Remote | Aug 20 |
-| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68893e6b9f961617fe212fa3?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Aug 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6888725327fa3c6292367970?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
