@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a66033dd7158bbca88da?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Mortenson](https://www.mortenson.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a78502d627244576e2cf89?utm_campaign=1054&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a77d1933dd7158bbca7a60?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
@@ -131,8 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68a5e15a758f2e4ac3fe125b?utm_campaign=1054&utm_source=git)** | Kentwood, MI | On Site | Aug 20 |
 | **[Allianz Technology](https://www.allianz-technology.ch)** | **[People & Culture Intern (part-time) - 2025/2026 Academic Year](https://jobright.ai/jobs/info/68a5dfff758f2e4ac3fe1169?utm_campaign=1054&utm_source=git)** | Twin Cities Area | Hybrid | Aug 20 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Student Help HR Assistant](https://jobright.ai/jobs/info/68a5dcd033dd7158bbc9c319?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 20 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Undergraduate Full-Time - Human Resource Associate Rotation Program (HRARP)](https://jobright.ai/jobs/info/68a5dc6433dd7158bbc9c2bd?utm_campaign=1054&utm_source=git)** | Smithfield, RI | Hybrid | Aug 20 |
-| ↳ | **[2026 Undergraduate Full-Time - Human Resource Associate Rotation Program (HRARP)](https://jobright.ai/jobs/info/68a5dbbdb6a3617d7fa739f5?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 20 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[2026 Undergraduate Full-Time - Human Resource Associate Rotation Program (HRARP)](https://jobright.ai/jobs/info/68a5dbbdb6a3617d7fa739f5?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 20 |
 | **[WestRock Company](http://www.westrock.com)** | **[HR Summer Intern](https://jobright.ai/jobs/info/68a5cdd6758f2e4ac3fe0955?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/686e57e399a0ad4f705560d2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | **[MCW Graduate School](http://www.mcw.edu/gradschool)** | **[Facilitator Intern](https://jobright.ai/jobs/info/68a5c3ba758f2e4ac3fe06f2?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, 53201, USA | On Site | Aug 20 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/68a6c9c5b6a3617d7fa7aa82?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 19 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2025](https://jobright.ai/jobs/info/68a56eac758f2e4ac3fdf37d?utm_campaign=1054&utm_source=git)** | Burbank CHQ | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689df5f083d13d1f5b6b59f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5533c758f2e4ac3fddffa?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5530833dd7158bbc992b5?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 19 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Human Resources Intern - Fall 2025](https://jobright.ai/jobs/info/68a52b9333dd7158bbc97b4b?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[State of South Carolina](https://sc.gov/)** | **[Probation & Parole LEO I #16-2025 ***INTERNAL APPLICANTS ONLY***](https://jobright.ai/jobs/info/68a52a15758f2e4ac3fdc836?utm_campaign=1054&utm_source=git)** | South Carolina, United States | On Site | Aug 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta Group](https://www.acosta.group)** | **[Summer Clerical Associate](https://jobright.ai/jobs/info/68a514dd758f2e4ac3fdbb89?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Aug 19 |
 | **[SENTA ENT and Allergy Physicians](https://sentapartners.com/)** | **[Recruiting Intern (Fall 2025)](https://jobright.ai/jobs/info/68a5147cb6a3617d7fa6e477?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, HR Analytics and Insights (Spring 2026)](https://jobright.ai/jobs/info/68a51092b6a3617d7fa6e328?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
-| **[State of Washington](http://access.wa.gov/)** | **[INTERNAL ONLY Child Care Licensing Area Administrator (WMS2) - Richland / Dual Language](https://jobright.ai/jobs/info/68a6248633dd7158bbc9e408?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | Remote | Aug 19 |
-| **[Bentley Systems](http://www.bentley.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/68a50cc6758f2e4ac3fdb800?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
