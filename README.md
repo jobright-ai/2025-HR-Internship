@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/68a7f7fc33dd7158bbcaac3a?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68a7f6b0758f2e4ac3fef82a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Aug 21 |
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7cd84d627244576e2ee60?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7c5c1d627244576e2ec24?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7c0ed33dd7158bbca939b?utm_campaign=1054&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | Hybrid | Aug 21 |
@@ -66,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a7b2fb758f2e4ac3fedcbf?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a66033dd7158bbca88da?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a79f89758f2e4ac3fed511?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Mortenson](https://www.mortenson.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a78502d627244576e2cf89?utm_campaign=1054&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a77d1933dd7158bbca7a60?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Devon Energy](https://www.devonenergy.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68a78f28758f2e4ac3fed1da?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Delta Electronics Americas](http://www.delta-americas.com/)** | **[Learning and Development (L&D) HR Intern - Fremont, CA](https://jobright.ai/jobs/info/68a7418933dd7158bbca58ec?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Aug 21 |
 | **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee - HR Project Assistant](https://jobright.ai/jobs/info/68a73d73758f2e4ac3fea54c?utm_campaign=1054&utm_source=git)** | Ensign College | On Site | Aug 21 |
+| **[Monell Chemical Senses Center](http://www.monell.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a8026833dd7158bbcab008?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
 | **[Shaw Industries](https://shawinc.com)** | **[Intern  - Early Career Development Program](https://jobright.ai/jobs/info/68a72f72758f2e4ac3fe9f96?utm_campaign=1054&utm_source=git)** | Shaw Plant 7C, 2208 S Hamilton Street, Dalton, GA 30721, USA | On Site | Aug 21 |
 | ↳ | **[Intern - Early Career Development Program](https://jobright.ai/jobs/info/68a71f13758f2e4ac3fe9894?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Aug 21 |
 | **[DHL eCommerce](http://dhl.com/ecommerce-solutions)** | **[HR Intern](https://jobright.ai/jobs/info/68a186e4cc9ee94dc912386a?utm_campaign=1054&utm_source=git)** | Weston, FL | Hybrid | Aug 21 |
@@ -108,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68a6e549b6a3617d7fa7b0bc?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 21 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsRecruiting Intern](https://jobright.ai/jobs/info/68a6bde433dd7158bbca2705?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 20 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68a6aba733dd7158bbca1b66?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 20 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a6a537b6a3617d7fa78f31?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Aug 20 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a6a4f8b6a3617d7fa78eff?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Aug 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a6906233dd7158bbca0c1a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Aug 20 |
 | **[Agora Data, Inc.](https://www.agoradata.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a678a8758f2e4ac3fe4f7a?utm_campaign=1054&utm_source=git)** | Arlington, TX | Hybrid | Aug 20 |
 | **[The Seattle Public Library](https://www.spl.org/)** | **[Human Resources Specialist - Benefits & Leaves](https://jobright.ai/jobs/info/68a6761bb6a3617d7fa7797c?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Portland State University, College of Urban and Public Affairs](https://www.pdx.edu/urban-public-affairs/)** | **[International Admissions Counselor](https://jobright.ai/jobs/info/68a6cf9b33dd7158bbca355c?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/68a6c9c5b6a3617d7fa7aa82?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 19 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, People & Culture - Fall 2025](https://jobright.ai/jobs/info/68a56eac758f2e4ac3fdf37d?utm_campaign=1054&utm_source=git)** | Burbank CHQ | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689df5f083d13d1f5b6b59f2?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a5530833dd7158bbc992b5?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Human Resources Internship - Corporate (Year-Round)](https://jobright.ai/jobs/info/67f86e4511eb162b0954e0f9?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
