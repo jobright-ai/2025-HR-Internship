@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7cd84d627244576e2ee60?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7c5c1d627244576e2ec24?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7c0ed33dd7158bbca939b?utm_campaign=1054&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | Hybrid | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7c08933dd7158bbca92e8?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Mortenson](https://www.mortenson.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a78502d627244576e2cf89?utm_campaign=1054&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Aug 21 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68a77d1933dd7158bbca7a60?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
-| **[SmartRecruit](https://forms.gle/sDDjmcrW2mGxYZBHA)** | **[Investment Banking Prep (Undergrad)](https://jobright.ai/jobs/info/68a77c6433dd7158bbca79cb?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Aug 21 |
 | **[Wilson Logistics](https://www.wilsonlogistics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a77698758f2e4ac3fec6df?utm_campaign=1054&utm_source=git)** | Strafford, MO | On Site | Aug 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a7667533dd7158bbca6b4c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 21 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate HR Learning Intern](https://jobright.ai/jobs/info/68a76d88d627244576e2c37f?utm_campaign=1054&utm_source=git)** | 379 Interpace Pkwy, Parsippany, 07054 | On Site | Aug 21 |
