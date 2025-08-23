@@ -57,9 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Occidental College](http://www.oxy.edu/)** | **[Assistant, Benefits - TEMPORARY](https://jobright.ai/jobs/info/68a91922d627244576e378a7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
+| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68a91795d627244576e3774d?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only - Employee Experience Analyst - 2026](https://jobright.ai/jobs/info/68a91495758f2e4ac3ff729b?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a911f9d627244576e373f7?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
+| **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a90e766acf96396f724595?utm_campaign=1054&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
+| **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a909586acf96396f7243d9?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Aug 22 |
+| **[Segal](https://www.segalco.com)** | **[CUBS Fall Intern](https://jobright.ai/jobs/info/68a9094c6acf96396f7243d5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 22 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a908fe758f2e4ac3ff6c47?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
+| **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business- Human Resources](https://jobright.ai/jobs/info/68a9074fd627244576e36f4e?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Aug 22 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Aug 22 |
 | **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f34fd627244576e36880?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f441d627244576e368fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68a8ec8a6acf96396f723b15?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68a8e795758f2e4ac3ff6241?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/68a8e2366acf96396f72387d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
@@ -105,7 +116,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68a7b958758f2e4ac3fedeee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a66033dd7158bbca88da?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a79f89758f2e4ac3fed511?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Wilson Logistics](https://www.wilsonlogistics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a77698758f2e4ac3fec6df?utm_campaign=1054&utm_source=git)** | Strafford, MO | On Site | Aug 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a7667533dd7158bbca6b4c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 21 |
@@ -147,15 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Miltenyi Biotec](http://www.miltenyibiotec.com)** | **[Intern - HR *PC 1498](https://jobright.ai/jobs/info/68774b52ae2f413e4a5b9aa8?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | On Site | Aug 21 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/68a41dbe541cc3479840a8ae?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Aug 21 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsRecruiting Intern](https://jobright.ai/jobs/info/68a6bde433dd7158bbca2705?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 20 |
-| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68a6aba733dd7158bbca1b66?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 20 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a6a4f8b6a3617d7fa78eff?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Aug 20 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a6906233dd7158bbca0c1a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Aug 20 |
-| **[Agora Data, Inc.](https://www.agoradata.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a678a8758f2e4ac3fe4f7a?utm_campaign=1054&utm_source=git)** | Arlington, TX | Hybrid | Aug 20 |
-| **[The Seattle Public Library](https://www.spl.org/)** | **[Human Resources Specialist - Benefits & Leaves](https://jobright.ai/jobs/info/68a6761bb6a3617d7fa7797c?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Talent and Culture Summer Intern](https://jobright.ai/jobs/info/68a6752633dd7158bbca0147?utm_campaign=1054&utm_source=git)** | Triangle Area | Hybrid | Aug 20 |
-| **[WINK News](https://www.winknews.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68a66f2433dd7158bbca0058?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Aug 20 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/68a66ce2b6a3617d7fa776b0?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 20 |
-| **[Howmet Aerospace](https://www.howmet.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68a666ef758f2e4ac3fe4afc?utm_campaign=1054&utm_source=git)** | La Porte, IN | On Site | Aug 20 |
-| **[Loop Capital](http://www.loopcapital.com)** | **[Human Resources 2026 Summer Intern - Loop Capital](https://jobright.ai/jobs/info/68a7beddd627244576e2e528?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Chief People Organization Summer 2026 Analyst Program](https://jobright.ai/jobs/info/68a6665ab6a3617d7fa7744f?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
