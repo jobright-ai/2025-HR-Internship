@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/688cff831808534a89cc0304?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Aug 23 |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68a9928a758f2e4ac3ffade1?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 23 |
 | **[FCA](http://www.fca.com.pl)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a98e026acf96396f7285db?utm_campaign=1054&utm_source=git)** | Lansing, MI | Remote | Aug 23 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Summer Paid Internship - 2026](https://jobright.ai/jobs/info/68a98984d627244576e3afba?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Aug 23 |
 | **[Drexel University](http://drexel.edu)** | **[HR Service Center Representative I](https://jobright.ai/jobs/info/68a98510d627244576e3af37?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 23 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f441d627244576e368fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f34fd627244576e36880?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68a8ec8a6acf96396f723b15?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68a8e795758f2e4ac3ff6241?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/68a8e2366acf96396f72387d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
@@ -117,7 +119,6 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Drexel University](http://drexel.edu)** | **[HR Service Center Representative I](https://jobright.ai/jobs/info/68a8330e758f2e4ac3ff1a20?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 22 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a9796d6acf96396f727f3b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a973236acf96396f727b29?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
-| **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/68a96d666acf96396f726f60?utm_campaign=1054&utm_source=git)** | Daytona Beach, FL | On Site | Aug 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/68a7f7fc33dd7158bbcaac3a?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Aug 21 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68a7f6b0758f2e4ac3fef82a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Aug 21 |
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7cd84d627244576e2ee60?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
@@ -157,5 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/68a70f4dd627244576e296d7?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Philadelphia, PA)](https://jobright.ai/jobs/info/68a70d1633dd7158bbca42ee?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Masters/PhD- Bioinformatics, Data Science, Computer Science, IT,](https://jobright.ai/jobs/info/68a70ca933dd7158bbca42c4?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 21 |
-| ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics,](https://jobright.ai/jobs/info/68a70c63758f2e4ac3fe91da?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
