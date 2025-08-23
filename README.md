@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/68a93d266acf96396f725b7c?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Aug 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only - Employee Experience Analyst - 2026](https://jobright.ai/jobs/info/68a91495758f2e4ac3ff729b?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Aug 22 |
 | **[Occidental College](http://www.oxy.edu/)** | **[Assistant, Benefits - TEMPORARY](https://jobright.ai/jobs/info/68a91922d627244576e378a7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68a91795d627244576e3774d?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 22 |
@@ -81,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[DWC CPAs and Advisors](https://dwcadvisors.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a8d200758f2e4ac3ff59ca?utm_campaign=1054&utm_source=git)** | Grand Junction, CO | On Site | Aug 22 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Total Rewards Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68a8d116758f2e4ac3ff5907?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Aug 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68a8cc326acf96396f722e5d?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 22 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a8cab2d627244576e359c9?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business- Human Resources](https://jobright.ai/jobs/info/68a8ca91d627244576e359a8?utm_campaign=1054&utm_source=git)** | US-GA-Newnan | On Site | Aug 22 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a8ca85758f2e4ac3ff55c7?utm_campaign=1054&utm_source=git)** | Bonita Springs, FL | On Site | Aug 22 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6893b533f47efe2113966417?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 22 |
-| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a8c977d627244576e358b6?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6893b269a9199876488df671?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 22 |
+| ↳ | **[Intern (Case Management)](https://jobright.ai/jobs/info/6893b269a9199876488df671?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 22 |
 | **[Mad Talent Management Agency](www.madtalentmanagement.com)** | **[Talent Agent Assistant Fall Semester](https://jobright.ai/jobs/info/68a8c506d627244576e355e0?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68a8c3ae758f2e4ac3ff50e7?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Aug 22 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, People Team](https://jobright.ai/jobs/info/68a8c06dd627244576e3542e?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | Aug 22 |
@@ -114,7 +115,6 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[New York Hilton Midtown](http://www.newyorkhiltonmidtown.com)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7cd84d627244576e2ee60?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7c5c1d627244576e2ec24?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7c0ed33dd7158bbca939b?utm_campaign=1054&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | Hybrid | Aug 21 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7c08933dd7158bbca92e8?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68a7b958758f2e4ac3fedeee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a66033dd7158bbca88da?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
