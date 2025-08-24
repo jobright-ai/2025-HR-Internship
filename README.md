@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/68aadf8ddaf1431824c8e2a4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
+| **[Morton College](http://www.morton.edu/)** | **[Student Aide - Human Resources](https://jobright.ai/jobs/info/68aad7f5d627244576e3edc8?utm_campaign=1054&utm_source=git)** | Cicero, IL | On Site | Aug 24 |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68aad4dad627244576e3edad?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 24 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/68aa54cb6acf96396f729ec2?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68aa52326acf96396f729eb7?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Aug 23 |
@@ -92,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f441d627244576e368fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f34fd627244576e36880?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68a8ec8a6acf96396f723b15?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68a8e795758f2e4ac3ff6241?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/68a8e2366acf96396f72387d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
@@ -140,7 +143,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7c0ed33dd7158bbca939b?utm_campaign=1054&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | Hybrid | Aug 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68a7b958758f2e4ac3fedeee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a79f89758f2e4ac3fed511?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/68a78a5c758f2e4ac3fed03d?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Aug 21 |
 | **[Wilson Logistics](https://www.wilsonlogistics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a77698758f2e4ac3fec6df?utm_campaign=1054&utm_source=git)** | Strafford, MO | On Site | Aug 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a7667533dd7158bbca6b4c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 21 |
@@ -155,7 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a751b9758f2e4ac3feb1d6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Analytics](https://jobright.ai/jobs/info/68a75086758f2e4ac3feafd7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a74fe9758f2e4ac3feaed4?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | Aug 21 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a74624758f2e4ac3fea9a5?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
-| **[Scott Enterprises, Erie PA.](http://www.visitscott.com/)** | **[Human Resource Clerk/Intern- Peek n Peak Resort](https://jobright.ai/jobs/info/68a728ab33dd7158bbca4ef7?utm_campaign=1054&utm_source=git)** | Clymer, NY | Hybrid | Aug 21 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68a78f28758f2e4ac3fed1da?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
