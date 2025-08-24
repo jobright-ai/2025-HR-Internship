@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC HR Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68aa5189758f2e4ac3ffc664?utm_campaign=1054&utm_source=git)** | Woodway, TX | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Aug 23 |
-| **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/68aa294f6acf96396f729b78?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 23 |
 | **[AARP](http://www.aarp.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/687075a201cc0956e7e81f9f?utm_campaign=1054&utm_source=git)** | Washington, DC | Remote | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Recruitment Internship](https://jobright.ai/jobs/info/68a9ba3c6acf96396f728bc4?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 23 |
 | **[Barclays](https://home.barclays)** | **[Human Resources Analyst Graduate Program 2026 Whippany](https://jobright.ai/jobs/info/68a9b48cd627244576e3b445?utm_campaign=1054&utm_source=git)** | Whippany, NJ | On Site | Aug 23 |
@@ -94,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a908fe758f2e4ac3ff6c47?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business- Human Resources](https://jobright.ai/jobs/info/68a9074fd627244576e36f4e?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Aug 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Aug 22 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68a75eae758f2e4ac3feb7d3?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 22 |
 | **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
@@ -156,6 +156,6 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Guest Communications](https://jobright.ai/jobs/info/68a7658833dd7158bbca6a76?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 21 |
 | **[Shaw Industries](https://shawinc.com)** | **[Intern  - Early Career Development Program](https://jobright.ai/jobs/info/68a764ea758f2e4ac3feba91?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Aug 21 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a75f5833dd7158bbca6832?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 21 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68a75eae758f2e4ac3feb7d3?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a751b9758f2e4ac3feb1d6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
+| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Analytics](https://jobright.ai/jobs/info/68a75086758f2e4ac3feafd7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
