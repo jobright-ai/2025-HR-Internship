@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[STUDENT EMPLOYEE (Multiple Opportunities)](https://jobright.ai/jobs/info/68aae5de758f2e4ac3ffeb65?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Aug 24 |
+| **[Franklin County](https://www.franklincountyohio.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68aae2ec758f2e4ac3ffeb57?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 24 |
 | **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/68aadf8ddaf1431824c8e2a4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Morton College](http://www.morton.edu/)** | **[Student Aide - Human Resources](https://jobright.ai/jobs/info/68aad7f5d627244576e3edc8?utm_campaign=1054&utm_source=git)** | Cicero, IL | On Site | Aug 24 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68aad4dad627244576e3edad?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 24 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f34fd627244576e36880?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f441d627244576e368fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68a8ec8a6acf96396f723b15?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68a8e795758f2e4ac3ff6241?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Casa Central](https://www.casacentral.org)** | **[HR Intern (Unpaid)](https://jobright.ai/jobs/info/68a8e2366acf96396f72387d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
@@ -156,6 +158,4 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a75f5833dd7158bbca6832?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 21 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68a75eae758f2e4ac3feb7d3?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 21 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68a751b9758f2e4ac3feb1d6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 21 |
-| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - HR Analytics](https://jobright.ai/jobs/info/68a75086758f2e4ac3feafd7?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Aug 21 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a74fe9758f2e4ac3feaed4?utm_campaign=1054&utm_source=git)** | Remote - USA | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
