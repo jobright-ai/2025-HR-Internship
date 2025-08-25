@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Talent Acquisition Partner Intern (Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68abb86ad627244576e3fe89?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 24 |
 | **[California Giant Berry Farms ](https://www.calgiant.com/)** | **[Internships](https://jobright.ai/jobs/info/68ab9b5dd627244576e3fc6f?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Aug 24 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68ab7c7ddaf1431824c8efc1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Aug 24 |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68ab7986daf1431824c8ef97?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 24 |
+| **[Druva](http://www.druva.com)** | **[Join Druva's Talent Community](https://jobright.ai/jobs/info/678ff50b623299cdf3a5e7dd?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 24 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[STUDENT EMPLOYEE (Multiple Opportunities)](https://jobright.ai/jobs/info/68aae5de758f2e4ac3ffeb65?utm_campaign=1054&utm_source=git)** | Palm Beach, FL | On Site | Aug 24 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68aae2ec758f2e4ac3ffeb57?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 24 |
-| **[Smurfit Westrock](https://www.smurfitwestrock.com/)** | **[HR Summer Intern](https://jobright.ai/jobs/info/68aadf8ddaf1431824c8e2a4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Morton College](http://www.morton.edu/)** | **[Student Aide - Human Resources](https://jobright.ai/jobs/info/68aad7f5d627244576e3edc8?utm_campaign=1054&utm_source=git)** | Cicero, IL | On Site | Aug 24 |
-| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68aad4dad627244576e3edad?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 24 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/68aa54cb6acf96396f729ec2?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68aa52326acf96396f729eb7?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Aug 23 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/6893b533f47efe2113966417?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 22 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a8c977d627244576e358b6?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Case Management)](https://jobright.ai/jobs/info/6893b269a9199876488df671?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Aug 22 |
-| **[Mad Talent Management Agency](www.madtalentmanagement.com)** | **[Talent Agent Assistant Fall Semester](https://jobright.ai/jobs/info/68a8c506d627244576e355e0?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Aug 22 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68a8c3ae758f2e4ac3ff50e7?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Aug 22 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, People Team](https://jobright.ai/jobs/info/68a8c06dd627244576e3542e?utm_campaign=1054&utm_source=git)** | Cherry Hill, NJ | On Site | Aug 22 |
 | **[RG Barry Brands](http://rgbarry.com)** | **[2026 MA Summer Intern](https://jobright.ai/jobs/info/68a8be63d627244576e352ec?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 22 |
@@ -150,7 +149,7 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Hilton](https://www.hilton.com/en/)** | **[Human Resources Intern (Temporary) - New York Hilton Midtown](https://jobright.ai/jobs/info/68a7c0ed33dd7158bbca939b?utm_campaign=1054&utm_source=git)** | New York Hilton Midtown1335 Avenue Of The Americas | Hybrid | Aug 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68a7b958758f2e4ac3fedeee?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a7a6ab33dd7158bbca8930?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Aug 21 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a7a1c1d627244576e2daab?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a79f89758f2e4ac3fed511?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[Wilson Logistics](https://www.wilsonlogistics.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a77698758f2e4ac3fec6df?utm_campaign=1054&utm_source=git)** | Strafford, MO | On Site | Aug 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68a7667533dd7158bbca6b4c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Aug 21 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate HR Learning Intern](https://jobright.ai/jobs/info/68a76d88d627244576e2c37f?utm_campaign=1054&utm_source=git)** | 379 Interpace Pkwy, Parsippany, 07054 | On Site | Aug 21 |
@@ -158,4 +157,5 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Anta](https://anta.com/en/index.php)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a80f86758f2e4ac3ff072b?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Aug 21 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems (Fall 2025)](https://jobright.ai/jobs/info/68a76982d627244576e2c0c2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Guest Communications](https://jobright.ai/jobs/info/68a7658833dd7158bbca6a76?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 21 |
+| **[Shaw Industries](https://shawinc.com)** | **[Intern  - Early Career Development Program](https://jobright.ai/jobs/info/68a764ea758f2e4ac3feba91?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
