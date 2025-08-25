@@ -137,8 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.linkedin.com/company/105067979)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/688c08623a30793eb963f6c8?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68a841a9d627244576e32117?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 22 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68a8416fd627244576e32107?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - MONITORING AND EVALUATION
-Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Aug 22 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a9796d6acf96396f727f3b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 21 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68a973236acf96396f727b29?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Aug 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/68a7f7fc33dd7158bbcaac3a?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Aug 21 |
@@ -158,4 +156,5 @@ Job ID : 263138](https://jobright.ai/jobs/info/68a838d6d627244576e31edc?utm_camp
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, HR Systems (Fall 2025)](https://jobright.ai/jobs/info/68a76982d627244576e2c0c2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Aug 21 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[2026 Summer Internship / Guest Communications](https://jobright.ai/jobs/info/68a7658833dd7158bbca6a76?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 21 |
 | **[Shaw Industries](https://shawinc.com)** | **[Intern  - Early Career Development Program](https://jobright.ai/jobs/info/68a764ea758f2e4ac3feba91?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Aug 21 |
+| **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68a75f5833dd7158bbca6832?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
