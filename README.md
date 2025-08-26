@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891793bf47efe21139559b0?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
+| **[Scotlynn](http://scotlynn.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ad9d55758f2e4ac300dd33?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Aug 26 |
+| **[Butler County Community College](http://www.bc3.edu/)** | **[Student Employee](https://jobright.ai/jobs/info/68ad90b6d627244576e4e0d5?utm_campaign=1054&utm_source=git)** | Butler, PA | On Site | Aug 26 |
+| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916fc94c7e851b90ace854?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[City of Suffolk, VA](www.suffolkva.us)** | **[Human Resources Intern (Risk Management)](https://jobright.ai/jobs/info/68ad8705d627244576e4e012?utm_campaign=1054&utm_source=git)** | Suffolk, VA | On Site | Aug 26 |
+| **[Pentair](http://www.pentair.com)** | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916d5cf47efe2113955272?utm_campaign=1054&utm_source=git)** | Champaign, IL | On Site | Aug 26 |
+| ↳ | **[Human Resources Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891793bf47efe21139559b0?utm_campaign=1054&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
 | **[Austin Bridge & Road](http://www.austin-ind.com/bridge-and-road.html)** | **[2026 Summer Human Resources Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/68ad82ca758f2e4ac300dab9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 26 |
 | **[CAMP Facility Services](http://campconstruction.com)** | **[HR Intern - Part Time](https://jobright.ai/jobs/info/68ad822b758f2e4ac300da92?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68ad8222758f2e4ac300da8e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
@@ -128,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Skookum](https://tessera.org)** | **[Rotational Administrative Intern](https://jobright.ai/jobs/info/68ac85d3758f2e4ac300632c?utm_campaign=1054&utm_source=git)** | Bremerton, Washington | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Masters Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79ad758f2e4ac3005e10?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Operations HR Intern](https://jobright.ai/jobs/info/68ac6a7cdaf1431824c94ff0?utm_campaign=1054&utm_source=git)** | McConnellsburg, Pennsylvania, United States | On Site | Aug 25 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Intern, HR Retail](https://jobright.ai/jobs/info/68ac4af5758f2e4ac3004d38?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 25 |
+| **[Giorgio Armani](http://www.armani.com)** | **[Intern, HR Retail](https://jobright.ai/jobs/info/68ac4dfadaf1431824c945a6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/68ac139cd627244576e447a6?utm_campaign=1054&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
 | **[ByteDance](http://bytedance.com)** | **[Global Mobility Coordinator Intern-(HROP) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ac12b9758f2e4ac30042e5?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
 | ↳ | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ac1291d627244576e44723?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/68aa54cb6acf96396f729ec2?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68aa52326acf96396f729eb7?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Aug 23 |
 | ↳ | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68aa52286acf96396f729eb1?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Aug 23 |
-| ↳ | **[DC HR Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68aa5189758f2e4ac3ffc664?utm_campaign=1054&utm_source=git)** | Woodway, TX | On Site | Aug 23 |
-| ↳ | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Aug 23 |
-| ↳ | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Aug 23 |
-| **[ABB](https://global.abb/group/en)** | **[HR Intern](https://jobright.ai/jobs/info/6898525c83d13d1f5b68e69d?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics,](https://jobright.ai/jobs/info/68a70c63758f2e4ac3fe91da?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
