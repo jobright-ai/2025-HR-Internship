@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Development Intern - Year Round](https://jobright.ai/jobs/info/68acf630d627244576e4a33f?utm_campaign=1054&utm_source=git)** | Saukville, WI | Hybrid | Aug 25 |
+| **[CNO Financial Group](http://www.cnoinc.com)** | **[HR Organizational Development Internship- Summer 2026](https://jobright.ai/jobs/info/68acf3a5daf1431824c994db?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Aug 25 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/68acf15fd627244576e4a09e?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Aug 25 |
+| **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68acef9ad627244576e49f55?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Aug 25 |
+| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Rehabilitation Counselor I or Intern - Colorado Springs/Lamar.](https://jobright.ai/jobs/info/68acef1cdaf1431824c99308?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 25 |
+| **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689f8c23faa4e875e8289a74?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | Aug 25 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Human Resources Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68ace992758f2e4ac300988f?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
+| **[CreatorLink](www.creatorlinkmgmt.com)** | **[HR & Talent Operations Intern](https://jobright.ai/jobs/info/68ace3c1daf1431824c98e04?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68acd75e758f2e4ac300930c?utm_campaign=1054&utm_source=git)** | Whitewater, WI - USA | On Site | Aug 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Manager (Benefits & Compensation) FT 6383](https://jobright.ai/jobs/info/68acd0dddaf1431824c98883?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Aug 25 |
 | **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acce54d627244576e4950b?utm_campaign=1054&utm_source=git)** | Pennsauken, NJ | On Site | Aug 25 |
@@ -81,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/68acb7f8d627244576e486bc?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Campus Recruiting Coordinator Internship – Contingent Worker/Contractor](https://jobright.ai/jobs/info/68acb4a8d627244576e48498?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Aug 25 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Development Intern - Year Round](https://jobright.ai/jobs/info/68acb460daf1431824c97661?utm_campaign=1054&utm_source=git)** | Charter Steel - Saukville, WI | Hybrid | Aug 25 |
-| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 HR Summer Intern](https://jobright.ai/jobs/info/68acaec7daf1431824c971a8?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 25 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Management Student Program](https://jobright.ai/jobs/info/68acacf0daf1431824c97013?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Aug 25 |
 | **[Stantec](http://www.stantec.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68acac60758f2e4ac300782c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Aug 25 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68acaad6d627244576e47bf1?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Aug 25 |
@@ -92,10 +99,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Masters Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a93daf1431824c964d2?utm_campaign=1054&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | ↳ | **[Human Resources Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac94d8758f2e4ac3006b8e?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
 | **[Western Nevada College](http://www.wnc.edu/)** | **[Student Employee - Information and Marketing Services](https://jobright.ai/jobs/info/68ac91acdaf1431824c96149?utm_campaign=1054&utm_source=git)** | WNC - Carson City | On Site | Aug 25 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 HR Summer Intern](https://jobright.ai/jobs/info/68ac9180d627244576e46d6c?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Aug 25 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Campus Recruiting Coordinator Internship – Contingent Worker/Contractor](https://jobright.ai/jobs/info/68ac9118d627244576e46d24?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Aug 25 |
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/68ac85d7daf1431824c95c3c?utm_campaign=1054&utm_source=git)** | Tampa | On Site | Aug 25 |
 | **[Skookum](https://tessera.org)** | **[Rotational Administrative Intern](https://jobright.ai/jobs/info/68ac85d3758f2e4ac300632c?utm_campaign=1054&utm_source=git)** | Bremerton, Washington | On Site | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Masters Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79ad758f2e4ac3005e10?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Masters Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac7989daf1431824c95565?utm_campaign=1054&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Operations HR Intern](https://jobright.ai/jobs/info/68ac6a7cdaf1431824c94ff0?utm_campaign=1054&utm_source=git)** | McConnellsburg, Pennsylvania, United States | On Site | Aug 25 |
 | **[Giorgio Armani](http://www.armani.com)** | **[Intern, HR Retail](https://jobright.ai/jobs/info/68ac4a31daf1431824c944b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Human Resources - Masters](https://jobright.ai/jobs/info/68ac139cd627244576e447a6?utm_campaign=1054&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[CUBS Fall Intern](https://jobright.ai/jobs/info/68a9094c6acf96396f7243d5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68a908fe758f2e4ac3ff6c47?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Aug 22 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business- Human Resources](https://jobright.ai/jobs/info/68a9074fd627244576e36f4e?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Aug 22 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Aug 22 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68a75eae758f2e4ac3feb7d3?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Aug 22 |
-| **[the LEGO Group](http://www.lego.com)** | **[HR Associate Intern](https://jobright.ai/jobs/info/68a8fdebd627244576e36c6c?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
-| **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a90fe46acf96396f7247fa?utm_campaign=1054&utm_source=git)** | MI | Remote | Aug 22 |
-| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68a8f512d627244576e3696f?utm_campaign=1054&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Aug 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68a8f34fd627244576e36880?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 22 |
-| **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68a8ec8a6acf96396f723b15?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Aug 22 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68a8e795758f2e4ac3ff6241?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
