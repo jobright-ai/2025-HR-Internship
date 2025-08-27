@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SalesEra](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68aecbed7bcb7608b3d29954?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Talent Acceleration Co-op (January through June)](https://jobright.ai/jobs/info/68aea4112daaba3984419435?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | ↳ | **[Spring 2026: Early Talent Access Co-op (January through June)](https://jobright.ai/jobs/info/68ae9abb2daaba3984418f62?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8bb9daf1431824ca3f44?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Aug 26 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of South Florida](https://jobright.ai/jobs/info/68ae7449758f2e4ac3013a9c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 26 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Summer 2026 Internship Opportunities](https://jobright.ai/jobs/info/68ae41c4daf1431824ca1d40?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/68ae3c9cd627244576e5288a?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Aug 26 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3995758f2e4ac301229e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3889758f2e4ac30121ea?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3483758f2e4ac3012074?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 26 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68ae2ee9d627244576e52456?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
 | **[ADDITION Talent Management](https://addition-llc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68aea36803c5f15c2fd8a964?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 26 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Office Human Resources Intern](https://jobright.ai/jobs/info/68adbaa6d627244576e4e7cb?utm_campaign=1054&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Aug 26 |
 | **[Generac Power Systems Inc.](https://www.linkedin.com/company/16079780)** | **[HR Intern](https://jobright.ai/jobs/info/68adb720daf1431824c9d98b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Aug 26 |
+| **[TeamWorx Security](https://teamworxsecurity.com)** | **[DoD SkillBridge Internship Program (General Openings)](https://jobright.ai/jobs/info/6787cd5be8aae0b2c7a81f1c?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Aug 26 |
 | **[Ixana](https://ixana.ai)** | **[Internship - Miscellaneous](https://jobright.ai/jobs/info/68adaf19daf1431824c9d6cb?utm_campaign=1054&utm_source=git)** | West Lafayette, IN | On Site | Aug 26 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/685a627683b863ddccbf2ae5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Talent Acceleration Co-op (January through June)](https://jobright.ai/jobs/info/68adac8fd627244576e4e4a7?utm_campaign=1054&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
@@ -124,9 +126,8 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68ad8222758f2e4ac300da8e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[TidalHealth](https://www.tidalhealth.org/)** | **[Intern - Human Resources (HR)](https://jobright.ai/jobs/info/68ad8090d627244576e4df15?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Aug 26 |
 | **[Cleary University](http://www.cleary.edu/)** | **[Student Employee](https://jobright.ai/jobs/info/68ad7bad758f2e4ac300d956?utm_campaign=1054&utm_source=git)** | Howell, MI | On Site | Aug 26 |
-| **[State of Rhode Island](http://www.dot.ri.gov/)** | **[HUMAN RESOURCES TECHNICIAN INTERN](https://jobright.ai/jobs/info/68ad6d71d627244576e4dbf3?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Aug 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ad432a758f2e4ac300c593?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Aug 25 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ad3d4bdaf1431824c9b8d3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 25 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ad3da3daf1431824c9b949?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Aug 25 |
 | **[Anchor Glass Container Corporation](http://www.anchorglass.com/)** | **[Human Resources and Talent Intern](https://jobright.ai/jobs/info/68ad1b01758f2e4ac300af28?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 25 |
 | **[Garver](https://garverusa.com/)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68ad1562758f2e4ac300ad21?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | ↳ | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68ad1551daf1431824c9a50e?utm_campaign=1054&utm_source=git)** | North Little Rock, AR | On Site | Aug 25 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689f8c23faa4e875e8289a74?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | Aug 25 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Human Resources Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68ace992758f2e4ac300988f?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68acd75e758f2e4ac300930c?utm_campaign=1054&utm_source=git)** | Whitewater, WI - USA | On Site | Aug 25 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Manager (Benefits & Compensation) FT 6383](https://jobright.ai/jobs/info/68acd0dddaf1431824c98883?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Aug 25 |
 | **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acce54d627244576e4950b?utm_campaign=1054&utm_source=git)** | Pennsauken, NJ | On Site | Aug 25 |
-| **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/68accd2bd627244576e493f2?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Aug 25 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68accba8d627244576e492a1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | **[The Vincit Group](http://vincitgroup.com)** | **[Inspired Performance Team (HR) Intern](https://jobright.ai/jobs/info/68accb01d627244576e49233?utm_campaign=1054&utm_source=git)** | Greater Chattanooga | On Site | Aug 25 |
-| **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acca51758f2e4ac3008c9f?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 25 |
+| **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/68acca02d627244576e49197?utm_campaign=1054&utm_source=git)** | 10350 Bren Rd. W., Minnetonka, MN, 55343, US | On Site | Aug 25 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acc5e4d627244576e48ecd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
