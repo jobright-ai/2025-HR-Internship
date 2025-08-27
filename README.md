@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TEK Analytics](https://tek-analytics.com)** | **[Tech - 2026 Summer Internship Program](https://jobright.ai/jobs/info/68af35be1f0a2a568a05fa69?utm_campaign=1054&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Aug 27 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68af34092daaba398441c12e?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Bradesco Bank](https://bradescobank.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68af26d67bcb7608b3d2b287?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Aug 27 |
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Organizational Development and DEI Intern - Hybrid, Bala Cynwyd, PA](https://jobright.ai/jobs/info/68af25e02daaba398441bd63?utm_campaign=1054&utm_source=git)** | Bala Cynwyd, PA | Hybrid | Aug 27 |
 | **[Workato](http://www.workato.com)** | **[Intern, People Partner](https://jobright.ai/jobs/info/68af1aa31f0a2a568a05f102?utm_campaign=1054&utm_source=git)** | Palo Alto, California | On Site | Aug 27 |
+| **[Burcham Hills Foundation](https://burchamhills.com/)** | **[Internship/Externship Opportunities](https://jobright.ai/jobs/info/68af129d2daaba398441b73b?utm_campaign=1054&utm_source=git)** | East Lansing, MI | On Site | Aug 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8f1?utm_campaign=1054&utm_source=git)** | Beaumont, TX | On Site | Aug 27 |
-| **[Burcham Hills Foundation](https://burchamhills.com/)** | **[Internship/Externship Opportunities](https://jobright.ai/jobs/info/68aeffc17bcb7608b3d2a60d?utm_campaign=1054&utm_source=git)** | East Lansing, MI | On Site | Aug 27 |
+| ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68779556866a435525ab2a9f?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Aug 27 |
 | **[Burcham Hills](https://burchamhills.com/)** | **[Internship/Externship Opportunities](https://jobright.ai/jobs/info/68aefeb21f0a2a568a05e806?utm_campaign=1054&utm_source=git)** | East Lansing, MI | On Site | Aug 27 |
-| **[AgWest Farm Credit](https://agwestfc.com)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68aefe547bcb7608b3d2a4f1?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Aug 27 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68aeec5f2daaba398441ad60?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Kohl's](https://corporate.kohls.com)** | **[Early Talent - 2026 - Human Resources Internship](https://jobright.ai/jobs/info/68aeeafc1f0a2a568a05e421?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
 | ↳ | **[Early Talent - 2026 - Sourcing Internship](https://jobright.ai/jobs/info/68af03061f0a2a568a05ea9d?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 27 |
@@ -72,7 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Axiom World](https://axiomworld.net)** | **[HR Intern](https://jobright.ai/jobs/info/68aee33a7bcb7608b3d29ff8?utm_campaign=1054&utm_source=git)** | Innovation, VA | On Site | Aug 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Talent Acceleration Co-op (January through June)](https://jobright.ai/jobs/info/68aea4112daaba3984419435?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | ↳ | **[Spring 2026: Early Talent Access Co-op (January through June)](https://jobright.ai/jobs/info/68ae9abb2daaba3984418f62?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8bb9daf1431824ca3f44?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Aug 26 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68af33602daaba398441c091?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8bb9daf1431824ca3f44?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Aug 26 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae898bd627244576e54cb5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 26 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae88fc758f2e4ac30145b3?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Aug 26 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae888c758f2e4ac30144f8?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Aug 26 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ae78e2d627244576e54389?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | ↳ | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ae78cbdaf1431824ca3431?utm_campaign=1054&utm_source=git)** | Hermitage, PA | On Site | Aug 26 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Aug 26 |
+| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/68ae671adaf1431824ca2c1c?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 26 |
 | **[Accelevation LLC](https://www.accelevationllc.com/)** | **[People Operations (Payroll & Benefits) Intern](https://jobright.ai/jobs/info/68ae636b758f2e4ac301332e?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Veteran Intern (Secretary) - Office of Organizational Development](https://jobright.ai/jobs/info/68ae61cfd627244576e537d6?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Aug 26 |
 | **[Superior Air-Ground Ambulance Service](https://www.superiorambulance.com)** | **[HR Apprentice, Earn & Learn Program](https://jobright.ai/jobs/info/68ae61b8d627244576e537ca?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Aug 26 |
@@ -88,14 +92,13 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Contact Center - Administrative Assistant](https://jobright.ai/jobs/info/68ae55e4daf1431824ca261d?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Aug 26 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ae5532d627244576e532ec?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Aug 26 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/68ae54edd627244576e532bb?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Aug 26 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/68ae6e50758f2e4ac301378b?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 26 |
-| ↳ | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/68ae4860d627244576e52dc9?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 26 |
 | **[Accelevation LLC](https://www.accelevationllc.com/)** | **[HR Talent and Development Intern](https://jobright.ai/jobs/info/68ae67b8758f2e4ac301342f?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
 | ↳ | **[Human Resources Business Partner Intern](https://jobright.ai/jobs/info/68ae66aad627244576e53969?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Aug 26 |
+| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Custodial Worker - INTERNAL OPENING FOR CURRENT KSU AFSCME EMPLOYEES ONLY](https://jobright.ai/jobs/info/68ae687cd627244576e53add?utm_campaign=1054&utm_source=git)** | Kent, WA | On Site | Aug 26 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of South Florida](https://jobright.ai/jobs/info/68ae7449758f2e4ac3013a9c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 26 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Summer 2026 Internship Opportunities](https://jobright.ai/jobs/info/68ae41c4daf1431824ca1d40?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/68ae3c9cd627244576e5288a?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Aug 26 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3889758f2e4ac30121ea?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3995758f2e4ac301229e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3483758f2e4ac3012074?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 26 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68ae2ee9d627244576e52456?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
 | **[ADDITION Talent Management](https://addition-llc.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68aea36803c5f15c2fd8a964?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/68ad0bb8daf1431824c9a15c?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Aug 25 |
 | **[Century Fire Protection](http://www.centuryfp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ad0a04d627244576e4ace4?utm_campaign=1054&utm_source=git)** | Duluth, GA, USA | On Site | Aug 25 |
 | **[EAC Network](https://eac-network.org/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68ae2464d627244576e51fe2?utm_campaign=1054&utm_source=git)** | Garden City, NY | On Site | Aug 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/68ad05bbd627244576e4a8e5?utm_campaign=1054&utm_source=git)** | Kansas City, MO, US | On Site | Aug 25 |
-| **[CNO Financial Group](http://www.cnoinc.com)** | **[Benefits, Wellness and People Focus Intern – Summer 2026](https://jobright.ai/jobs/info/68ad04ccdaf1431824c99bfb?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Aug 25 |
-| **[ABB](https://global.abb/group/en)** | **[Recruitment Internship](https://jobright.ai/jobs/info/68a9ba3c6acf96396f728bc4?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
