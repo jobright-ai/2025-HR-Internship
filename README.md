@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Early Talent Access Co-op (January through June)](https://jobright.ai/jobs/info/68ae9abb2daaba3984418f62?utm_campaign=1054&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8bb9daf1431824ca3f44?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae898bd627244576e54cb5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae88fc758f2e4ac30145b3?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae888c758f2e4ac30144f8?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8812d627244576e54b0b?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Remote | Aug 26 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ae8811d627244576e54b08?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 26 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ae78e2d627244576e54389?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | ↳ | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ae78cbdaf1431824ca3431?utm_campaign=1054&utm_source=git)** | Hermitage, PA | On Site | Aug 26 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Aug 26 |
@@ -74,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of South Florida](https://jobright.ai/jobs/info/68ae7449758f2e4ac3013a9c?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 26 |
 | **[Plains Midstream Canada](https://www.plainsmidstream.com)** | **[Summer 2026 Internship Opportunities](https://jobright.ai/jobs/info/68ae41c4daf1431824ca1d40?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Intern - Supply Chain](https://jobright.ai/jobs/info/68ae3c9cd627244576e5288a?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Aug 26 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3995758f2e4ac301229e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3889758f2e4ac30121ea?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3483758f2e4ac3012074?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Aug 26 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Human Resources Assistant](https://jobright.ai/jobs/info/68ae2ee9d627244576e52456?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Aug 26 |
 | **[Plains All American](https://www.plains.com)** | **[Summer 2026 Internship Opportunities](https://jobright.ai/jobs/info/68ae290c758f2e4ac3011d0d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Aug 26 |
@@ -96,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Legacy Insurance](http://insureatlegacy.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/68adc4afd627244576e4ecd4?utm_campaign=1054&utm_source=git)** | Clarksville, TN | On Site | Aug 26 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Benefits, Wellness and People Focus Intern – Summer 2026](https://jobright.ai/jobs/info/68adc312d627244576e4eb80?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Aug 26 |
 | ↳ | **[HR Organizational Development Internship- Summer 2026](https://jobright.ai/jobs/info/68adc254758f2e4ac300e694?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Aug 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Poughkeepsie, New York](https://jobright.ai/jobs/info/6875a73cae2f413e4a5a8bbd?utm_campaign=1054&utm_source=git)** | Poughkeepsie, NY | On Site | Aug 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Office Human Resources Intern](https://jobright.ai/jobs/info/68adbaa6d627244576e4e7cb?utm_campaign=1054&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Aug 26 |
 | **[Generac Power Systems Inc.](https://www.linkedin.com/company/16079780)** | **[HR Intern](https://jobright.ai/jobs/info/68adb720daf1431824c9d98b?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Aug 26 |
 | **[Ixana](https://ixana.ai)** | **[Internship - Miscellaneous](https://jobright.ai/jobs/info/68adaf19daf1431824c9d6cb?utm_campaign=1054&utm_source=git)** | West Lafayette, IN | On Site | Aug 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acca51758f2e4ac3008c9f?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Aug 25 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/68acca02d627244576e49197?utm_campaign=1054&utm_source=git)** | 10350 Bren Rd. W., Minnetonka, MN, 55343, US | On Site | Aug 25 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acc5e4d627244576e48ecd?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Aug 25 |
-| **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acc4f3d627244576e48e0c?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Aug 25 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Operations HR Intern](https://jobright.ai/jobs/info/68acc2f6758f2e4ac300891c?utm_campaign=1054&utm_source=git)** | McConnellsburg, PA | On Site | Aug 25 |
-| **[Epsilon, Inc.](http://www.epsilon-inc.com/)** | **[Epsilon Skillbridge Internship (Remote)](https://jobright.ai/jobs/info/68acc2ebdaf1431824c980d2?utm_campaign=1054&utm_source=git)** | Weaverville, NC | Hybrid | Aug 25 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Human Resources Leadership Development Program, Colleague Experience Group - New York, NY](https://jobright.ai/jobs/info/68acc2dcdaf1431824c980c3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
-| **[Puratos](http://www.puratos.com/en)** | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acc2d0758f2e4ac30088eb?utm_campaign=1054&utm_source=git)** | Campus, IL | On Site | Aug 25 |
-| ↳ | **[Join Our Talent Community!](https://jobright.ai/jobs/info/68acc1fbdaf1431824c97fd5?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Aug 25 |
-| **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/68acc1e0758f2e4ac30087f0?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Aug 25 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acbd8bdaf1431824c97dcb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
