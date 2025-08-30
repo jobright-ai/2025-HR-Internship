@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Icreon](http://www.icreon.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b354f9bc187f64e1be0237?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 30 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b34e8b1ade4306aa63b121?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301e2f4e41a61efd887b7?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b6f4e41a61efd887a7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b30124bc187f64e1bdf92b?utm_campaign=1054&utm_source=git)** | Osceola, WI | On Site | Aug 30 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f93dbc187f64e1bdf84b?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8acbc187f64e1bdf7f7?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8a11ade4306aa63a829?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 30 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b2e7b8f4e41a61efd8833e?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 30 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 30 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Internship Coordinator and Recruiter](https://jobright.ai/jobs/info/68b2c92b1ade4306aa63a164?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Aug 30 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203d2f4e41a61efd819c4?utm_campaign=1054&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203af1ade4306aa633caf?utm_campaign=1054&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1fdfdf4e41a61efd81780?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68b1fd55f4e41a61efd816f2?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Aug 29 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/68b1fd051ade4306aa633a0b?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Aug 29 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68b1fca8f4e41a61efd816a0?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68b1fb3ef4e41a61efd814ff?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
@@ -112,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f486f4e41a61efd80f0b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources IT Co-op - 2026](https://jobright.ai/jobs/info/68b1f420f4e41a61efd80ec4?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Aug 29 |
 | **[VCC Construction](http://vccusa.com)** | **[Human Resources Intern - Little Rock, AR](https://jobright.ai/jobs/info/68819dd7f4f06100f3a28344?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Aug 29 |
-| **[Plains All American](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f3811ade4306aa633243?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Aug 29 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/68b1f2641ade4306aa633158?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Aug 29 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[MILITARY DoD SKILLBRIDGE HR Specialist - Talent Program](https://jobright.ai/jobs/info/68b1f1181ade4306aa63308c?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Aug 29 |
 | ↳ | **[MILITARY DoD SKILLBRIDGE HR Specialist - Talent Program](https://jobright.ai/jobs/info/68b1eeb7f4e41a61efd80de2?utm_campaign=1054&utm_source=git)** | Waukesha, WI | On Site | Aug 29 |
@@ -124,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Aug 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Compensation Analytics, People & Organization](https://jobright.ai/jobs/info/68b1df9ef4e41a61efd805c5?utm_campaign=1054&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Allied Beverage Group](https://www.home.alliedbeverage.com/)** | **[2026 Summer Internship Talent Community](https://jobright.ai/jobs/info/68508470eb0367e9e3719d59?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Aug 29 |
-| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68b1da43f4e41a61efd80246?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Aug 29 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - People Team Intern](https://jobright.ai/jobs/info/68b1d9b21ade4306aa63241e?utm_campaign=1054&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b29790bc187f64e1bddbaf?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 29 |
 | **[The Vincit Group](http://vincitgroup.com)** | **[Inspired Performance Team (HR) Intern](https://jobright.ai/jobs/info/68b1d45df4e41a61efd7ff46?utm_campaign=1054&utm_source=git)** | Greater Chattanooga | On Site | Aug 29 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[HR Coordinator (Non OHSU Student Worker)](https://jobright.ai/jobs/info/6877b72d5cebcd1dd51d486a?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 29 |
 | **[Hylant](http://www.hylant.com)** | **[Summer 2026 Internship: Benefit Practice Resources](https://jobright.ai/jobs/info/68b1b6bdf4e41a61efd7f36a?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1af22f4e41a61efd7f00e?utm_campaign=1054&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[Plains All American](https://www.plains.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1ae0cf4e41a61efd7ef95?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68b1ad8ebc187f64e1bd6092?utm_campaign=1054&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Director, International Admissions](https://jobright.ai/jobs/info/68b1c94ff4e41a61efd7fa63?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Aug 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/685bd711f1561ce635caa8d4?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Aug 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Safety](https://jobright.ai/jobs/info/68b12ec86fab621da7b0a911?utm_campaign=1054&utm_source=git)** | Columbus OH - Arena District | Hybrid | Aug 28 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Human Resources Work Study Intern](https://jobright.ai/jobs/info/68b1610304557a6c207bd3fa?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Aug 28 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b15478e815524ae11fdc60?utm_campaign=1054&utm_source=git)** | Palatine, IL | On Site | Aug 28 |
-| **[Hylant](http://www.hylant.com)** | **[Summer 2026 Internship: Benefits or Property & Casualty Service](https://jobright.ai/jobs/info/68b117666fab621da7b09cd2?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Aug 28 |
-| **[Scotty's Contracting & Stone, LLC](https://www.scottyscontracting.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b26cc4bc187f64e1bdb2ee?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Aug 28 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
