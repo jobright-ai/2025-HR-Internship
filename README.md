@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b5a14ff4e41a61efd90921?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 01 |
+| **[SPS Commerce](http://spscommerce.com)** | **[HR Intern (Talent Pool)](https://jobright.ai/jobs/info/68b58c05bc187f64e1be7202?utm_campaign=1054&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
 | **[CWC Textron](http://www.cwctextron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b54ebd1ade4306aa6415c8?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Sep 01 |
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68b54b84f4e41a61efd8f259?utm_campaign=1054&utm_source=git)** | US-DC-Washington | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 HR Generalist Internship](https://jobright.ai/jobs/info/68b54a47bc187f64e1be608b?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Sep 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68b1fb3ef4e41a61efd814ff?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
 | **[Scotty's Contracting & Stone, LLC](https://www.scottyscontracting.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f9f7f4e41a61efd8133f?utm_campaign=1054&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Aug 29 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f9ac1ade4306aa63359d?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Transportation HR/Recruiting Intern](https://jobright.ai/jobs/info/68b1f9131ade4306aa633479?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[JTM Products Inc](https://www.jtmproductsinc.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b2d3f21ade4306aa63a32f?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
