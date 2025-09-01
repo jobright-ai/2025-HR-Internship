@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b2e7b8f4e41a61efd8833e?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9ddbc187f64e1be83f6?utm_campaign=1054&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9891ade4306aa64347e?utm_campaign=1054&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b5a14ff4e41a61efd90921?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[HR Intern (Talent Pool)](https://jobright.ai/jobs/info/68b58c05bc187f64e1be7202?utm_campaign=1054&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
 | **[CWC Textron](http://www.cwctextron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b54ebd1ade4306aa6415c8?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Sep 01 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8a11ade4306aa63a829?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
 | **[Woolpert](http://www.woolpert.com)** | **[Expression of Interest - Internships](https://jobright.ai/jobs/info/688b87af3a30793eb963b35f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 30 |
-| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b2e7b8f4e41a61efd8833e?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 30 |
 | **[Asante](https://asante.org)** | **[HR Intern (Human Resources)](https://jobright.ai/jobs/info/687b021ded63844c944a6582?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Aug 30 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ed5a73b3a600fe883657?utm_campaign=1054&utm_source=git)** | Clinton, IA | On Site | Aug 30 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/689558d58c6d6b44267791a4?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68b20403bc187f64e1bd8b85?utm_campaign=1054&utm_source=git)** | Garner, Iowa, United States | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203d2f4e41a61efd819c4?utm_campaign=1054&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203af1ade4306aa633caf?utm_campaign=1054&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1fdfdf4e41a61efd81780?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
-| **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/68b1fd051ade4306aa633a0b?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
