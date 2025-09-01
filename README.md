@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b5f541bc187f64e1be89c7?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 01 |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b5eeedf4e41a61efd91918?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b2e7b8f4e41a61efd8833e?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/68b5ceb8bc187f64e1be8489?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9ddbc187f64e1be83f6?utm_campaign=1054&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9891ade4306aa64347e?utm_campaign=1054&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b5a14ff4e41a61efd90921?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 01 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 HR Generalist Internship](https://jobright.ai/jobs/info/68b54a47bc187f64e1be608b?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Human Resources Associate (Independence, KS)](https://jobright.ai/jobs/info/68b549f2f4e41a61efd8ef63?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Sep 01 |
 | ↳ | **[2026 Talent Development Internship](https://jobright.ai/jobs/info/68b5459bf4e41a61efd8ee0a?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Sep 01 |
-| ↳ | **[2026 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/68b5453ef4e41a61efd8edea?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
 | ↳ | **[2026 Internship - Human Resources Associate](https://jobright.ai/jobs/info/68b544cbf4e41a61efd8edc5?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b5449d1ade4306aa640e1d?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Sep 01 |
 | ↳ | **[2026 Intern - Human Resources - Hunt Valley , MD](https://jobright.ai/jobs/info/68b5447cf4e41a61efd8eda9?utm_campaign=1054&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
@@ -78,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Human Resources Analytics](https://jobright.ai/jobs/info/68b54162f4e41a61efd8ed6d?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/68b540e9f4e41a61efd8ed40?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68b53771f4e41a61efd8eb48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b5285bf4e41a61efd8e925?utm_campaign=1054&utm_source=git)** | US-Michigan-Muskegon | On Site | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b527d6bc187f64e1be597e?utm_campaign=1054&utm_source=git)** | Lumber Bridge, NC | On Site | Aug 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5270abc187f64e1be56e8?utm_campaign=1054&utm_source=git)** | Millsboro, DE | On Site | Aug 31 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2aaf4e41a61efd8cd4a?utm_campaign=1054&utm_source=git)** | 29005 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b526761ade4306aa640595?utm_campaign=1054&utm_source=git)** | US-Michigan-Muskegon | On Site | Aug 31 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2aaf4e41a61efd8cd4a?utm_campaign=1054&utm_source=git)** | 29005 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2011ade4306aa63ee60?utm_campaign=1054&utm_source=git)** | 17269 NC Hwy 71 N, Lumber Bridge, NC, 28357, US | On Site | Aug 31 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Human Resources - NY/NJ](https://jobright.ai/jobs/info/68b4e00d1ade4306aa63ecc7?utm_campaign=1054&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d5d6?utm_campaign=1054&utm_source=git)** | San Angelo, TX | Hybrid | Aug 31 |
 | **[Kaizen Labs](https://www.kaizenlabs.co)** | **[Join our Talent Community](https://jobright.ai/jobs/info/68b4491af4e41a61efd8c1b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
 | **[Aprio](https://www.aprio.com/)** | **[Campus Recruiting General Interest Form](https://jobright.ai/jobs/info/679183da34922ef61b6fd1ab?utm_campaign=1054&utm_source=git)** | All, MO | Hybrid | Aug 31 |
-| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b3fdfe1ade4306aa63d683?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b523cf1ade4306aa64057c?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Aug 30 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/687a9c6f2097a271a8980427?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Aug 30 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/68b38534bc187f64e1be0446?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b206fdf4e41a61efd81c81?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 29 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68b20403bc187f64e1bd8b85?utm_campaign=1054&utm_source=git)** | Garner, Iowa, United States | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203d2f4e41a61efd819c4?utm_campaign=1054&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203af1ade4306aa633caf?utm_campaign=1054&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
