@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/68b60daef4e41a61efd91c42?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
+| **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68b5fcf8bc187f64e1be8ac0?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Sep 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b5f541bc187f64e1be89c7?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 01 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b5eeedf4e41a61efd91918?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b2e7b8f4e41a61efd8833e?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Sep 01 |
@@ -80,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Human Resources Analytics](https://jobright.ai/jobs/info/68b54162f4e41a61efd8ed6d?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Fall Internship 2025 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/68b540e9f4e41a61efd8ed40?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68b53771f4e41a61efd8eb48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b5285bf4e41a61efd8e925?utm_campaign=1054&utm_source=git)** | US-Michigan-Muskegon | On Site | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b527d6bc187f64e1be597e?utm_campaign=1054&utm_source=git)** | Lumber Bridge, NC | On Site | Aug 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5270abc187f64e1be56e8?utm_campaign=1054&utm_source=git)** | Millsboro, DE | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b526761ade4306aa640595?utm_campaign=1054&utm_source=git)** | US-Michigan-Muskegon | On Site | Aug 31 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2aaf4e41a61efd8cd4a?utm_campaign=1054&utm_source=git)** | 29005 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2aaf4e41a61efd8cd4a?utm_campaign=1054&utm_source=git)** | 29005 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2011ade4306aa63ee60?utm_campaign=1054&utm_source=git)** | 17269 NC Hwy 71 N, Lumber Bridge, NC, 28357, US | On Site | Aug 31 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist - Coastal NC and top 15% earnings nationally](https://jobright.ai/jobs/info/684c44303e8c496e2a10bcc6?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Human Resources - NY/NJ](https://jobright.ai/jobs/info/68b4e00d1ade4306aa63ecc7?utm_campaign=1054&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
@@ -115,8 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d60a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f953f4e41a61efd8867b?utm_campaign=1054&utm_source=git)** | Roseau, MN | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f93dbc187f64e1bdf84b?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Aug 30 |
-| **[ABB](https://global.abb/group/en)** | **[Working Student (f/m/d) Talent Acquisition & Employer Branding](https://jobright.ai/jobs/info/68a02ca883d13d1f5b6ceea5?utm_campaign=1054&utm_source=git)** | Location, WV | Hybrid | Aug 30 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8acbc187f64e1bdf7f7?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 30 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8acbc187f64e1bdf7f7?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Aug 30 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8a11ade4306aa63a829?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Aug 30 |
 | **[Woolpert](http://www.woolpert.com)** | **[Expression of Interest - Internships](https://jobright.ai/jobs/info/688b87af3a30793eb963b35f?utm_campaign=1054&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Aug 30 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68b2c7871ade4306aa63a075?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68b22a381ade4306aa634a6c?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Remote | Aug 29 |
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/68b21728bc187f64e1bd950f?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | Hybrid | Aug 29 |
-| ↳ | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/68b21613f4e41a61efd82328?utm_campaign=1054&utm_source=git)** | Lazarus 450 West Town Street | Hybrid | Aug 29 |
+| ↳ | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/68b2130e1ade4306aa634401?utm_campaign=1054&utm_source=git)** | Lazarus 450 West Town Street | Hybrid | Aug 29 |
 | ↳ | **[Human Resources Intern (College Intern)](https://jobright.ai/jobs/info/68b212d8f4e41a61efd820ff?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | Hybrid | Aug 29 |
 | **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689f8c23faa4e875e8289a74?utm_campaign=1054&utm_source=git)** | Cincinnati Metro | On Site | Aug 29 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b206fdf4e41a61efd81c81?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 29 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68b20403bc187f64e1bd8b85?utm_campaign=1054&utm_source=git)** | Garner, Iowa, United States | On Site | Aug 29 |
-| **[Inspire](https://inspirebrands.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203d2f4e41a61efd819c4?utm_campaign=1054&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
