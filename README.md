@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b527d6bc187f64e1be597e?utm_campaign=1054&utm_source=git)** | Lumber Bridge, NC | On Site | Aug 31 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5270abc187f64e1be56e8?utm_campaign=1054&utm_source=git)** | Millsboro, DE | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68b526761ade4306aa640595?utm_campaign=1054&utm_source=git)** | US-Michigan-Muskegon | On Site | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2aaf4e41a61efd8cd4a?utm_campaign=1054&utm_source=git)** | 29005 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b4f2011ade4306aa63ee60?utm_campaign=1054&utm_source=git)** | 17269 NC Hwy 71 N, Lumber Bridge, NC, 28357, US | On Site | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Human Resources - NY/NJ](https://jobright.ai/jobs/info/68b4e00d1ade4306aa63ecc7?utm_campaign=1054&utm_source=git)** | Weehawken, NJ | On Site | Aug 31 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wells Fargo Human Resources Internship - Early Careers](https://jobright.ai/jobs/info/6850d84a2a14ba8ace49412a?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Aug 31 |
 | **[Kaizen Labs](https://www.kaizenlabs.co)** | **[Join our Talent Community](https://jobright.ai/jobs/info/68b4491af4e41a61efd8c1b8?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Aug 31 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b3fdfe1ade4306aa63d683?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Aug 31 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b523cf1ade4306aa64057c?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Aug 30 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/687a9c6f2097a271a8980427?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Aug 30 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/68b38534bc187f64e1be0446?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841efe6cd01cd7733145dc8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Aug 30 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68b23ae9f4e41a61efd82dff?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Aug 29 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68b23970bc187f64e1bd9f96?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Aug 29 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b236b3f4e41a61efd82c39?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Aug 29 |
+| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68b236291ade4306aa634f00?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/68b236191ade4306aa634ef3?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Aug 29 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 Non-Profit Management & Human Resources Intern](https://jobright.ai/jobs/info/68b26740bc187f64e1bdaf01?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68b273e61ade4306aa636d06?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
@@ -129,8 +134,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b203af1ade4306aa633caf?utm_campaign=1054&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1fdfdf4e41a61efd81780?utm_campaign=1054&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/68b1fd051ade4306aa633a0b?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68b1fb9d1ade4306aa6338d0?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| ↳ | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68b1fb3ef4e41a61efd814ff?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
+| **[BBI Logistics](https://www.bbilogistics.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68b1fb3ef4e41a61efd814ff?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
 | **[Scotty's Contracting & Stone, LLC](https://www.scottyscontracting.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f9f7f4e41a61efd8133f?utm_campaign=1054&utm_source=git)** | Bowling Green, Kentucky, United States | On Site | Aug 29 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b1f9ac1ade4306aa63359d?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Transportation HR/Recruiting Intern](https://jobright.ai/jobs/info/68b1f9131ade4306aa633479?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68b1d883bc187f64e1bd738b?utm_campaign=1054&utm_source=git)** | Milpitas, CA | On Site | Aug 29 |
 | ↳ | **[Human Resource Intern](https://jobright.ai/jobs/info/68b1d796bc187f64e1bd7295?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Aug 29 |
 | **[Neighborhood Association for Inter-Cultural Affairs](https://www.naicany.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b29790bc187f64e1bddbaf?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Aug 29 |
-| **[The Vincit Group](http://vincitgroup.com)** | **[Inspired Performance Team (HR) Intern](https://jobright.ai/jobs/info/68b1d45df4e41a61efd7ff46?utm_campaign=1054&utm_source=git)** | Greater Chattanooga | On Site | Aug 29 |
-| **[The Hartford](https://www.hartfordlife.com)** | **[Underwriting Trainee - Employee Benefits](https://jobright.ai/jobs/info/68b1cab5f4e41a61efd7faed?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Aug 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2025 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Aug 29 |
-| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[HR Coordinator (Non OHSU Student Worker)](https://jobright.ai/jobs/info/6877b72d5cebcd1dd51d486a?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
