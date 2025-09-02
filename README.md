@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a7f5a5574fd6bc0c82f91?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 02 |
+| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a1dcf83d13d1f5b69629c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68b6cd6bf4e41a61efd9433c?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Sep 02 |
 | **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68b67b62bc187f64e1bea64e?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
 | **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship - Summer 2026](https://jobright.ai/jobs/info/68b671b71ade4306aa64504b?utm_campaign=1054&utm_source=git)** | CT - Hartford | Hybrid | Sep 01 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68b5fcf8bc187f64e1be8ac0?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Sep 01 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b5eeedf4e41a61efd91918?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | **[EasyPower Software](https://www.easypower.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/68b673b5f4e41a61efd931ec?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Sep 01 |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b6de93f4e41a61efd94528?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/68b5ceb8bc187f64e1be8489?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9ddbc187f64e1be83f6?utm_campaign=1054&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9891ade4306aa64347e?utm_campaign=1054&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68b24c58bc187f64e1bda557?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Aug 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d582?utm_campaign=1054&utm_source=git)** | Horsham, PA | Hybrid | Aug 29 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68b24ab81ade4306aa635534?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer Intern](https://jobright.ai/jobs/info/68b24a321ade4306aa6354dc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[Olin](http://www.olin.com/)** | **[Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/68b2447c1ade4306aa6353cc?utm_campaign=1054&utm_source=git)** | Cleveland, TN | On Site | Aug 29 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
