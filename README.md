@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68b61ac3f4e41a61efd91d0e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 01 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/68b60daef4e41a61efd91c42?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68b5fcf8bc187f64e1be8ac0?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Sep 01 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b5f541bc187f64e1be89c7?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 01 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b5eeedf4e41a61efd91918?utm_campaign=1054&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | **[EasyPower Software](https://www.easypower.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/68b673b5f4e41a61efd931ec?utm_campaign=1054&utm_source=git)** | Exton, PA | Hybrid | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/68b5ceb8bc187f64e1be8489?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68b24ab81ade4306aa635534?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer Intern](https://jobright.ai/jobs/info/68b24a321ade4306aa6354dc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Olin](http://www.olin.com/)** | **[Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/68b2447c1ade4306aa6353cc?utm_campaign=1054&utm_source=git)** | Cleveland, TN | On Site | Aug 29 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
