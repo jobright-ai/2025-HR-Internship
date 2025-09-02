@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Intern - Human Resources - Wilmington, MA](https://jobright.ai/jobs/info/68b5ceb8bc187f64e1be8489?utm_campaign=1054&utm_source=git)** | Wilmington, MA | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9ddbc187f64e1be83f6?utm_campaign=1054&utm_source=git)** | FL - West Palm Beach, 1401 Northpoint Parkway | On Site | Sep 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68b5c9891ade4306aa64347e?utm_campaign=1054&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
-| **[Online Gamera](onlinegamera.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68b66fdf1ade4306aa644eea?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b5a14ff4e41a61efd90921?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 01 |
 | ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b519bb1ade4306aa63fdc9?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Sep 01 |
 | **[SPS Commerce](http://spscommerce.com)** | **[HR Intern (Talent Pool)](https://jobright.ai/jobs/info/68b58c05bc187f64e1be7202?utm_campaign=1054&utm_source=git)** | Rogers, AR | Hybrid | Sep 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer Intern](https://jobright.ai/jobs/info/68b24a321ade4306aa6354dc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Olin](http://www.olin.com/)** | **[Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/68b2447c1ade4306aa6353cc?utm_campaign=1054&utm_source=git)** | Cleveland, TN | On Site | Aug 29 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Aug 29 |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b236b3f4e41a61efd82c39?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
