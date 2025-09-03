@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andersen](http://www.Andersen.com)** | **[Accelerate - 2026 - Houston](https://jobright.ai/jobs/info/68b7e8175e55be5e2604f39f?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Sep 03 |
+| **[Crime and Justice Institute](https://www.cjinstitute.org/)** | **[Case Manager Intern](https://jobright.ai/jobs/info/68b7e6a25e55be5e2604f20e?utm_campaign=1054&utm_source=git)** | Boston, MA, USA | On Site | Sep 02 |
+| **[Stantec](http://www.stantec.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68b7e5350514b74d7c3eb708?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68b7d1e95e55be5e2604e57b?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 02 |
 | **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b7cc800514b74d7c3ea747?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/68b7cc14a10b650604b60b12?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71c501ade4306aa647ab7?utm_campaign=1054&utm_source=git)** | Austin | On Site | Sep 02 |
 | ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71b83f4e41a61efd95a72?utm_campaign=1054&utm_source=git)** | Chicago | On Site | Sep 02 |
 | **[Secretariat](http://secretariat-intl.com/)** | **[University and Intern Opportunities](https://jobright.ai/jobs/info/68b716b9f4e41a61efd9594b?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 02 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Human Resources - Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/68b711742124650c1401f266?utm_campaign=1054&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68b7067e1ade4306aa647162?utm_campaign=1054&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68b70665f4e41a61efd95183?utm_campaign=1054&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
