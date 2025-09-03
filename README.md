@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terrain](http://shopterrain.com)** | **[URBN Summer 2026 Internship - Delaware Valley University](https://jobright.ai/jobs/info/68b7a7172124650c140249e2?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
+| **[Signature Health, Inc.](https://www.signaturehealthinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68b7a0211ade4306aa64cb07?utm_campaign=1054&utm_source=git)** | Kirtland, OH | Hybrid | Sep 02 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b79d122124650c14024693?utm_campaign=1054&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | ↳ | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b7993a1ade4306aa64c79a?utm_campaign=1054&utm_source=git)** | Charlotte Metro | On Site | Sep 02 |
 | **[Emerson](http://www.emerson.com)** | **[Human Resources Leadership Development Program - Human Resources Analyst Internship - Class of 2027](https://jobright.ai/jobs/info/68b796b62124650c14024266?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
@@ -76,11 +78,10 @@ For a complete list, click the following sortable link below:
 | **[Spirit AeroSystems](http://www.spiritaero.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68b779e51ade4306aa64b421?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Sep 02 |
 | ↳ | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68b7795b1ade4306aa64b3b3?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68b778ad1ade4306aa64b328?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Sep 02 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b778442124650c14022fef?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68b778121ade4306aa64b2b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Sep 02 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b773e7f4e41a61efd990b5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 02 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[HR/Recruiting Intern](https://jobright.ai/jobs/info/68b76465f4e41a61efd98b5c?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
-| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68b763b0f4e41a61efd98a5b?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 02 |
 | **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[25-26 HR:AFS-Noncontract Work- HR Intern](https://jobright.ai/jobs/info/68b763801ade4306aa64aa3e?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Sep 02 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Internship Coordinator and Recruiter](https://jobright.ai/jobs/info/68b760e92124650c140225ab?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Sep 02 |
 | **[Farther](https://www.farther.com)** | **[HR Operations Internship](https://jobright.ai/jobs/info/68b75e861ade4306aa64a846?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Sep 02 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68b742ec1ade4306aa649393?utm_campaign=1054&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
 | **[Travelers](https://www.travelers.com)** | **[Human Resources Leadership Development Program Internship - Summer 2026](https://jobright.ai/jobs/info/68b74216f4e41a61efd973c2?utm_campaign=1054&utm_source=git)** | St Paul, MN | Hybrid | Sep 02 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[HR Intern - Mandarin Required](https://jobright.ai/jobs/info/68b741d1f4e41a61efd97376?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Sep 02 |
-| **[Colossal Biosciences](https://colossal.com)** | **[Summer 2026 Internships - General Interest Posting](https://jobright.ai/jobs/info/68b740471ade4306aa6492e9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | **[Farther](https://www.farther.com)** | **[HR Operations Internship](https://jobright.ai/jobs/info/68b740061ade4306aa64924d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | **[Spirit AeroSystems](http://www.spiritaero.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68b73ff1f4e41a61efd970e8?utm_campaign=1054&utm_source=git)** | Wichita, Kansas | On Site | Sep 02 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/68b6de93f4e41a61efd94528?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Sep 02 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Human Resources - Talent Acquisition Internship (Summer 2026)](https://jobright.ai/jobs/info/68b711742124650c1401f266?utm_campaign=1054&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68b7067e1ade4306aa647162?utm_campaign=1054&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
 | ↳ | **[Spring 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68b70665f4e41a61efd95183?utm_campaign=1054&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Sep 02 |
+| **[Colossal Biosciences](https://colossal.com)** | **[Summer 2026 Internships - General Interest Posting](https://jobright.ai/jobs/info/68b705f71ade4306aa64710b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | **[Epsilon, Inc.](http://www.epsilon-inc.com/)** | **[Epsilon Skillbridge Internship (Remote)](https://jobright.ai/jobs/info/68b705d92124650c1401ed22?utm_campaign=1054&utm_source=git)** | Weaverville, NC | Hybrid | Sep 02 |
 | **[Terrain](http://shopterrain.com)** | **[URBN Summer 2026 Internship - Delaware Valley University](https://jobright.ai/jobs/info/68b705972124650c1401ecdb?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68b700f82124650c1401eba0?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Sep 02 |
-| **[City of New York](http://www1.nyc.gov)** | **[Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/68b6fd9af4e41a61efd94d71?utm_campaign=1054&utm_source=git)** | Manhattan, NY | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
