@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b7fc610514b74d7c3ec0be?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Sep 03 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship Program: Human Resources](https://jobright.ai/jobs/info/68b829784987402050d0c746?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Stipend Intern HCW LM](https://jobright.ai/jobs/info/68b81cb71e16661ab72018ed?utm_campaign=1054&utm_source=git)** | Philadelphia Campus- Hub for Clinical Collaboration | On Site | Sep 03 |
+| **[The Maschhoffs](http://themaschhoffs.com)** | **[2026 Summer Internship Openings - Apply Now!](https://jobright.ai/jobs/info/68b817341416091b231d63c4?utm_campaign=1054&utm_source=git)** | Carlyle, IL | On Site | Sep 03 |
 | **[Andersen](http://www.Andersen.com)** | **[Accelerate - 2026 - Houston](https://jobright.ai/jobs/info/68b7e8175e55be5e2604f39f?utm_campaign=1054&utm_source=git)** | Houston, Texas | On Site | Sep 03 |
 | **[Crime and Justice Institute](https://www.cjinstitute.org/)** | **[Case Manager Intern](https://jobright.ai/jobs/info/68b7e6a25e55be5e2604f20e?utm_campaign=1054&utm_source=git)** | Boston, MA, USA | On Site | Sep 02 |
 | **[Stantec](http://www.stantec.com)** | **[Campus Recruiter](https://jobright.ai/jobs/info/68b7e5350514b74d7c3eb708?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Sep 02 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b80d660514b74d7c3ec395?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68b7d1e95e55be5e2604e57b?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 02 |
+| **[Dusty Robotics](http://dustyrobotics.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b7cc800514b74d7c3ea747?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/68b7cc14a10b650604b60b12?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 02 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b7c533a10b650604b60667?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 02 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b7cbb75e55be5e2604def3?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 02 |
 | **[Terrain](http://shopterrain.com)** | **[URBN Summer 2026 Internship - Delaware Valley University](https://jobright.ai/jobs/info/68b7a7172124650c140249e2?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[Signature Health, Inc.](https://www.signaturehealthinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68b7a0211ade4306aa64cb07?utm_campaign=1054&utm_source=git)** | Kirtland, OH | Hybrid | Sep 02 |
-| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b79d122124650c14024693?utm_campaign=1054&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b79d481ade4306aa64c9ec?utm_campaign=1054&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | ↳ | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b7993a1ade4306aa64c79a?utm_campaign=1054&utm_source=git)** | Charlotte Metro | On Site | Sep 02 |
 | **[Emerson](http://www.emerson.com)** | **[Human Resources Leadership Development Program - Human Resources Analyst Internship - Class of 2027](https://jobright.ai/jobs/info/68b796b62124650c14024266?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
 | **[Signature Health, Inc.](https://www.signaturehealthinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68b795ef2124650c1402413a?utm_campaign=1054&utm_source=git)** | Kirtland | Hybrid | Sep 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b71d632124650c1401f8cb?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Sep 02 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Human Resources](https://jobright.ai/jobs/info/68b71cb7f4e41a61efd95b82?utm_campaign=1054&utm_source=git)** | Birmingham, AL - Regions Center | On Site | Sep 02 |
 | **[Troutman Pepper](https://www.troutman.com/)** | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71c722124650c1401f78e?utm_campaign=1054&utm_source=git)** | Philadelphia | On Site | Sep 02 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71c6c2124650c1401f784?utm_campaign=1054&utm_source=git)** | Atlanta | On Site | Sep 02 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71c5b1ade4306aa647ac6?utm_campaign=1054&utm_source=git)** | Charlotte | On Site | Sep 02 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71c501ade4306aa647ab7?utm_campaign=1054&utm_source=git)** | Austin | On Site | Sep 02 |
-| ↳ | **[Legal Talent Support Intern](https://jobright.ai/jobs/info/68b71b83f4e41a61efd95a72?utm_campaign=1054&utm_source=git)** | Chicago | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
