@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b79d122124650c14024693?utm_campaign=1054&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
+| ↳ | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b7993a1ade4306aa64c79a?utm_campaign=1054&utm_source=git)** | Charlotte Metro | On Site | Sep 02 |
+| **[Emerson](http://www.emerson.com)** | **[Human Resources Leadership Development Program - Human Resources Analyst Internship - Class of 2027](https://jobright.ai/jobs/info/68b796b62124650c14024266?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 02 |
+| **[Signature Health, Inc.](https://www.signaturehealthinc.org/)** | **[Intern](https://jobright.ai/jobs/info/68b795ef2124650c1402413a?utm_campaign=1054&utm_source=git)** | Kirtland | Hybrid | Sep 02 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68b79156f4e41a61efd99ddd?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
+| **[BBI Logistics](https://www.bbilogistics.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68b78b71f4e41a61efd99c2d?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
+| **[SPX Technologies](http://www.spx.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68b788412124650c140237b8?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Sep 02 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68b784d91ade4306aa64ba2d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
+| **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Talent Acquisition Assistant/Internship](https://jobright.ai/jobs/info/68b781bc2124650c140233c1?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Benefits Team (Immediate Opening)](https://jobright.ai/jobs/info/68b781972124650c140233a2?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 02 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68b781912124650c1402339e?utm_campaign=1054&utm_source=git)** | Davidson, NC | Hybrid | Sep 02 |
-| ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68b781792124650c14023385?utm_campaign=1054&utm_source=git)** | Davidson, NC | Hybrid | Sep 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68b780591ade4306aa64b847?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68b78057f4e41a61efd99735?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Benefits Team (Immediate Opening)](https://jobright.ai/jobs/info/68b77ea1f4e41a61efd99566?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 02 |
@@ -72,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[SentinelOne](http://www.sentinelone.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68b778121ade4306aa64b2b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Sep 02 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68b773e7f4e41a61efd990b5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 02 |
-| **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Talent Acquisition Assistant/Internship](https://jobright.ai/jobs/info/68b771f11ade4306aa64af7a?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/68b764f8f4e41a61efd98c17?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 02 |
 | **[FusionSite](https://fusionsiteservices.com/)** | **[HR/Recruiting Intern](https://jobright.ai/jobs/info/68b76465f4e41a61efd98b5c?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Sep 02 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68b763b0f4e41a61efd98a5b?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 02 |
 | **[Aurora Public Schools](https://avenues.aurorak12.org/)** | **[25-26 HR:AFS-Noncontract Work- HR Intern](https://jobright.ai/jobs/info/68b763801ade4306aa64aa3e?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Sep 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terrain](http://shopterrain.com)** | **[URBN Summer 2026 Internship - Delaware Valley University](https://jobright.ai/jobs/info/68b705972124650c1401ecdb?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | **[Manhattan Star Academy](www.yai.org/msa)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68b700f82124650c1401eba0?utm_campaign=1054&utm_source=git)** | Manhattan | On Site | Sep 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[Equal Employment Opportunity (EEO) Intern](https://jobright.ai/jobs/info/68b6fd9af4e41a61efd94d71?utm_campaign=1054&utm_source=git)** | Manhattan, NY | Hybrid | Sep 02 |
-| **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689a7f5a5574fd6bc0c82f91?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68b5265bf4e41a61efd8e640?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Sep 02 |
-| **[UPS](http://www.ups.com)** | **[MHR Summer 2026 Intern](https://jobright.ai/jobs/info/689a2297faa4e875e825618a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
-| **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68b6cd6bf4e41a61efd9433c?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Sep 02 |
-| **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68b72f8e2124650c14020197?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
