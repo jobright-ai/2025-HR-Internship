@@ -57,7 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Human Resources](https://jobright.ai/jobs/info/68bb07da6105227d118a2771?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Sep 05 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb1d4f8043103d4f225a6d?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 05 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb1a5e8043103d4f2257c0?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Sep 05 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb1a0f8043103d4f225763?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 05 |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Human Resources](https://jobright.ai/jobs/info/68bb1a018043103d4f225757?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Sep 05 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Project and Alliance Management - Intern](https://jobright.ai/jobs/info/68bb16678043103d4f22564e?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 05 |
+| ↳ | **[2026 Future Talent Program - Global Regulatory Affairs and Clinical Safety - Intern](https://jobright.ai/jobs/info/68bb161d5f3832749186bebb?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Temporary HR Document Processing Intern](https://jobright.ai/jobs/info/68bb15c25f3832749186be6b?utm_campaign=1054&utm_source=git)** | Remote USA | Remote | Sep 05 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Project and Alliance Management - Intern](https://jobright.ai/jobs/info/68bb15b66105227d118a2c50?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Sep 05 |
+| ↳ | **[2026 Future Talent Program - Regulatory Planning and Publishing (RPP) - Intern](https://jobright.ai/jobs/info/68bb14fb8043103d4f225488?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
+| ↳ | **[2026 Future Talent Program - Global Regulatory Affairs and Clinical Safety - Intern](https://jobright.ai/jobs/info/68bb14be8043103d4f225445?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 05 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb145c5f3832749186bcd3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 05 |
+| **[Trumid](https://www.trumid.com)** | **[Summer Internship - 2026](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York | On Site | Sep 05 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb0d895f3832749186bb24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Sep 05 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb0d758043103d4f225232?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 05 |
+| **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ae3483758f2e4ac3012074?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Infectious Diseases and Vaccines - Co-op](https://jobright.ai/jobs/info/68bb04f95f3832749186b7ca?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 05 |
 | **[Green Bean Battery](https://greenbeanbattery.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68bb04df8043103d4f224f4f?utm_campaign=1054&utm_source=git)** | 3102 Nashville, TN - Regional | Hybrid | Sep 05 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Co-op, Health & Welfare Actuary](https://jobright.ai/jobs/info/68bb04318043103d4f224eed?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 05 |
@@ -70,8 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Talent & Organization Internship](https://jobright.ai/jobs/info/68bae8f15f3832749186a77e?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bae2586105227d118a1373?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
 | **[Morrison Child and Family Services](https://morrisonkids.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bae0b38043103d4f223a8f?utm_campaign=1054&utm_source=git)** | Portland, Oregon | Hybrid | Sep 05 |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Human Resources Specialist Intern](https://jobright.ai/jobs/info/689e8b5d83d13d1f5b6bd8ff?utm_campaign=1054&utm_source=git)** | Rancho Cucamonga, CA | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 HR Co-op](https://jobright.ai/jobs/info/68bad66b8043103d4f2235f0?utm_campaign=1054&utm_source=git)** | Bothell, WA | On Site | Sep 05 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68baceb76105227d118a0a70?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Sep 05 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bacda88043103d4f223120?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Sep 05 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68bac5f55f383274918695b0?utm_campaign=1054&utm_source=git)** | Riverside, CA | On Site | Sep 05 |
 | **[Vessco Water](https://www.vesscowater.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689df61e83d13d1f5b6b5a88?utm_campaign=1054&utm_source=git)** | Chanhassen, MN | On Site | Sep 05 |
 | **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Human Resources Manager](https://jobright.ai/jobs/info/68bac0946105227d118a0250?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
@@ -130,7 +145,8 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/68ba345a5f38327491864fb1?utm_campaign=1054&utm_source=git)** | 50 Hudson Yards 50 Hudson Yards 74th Floor, New York, New York, United States | Remote | Sep 04 |
 | **[Advanced Behavioral Health Inc.](https://www.abhmaryland.com/)** | **[HR Internship - Spring 2026](https://jobright.ai/jobs/info/68ba33755f38327491864dd4?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 04 |
 | **[UBS](https://www.ubs.com)** | **[2026 Graduate Talent Program - Group Internal Audit - NY/NJ](https://jobright.ai/jobs/info/68ba2b7f5f38327491864815?utm_campaign=1054&utm_source=git)** | Weehawken, NJ | On Site | Sep 04 |
-| ↳ | **[2026 Graduate Talent Program - Group Internal Audit - NY/NJ](https://jobright.ai/jobs/info/68ba27045f383274918646f2?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Sep 04 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68bb0e3a8043103d4f225292?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Sep 04 |
+| **[UBS](https://www.ubs.com)** | **[2026 Graduate Talent Program - Group Internal Audit - NY/NJ](https://jobright.ai/jobs/info/68ba27045f383274918646f2?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Sep 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[HRL Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/68ba245e8043103d4f21dd52?utm_campaign=1054&utm_source=git)** | Flint, MI | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Analytics & Data Science](https://jobright.ai/jobs/info/68ba22b75f38327491864447?utm_campaign=1054&utm_source=git)** | Santa Monica | On Site | Sep 04 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[HR Internship - Spring 2026](https://jobright.ai/jobs/info/68ba1ea25f38327491864195?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 04 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perfect North Slopes](https://perfectnorth.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68ba11986105227d1189a9c1?utm_campaign=1054&utm_source=git)** | Lawrenceburg, IN | On Site | Sep 04 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68ba07555f383274918637b8?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Sep 04 |
 | **[Safran](http://www.safran-group.com)** | **[Human Resources Intern-Fall 2025](https://jobright.ai/jobs/info/68ba04eb6105227d1189a31b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 04 |
-| **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ba03236105227d1189a1eb?utm_campaign=1054&utm_source=git)** | Downingtown, PA | On Site | Sep 04 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Clinical Supplies - Intern](https://jobright.ai/jobs/info/68b9f9b05f38327491863027?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 04 |
-| ↳ | **[2026 Future Talent Program - Global Clinical Supplies - Co-Op](https://jobright.ai/jobs/info/68b9f98d5f38327491862ff1?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 04 |
-| ↳ | **[2026 Future Talent Program - Global Clinical Supplies - Intern](https://jobright.ai/jobs/info/68b9f90c6105227d11899d8c?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
-| ↳ | **[2026 Future Talent Program - Global Clinical Supplies - Co-Op](https://jobright.ai/jobs/info/68b9f8cf6105227d11899d62?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
-| **[Freudenberg Group](http://www.freudenberg.com)** | **[Join Our Talent Network!](https://jobright.ai/jobs/info/68b9f2138043103d4f21c17e?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
-| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b9ef4d5f383274918628b4?utm_campaign=1054&utm_source=git)** | De Soto, Kansas | On Site | Sep 04 |
-| **[Acima](https://www.acima.com/)** | **[Acima Human Resources Intern](https://jobright.ai/jobs/info/68b9ee136105227d11899627?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 04 |
-| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b9ecec8043103d4f21bed8?utm_campaign=1054&utm_source=git)** | De Soto, KS | On Site | Sep 04 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op - Human Resources (Spring 2026)](https://jobright.ai/jobs/info/68b9ec1e8043103d4f21be16?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 04 |
-| ↳ | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b9ec0a6105227d1189945b?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 04 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Internship](https://jobright.ai/jobs/info/68b9ebb18043103d4f21bdb1?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Sep 04 |
-| **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Recruiting and Professional Development)](https://jobright.ai/jobs/info/68b9ea218043103d4f21bbf2?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Sep 04 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship - Boston - Summer 2026](https://jobright.ai/jobs/info/68b9e9225f38327491862462?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 04 |
-| **[Knorr-Bremse AG](https://www.knorr-bremse.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68b9ff9f5f383274918632d7?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Sep 04 |
-| **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b9e6876105227d118990f3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
