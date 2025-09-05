@@ -57,10 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bacda88043103d4f223120?utm_campaign=1054&utm_source=git)** | Ontario, CA | On Site | Sep 05 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68bac5f55f383274918695b0?utm_campaign=1054&utm_source=git)** | Riverside, CA | On Site | Sep 05 |
+| **[Vessco Water](https://www.vesscowater.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/689df61e83d13d1f5b6b5a88?utm_campaign=1054&utm_source=git)** | Chanhassen, MN | On Site | Sep 05 |
+| **[North Texas Bulls LLC](http://www.northtexasbulls.com)** | **[Human Resources Manager](https://jobright.ai/jobs/info/68bac0946105227d118a0250?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 05 |
+| **[Saint Dominic's Family Services](https://www.sdfs.org)** | **[INTERNSHIP - Orange County](https://jobright.ai/jobs/info/68babe476105227d118a0089?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Sep 05 |
+| **[YAI](http://www.yai.org/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68bab8d08043103d4f22298f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[Southern Utah University](http://www.suu.edu/)** | **[Human Resources Assistant](https://jobright.ai/jobs/info/68bab7168043103d4f2228ea?utm_campaign=1054&utm_source=git)** | Cedar City, UT | On Site | Sep 05 |
 | **[Tecomet, Inc](http://www.tecomet.com)** | **[HR Intern (Part Time)](https://jobright.ai/jobs/info/68bab1045f3832749186901a?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68baaf996105227d1189fdf2?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 05 |
 | **[State of North Carolina](http://www.nc.gov)** | **[Internship Coordinator and Recruiter](https://jobright.ai/jobs/info/68baaf208043103d4f22272d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Hybrid | Sep 05 |
 | **[Athena](https://athenapsych.com)** | **[HR Intern - Paid Internship](https://jobright.ai/jobs/info/689b6cd179a9f96662530620?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
+| **[Saint Dominic's Family Services](https://www.sdfs.org)** | **[INTERNSHIP - Bronx](https://jobright.ai/jobs/info/68bac8a25f383274918698a1?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Sep 05 |
+| ↳ | **[INTERNSHIP - Rockland County](https://jobright.ai/jobs/info/68bac6f48043103d4f222df2?utm_campaign=1054&utm_source=git)** | Rockland, ME | On Site | Sep 05 |
 | **[Terex Corporation](http://www.terex.com)** | **[2026 HR Co-op](https://jobright.ai/jobs/info/68ba95a56105227d1189f887?utm_campaign=1054&utm_source=git)** | USA, WA, Bothell | On Site | Sep 05 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Human Resources Intern (Undergraduate)](https://jobright.ai/jobs/info/68ba92418043103d4f221ff1?utm_campaign=1054&utm_source=git)** | Round Rock, TX | Hybrid | Sep 05 |
 | ↳ | **[Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/68ba8e2a6105227d1189f014?utm_campaign=1054&utm_source=git)** | Round Rock, TX | Hybrid | Sep 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9d0476105227d11897fd8?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Sep 04 |
 | **[Mayflower Distributing Company](http://www.mayflowerdistributing.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68b9d0468043103d4f21aacf?utm_campaign=1054&utm_source=git)** | Mendota Heights, MN | On Site | Sep 04 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9cdb48043103d4f21a8cb?utm_campaign=1054&utm_source=git)** | Zeeland, MI | On Site | Sep 04 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/68b9cc8f8043103d4f21a7b0?utm_campaign=1054&utm_source=git)** | Round Rock, Texas, United States | Hybrid | Sep 04 |
-| ↳ | **[Human Resources Intern (Undergraduate)](https://jobright.ai/jobs/info/68b9cbeb8043103d4f21a6ea?utm_campaign=1054&utm_source=git)** | Round Rock, Texas, United States | Hybrid | Sep 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Sep 04 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68b9c9d36105227d11897bf7?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Sep 04 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship - Boston - Summer 2026](https://jobright.ai/jobs/info/68b9c6528043103d4f21a3e2?utm_campaign=1054&utm_source=git)** | 75 Arlington Street, Boston, MA, 02116, US | On Site | Sep 04 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9c5778043103d4f21a33e?utm_campaign=1054&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Sep 04 |
-| **[MillerKnoll](http://www.millerknoll.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9c27d6105227d11897866?utm_campaign=1054&utm_source=git)** | MI - Zeeland | Remote | Sep 04 |
-| **[Iberdrola](http://www.iberdrola.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9c1d65f38327491860905?utm_campaign=1054&utm_source=git)** | United States Of America, New York, Rochester | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
