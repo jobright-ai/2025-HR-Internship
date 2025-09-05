@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supply Chain Summer Intern - US Based](https://jobright.ai/jobs/info/68ba7a018043103d4f220d45?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68ba72fa6105227d1189e1c8?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Sep 04 |
+| **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68ba6c088043103d4f220666?utm_campaign=1054&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Sep 04 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba54d85f3832749186604f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Sep 04 |
 | ↳ | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba52cf5f38327491865e8d?utm_campaign=1054&utm_source=git)** | Ashburn, VA | On Site | Sep 04 |
 | **[California State University, Stanislaus](https://www.csustan.edu/)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/68ba51c28043103d4f21f707?utm_campaign=1054&utm_source=git)** | Turlock, CA | On Site | Sep 04 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9c0a26105227d11897672?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Sep 04 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Custodian Swing Shift Shift - Highland/Ardmore 2025/26 (Internal Applicants Only)](https://jobright.ai/jobs/info/68b9b92d6105227d118973e4?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Sep 04 |
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9b8e86105227d118973bc?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Sep 04 |
-| **[Eriez](https://www.eriez.com)** | **[Join our Talent Pool - Career Fair 2025](https://jobright.ai/jobs/info/68b9c27e6105227d1189786d?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Sep 04 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68b9b7065f38327491860438?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 04 |
+| **[Eriez](https://www.eriez.com)** | **[Test for Talent Pool](https://jobright.ai/jobs/info/68b9c27e6105227d1189786d?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Sep 04 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 04 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[HR, Co-op](https://jobright.ai/jobs/info/68b9a8615f3832749185fd2b?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | Hybrid | Sep 04 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[DEWS CDI & CEED Internship - Hourly - Albany](https://jobright.ai/jobs/info/68b0d49cb47fb001d6895c7a?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Sep 04 |
 | **[Regal Boats](http://regalboats.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68b991955f3832749185ed60?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 04 |
 | **[ANdAZ](http://andaz.hyatt.com)** | **[Human Resources Trainee (all genders) als Pflichtpraktikum für 6 Monate](https://jobright.ai/jobs/info/68b982bc8043103d4f217d16?utm_campaign=1054&utm_source=git)** | Wien, WI | On Site | Sep 04 |
-| **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Client Experience/Advocacy Intern](https://jobright.ai/jobs/info/68b97dd46105227d1189504b?utm_campaign=1054&utm_source=git)** | Carmel, Indiana, United States | On Site | Sep 04 |
-| **[Tecomet, Inc](http://www.tecomet.com)** | **[HR Intern (Part Time)](https://jobright.ai/jobs/info/68b95fdd8043103d4f21701a?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Sep 04 |
-| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68b95f378043103d4f216fd2?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
