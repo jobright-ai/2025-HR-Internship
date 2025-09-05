@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba54d85f3832749186604f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Sep 04 |
+| ↳ | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba52cf5f38327491865e8d?utm_campaign=1054&utm_source=git)** | Ashburn, VA | On Site | Sep 04 |
+| **[California State University, Stanislaus](https://www.csustan.edu/)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/68ba51c28043103d4f21f707?utm_campaign=1054&utm_source=git)** | Turlock, CA | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Clinical Supplies - Co-Op](https://jobright.ai/jobs/info/68ba40fb6105227d1189c61c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
+| ↳ | **[2026 Future Talent Program - Physical Security and North America Investigations Intern](https://jobright.ai/jobs/info/68ba4e9f5f38327491865d54?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
+| **[Atwell, LLC](https://atwell.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/68ba48286105227d1189c935?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Sep 04 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[2025 Internship Conversions](https://jobright.ai/jobs/info/68ba476a5f38327491865a7c?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Sep 04 |
+| **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba46906105227d1189c845?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Sep 04 |
+| ↳ | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba420b6105227d1189c765?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 04 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/68ba40fa5f3832749186587a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba40556105227d1189c582?utm_campaign=1054&utm_source=git)** | Alpharetta, GA | On Site | Sep 04 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ba3efe5f38327491865620?utm_campaign=1054&utm_source=git)** | Aurora, CO | On Site | Sep 04 |
@@ -88,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[HRL Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/68ba245e8043103d4f21dd52?utm_campaign=1054&utm_source=git)** | Flint, MI | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Analytics & Data Science](https://jobright.ai/jobs/info/68ba22b75f38327491864447?utm_campaign=1054&utm_source=git)** | Santa Monica | On Site | Sep 04 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[HR Internship - Spring 2026](https://jobright.ai/jobs/info/68ba1ea25f38327491864195?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba19c15f38327491863fd7?utm_campaign=1054&utm_source=git)** | San Pablo, CA | On Site | Sep 04 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[TSC Skillbridge Intern](https://jobright.ai/jobs/info/68ba19856105227d1189adac?utm_campaign=1054&utm_source=git)** | Colorado Springs, Colorado | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba16d98043103d4f21d668?utm_campaign=1054&utm_source=git)** | San Pablo, CA | On Site | Sep 04 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68ba16a78043103d4f21d650?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba179a8043103d4f21d6b1?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 04 |
 | **[Perfect North Slopes](https://perfectnorth.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68ba11986105227d1189a9c1?utm_campaign=1054&utm_source=git)** | Lawrenceburg, IN | On Site | Sep 04 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ba10318043103d4f21d450?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 04 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68ba07555f383274918637b8?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Sep 04 |
@@ -141,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9b8e86105227d118973bc?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Sep 04 |
 | **[Eriez](https://www.eriez.com)** | **[Join our Talent Pool - Career Fair 2025](https://jobright.ai/jobs/info/68b9c27e6105227d1189786d?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Sep 04 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68b9b7065f38327491860438?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 04 |
+| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 04 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[HR, Co-op](https://jobright.ai/jobs/info/68b9a8615f3832749185fd2b?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | Hybrid | Sep 04 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[DEWS CDI & CEED Internship - Hourly - Albany](https://jobright.ai/jobs/info/68b0d49cb47fb001d6895c7a?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Sep 04 |
 | **[Regal Boats](http://regalboats.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68b991955f3832749185ed60?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Client Experience/Advocacy Intern](https://jobright.ai/jobs/info/68b97dd46105227d1189504b?utm_campaign=1054&utm_source=git)** | Carmel, Indiana, United States | On Site | Sep 04 |
 | **[Tecomet, Inc](http://www.tecomet.com)** | **[HR Intern (Part Time)](https://jobright.ai/jobs/info/68b95fdd8043103d4f21701a?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Sep 04 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68b95f378043103d4f216fd2?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 04 |
-| **[Ryko Solutions](http://www.ryko.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b95edd8043103d4f216fab?utm_campaign=1054&utm_source=git)** | Sheridan, WY | On Site | Sep 04 |
-| **[Routeware, Inc.](https://www.routeware.com)** | **[HR/People Operations Internship](https://jobright.ai/jobs/info/68b93aa5ea901c0d269fdc5c?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 04 |
-| **[Hoffman Construction Company](http://www.hoffmancorp.com)** | **[Safety Professional Intern Summer 2026 - Idaho](https://jobright.ai/jobs/info/68b93a10ea901c0d269fdba9?utm_campaign=1054&utm_source=git)** | Boise Metropolitan Area | On Site | Sep 04 |
-| **[Fervo Energy](https://www.fervoenergy.com)** | **[People Operations Internship](https://jobright.ai/jobs/info/68b938985b42bc456282bd4a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 03 |
-| **[Hoffman Construction Company](http://www.hoffmancorp.com)** | **[Safety Professional Intern Summer 2026 - Idaho](https://jobright.ai/jobs/info/68b938075b42bc456282bc7e?utm_campaign=1054&utm_source=git)** | 472 W Washington St, Boise, ID, 83702, US | On Site | Sep 03 |
-| **[Fervo Energy](https://www.fervoenergy.com)** | **[People Operations Internship](https://jobright.ai/jobs/info/68b937fe5b42bc456282bc78?utm_campaign=1054&utm_source=git)** | Hybrid Remote - Houston | Hybrid | Sep 03 |
-| **[Hoffman Construction Company](http://www.hoffmancorp.com)** | **[Safety Professional Intern Summer 2026 - Texas](https://jobright.ai/jobs/info/68b92f845b42bc456282b5d7?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Sep 03 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Total Rewards Intern - Summer 2026](https://jobright.ai/jobs/info/68b92aab07090163b6ba86cf?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Temple, Waco and Killeen](https://jobright.ai/jobs/info/68b92a9c07090163b6ba86b7?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
