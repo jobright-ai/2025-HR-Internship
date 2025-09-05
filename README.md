@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supply Chain Summer Intern - US Based](https://jobright.ai/jobs/info/68ba7a018043103d4f220d45?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
+| **[Terex Corporation](http://www.terex.com)** | **[2026 HR Co-op](https://jobright.ai/jobs/info/68ba95a56105227d1189f887?utm_campaign=1054&utm_source=git)** | USA, WA, Bothell | On Site | Sep 05 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Human Resources Intern (Undergraduate)](https://jobright.ai/jobs/info/68ba92418043103d4f221ff1?utm_campaign=1054&utm_source=git)** | Round Rock, TX | Hybrid | Sep 05 |
+| ↳ | **[Human Resources Intern (Graduate)](https://jobright.ai/jobs/info/68ba8e2a6105227d1189f014?utm_campaign=1054&utm_source=git)** | Round Rock, TX | Hybrid | Sep 05 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[2025 Internship Conversions](https://jobright.ai/jobs/info/68ba8c725f3832749186818a?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Sep 05 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Benefit Specialist (Summer)](https://jobright.ai/jobs/info/68ba80566105227d1189e837?utm_campaign=1054&utm_source=git)** | Aberdeen, SD | On Site | Sep 04 |
+| **[Aramark](http://www.aramark.com)** | **[Human Resources Intern, Arizona State University](https://jobright.ai/jobs/info/68ba80196105227d1189e7fd?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Sep 04 |
+| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Vocational Rehabilitation Counselor (Summer)](https://jobright.ai/jobs/info/68ba7dbd6105227d1189e5ea?utm_campaign=1054&utm_source=git)** | South Dakota, United States | On Site | Sep 04 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supply Chain Summer Intern - US Based](https://jobright.ai/jobs/info/68ba7d495f383274918678e9?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 04 |
+| ↳ | **[2026 Future Talent Program - Global Supply Chain Summer Intern - US Based](https://jobright.ai/jobs/info/68ba7a018043103d4f220d45?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68ba72fa6105227d1189e1c8?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Sep 04 |
 | **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68ba6c088043103d4f220666?utm_campaign=1054&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Sep 04 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba54d85f3832749186604f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Sep 04 |
 | ↳ | **[Verizon Global Solutions Technology Summer 2026 Internship](https://jobright.ai/jobs/info/68ba52cf5f38327491865e8d?utm_campaign=1054&utm_source=git)** | Ashburn, VA | On Site | Sep 04 |
-| **[California State University, Stanislaus](https://www.csustan.edu/)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/68ba51c28043103d4f21f707?utm_campaign=1054&utm_source=git)** | Turlock, CA | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Clinical Supplies - Co-Op](https://jobright.ai/jobs/info/68ba40fb6105227d1189c61c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program - Physical Security and North America Investigations Intern](https://jobright.ai/jobs/info/68ba4e9f5f38327491865d54?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
 | **[Atwell, LLC](https://atwell.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/68ba48286105227d1189c935?utm_campaign=1054&utm_source=git)** | Southfield, MI | On Site | Sep 04 |
@@ -77,7 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program – Regulatory Digital Health – Co-Op](https://jobright.ai/jobs/info/68ba3b2a6105227d1189c2f3?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program -  Global Safety & Environment - Intern](https://jobright.ai/jobs/info/68ba3b245f38327491865507?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program - V&I Patient Innovation & Engagement - Intern](https://jobright.ai/jobs/info/68ba3b125f383274918654ef?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 04 |
-| ↳ | **[2026 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/68ba3a9e5f3832749186547f?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
+| **[California State University, Stanislaus](https://www.csustan.edu/)** | **[Human Resources Student Assistant](https://jobright.ai/jobs/info/68ba51c28043103d4f21f707?utm_campaign=1054&utm_source=git)** | Turlock, CA | On Site | Sep 04 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/68ba3a9e5f3832749186547f?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program - Discovery Biologics - Co-op](https://jobright.ai/jobs/info/68ba3a9b6105227d1189c213?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | Hybrid | Sep 04 |
 | ↳ | **[2026 University Recruiting - Global Labeling Operational Excellence - Intern](https://jobright.ai/jobs/info/68ba3a7e8043103d4f21ed44?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program - IT Emerging Talent Rotational (ETR) Program: In 2 Years, Explore 3 Roles (Hybrid)](https://jobright.ai/jobs/info/68ba3a236105227d1189c168?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
@@ -99,9 +107,10 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[HRL Office Assistant (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/68ba245e8043103d4f21dd52?utm_campaign=1054&utm_source=git)** | Flint, MI | On Site | Sep 04 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[2026 US Summer Internships - Analytics & Data Science](https://jobright.ai/jobs/info/68ba22b75f38327491864447?utm_campaign=1054&utm_source=git)** | Santa Monica | On Site | Sep 04 |
 | **[Advanced Behavioral Health](https://www.abhmaryland.com)** | **[HR Internship - Spring 2026](https://jobright.ai/jobs/info/68ba1ea25f38327491864195?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba19c15f38327491863fd7?utm_campaign=1054&utm_source=git)** | San Pablo, CA | On Site | Sep 04 |
+| **[Continental](https://www.continental.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68ade5eed627244576e4fa4f?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 04 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[TSC Skillbridge Intern](https://jobright.ai/jobs/info/68ba19856105227d1189adac?utm_campaign=1054&utm_source=git)** | Colorado Springs, Colorado | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba179a8043103d4f21d6b1?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ba16d98043103d4f21d668?utm_campaign=1054&utm_source=git)** | San Pablo, CA | On Site | Sep 04 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68ba16a78043103d4f21d650?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 04 |
 | **[Perfect North Slopes](https://perfectnorth.com)** | **[HR Assistant](https://jobright.ai/jobs/info/68ba11986105227d1189a9c1?utm_campaign=1054&utm_source=git)** | Lawrenceburg, IN | On Site | Sep 04 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ba10318043103d4f21d450?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 04 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68ba07555f383274918637b8?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Sep 04 |
@@ -118,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op - Human Resources (Spring 2026)](https://jobright.ai/jobs/info/68b9ec1e8043103d4f21be16?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 04 |
 | ↳ | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b9ec0a6105227d1189945b?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Internship](https://jobright.ai/jobs/info/68b9ebb18043103d4f21bdb1?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Sep 04 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68b9eb926105227d118993f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 04 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant (Recruiting and Professional Development)](https://jobright.ai/jobs/info/68b9ea218043103d4f21bbf2?utm_campaign=1054&utm_source=git)** | Lansing, MI | Hybrid | Sep 04 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship - Boston - Summer 2026](https://jobright.ai/jobs/info/68b9e9225f38327491862462?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 04 |
 | **[Knorr-Bremse AG](https://www.knorr-bremse.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68b9ff9f5f383274918632d7?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Sep 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alcon](http://www.alcon.com)** | **[HRLDP Intern](https://jobright.ai/jobs/info/68b9c0d36105227d118976a6?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas | On Site | Sep 04 |
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9c0a26105227d11897672?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Sep 04 |
 | **[Bellevue School District](https://bsd405.org/)** | **[Custodian Swing Shift Shift - Highland/Ardmore 2025/26 (Internal Applicants Only)](https://jobright.ai/jobs/info/68b9b92d6105227d118973e4?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Sep 04 |
-| **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9b8e86105227d118973bc?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Sep 04 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68b9b7065f38327491860438?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 04 |
-| **[Eriez](https://www.eriez.com)** | **[Test for Talent Pool](https://jobright.ai/jobs/info/68b9c27e6105227d1189786d?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Sep 04 |
-| **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - ATI Clinic Based Internship](https://jobright.ai/jobs/info/686b337235584b65422dacc7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 04 |
-| **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[HR, Co-op](https://jobright.ai/jobs/info/68b9a8615f3832749185fd2b?utm_campaign=1054&utm_source=git)** | Cranbury, NJ | Hybrid | Sep 04 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[DEWS CDI & CEED Internship - Hourly - Albany](https://jobright.ai/jobs/info/68b0d49cb47fb001d6895c7a?utm_campaign=1054&utm_source=git)** | Albany, NY | Hybrid | Sep 04 |
-| **[Regal Boats](http://regalboats.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68b991955f3832749185ed60?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 04 |
-| **[ANdAZ](http://andaz.hyatt.com)** | **[Human Resources Trainee (all genders) als Pflichtpraktikum für 6 Monate](https://jobright.ai/jobs/info/68b982bc8043103d4f217d16?utm_campaign=1054&utm_source=git)** | Wien, WI | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
