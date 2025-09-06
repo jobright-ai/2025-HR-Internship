@@ -60,9 +60,11 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/689f756183d13d1f5b6c81cb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 06 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - Binghamton](https://jobright.ai/jobs/info/68bc2f648043103d4f22e945?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc2add5f38327491875311?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
+| **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67a073758546b803b7a4e26f?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 06 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1eaa5f383274918750bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e5f6105227d118abe7e?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e4d5f38327491875094?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e468043103d4f22e611?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 06 |
@@ -85,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb99628043103d4f229fb4?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
 | **[Aspire Tech Solutions](https://www.linkedin.com/company/104438399)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68bb97b65f383274918707ff?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 05 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 05 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94628043103d4f229dea?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 05 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 05 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68bb93fd5f383274918706d3?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 05 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb934b8043103d4f229c96?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wabash](https://onewabash.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68bb48576105227d118a4de1?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 05 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Mason, OH)](https://jobright.ai/jobs/info/68bb47876105227d118a4d2e?utm_campaign=1054&utm_source=git)** | Mason, OH | On Site | Sep 05 |
 | ↳ | **[HR Business Partner Intern (Yorba Linda, CA)](https://jobright.ai/jobs/info/68bb45385f3832749186dd59?utm_campaign=1054&utm_source=git)** | Yorba Linda, CA | On Site | Sep 05 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb41988043103d4f227303?utm_campaign=1054&utm_source=git)** | Bradenton, FL | On Site | Sep 05 |
-| **[Hatch](https://www.hatch.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb40a25f3832749186dbc7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
