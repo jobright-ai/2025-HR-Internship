@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1eaa5f383274918750bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
+| **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/689f756183d13d1f5b6c81cb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Internship - Binghamton](https://jobright.ai/jobs/info/68bc2f648043103d4f22e945?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc2add5f38327491875311?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e5f6105227d118abe7e?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e4d5f38327491875094?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e468043103d4f22e611?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 06 |
 | **[The Carroll Center for the Blind](http://carroll.org)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68bc00f06105227d118ab6ea?utm_campaign=1054&utm_source=git)** | Newton, MA | On Site | Sep 06 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68bbffc66105227d118ab661?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Sep 06 |
 | **[CONAM Management Corporation](http://www.conam.com)** | **[Benefits Intern](https://jobright.ai/jobs/info/68bbfa355f38327491874790?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68bbffc66105227d118ab661?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Sep 06 |
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68bbe3975f38327491874238?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/68bbe15c8043103d4f22d637?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
 | ↳ | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/68bbe02e6105227d118aa8ba?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
@@ -78,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Greater Columbus](https://jobright.ai/jobs/info/68bbc0dd6105227d118a973d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[MetaSource](http://www.metasource.com/)** | **[General Interest for Future Jobs or Internships](https://jobright.ai/jobs/info/68bbd8ea5f3832749187394e?utm_campaign=1054&utm_source=git)** | Draper, UT | Remote | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Human Resources Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68bbac8d6105227d118a8300?utm_campaign=1054&utm_source=git)** | Johnston, IA | On Site | Sep 05 |
+| **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb99628043103d4f229fb4?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
 | **[Aspire Tech Solutions](https://www.linkedin.com/company/104438399)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68bb97b65f383274918707ff?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 05 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 05 |
@@ -85,9 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68bb93fd5f383274918706d3?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 05 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb934b8043103d4f229c96?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 05 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 05 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92b56105227d118a72ba?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 05 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bb92596105227d118a726e?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 05 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb91945f383274918704ae?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 05 |
-| **[Schnabel ](http://schnabel.com)** | **[Human Resources Internship (Summer of 2026)](https://jobright.ai/jobs/info/68bc000c6105227d118ab679?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Value and Implementation (V&I) Operations - Intern](https://jobright.ai/jobs/info/68bb8d7d5f38327491870394?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program – Outcomes Research - Intern](https://jobright.ai/jobs/info/68bb8d665f38327491870379?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Global Labeling Strategy - Intern](https://jobright.ai/jobs/info/68bb8d595f38327491870363?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
@@ -99,8 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Global Clinical Trial Operations - Intern](https://jobright.ai/jobs/info/68bb8cb45f38327491870281?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Global Medical Affairs Intismeran Autogene - Intern](https://jobright.ai/jobs/info/68bb8c765f38327491870232?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Operational Excellence - Intern](https://jobright.ai/jobs/info/68bb8c356105227d118a6f1b?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
-| **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb8b556105227d118a6e2a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Clinical Trial Data Management - Intern](https://jobright.ai/jobs/info/68bb8aed5f38327491870096?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
+| ↳ | **[2026 Future Talent Program - Clinical Trial Data Management - Intern](https://jobright.ai/jobs/info/68bb8aed5f38327491870096?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Medical Writing & Disclosure - Intern](https://jobright.ai/jobs/info/68bb88e08043103d4f229782?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/68bb88a76105227d118a6d85?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Human Resources Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68bb88055f3832749186ff32?utm_campaign=1054&utm_source=git)** | Delta Dental of Iowa | On Site | Sep 05 |
@@ -138,8 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68bb697e5f3832749186ef0d?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
 | ↳ | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/68bb68458043103d4f22853e?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
 | ↳ | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/68bb68446105227d118a5c22?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bb669d5f3832749186edbf?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Sep 05 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68bb66045f3832749186ed7f?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bb65f05f3832749186ed74?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program – People & Culture  Intern (Campus)](https://jobright.ai/jobs/info/68bb57a95f3832749186e998?utm_campaign=1054&utm_source=git)** | Chicago | Hybrid | Sep 05 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Compensation and Global Mobility Intern](https://jobright.ai/jobs/info/68bb55df6105227d118a560c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/68bb51a28043103d4f227d85?utm_campaign=1054&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Business Partner Intern (Yorba Linda, CA)](https://jobright.ai/jobs/info/68bb45385f3832749186dd59?utm_campaign=1054&utm_source=git)** | Yorba Linda, CA | On Site | Sep 05 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb41988043103d4f227303?utm_campaign=1054&utm_source=git)** | Bradenton, FL | On Site | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb40a25f3832749186dbc7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 05 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Human Resources), Ref# 9634](https://jobright.ai/jobs/info/68bb40a16105227d118a4816?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
-| **[The Huntington](http://huntingtontheatre.org)** | **[Human Resources Summer Intern 2026](https://jobright.ai/jobs/info/68bb3fda8043103d4f227020?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
