@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/68bbc72f6105227d118a9b74?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68bbc5255f38327491872cde?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Greater Columbus](https://jobright.ai/jobs/info/68bbc0dd6105227d118a973d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Human Resources Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68bbac8d6105227d118a8300?utm_campaign=1054&utm_source=git)** | Johnston, IA | On Site | Sep 05 |
 | **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb99628043103d4f229fb4?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
 | **[Aspire Tech Solutions](https://www.linkedin.com/company/104438399)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/68bb97b65f383274918707ff?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68bb93fd5f383274918706d3?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 05 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb934b8043103d4f229c96?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 05 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 05 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92b56105227d118a72ba?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 05 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bb92596105227d118a726e?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 05 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb91945f383274918704ae?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Value and Implementation (V&I) Operations - Intern](https://jobright.ai/jobs/info/68bb8d7d5f38327491870394?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program – Outcomes Research - Intern](https://jobright.ai/jobs/info/68bb8d665f38327491870379?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Global Labeling Strategy - Intern](https://jobright.ai/jobs/info/68bb8d595f38327491870363?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
@@ -118,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68bb697e5f3832749186ef0d?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
 | ↳ | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/68bb68458043103d4f22853e?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
 | ↳ | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/68bb68446105227d118a5c22?utm_campaign=1054&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 05 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bb66045f3832749186ed7f?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bb65f05f3832749186ed74?utm_campaign=1054&utm_source=git)** | Albuquerque, NM | On Site | Sep 05 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Morningstar Internship Program – People & Culture  Intern (Campus)](https://jobright.ai/jobs/info/68bb57a95f3832749186e998?utm_campaign=1054&utm_source=git)** | Chicago | Hybrid | Sep 05 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Compensation and Global Mobility Intern](https://jobright.ai/jobs/info/68bb55df6105227d118a560c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/68bb51a28043103d4f227d85?utm_campaign=1054&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Regulatory Planning and Publishing (RPP) - Intern](https://jobright.ai/jobs/info/68bb368d6105227d118a40e6?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Compensation and Global Mobility Intern](https://jobright.ai/jobs/info/68bb33336105227d118a4001?utm_campaign=1054&utm_source=git)** | NEW YORK CITY, NY | On Site | Sep 05 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 05 |
-| **[Sports Basement](http://sportsbasement.com)** | **[Staffer (Snow Hardgoods Department)](https://jobright.ai/jobs/info/68bb324d6105227d118a3e1d?utm_campaign=1054&utm_source=git)** | Fountain Valley, CA, USA | On Site | Sep 05 |
-| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb31ff8043103d4f2264e6?utm_campaign=1054&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Clinical Trial Operations Epidemiology Operations Intern](https://jobright.ai/jobs/info/68bb31e78043103d4f2264b6?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
