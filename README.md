@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdd134c4c5904ff6004304?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[Fusion100](http://Fusion100co.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bdc36de57feb02eb0ac4a3?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 07 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdc26adf5eec448f63d4ea?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resource Undergraduate Intern](https://jobright.ai/jobs/info/68bdaa6ee57feb02eb0ac2dc?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Global Clinical Trial Operations - Intern](https://jobright.ai/jobs/info/68bb77636105227d118a620e?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Operational Excellence - Intern](https://jobright.ai/jobs/info/68bb74d28043103d4f228bc6?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Clinical Trial Diversity - Intern](https://jobright.ai/jobs/info/68bb744e8043103d4f228b13?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
-| ↳ | **[2026 Future Talent Program – Outcomes Research - Intern](https://jobright.ai/jobs/info/68bb74095f3832749186f42a?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
