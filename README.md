@@ -81,11 +81,11 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/689f756183d13d1f5b6c81cb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 06 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - Binghamton](https://jobright.ai/jobs/info/68bc2f648043103d4f22e945?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc2add5f38327491875311?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67a073758546b803b7a4e26f?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1eaa5f383274918750bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e5f6105227d118abe7e?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e4d5f38327491875094?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e468043103d4f22e611?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 06 |
