@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Talent Development Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68bede42702aa35207aa1166?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Sep 08 |
+| **[Google](https://www.google.com)** | **[People Analytics Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68bed70c8e65e77df55b4c01?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68bed7005c5d5f14f46d167a?utm_campaign=1054&utm_source=git)** | New York, NY, USA | On Site | Sep 08 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68bed6c3702aa35207aa0d40?utm_campaign=1054&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68bed67c5c5d5f14f46d165e?utm_campaign=1054&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
+| ↳ | **[People Analytics Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68bed664702aa35207aa0d1d?utm_campaign=1054&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68beb8255c5d5f14f46d093b?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Sep 08 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Human Resources](https://jobright.ai/jobs/info/68be9ddc3d31ec76b7e8b213?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
-| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68be9c6cc4c5904ff6007297?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 08 |
 | **[ALLDATA](http://www.alldata.com/)** | **[AutoZone 2026 Summer Internship – Human Resources](https://jobright.ai/jobs/info/68be9c66e57feb02eb0af46e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-HR Talent Development](https://jobright.ai/jobs/info/68be8f7e3d31ec76b7e8b0e4?utm_campaign=1054&utm_source=git)** | Lakewood, CO | Hybrid | Sep 08 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68be8d5ac4c5904ff600715d?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 08 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Comp & Benefits Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68be7ec1e57feb02eb0aef84?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Comp & Benefits Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68be6917c4c5904ff60063c0?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
+| **[Spurwink](http://www.spurwink.org)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/68becb9a5c5d5f14f46d0fa9?utm_campaign=1054&utm_source=git)** | Westbrook, ME | Hybrid | Sep 07 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdd134c4c5904ff6004304?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | ↳ | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdc26adf5eec448f63d4ea?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[Vital Farms](http://vitalfarms.com/)** | **[Talent Community - Join Today!](https://jobright.ai/jobs/info/68bd976cc4c5904ff6003e6f?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 07 |
@@ -88,11 +94,11 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/689f756183d13d1f5b6c81cb?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 06 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Internship - Binghamton](https://jobright.ai/jobs/info/68bc2f648043103d4f22e945?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Sep 06 |
-| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc2add5f38327491875311?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc24c06105227d118abfc0?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Sep 06 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/67a073758546b803b7a4e26f?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 06 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1f1f6105227d118abed3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 06 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1eaa5f383274918750bb?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e5f6105227d118abe7e?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e4d5f38327491875094?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Sep 06 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bc1e468043103d4f22e611?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Sep 06 |
@@ -135,12 +141,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Global Medical Affairs Intismeran Autogene - Intern](https://jobright.ai/jobs/info/68bb8c765f38327491870232?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Operational Excellence - Intern](https://jobright.ai/jobs/info/68bb8c356105227d118a6f1b?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/689e36ccfaa4e875e827812e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
+| **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb8b556105227d118a6e2a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Clinical Trial Data Management - Intern](https://jobright.ai/jobs/info/68bb8aed5f38327491870096?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Future Talent Program - Medical Writing & Disclosure - Intern](https://jobright.ai/jobs/info/68bb88e08043103d4f229782?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 05 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/68bb88a76105227d118a6d85?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Human Resources Intern (Potential Insure Your Future)](https://jobright.ai/jobs/info/68bb88055f3832749186ff32?utm_campaign=1054&utm_source=git)** | Delta Dental of Iowa | On Site | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Pharmacovigilance Case Management - Intern](https://jobright.ai/jobs/info/68bb87268043103d4f22948b?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
-| **[Desire Home Care](https://www.desirehomecare.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/68bb86fc8043103d4f229439?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 05 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bb86e68043103d4f229415?utm_campaign=1054&utm_source=git)** | Hamel, MN, US | On Site | Sep 05 |
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb863f5f3832749186fcc3?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Sep 05 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68bb812d8043103d4f22916d?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/68bb7dff6105227d118a6544?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Equinix](http://www.equinix.com)** | **[Workforce Development program Intern](https://jobright.ai/jobs/info/686423be7e219f3eff523dc3?utm_campaign=1054&utm_source=git)** | Elk Grove Village, IL | Hybrid | Sep 05 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Human Resource Business Partner (HRBP), Emerging Talent Intern](https://jobright.ai/jobs/info/68bb79b76105227d118a64a2?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb79656105227d118a645a?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb78706105227d118a635b?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb78225f3832749186f5c7?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb77975f3832749186f52c?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Medical Information – Intern](https://jobright.ai/jobs/info/68bb77886105227d118a6244?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
-| ↳ | **[2026 Future Talent Program - Medical Writing & Disclosure - Intern](https://jobright.ai/jobs/info/68bb77786105227d118a622b?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
