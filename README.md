@@ -57,6 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Talent Strategy Intern](https://jobright.ai/jobs/info/68bf4f2c5c5d5f14f46d5f77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 08 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[Starr Summer Intern - Workers' Compensation Aviation](https://jobright.ai/jobs/info/68bf4d8d8e65e77df55b9383?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68bf4bb68e65e77df55b90d5?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Employment Operations Internship](https://jobright.ai/jobs/info/68bf48dd5c5d5f14f46d5b60?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Talent Strategy Intern](https://jobright.ai/jobs/info/68bf48905c5d5f14f46d5b0a?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Sep 08 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Community Relations](https://jobright.ai/jobs/info/68bf48485c5d5f14f46d5ab6?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 08 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Compensation and Global Mobility Intern](https://jobright.ai/jobs/info/68bf4821702aa35207aa5103?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 08 |
+| **[August Bioservices, LLC](https://www.augustbio.com/)** | **[2026 Internship Application Pool](https://jobright.ai/jobs/info/68bf47aa5c5d5f14f46d5a20?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Sep 08 |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68bf46585c5d5f14f46d5967?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 08 |
+| **[Eastern Industrial Supplies, Inc.](http://easternfirst.com)** | **[People Operations (HR) Specialist - Part-time](https://jobright.ai/jobs/info/68bf456b8e65e77df55b8e26?utm_campaign=1054&utm_source=git)** | Greenville, SC | Hybrid | Sep 08 |
+| **[CRH](http://crh.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68bf42e1702aa35207aa4eee?utm_campaign=1054&utm_source=git)** | Tell City, IN | On Site | Sep 08 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf4232702aa35207aa4e47?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Sep 08 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/68bf4216702aa35207aa4e10?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Health Economics - Intern](https://jobright.ai/jobs/info/68bf41c6702aa35207aa4d9f?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 08 |
+| **[United Airlines](https://www.united.com)** | **[Intern- Labor Relations (Summer 2026)](https://jobright.ai/jobs/info/68bf4031702aa35207aa4b9f?utm_campaign=1054&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | Sep 08 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management Talent Team (Year-Round)](https://jobright.ai/jobs/info/68bf4002702aa35207aa4b54?utm_campaign=1054&utm_source=git)** | WI-Milwaukee | On Site | Sep 08 |
+| **[Athena](https://athenapsych.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bf3e455c5d5f14f46d5354?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Sep 08 |
+| **[Mid-Minnesota Legal Aid](https://mylegalaid.org/)** | **[HR Assistant (Student or Part-Time Opportunity)](https://jobright.ai/jobs/info/68bf3df0702aa35207aa493d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 08 |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3dc98e65e77df55b899d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 08 |
+| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Human Resources Intern Summer 2026](https://jobright.ai/jobs/info/68bf3a9d8e65e77df55b866d?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Sep 08 |
+| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3a398e65e77df55b8614?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Sep 08 |
+| **[Share Creators](http://www.sharecreators.com)** | **[Recruiter Intern (Unpaid)](https://jobright.ai/jobs/info/68bf3951702aa35207aa4842?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 08 |
+| **[Arity](http://www.arity.com)** | **[Arity - People & Culture Intern - Arity](https://jobright.ai/jobs/info/68bf38c3702aa35207aa47bf?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 08 |
+| **[Ameresco](http://www.apses.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/68bf362f5c5d5f14f46d4ecc?utm_campaign=1054&utm_source=git)** | Framingham, MA | On Site | Sep 08 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bf36238e65e77df55b852a?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 08 |
+| **[Hussmann](http://www.hussmann.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68bf35df702aa35207aa449a?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 08 |
+| ↳ | **[Intern - HR](https://jobright.ai/jobs/info/68bf341d8e65e77df55b835c?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 08 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Human Resources Intern - Mahwah, New Jersey](https://jobright.ai/jobs/info/68bf34058e65e77df55b833f?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | On Site | Sep 08 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68bf32318e65e77df55b8121?utm_campaign=1054&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 08 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (People Analytics) (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bf32278e65e77df55b8118?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 08 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - HR](https://jobright.ai/jobs/info/68bf319d702aa35207aa4214?utm_campaign=1054&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 08 |
@@ -75,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[First Internet Bank](https://www.firstib.com)** | **[Human Resources Intern, Generalist](https://jobright.ai/jobs/info/68bf2d485c5d5f14f46d47ae?utm_campaign=1054&utm_source=git)** | Fishers, IN | On Site | Sep 08 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 08 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern- Global Payroll, Timekeeping, Travel & Expense Analyst](https://jobright.ai/jobs/info/68bf2ccd702aa35207aa3dfd?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 08 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Well-being Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68bf2bf58e65e77df55b7c95?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Sep 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Clinical Trial Operations Monitoring Excellence – Intern](https://jobright.ai/jobs/info/68bf2bc28e65e77df55b7c74?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 08 |
 | ↳ | **[2026 Future Talent Program - Global Clinical Data Standards - Intern](https://jobright.ai/jobs/info/68bf2ad68e65e77df55b7bb4?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 08 |
 | **[Planview](http://www.planview.com)** | **[HR / Talent Intern](https://jobright.ai/jobs/info/68bf2a0b5c5d5f14f46d4647?utm_campaign=1054&utm_source=git)** | Austin, Texas | On Site | Sep 08 |
@@ -119,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program – Global Site Budgets & Payments (Regions) – Intern](https://jobright.ai/jobs/info/68bf082f702aa35207aa2620?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 08 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Human Resources/ Personnel - PN: 20094787](https://jobright.ai/jobs/info/68bf07508e65e77df55b647b?utm_campaign=1054&utm_source=git)** | District 1 HQ1885 North McCullough Street | On Site | Sep 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Data Operations Intern](https://jobright.ai/jobs/info/68bf06f08e65e77df55b6411?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 08 |
-| **[JETZY](http://jetzyapp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2a9d8e65e77df55b7b82?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Sep 08 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career Pathways Intern (unpaid)](https://jobright.ai/jobs/info/68bf02835c5d5f14f46d2cde?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
 | ↳ | **[Services for Older Refugees (SOR) Intern](https://jobright.ai/jobs/info/68bf01be5c5d5f14f46d2c72?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
 | ↳ | **[HR Intern - Administrative Support](https://jobright.ai/jobs/info/68bf01238e65e77df55b620a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
@@ -127,34 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Employment Case Management (ECM) Intern (unpaid)](https://jobright.ai/jobs/info/68bf011b8e65e77df55b6205?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
 | ↳ | **[General Case Management (GCM) Intern (unpaid)](https://jobright.ai/jobs/info/68bf01158e65e77df55b6200?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
 | ↳ | **[Refugee Cash Assistance (RCA) Intern](https://jobright.ai/jobs/info/68bf01048e65e77df55b61f0?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
-| ↳ | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/68befff28e65e77df55b6127?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
 | ↳ | **[Refugee Walk-in Services Intern - Fall 2025](https://jobright.ai/jobs/info/68beffb28e65e77df55b60f6?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Sep 08 |
 | ↳ | **[Fall Intensive Case Management Intern](https://jobright.ai/jobs/info/68beffa98e65e77df55b60f1?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
-| ↳ | **[Intensive Case Management Intern (unpaid)](https://jobright.ai/jobs/info/68befedf8e65e77df55b6074?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
-| ↳ | **[Career Pathways Intern](https://jobright.ai/jobs/info/68befe658e65e77df55b6035?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
-| ↳ | **[Refugee Employment and Skill-Building Intern - Fall 2025](https://jobright.ai/jobs/info/68befe3d8e65e77df55b6017?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Sep 08 |
-| ↳ | **[Refugee Economic Empowerment Intern - Fall 2025](https://jobright.ai/jobs/info/68befe2e8e65e77df55b600c?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | Hybrid | Sep 08 |
-| ↳ | **[Fall 2025 Employment Program Intern - UNPAID](https://jobright.ai/jobs/info/68befe1b8e65e77df55b5ffc?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | On Site | Sep 08 |
-| ↳ | **[Career Development Intern (Fall 2025) - UNPAID](https://jobright.ai/jobs/info/68befce7702aa35207aa224d?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Sep 08 |
-| ↳ | **[Client Benefits Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/68befccd5c5d5f14f46d2b21?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | Hybrid | Sep 08 |
-| ↳ | **[Economic Empowerment Intern](https://jobright.ai/jobs/info/68befcc4702aa35207aa222d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Immigration Casework Intern - UNPAID](https://jobright.ai/jobs/info/68befca2702aa35207aa2211?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
-| ↳ | **[Services for Older Refugees (SOR) Intern (unpaid)](https://jobright.ai/jobs/info/68befc9a702aa35207aa220e?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
-| ↳ | **[Fall 2025 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/68befc9a702aa35207aa220d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
-| ↳ | **[Workforce Job Development intern (unpaid)](https://jobright.ai/jobs/info/68befc92702aa35207aa2204?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Refugee Cash Assistance (RCA) Intern (unpaid)](https://jobright.ai/jobs/info/68befc78702aa35207aa21f8?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Economic Empowerment - Employment Intern - UNPAID](https://jobright.ai/jobs/info/68befc6e702aa35207aa21f2?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Sep 08 |
-| ↳ | **[Employment Specialist Intern](https://jobright.ai/jobs/info/68befc57702aa35207aa21e1?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 08 |
-| ↳ | **[WIOA Case Manager Intern (unpaid)](https://jobright.ai/jobs/info/68befc525c5d5f14f46d2acc?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[General Case Management (GCM) Intern](https://jobright.ai/jobs/info/68befc1a5c5d5f14f46d2ab1?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
-| ↳ | **[Refugee Integration Intern (unpaid)](https://jobright.ai/jobs/info/68befc175c5d5f14f46d2ab0?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Intensive Case Management Intern - UNPAID](https://jobright.ai/jobs/info/68befc14702aa35207aa21b2?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
-| ↳ | **[Fall 2025 Development and Volunteer Intern - UNPAID](https://jobright.ai/jobs/info/68befc105c5d5f14f46d2aab?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
-| ↳ | **[Preferred Communities Case Management Intern (unpaid)](https://jobright.ai/jobs/info/68befc01702aa35207aa21a8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Fall Refugee Cash Assistance Intern](https://jobright.ai/jobs/info/68befbd55c5d5f14f46d2a7e?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
-| ↳ | **[Intensive Case Management Intern](https://jobright.ai/jobs/info/68befbd0702aa35207aa2187?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Sep 08 |
-| ↳ | **[Fall 2025 Development Intern - UNPAID](https://jobright.ai/jobs/info/68befb4e5c5d5f14f46d2a2d?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Sep 08 |
-| ↳ | **[Public Benefits & Navigation Program Intern (unpaid)](https://jobright.ai/jobs/info/68befb495c5d5f14f46d2a2b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Preferred Communities Case Management Intern](https://jobright.ai/jobs/info/68befb26702aa35207aa20cb?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 08 |
-| ↳ | **[Intensive Case Management Intern (Fall 2025- Unpaid)](https://jobright.ai/jobs/info/68befb15702aa35207aa20b1?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
