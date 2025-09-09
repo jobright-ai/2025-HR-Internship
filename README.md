@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/68c04bef702aa35207aabcb5?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Sep 09 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Intern](https://jobright.ai/jobs/info/68c043345c5d5f14f46dc1c0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 09 |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Human Resources (HR) Operations Intern](https://jobright.ai/jobs/info/68c03fef702aa35207aab64e?utm_campaign=1054&utm_source=git)** | US NY Waterford | On Site | Sep 09 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Standards & Training Intern](https://jobright.ai/jobs/info/68c03fdc5c5d5f14f46dbff2?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 09 |
+| ↳ | **[2026 Future Talent Program - Standards & Training Intern](https://jobright.ai/jobs/info/68c03f33702aa35207aab5ff?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 09 |
+| ↳ | **[2026 Future Talent Program – V&I Outcomes Research (Cardiovascular & Metabolism) - Intern](https://jobright.ai/jobs/info/68c03d245c5d5f14f46dbf04?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 09 |
+| ↳ | **[2026 Future Talent Program – V&I Outcomes Research (Cardiovascular & Metabolism) - Intern](https://jobright.ai/jobs/info/68c03d18702aa35207aab555?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Sep 09 |
 | **[Toast](https://pos.toasttab.com)** | **[Employer Brand & Early Career Co-op](https://jobright.ai/jobs/info/68c02ef85c5d5f14f46dbb0c?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 09 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68c02ef45c5d5f14f46dbb08?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Sep 09 |
 | **[Toast](https://pos.toasttab.com)** | **[Employer Brand & Early Career Co-op](https://jobright.ai/jobs/info/68c025105c5d5f14f46db77a?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 09 |
 | **[Precision Castparts](http://precast.com)** | **[HR Co-Op Fall](https://jobright.ai/jobs/info/68a3c50e37d3cc6b0d579768?utm_campaign=1054&utm_source=git)** | Eastlake, OH | On Site | Sep 09 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68c0078f5c5d5f14f46db2b4?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 09 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68c00750702aa35207aaa928?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 09 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68bfffa65c5d5f14f46db174?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Sep 09 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Human Resources Clerical - Student Employment](https://jobright.ai/jobs/info/68bfff448e65e77df55be7e3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[HR Intern](https://jobright.ai/jobs/info/68bffa0f702aa35207aaa760?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 09 |
@@ -95,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/68bf806f5c5d5f14f46d771f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Internship Opportunities - Visit us at the North Carolina A&T State University 2025 Fall Career Fair](https://jobright.ai/jobs/info/68bf7dcc702aa35207aa6cf3?utm_campaign=1054&utm_source=git)** | Greensboro, NC, USA | On Site | Sep 08 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Starr Summer Intern - Workers' Compensation Aviation](https://jobright.ai/jobs/info/68bf7c6f5c5d5f14f46d753b?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Trainee](https://jobright.ai/jobs/info/68bf7bec8e65e77df55ba993?utm_campaign=1054&utm_source=git)** | Culver City, California | Hybrid | Sep 08 |
 | **[AECOM](http://www.aecom.com/)** | **[Internship Opportunities - Visit us at the Purdue University 2025 Fall Industrial Roundtable](https://jobright.ai/jobs/info/68bf7b705c5d5f14f46d739f?utm_campaign=1054&utm_source=git)** | West Lafayette, IN | On Site | Sep 08 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Talent Relations & Publicity Trainee](https://jobright.ai/jobs/info/68bf7b128e65e77df55ba8cc?utm_campaign=1054&utm_source=git)** | Culver City, California | Hybrid | Sep 08 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Employee Experience Integration Project (Omaha, NE)](https://jobright.ai/jobs/info/68bf77018e65e77df55ba6bd?utm_campaign=1054&utm_source=git)** | Omaha Metropolitan Area | On Site | Sep 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - College Station](https://jobright.ai/jobs/info/68bf74c15c5d5f14f46d70b1?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Sep 08 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Graduate Assistant-FWS](https://jobright.ai/jobs/info/68bf735f5c5d5f14f46d6f57?utm_campaign=1054&utm_source=git)** | Loma Linda, CA | On Site | Sep 08 |
@@ -129,7 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68bf59ca8e65e77df55b9915?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 08 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 08 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Talent Strategy Intern](https://jobright.ai/jobs/info/68bf4f2c5c5d5f14f46d5f77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 08 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[Starr Summer Intern - Workers' Compensation Aviation](https://jobright.ai/jobs/info/68bf4d8d8e65e77df55b9383?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[Starr Summer Intern - Workers' Compensation Aviation](https://jobright.ai/jobs/info/68bf4dd45c5d5f14f46d5e51?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 08 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[HR Service Center Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68bf4bb68e65e77df55b90d5?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Employment Operations Internship](https://jobright.ai/jobs/info/68bf48dd5c5d5f14f46d5b60?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Talent Strategy Intern](https://jobright.ai/jobs/info/68bf48905c5d5f14f46d5b0a?utm_campaign=1054&utm_source=git)** | Denver, CO | Hybrid | Sep 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arity](http://www.arity.com)** | **[Arity - People & Culture Intern - Arity](https://jobright.ai/jobs/info/68bf38c3702aa35207aa47bf?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Share Creators](http://www.sharecreators.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/68bf3951702aa35207aa4842?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Ameresco](http://www.apses.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/68bf362f5c5d5f14f46d4ecc?utm_campaign=1054&utm_source=git)** | Framingham, MA | On Site | Sep 08 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bf36238e65e77df55b852a?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 08 |
-| **[Hussmann](http://www.hussmann.com)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68bf35df702aa35207aa449a?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 08 |
-| ↳ | **[Intern - HR](https://jobright.ai/jobs/info/68bf341d8e65e77df55b835c?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 08 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Human Resources Intern - Mahwah, New Jersey](https://jobright.ai/jobs/info/68bf34058e65e77df55b833f?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | On Site | Sep 08 |
-| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68bf32318e65e77df55b8121?utm_campaign=1054&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 08 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (People Analytics) (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bf32278e65e77df55b8118?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Sep 08 |
-| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Intern - HR](https://jobright.ai/jobs/info/68bf319d702aa35207aa4214?utm_campaign=1054&utm_source=git)** | Bridgeton, Missouri | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
