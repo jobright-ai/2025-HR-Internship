@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Ramon Valley Fire Protection District](https://www.firedepartment.org)** | **[Human Resources Intern Part-Time](https://jobright.ai/jobs/info/68c159a23fd8b059a20ef8c6?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 10 |
+| **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68c149a3233c7d3e64d01225?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68c147c94d652f0447756e27?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 10 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c147ac4d652f0447756e15?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 10 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Recruiter Trainee](https://jobright.ai/jobs/info/68c13527233c7d3e64d00e1e?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Sep 10 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c1647f3fd8b059a20efb81?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Sep 10 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[People Leadership Development Program Intern](https://jobright.ai/jobs/info/68c132bd233c7d3e64d00c57?utm_campaign=1054&utm_source=git)** | Princeton, NJ | Hybrid | Sep 10 |
+| **[Hilton Hawaiian Village Waikiki Beach Resort](http://hiltonhawaiianvillage.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c14a5f4d652f0447756f76?utm_campaign=1054&utm_source=git)** | Honolulu, HI | On Site | Sep 10 |
 | **[Athena](https://athenapsych.com)** | **[Talent Acquisition Intern - Paid Internship](https://jobright.ai/jobs/info/689e4a6d83d13d1f5b6b9786?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- HR](https://jobright.ai/jobs/info/68c1117e8e65e77df55c719d?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Sep 09 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Summer Safety Intern](https://jobright.ai/jobs/info/68c10a00702aa35207ab2f85?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Human Resources (HR) Operations Intern](https://jobright.ai/jobs/info/68c03fef702aa35207aab64e?utm_campaign=1054&utm_source=git)** | US NY Waterford | On Site | Sep 09 |
 | **[Dolan Mental Health](https://www.linkedin.com/company/18427535)** | **[Internship - Remote Jobs (General)](https://jobright.ai/jobs/info/68c0c6b68e65e77df55c456e?utm_campaign=1054&utm_source=git)** | Florida, United States | Hybrid | Sep 09 |
 | ↳ | **[Internship - Remote Jobs (General)](https://jobright.ai/jobs/info/68c0c7ba5c5d5f14f46e0e5c?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Sep 09 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Standards & Training Intern](https://jobright.ai/jobs/info/68c03fdc5c5d5f14f46dbff2?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 09 |
-| ↳ | **[2026 Future Talent Program - Standards & Training Intern](https://jobright.ai/jobs/info/68c03f33702aa35207aab5ff?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 09 |
-| ↳ | **[2026 Future Talent Program – V&I Outcomes Research (Cardiovascular & Metabolism) - Intern](https://jobright.ai/jobs/info/68c03d245c5d5f14f46dbf04?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 09 |
-| ↳ | **[2026 Future Talent Program – V&I Outcomes Research (Cardiovascular & Metabolism) - Intern](https://jobright.ai/jobs/info/68c03d18702aa35207aab555?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
