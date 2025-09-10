@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Undergraduate](https://jobright.ai/jobs/info/68a5b069b6a3617d7fa72e0e?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 10 |
 | **[San Ramon Valley Fire Protection District](https://www.firedepartment.org)** | **[Human Resources Intern Part-Time](https://jobright.ai/jobs/info/68c159a23fd8b059a20ef8c6?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 10 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68c149a3233c7d3e64d01225?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68c147c94d652f0447756e27?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 10 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c147ac4d652f0447756e15?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 10 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[People Science & Strategy Associate - Human Resources Services - San Francisco Public Utilities Comm](https://jobright.ai/jobs/info/68c17514233c7d3e64d01c27?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Sep 10 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Recruiter Trainee](https://jobright.ai/jobs/info/68c13527233c7d3e64d00e1e?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Sep 10 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c1647f3fd8b059a20efb81?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Sep 10 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[People Leadership Development Program Intern](https://jobright.ai/jobs/info/68c132bd233c7d3e64d00c57?utm_campaign=1054&utm_source=git)** | Princeton, NJ | Hybrid | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/68c04bef702aa35207aabcb5?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Sep 09 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Intern](https://jobright.ai/jobs/info/68c043345c5d5f14f46dc1c0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 09 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Human Resources (HR) Operations Intern](https://jobright.ai/jobs/info/68c03fef702aa35207aab64e?utm_campaign=1054&utm_source=git)** | US NY Waterford | On Site | Sep 09 |
-| **[Dolan Mental Health](https://www.linkedin.com/company/18427535)** | **[Internship - Remote Jobs (General)](https://jobright.ai/jobs/info/68c0c6b68e65e77df55c456e?utm_campaign=1054&utm_source=git)** | Florida, United States | Hybrid | Sep 09 |
-| ↳ | **[Internship - Remote Jobs (General)](https://jobright.ai/jobs/info/68c0c7ba5c5d5f14f46e0e5c?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
