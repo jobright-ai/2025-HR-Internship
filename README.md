@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68c25eb34d652f044776014b?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Sep 10 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 10 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68c25c5733864f172f9bfed5?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68c25bdb33864f172f9bfe05?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Sep 10 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – People & Culture  Intern (Campus)](https://jobright.ai/jobs/info/68c258c663b706703e11439e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68c243b94d652f044775e9aa?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Sep 10 |
@@ -93,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[People & Culture Business Partner Intern, Summer 2026](https://jobright.ai/jobs/info/68c1f20c33864f172f9bbf00?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 10 |
 | **[RTX](http://www.raytheon.com)** | **[Human Resources Co-op (Spring/Summer 2026)(Remote)](https://jobright.ai/jobs/info/68c1f02033864f172f9bbc64?utm_campaign=1054&utm_source=git)** | HCT99: Field Office - CT Remote Location, Remote City, CT, 06101 USA | Hybrid | Sep 10 |
 | **[Superior Air-Ground Ambulance Service](https://www.superiorambulance.com)** | **[HR Apprentice - Internship](https://jobright.ai/jobs/info/68c1ee0333864f172f9bba46?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Sep 10 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c23cd963b706703e112c08?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 10 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c2398163b706703e1127d0?utm_campaign=1054&utm_source=git)** | Boardman, OR | On Site | Sep 10 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c2398163b706703e1127d0?utm_campaign=1054&utm_source=git)** | Boardman, OR | On Site | Sep 10 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c23a4c4d652f044775e0b6?utm_campaign=1054&utm_source=git)** | Kuna, ID | On Site | Sep 10 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c23c2b63b706703e112b41?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Sep 10 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c2370d4d652f044775dd75?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Sep 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wakefield Pork, Inc.](https://wakefieldpork.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c19af8233c7d3e64d02aa6?utm_campaign=1054&utm_source=git)** | Gaylord, MN | On Site | Sep 10 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Buffalo](https://jobright.ai/jobs/info/6897e5b773b3a600fe8a10f1?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Sep 10 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68c149a3233c7d3e64d01225?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68c147c94d652f0447756e27?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
