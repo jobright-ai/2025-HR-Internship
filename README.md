@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Outcomes Research (Prostate Cancer) - Intern](https://jobright.ai/jobs/info/68c2ecc95001f8077bf5f5f7?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 11 |
+| ↳ | **[2026 Future Talent Program - Outcomes Research (Prostate Cancer) - Intern](https://jobright.ai/jobs/info/68c2ecb663829b0a8a4fe033?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 11 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c2ea4b5adaee6c9bda5353?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 11 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68c2e57d63829b0a8a4fdc61?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/68c2e3535001f8077bf5f052?utm_campaign=1054&utm_source=git)** | United States | On Site | Sep 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c2d8f763829b0a8a4fd6da?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Sep 11 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68c2a88c5adaee6c9bda30e3?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 11 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent (d/m/w) im Bereich Human Resources: Ausbildung & Early Careers](https://jobright.ai/jobs/info/68c2a79763829b0a8a4fb893?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Sep 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68c29b3103b99f6b342972bb?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Sep 11 |
@@ -105,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer HR / Personnel Intern Lexington, SC](https://jobright.ai/jobs/info/68c1dc913fd8b059a20f36e3?utm_campaign=1054&utm_source=git)** | Lexington, SC | On Site | Sep 10 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/68c1da813fd8b059a20f3516?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 10 |
 | **[Ava Labs](https://avalabs.org)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/68c1da3b4d652f044775afe5?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Remote | Sep 10 |
+| **[Entegris](http://www.entegris.com)** | **[HR Program Management Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c1d5933fd8b059a20f32e8?utm_campaign=1054&utm_source=git)** | Billerica, MA | Hybrid | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Site Coordination and Process Support - Intern](https://jobright.ai/jobs/info/68c1d3544d652f044775ab1a?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Sep 10 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant - Van Sickle Seed Grant](https://jobright.ai/jobs/info/68c2b1175001f8077bf5d46f?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Veterinary Health - Co-op](https://jobright.ai/jobs/info/68c1d1eb233c7d3e64d04c3e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 10 |
@@ -118,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Long Beach, CA](https://jobright.ai/jobs/info/68c1ce37233c7d3e64d0476c?utm_campaign=1054&utm_source=git)** | US-CA-Long Beach | Hybrid | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Veterinary Health - Co-op](https://jobright.ai/jobs/info/68c1cdb8233c7d3e64d046e3?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Total Rewards Internship](https://jobright.ai/jobs/info/68c1cce14d652f044775a2d0?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
-| **[Entegris](http://www.entegris.com)** | **[HR Program Management Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c1cc2c3fd8b059a20f279a?utm_campaign=1054&utm_source=git)** | Billerica, MA | Hybrid | Sep 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Outcomes Research Renal Cell Carcinoma - Intern](https://jobright.ai/jobs/info/68c1cbd34d652f044775a1f9?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 10 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, People & Talent Acquisition](https://jobright.ai/jobs/info/68c1ca684d652f044775a068?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[Perfetti Van Melle](http://www.perfettivanmelle.com)** | **[HR Projects Intern Spring 2026](https://jobright.ai/jobs/info/68c1ca283fd8b059a20f25e9?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Sep 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Future Internships](https://jobright.ai/jobs/info/68c190194d652f044775812b?utm_campaign=1054&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Sep 10 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer HR / Personnel Intern Lexington, SC](https://jobright.ai/jobs/info/68c18ef34d652f0447758082?utm_campaign=1054&utm_source=git)** | LEXINGTON, SC | On Site | Sep 10 |
 | **[Wakefield Pork, Inc.](https://wakefieldpork.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c19af8233c7d3e64d02aa6?utm_campaign=1054&utm_source=git)** | Gaylord, MN | On Site | Sep 10 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Buffalo](https://jobright.ai/jobs/info/6897e5b773b3a600fe8a10f1?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Sep 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c2912e8753a565272fb939?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Sep 10 |
-| **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68c149a3233c7d3e64d01225?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 10 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68c147c94d652f0447756e27?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 10 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c147ac4d652f0447756e15?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 10 |
-| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Recruiter Trainee](https://jobright.ai/jobs/info/68c13527233c7d3e64d00e1e?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
