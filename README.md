@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68c29b3103b99f6b342972bb?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Sep 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68c25c5733864f172f9bfed5?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68c25bdb33864f172f9bfe05?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Sep 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c2912e8753a565272fb939?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Sep 10 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68c149a3233c7d3e64d01225?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68c147c94d652f0447756e27?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 10 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c147ac4d652f0447756e15?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
