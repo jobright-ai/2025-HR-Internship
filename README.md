@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - People Operations](https://jobright.ai/jobs/info/68c3d84280e77b1fa6fcda5c?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68c3b1e56031587f8458dbca?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - People Operations](https://jobright.ai/jobs/info/68c3b1d96031587f8458dbb0?utm_campaign=1054&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Talent Acquisition Intern - Project Management](https://jobright.ai/jobs/info/68c39e2b6031587f8458cbaa?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Sep 11 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/68c33c5263829b0a8a5013b4?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Sep 11 |
 | **[BigID](https://www.bigid.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68c338e15adaee6c9bda8647?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c335a063829b0a8a500e87?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
+| **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c334e85001f8077bf62333?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
 | **[StoneRidge Senior Living Community](https://www.stoneridgelcs.com/careers/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68c331d85adaee6c9bda8196?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - Human Resources](https://jobright.ai/jobs/info/68c331be5001f8077bf61fb6?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 11 |
 | **[South Port Square](https://southportseniorliving.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68c3314d63829b0a8a500992?utm_campaign=1054&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 11 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c3230e5001f8077bf61724?utm_campaign=1054&utm_source=git)** | Buda, TX | Hybrid | Sep 11 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Human Resource Intern, Summer 2026](https://jobright.ai/jobs/info/68c31f735adaee6c9bda76af?utm_campaign=1054&utm_source=git)** | Houston,TX,US | Hybrid | Sep 11 |
 | **[Leer Inc.](https://www.leerinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c31eb95001f8077bf613d5?utm_campaign=1054&utm_source=git)** | New Lisbon, WI | On Site | Sep 11 |
-| **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c31e7163829b0a8a4ffd91?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/68c33a355adaee6c9bda87c4?utm_campaign=1054&utm_source=git)** | United States | On Site | Sep 11 |
 | **[Mediclinic Group](https://mediclinic.com)** | **[HR Intern (18 Month contract)](https://jobright.ai/jobs/info/68c3199363829b0a8a4ffaf7?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68c3195163829b0a8a4ffac5?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 11 |
@@ -128,8 +129,10 @@ For a complete list, click the following sortable link below:
 | **[GenScript](http://www.genscript.com)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a63923b6a3617d7fa76585?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Sep 11 |
 | **[Airbus](https://us.airbus.com)** | **[Werkstudent (d/m/w) im Bereich Human Resources: Ausbildung & Early Careers](https://jobright.ai/jobs/info/68c2a79763829b0a8a4fb893?utm_campaign=1054&utm_source=git)** | Hamburg Area | Hybrid | Sep 11 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68c29b3103b99f6b342972bb?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Sep 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 10 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68c25c5733864f172f9bfed5?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Sep 10 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Brentwood](https://jobright.ai/jobs/info/68975f911b9e81727f19955b?utm_campaign=1054&utm_source=git)** | Brentwood, NY | Hybrid | Sep 10 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Facilitator Intern](https://jobright.ai/jobs/info/68aa95456acf96396f72b106?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 10 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68c25eb34d652f044776014b?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Sep 10 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 10 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68c25bdb33864f172f9bfe05?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Sep 10 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – People & Culture  Intern (Campus)](https://jobright.ai/jobs/info/68c258c663b706703e11439e?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68c3bccd6031587f8458e45a?utm_campaign=1054&utm_source=git)** | Kuna, ID | On Site | Sep 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Human Resources Intern (Imperial Valley)](https://jobright.ai/jobs/info/68c3122363829b0a8a4ff691?utm_campaign=1054&utm_source=git)** | Imperial, CA | On Site | Sep 10 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, People & Talent Acquisition, e.l.f. Beauty](https://jobright.ai/jobs/info/68c2175f33864f172f9bcded?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Employee Experience Internship](https://jobright.ai/jobs/info/68c2125d63b706703e111690?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| ↳ | **[[Spring 2026] Total Rewards Internship](https://jobright.ai/jobs/info/68c211bc33864f172f9bccb8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 10 |
-| **[Portage Learning](https://portagelearning.edu)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c20ed54d652f044775cca2?utm_campaign=1054&utm_source=git)** | Beaver Falls, PA | On Site | Sep 10 |
-| **[hc1](http://www.hc1.com)** | **[HR Intern](https://jobright.ai/jobs/info/68c20e814d652f044775cc57?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Remote | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
