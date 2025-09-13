@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c57dd9db52c07d28842ff0?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 13 |
 | **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68c56c88c96a22563ece8cb2?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/68c56a98db52c07d288429a2?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | Hybrid | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55559db52c07d2884252e?utm_campaign=1054&utm_source=git)** | Bossier City, LA | On Site | Sep 13 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Remote Human Resources Volunteer/Intern (Unpaid, USA Applicants Only)](https://jobright.ai/jobs/info/68c50d7ddb52c07d288408a5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Sep 12 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[People & Culture (Talent Acquisition) Intern, Summer 2026](https://jobright.ai/jobs/info/68c4e9c4db52c07d2883de8a?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68c4db44fce86561b9289e64?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 12 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7a2fce86561b9289d03?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 12 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 12 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d748fce86561b9289c66?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68c4d73dfce86561b9289c56?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d67131e5763f188e3eb6?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Sep 12 |
@@ -92,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Quantinuum](https://www.quantinuum.com/)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/68c4d5d0fce86561b92899e6?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Sep 12 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[HR Programs – Employee Experience & Engagement Intern](https://jobright.ai/jobs/info/68c4cd4ffce86561b92897b0?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[FourGen Holdings](https://four-gen.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c4c246fce86561b9289104?utm_campaign=1054&utm_source=git)** | Oak Brook, Illinois, United States | On Site | Sep 12 |
-| **[NorthPoint Development](http://beyondthecontract.com)** | **[Internship Application](https://jobright.ai/jobs/info/68c4c1fd31e5763f188e3407?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
+| **[NorthPoint Development](http://beyondthecontract.com)** | **[Internship Application](https://jobright.ai/jobs/info/68c4c15a31e5763f188e3299?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/68c4c1097279451d6a037406?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 12 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c4e9aec96a22563ece3fea?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | ↳ | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c4e1657d0db4114272e72b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[AI+ People Strategy Intern](https://jobright.ai/jobs/info/68c4a113e396b25cb5c69b66?utm_campaign=1054&utm_source=git)** | Virtual, TN | Remote | Sep 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management Talent Team (Year-Round)](https://jobright.ai/jobs/info/68c4992014bb275ce0194e0f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Dashboarding & Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/68c493c214bb275ce0194abe?utm_campaign=1054&utm_source=git)** | Atlanta GA | Hybrid | Sep 12 |
-| **[D.C. United](http://dcunited.com)** | **[Internship: Human Resources Intern - Fall 2025](https://jobright.ai/jobs/info/68c48ffe14bb275ce01949e0?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 12 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[General Human Resources 2 Intern PRN](https://jobright.ai/jobs/info/68c488a614bb275ce01945cc?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | On Site | Sep 12 |
 | **[Immuta](http://www.immuta.com/)** | **[People Team Coordinator Co-op (Intern) January - June 2026](https://jobright.ai/jobs/info/68c48837e396b25cb5c69045?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 12 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/68c48823e396b25cb5c69037?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 12 |
@@ -123,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[AdventHealth](https://www.adventhealth.com/)** | **[General Human Resources 2 Intern PRN](https://jobright.ai/jobs/info/68c48651e471ef3ce16d713c?utm_campaign=1054&utm_source=git)** | ADVENTHEALTH TAMPA3100 E FLETCHER AVE | On Site | Sep 12 |
 | **[American Equity](http://www.american-equity.com)** | **[Workforce Analyst Intern](https://jobright.ai/jobs/info/68c4851d14bb275ce0194479?utm_campaign=1054&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Sep 12 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Talent Development Associate](https://jobright.ai/jobs/info/68c4848b14bb275ce01943f4?utm_campaign=1054&utm_source=git)** | Greenwich, CT | Hybrid | Sep 12 |
-| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c48348e471ef3ce16d700e?utm_campaign=1054&utm_source=git)** | CA-Woodland Hills | On Site | Sep 12 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c482eae396b25cb5c68c82?utm_campaign=1054&utm_source=git)** | CA-Woodland Hills | On Site | Sep 12 |
 | ↳ | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c482cf14bb275ce019422d?utm_campaign=1054&utm_source=git)** | TX-Houston | On Site | Sep 12 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[HR Reward Intern - Summer 2026](https://jobright.ai/jobs/info/68c482bd14bb275ce0194213?utm_campaign=1054&utm_source=git)** | Atlanta GA | Hybrid | Sep 12 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[HR Programs – Employee Experience & Engagement Intern](https://jobright.ai/jobs/info/68c4827714bb275ce01941e6?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Horizon Farm Credit](https://www.horizonfc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c4304e14bb275ce0191646?utm_campaign=1054&utm_source=git)** | Westminster, MD, United States | On Site | Sep 12 |
 | **[Vonage](http://www.vonage.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68c42a3a14bb275ce0191443?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 12 |
 | **[LandCare LLC](http://www.landcare.com)** | **[UTK Fall 2025 Business, Hospitality, and Government Job & Internship Fair](https://jobright.ai/jobs/info/68c50189c96a22563ece5ca4?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
+| **[Rocket](https://www.linkedin.com/company/105067979)** | **[People Support Intern - Fall 2025](https://jobright.ai/jobs/info/688c08623a30793eb963f6c8?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[HR Intern / Mortenson](https://jobright.ai/jobs/info/68c41f5314bb275ce0191199?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 12 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68c41c04e471ef3ce16d3c36?utm_campaign=1054&utm_source=git)** | Andover, MA | On Site | Sep 12 |
 | **[East Carolina University](ecu.edu)** | **[Federal Work Study / Human Resources Office Assistant](https://jobright.ai/jobs/info/68c4296514bb275ce01913c7?utm_campaign=1054&utm_source=git)** | NC | On Site | Sep 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68a7f6b0758f2e4ac3fef82a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Sep 12 |
 | **[Vonage](http://www.vonage.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68c3ff8214bb275ce01908c8?utm_campaign=1054&utm_source=git)** | Remote - US | Remote | Sep 12 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[2026 Summer Associate - Real Estate Investment & Development - Raleigh](https://jobright.ai/jobs/info/68c3f9b014bb275ce0190404?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Human Resources Department - Benefit and Compensation Team Intern](https://jobright.ai/jobs/info/68a8416fd627244576e32107?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
