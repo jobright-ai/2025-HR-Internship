@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/6830d6dd5a74073a28ecdd8b?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Sep 13 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/689199b2f5ee707a15dc044c?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55559db52c07d2884252e?utm_campaign=1054&utm_source=git)** | Bossier City, LA | On Site | Sep 13 |
-| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55555db52c07d2884252c?utm_campaign=1054&utm_source=git)** | Monroe, LA | On Site | Sep 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c554e8c96a22563ece86bc?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Sep 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Scranton](https://jobright.ai/jobs/info/68b509d0bc187f64e1be4402?utm_campaign=1054&utm_source=git)** | Scranton, PA | On Site | Sep 13 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68c54b557d0db411427337e3?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 13 |
@@ -109,10 +108,12 @@ For a complete list, click the following sortable link below:
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Remote Human Resources Volunteer/Intern (Unpaid, USA Applicants Only)](https://jobright.ai/jobs/info/68c50d7ddb52c07d288408a5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Sep 12 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[People & Culture (Talent Acquisition) Intern, Summer 2026](https://jobright.ai/jobs/info/68c4e9c4db52c07d2883de8a?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68c4db44fce86561b9289e64?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 12 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68c7878adb52c07d2884b7a2?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Sep 12 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7a2fce86561b9289d03?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 12 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d748fce86561b9289c66?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68c4d73dfce86561b9289c56?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
+| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c77d10c96a22563ecf12ec?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Sep 12 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d67131e5763f188e3eb6?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Sep 12 |
@@ -125,14 +126,13 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Sep 12 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program - Individual Retirement](https://jobright.ai/jobs/info/68c4e1657d0db4114272e72b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 12 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Talent Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b6e131e5763f188e2f28?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Sep 12 |
-| **[Rio Tinto](http://www.riotinto.com)** | **[Intern - HR & Learning Development](https://jobright.ai/jobs/info/68c4b6b6fce86561b9288ad5?utm_campaign=1054&utm_source=git)** | Superior, AZ | On Site | Sep 12 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b35b31e5763f188e2e37?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b3557279451d6a036fed?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b32e7279451d6a036fb4?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b2fc7279451d6a036f70?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b1d07279451d6a036e16?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf11c9702aa35207aa2cf4?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Sep 12 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b13631e5763f188e2b8f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b126fce86561b928876f?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Sep 12 |
 | **[Wind River](http://www.windriver.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68c4ac4bfce86561b9288418?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Sep 12 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4e0547d0db4114272e465?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
