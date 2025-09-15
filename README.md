@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inter-American Development Bank](http://www.iadb.org/en)** | **[2026 Winter Graduate Internship Opportunities](https://jobright.ai/jobs/info/68c7d7f25c38e536d41a7230?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 15 |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - HUMAN RESOURCES (HDQ)](https://jobright.ai/jobs/info/68c7d7b3f42a830e1c7e8547?utm_campaign=1054&utm_source=git)** | Bismarck, ND | On Site | Sep 15 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68c7d411369c3763c743c562?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 15 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Talent Acquisition](https://jobright.ai/jobs/info/68c7ad19db52c07d2884e1c4?utm_campaign=1054&utm_source=git)** | Mesa, AZ | Hybrid | Sep 14 |
-| ↳ | **[Intern II - Human Resources IT](https://jobright.ai/jobs/info/68c7a2c9db52c07d2884d8c6?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 14 |
+| **[Axalta](https://www.axalta.com)** | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c7a650c96a22563ecf3c1a?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Sep 14 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Human Resources IT](https://jobright.ai/jobs/info/68c7a2c9db52c07d2884d8c6?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 14 |
 | **[Axalta](https://www.axalta.com)** | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c79a4edb52c07d2884ccef?utm_campaign=1054&utm_source=git)** | Katy or The Woodlands or Greater Houston | On Site | Sep 14 |
-| ↳ | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c79a45db52c07d2884ccc3?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Sep 14 |
 | ↳ | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c79a0dc96a22563ecf301a?utm_campaign=1054&utm_source=git)** | Front Royal | On Site | Sep 14 |
 | ↳ | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c7984a7d0db4114273e1b4?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC and Greensboro, NC | On Site | Sep 14 |
 | ↳ | **[2026 Business Intern Talent Pool (Finance, Marketing, Accounting, HR)](https://jobright.ai/jobs/info/68c7982b7d0db4114273e146?utm_campaign=1054&utm_source=git)** | Greater Detroit | On Site | Sep 14 |
@@ -84,9 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c7b5e55c25e576f7b29d4d?utm_campaign=1054&utm_source=git)** | Monroe, LA | On Site | Sep 13 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/68c7b5e55c25e576f7b29d4c?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Sep 13 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b9ecec8043103d4f21bed8?utm_campaign=1054&utm_source=git)** | De Soto, KS | On Site | Sep 13 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Pilot Resources (Fall 2025)](https://jobright.ai/jobs/info/68c7a81fdb52c07d2884de58?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | **[Bretz RV & Marine](http://bretzrv.com)** | **[Future Opportunities](https://jobright.ai/jobs/info/68c610a8c96a22563ecea628?utm_campaign=1054&utm_source=git)** | Butte, MT | On Site | Sep 13 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68c5f4007d0db41142735630?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 13 |
 | **[AgeSpan](https://agespan.org/)** | **[Volunteer & Intern Program Coordinator](https://jobright.ai/jobs/info/68c5e733db52c07d288440d7?utm_campaign=1054&utm_source=git)** | Lawrence, MA | Hybrid | Sep 13 |
 | **[Yamaha Motor Corporation, USA](https://heylink.me/yokubet.id/)** | **[Intern/Coop - Business- Human Resources](https://jobright.ai/jobs/info/68a9074fd627244576e36f4e?utm_campaign=1054&utm_source=git)** | Newnan, GA | On Site | Sep 13 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 13 |
@@ -120,8 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Center for European Policy Analysis](https://cepa.org/)** | **[Spring 2026: Human Resources Intern](https://jobright.ai/jobs/info/68c7bc43369c3763c743b084?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 12 |
 | **[Georgia Highlands College](http://www.highlands.edu/)** | **[Federal Work Study - HR Student Assistant - Cartersville](https://jobright.ai/jobs/info/68c4f65bc96a22563ece5130?utm_campaign=1054&utm_source=git)** | Rome, GA | On Site | Sep 12 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c4f5e2c96a22563ece501d?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 12 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68c4f4e6c96a22563ece4e29?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 12 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c4f4cadb52c07d2883ec80?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 12 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68c4f4cadb52c07d2883ec80?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68c79e1cc96a22563ecf338b?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Sep 12 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Remote Human Resources Volunteer/Intern (Unpaid, USA Applicants Only)](https://jobright.ai/jobs/info/68c50d7ddb52c07d288408a5?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Sep 12 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[People & Culture (Talent Acquisition) Intern, Summer 2026](https://jobright.ai/jobs/info/68c4e9c4db52c07d2883de8a?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
@@ -149,12 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b32e7279451d6a036fb4?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b2fc7279451d6a036f70?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b1d07279451d6a036e16?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b1b37279451d6a036dfe?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf11c9702aa35207aa2cf4?utm_campaign=1054&utm_source=git)** | Newark, DE | Hybrid | Sep 12 |
-| **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4b13631e5763f188e2b8f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 12 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Sep 12 |
 | **[Wind River](http://www.windriver.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68c4ac4bfce86561b9288418?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Sep 12 |
 | **[Cemex México](https://www.cemexmexico.com)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4e0547d0db4114272e465?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4a3f314bb275ce0195338?utm_campaign=1054&utm_source=git)** | 600 Kawneer Drive, Springdale, AR, 72764, US | On Site | Sep 12 |
-| **[S&P Global](https://www.spglobal.com)** | **[AI+ People Strategy Intern](https://jobright.ai/jobs/info/68c49fe514bb275ce01950b2?utm_campaign=1054&utm_source=git)** | Virtual, TN | Remote | Sep 12 |
+| **[S&P Global](https://www.spglobal.com)** | **[AI+ People Strategy Intern](https://jobright.ai/jobs/info/68c4a113e396b25cb5c69b66?utm_campaign=1054&utm_source=git)** | Virtual, TN | Remote | Sep 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Private Wealth Management Talent Team (Year-Round)](https://jobright.ai/jobs/info/68c4992014bb275ce0194e0f?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
