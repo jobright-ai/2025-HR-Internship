@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68c8e01e95f5211cd2cea679?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Sep 15 |
 | **[Verizon](https://www.verizon.com)** | **[Rutgers University Human Resources Summer 2026 Internship](https://jobright.ai/jobs/info/68c8d85bf9c6ff7aedf134e5?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 15 |
 | **[Ericsson](https://www.ericsson.com)** | **[People Strategy and Operations Intern](https://jobright.ai/jobs/info/68c8d4a5f9c6ff7aedf12f85?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Sep 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Total Rewards](https://jobright.ai/jobs/info/68c8cd5795f5211cd2ce9876?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Sep 15 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a58b95f5211cd2ce7cde?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 15 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a51995f5211cd2ce7c1f?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 15 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a45495f5211cd2ce7b13?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 15 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68c8db01983e6768bc552528?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Sep 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a27295f5211cd2ce77fc?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Sep 15 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a1b995f5211cd2ce774b?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Sep 15 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68c8ba3ef9c6ff7aedf12071?utm_campaign=1054&utm_source=git)** | Torrance, CA | Hybrid | Sep 15 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68c87a6d95f5211cd2ce5929?utm_campaign=1054&utm_source=git)** | Dearborn Works | On Site | Sep 15 |
 | **[ArcelorMittal](https://corporate.arcelormittal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c87a57f9c6ff7aedf0f396?utm_campaign=1054&utm_source=git)** | 2800 Kay Bailey Hutchison, Portland, 78374, US | On Site | Sep 15 |
 | **[CDK Global](https://www.cdkglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c87937983e6768bc54dba1?utm_campaign=1054&utm_source=git)** | Hoffman Estates, IL | Hybrid | Sep 15 |
-| **[Entegris](http://www.entegris.com)** | **[Human Resources Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c878cb983e6768bc54db39?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Sep 15 |
 | **[The Maschhoffs](http://themaschhoffs.com)** | **[2026 Summer Internship Openings](https://jobright.ai/jobs/info/68c872d4f9c6ff7aedf0eb38?utm_campaign=1054&utm_source=git)** | Carlyle, IL | On Site | Sep 15 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Human Resources Summer 2026 Internship](https://jobright.ai/jobs/info/68c8934e95f5211cd2ce6e8b?utm_campaign=1054&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 People Development Intern](https://jobright.ai/jobs/info/68c89103983e6768bc54f3ec?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Sep 15 |
@@ -122,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Doane University](https://www.doane.edu/)** | **[Human Resources Office Assistant](https://jobright.ai/jobs/info/68c89b9f983e6768bc54f6d0?utm_campaign=1054&utm_source=git)** | Crete, NE | On Site | Sep 15 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Safety Programs Centre of Excellence - Intern](https://jobright.ai/jobs/info/68c8821d95f5211cd2ce628b?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Sep 15 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Talent Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68c861d0f9c6ff7aedf0d7ec?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 15 |
+| **[Entegris](http://www.entegris.com)** | **[Human Resources Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c8619bf9c6ff7aedf0d773?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Sep 15 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c86153983e6768bc54c43c?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Sep 15 |
 | **[Dee Zee, Inc](http://deezee.com)** | **[Human Resources Compliance Intern, Summer 2026](https://jobright.ai/jobs/info/68c860c5f9c6ff7aedf0d5f6?utm_campaign=1054&utm_source=git)** | Des Moines, IA, USA | On Site | Sep 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c85b47f9c6ff7aedf0d3d0?utm_campaign=1054&utm_source=git)** | West Palm Beach, FL | On Site | Sep 15 |
