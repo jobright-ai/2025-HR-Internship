@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA401: HR Onboarding Specialist](https://jobright.ai/jobs/info/68cab2219e3a822f5d23e670?utm_campaign=1054&utm_source=git)** | US-Remote | Remote | Sep 17 |
+| **[San Ramon Valley Fire Protection District](https://www.firedepartment.org)** | **[Human Resources Intern Part-Time](https://jobright.ai/jobs/info/68caa5f3d905e25191d9b8ae?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 17 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Human Resources Intern - Kansas City District](https://jobright.ai/jobs/info/68ca8d7032a74a1c3e197522?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Sep 17 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68ca766a5f9f0336447ddf4f?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Sep 17 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Management Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ca760d5f9f0336447ddf1e?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Sep 17 |
 | **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Employer Relations Recruiter](https://jobright.ai/jobs/info/68ca6ba55f9f0336447dd887?utm_campaign=1054&utm_source=git)** | Vermillion, SD | On Site | Sep 17 |
@@ -88,12 +91,13 @@ For a complete list, click the following sortable link below:
 | **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/68ca07acf61c922772a720da?utm_campaign=1054&utm_source=git)** | Laytonsville, MD | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0766f61c922772a72034?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0711f16e3266d2821e26?utm_campaign=1054&utm_source=git)** | Manassas, Virginia | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0703f16e3266d2821e0b?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0703f16e3266d2821e0c?utm_campaign=1054&utm_source=git)** | Centre Hall, Pennsylvania | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06d6d4187c55157a55f2?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Sep 16 |
 | **[HR Works](http://hrworks-inc.com)** | **[HR Management Services Intern](https://jobright.ai/jobs/info/68ca06d3f16e3266d2821d87?utm_campaign=1054&utm_source=git)** | Fairport, NY | On Site | Sep 16 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ca06ccd4187c55157a55d7?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Sep 16 |
 | **[Share Creators](http://www.sharecreators.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/68ca04b6f61c922772a71de4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Internship- Refugee Support Services](https://jobright.ai/jobs/info/68c9f7dff16e3266d2821537?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Sep 16 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf1797702aa35207aa307d?utm_campaign=1054&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 16 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68c9efb5d10eb800af1483bc?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 16 |
 | **[Inter-American Development Bank](http://www.iadb.org/en)** | **[2026 Winter Graduate Internship Opportunities](https://jobright.ai/jobs/info/68c9eefc16b6964bf344b808?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Employee Relations Specialist](https://jobright.ai/jobs/info/68c9ee8216b6964bf344b73b?utm_campaign=1054&utm_source=git)** | San Diego County, CA | Hybrid | Sep 16 |
@@ -109,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Employee Success](https://jobright.ai/jobs/info/68ca7dc146caff4db51ffdc0?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Sep 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[HR Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c9cc5ff9c6ff7aedf1dea3?utm_campaign=1054&utm_source=git)** | Atlanta GA | Hybrid | Sep 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/68c9cbf3f9c6ff7aedf1dd89?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Sep 16 |
-| **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Employee Success](https://jobright.ai/jobs/info/68c9cbcba0c52d598ea3b76a?utm_campaign=1054&utm_source=git)** | California - San Francisco | Hybrid | Sep 16 |
+| **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Employee Success](https://jobright.ai/jobs/info/68c9cbd4a0c52d598ea3b77a?utm_campaign=1054&utm_source=git)** | California - San Francisco | Hybrid | Sep 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/68c9ca5cf9c6ff7aedf1db0c?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Sep 16 |
 | **[PKF Durban](https://www.pkf.co.za/locations/pkf-durban/)** | **[CA Graduate Experience 2025 / VAC WEEK PKF(PE)](https://jobright.ai/jobs/info/68c9c5ec95f5211cd2cf41d5?utm_campaign=1054&utm_source=git)** | Port Elizabeth, NJ | On Site | Sep 16 |
 | **[SECURA Insurance](http://www.secura.net)** | **[Intern-Workers Compensation](https://jobright.ai/jobs/info/68c9c13aa0c52d598ea3ae87?utm_campaign=1054&utm_source=git)** | Neenah, WI | On Site | Sep 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68c9699c95f5211cd2cf03b3?utm_campaign=1054&utm_source=git)** | Radford, VA | On Site | Sep 16 |
 | ↳ | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68c9668ba0c52d598ea372d8?utm_campaign=1054&utm_source=git)** | Radford, Virginia, United States | On Site | Sep 16 |
 | **[Black Hawk College](http://www.bhc.edu/)** | **[Work Study - Recruitment](https://jobright.ai/jobs/info/68c96482a0c52d598ea37105?utm_campaign=1054&utm_source=git)** | Moline, IL | On Site | Sep 16 |
-| **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Talent Management Student Program](https://jobright.ai/jobs/info/68acacf0daf1431824c97013?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Sep 16 |
-| **[Parker Hannifin](http://www.parker.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ad432a758f2e4ac300c593?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Sep 16 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68c95446a0c52d598ea36a71?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Sep 16 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68ad3da3daf1431824c9b949?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
