@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benesch](https://www.benesch.com)** | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68ca10dcf61c922772a7271d?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Sep 16 |
+| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68ca1082f61c922772a72699?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Sep 16 |
+| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68ca0f9ad4187c55157a5bcf?utm_campaign=1054&utm_source=git)** | Pottsville, PA | Hybrid | Sep 16 |
+| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ca0a8dd4187c55157a594e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Sep 16 |
+| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[HR Intern](https://jobright.ai/jobs/info/68ca0994f61c922772a72187?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[People Development Group Intern](https://jobright.ai/jobs/info/68c8580695f5211cd2ce3c81?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 16 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/68ca07acf61c922772a720da?utm_campaign=1054&utm_source=git)** | Laytonsville, MD | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0766f61c922772a72034?utm_campaign=1054&utm_source=git)** | Garner, NC | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0711f16e3266d2821e26?utm_campaign=1054&utm_source=git)** | Manassas, Virginia | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06d6d4187c55157a55f2?utm_campaign=1054&utm_source=git)** | Gainesville, VA | On Site | Sep 16 |
+| **[HR Works](http://hrworks-inc.com)** | **[HR Management Services Intern](https://jobright.ai/jobs/info/68ca06d3f16e3266d2821d87?utm_campaign=1054&utm_source=git)** | Fairport, NY | On Site | Sep 16 |
+| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ca06ccd4187c55157a55d7?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Sep 16 |
+| **[Share Creators](http://www.sharecreators.com)** | **[Intern (Unpaid)](https://jobright.ai/jobs/info/68ca04b6f61c922772a71de4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 16 |
+| **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[Internship- Refugee Support Services](https://jobright.ai/jobs/info/68c9f7dff16e3266d2821537?utm_campaign=1054&utm_source=git)** | Bridgeport, CT | On Site | Sep 16 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68c9efb5d10eb800af1483bc?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 16 |
 | **[Inter-American Development Bank](http://www.iadb.org/en)** | **[2026 Winter Graduate Internship Opportunities](https://jobright.ai/jobs/info/68c9eefc16b6964bf344b808?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 16 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Employee Relations Specialist](https://jobright.ai/jobs/info/68c9ee8216b6964bf344b73b?utm_campaign=1054&utm_source=git)** | San Diego County, CA | Hybrid | Sep 16 |
@@ -137,24 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c8baaaf9c6ff7aedf120fd?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Sep 15 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c8ba42f9c6ff7aedf12079?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Sep 15 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Human Resources Associate](https://jobright.ai/jobs/info/68c8b760f9c6ff7aedf11da6?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Sep 15 |
-| **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship](https://jobright.ai/jobs/info/68c8b4fa95f5211cd2ce88a1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 15 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Total Rewards](https://jobright.ai/jobs/info/68c8b471983e6768bc550a05?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Sep 15 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Talent Acquisition Summer Intern (Hybrid, Charlotte, NC)](https://jobright.ai/jobs/info/68c8b44f95f5211cd2ce86e2?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Sep 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship - Benefits, Compensation, Payroll](https://jobright.ai/jobs/info/68c8b2e995f5211cd2ce851f?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 15 |
 | **[Rally House](http://rallyhouse.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c8b2ca95f5211cd2ce8509?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Sep 15 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Spring Internship - All Areas of Interest](https://jobright.ai/jobs/info/68c8b181983e6768bc55064b?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
 | **[Vervint](http://www.vervint.com)** | **[Talent Experience Intern](https://jobright.ai/jobs/info/68c9c2edf9c6ff7aedf1d792?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 15 |
-| **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship](https://jobright.ai/jobs/info/68c8b115983e6768bc5505a0?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
-| **[AMETEK](http://www.ametek.com)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/68c98bf5a0c52d598ea385f7?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Sep 15 |
-| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[2026 Summer Internship - Talent Management](https://jobright.ai/jobs/info/68c8cb7ff9c6ff7aedf12c4c?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 15 |
-| **[Permian Resources](https://permianres.com)** | **[Summer 2026 Human Resources Internship](https://jobright.ai/jobs/info/68c8a907f9c6ff7aedf11395?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Sep 15 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Talent Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68c8a8c2f9c6ff7aedf11344?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 15 |
-| **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68c99a3b95f5211cd2cf2045?utm_campaign=1054&utm_source=git)** | Florida (Remote) | Remote | Sep 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2026](https://jobright.ai/jobs/info/68c8a86df9c6ff7aedf112e7?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Sep 15 |
-| **[UPMC](https://www.upmc.com/)** | **[Human Resources Summer Associate Internship](https://jobright.ai/jobs/info/68c8a7a5f9c6ff7aedf11219?utm_campaign=1054&utm_source=git)** | Monroeville, PA | On Site | Sep 15 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a769f9c6ff7aedf111d2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Sep 15 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2026](https://jobright.ai/jobs/info/68c8a6ac95f5211cd2ce7eab?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Sep 15 |
-| ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Sep 15 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a58b95f5211cd2ce7cde?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 15 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68c8a51995f5211cd2ce7c1f?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
