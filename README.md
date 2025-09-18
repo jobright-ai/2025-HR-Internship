@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Human Resources Co-op (Spring/Summer 2026)(Hybrid)](https://jobright.ai/jobs/info/68cb96e3ba798c1a501d2883?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | Hybrid | Sep 17 |
+| **[Saint Louis Public Schools](http://www.slps.org/)** | **[HR/Talent Intern - Immediate (In person)](https://jobright.ai/jobs/info/68cb925befdec76df36bef27?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 17 |
+| **[CSX](http://www.csx.com)** | **[Public Safety Internship - Summer 2026](https://jobright.ai/jobs/info/68cb9181ba798c1a501d1d68?utm_campaign=1054&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
+| **[Shown and Scene](https://www.shownandscene.org)** | **[Human Resources Crew](https://jobright.ai/jobs/info/68cb86179e3a822f5d2479d0?utm_campaign=1054&utm_source=git)** | Claremont, CA | Remote | Sep 17 |
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Intern-Home Office II](https://jobright.ai/jobs/info/68cb7aa69e3a822f5d246b15?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Sep 17 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Commercial Leadership Development Program Internship (Hybrid)](https://jobright.ai/jobs/info/68cb6f559e3a822f5d246058?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Sep 17 |
 | **[Hussmann](http://www.hussmann.com)** | **[Intern – Human Resources](https://jobright.ai/jobs/info/68cb6e0bba798c1a501cf8cf?utm_campaign=1054&utm_source=git)** | Bridgeton, MO | On Site | Sep 17 |
@@ -100,7 +104,10 @@ For a complete list, click the following sortable link below:
 | **[InOrg Global](https://www.inorg.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cb1d06ba798c1a501cbc78?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 17 |
 | **[Epsilon, Inc.](http://www.epsilon-inc.com/)** | **[Epsilon Skillbridge Internship (Remote)](https://jobright.ai/jobs/info/68cb1bcbefdec76df36b8f38?utm_campaign=1054&utm_source=git)** | Weaverville, NC | Hybrid | Sep 17 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cb1b16efdec76df36b8e61?utm_campaign=1054&utm_source=git)** | Des Moines Metro | Hybrid | Sep 17 |
+| **[Los Angeles Unified School District](https://www.lausd.org)** | **[Lieutenant (FOR INTERNAL OR LAID-OFF EMPLOYEES ONLY)](https://jobright.ai/jobs/info/68cb8577efdec76df36be17f?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Sep 17 |
 | **[Athene](https://www.athene.com/)** | **[Human Resources Intern-Summer 2026](https://jobright.ai/jobs/info/68cb12ecd905e25191d9f6ba?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Sep 17 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Research Management - Intern](https://jobright.ai/jobs/info/68cb8e03ba798c1a501d1752?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 17 |
+| **[Sentry](https://www.sentry.com/)** | **[HR Talent Acquisition Internship Summer 2026](https://jobright.ai/jobs/info/68cb0f89d905e25191d9f093?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 17 |
 | **[Turning Stone Enterprises](https://www.turningstoneenterprises.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cb0f149e3a822f5d241dba?utm_campaign=1054&utm_source=git)** | Verona, NY | On Site | Sep 17 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/68cb0dd69e3a822f5d241b7c?utm_campaign=1054&utm_source=git)** | Washington - Pullman | On Site | Sep 17 |
 | **[RTX](http://www.raytheon.com)** | **[Human Resources Co-op (Spring/Summer 2026)(Hybrid)](https://jobright.ai/jobs/info/68cb0d87d905e25191d9eec9?utm_campaign=1054&utm_source=git)** | 01: Building 01 Windsor Locks One Hamilton Road, Windsor Locks, CT, 06096 USA | Hybrid | Sep 17 |
@@ -110,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[CBI Bank & Trust](https://www.cbibt.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68cb05a59e3a822f5d241460?utm_campaign=1054&utm_source=git)** | Muscatine-Downtown | On Site | Sep 17 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Worker's Compensation)](https://jobright.ai/jobs/info/68cb044b9e3a822f5d241196?utm_campaign=1054&utm_source=git)** | Iowa- Work From Home | Remote | Sep 17 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Research Management - Intern](https://jobright.ai/jobs/info/68cb7e54efdec76df36bd63d?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 17 |
-| **[Sentry](https://www.sentry.com/)** | **[HR Talent Acquisition Internship Summer 2026](https://jobright.ai/jobs/info/68caf4339e3a822f5d240933?utm_campaign=1054&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 17 |
 | **[Little League International](https://www.littleleague.org/)** | **[Emergency Management Intern - Little League International (Williamsport, PA)](https://jobright.ai/jobs/info/68caf30f9e3a822f5d240698?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Sep 17 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68caef1bd905e25191d9da06?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Sep 17 |
 | **[Sterne, Kessler, Goldstein & Fox](http://www.sternekessler.com)** | **[Talent Management (Human Resources) Intern](https://jobright.ai/jobs/info/68caeed2efdec76df36b6bc3?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Sep 17 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca44799f583c3191e3eece?utm_campaign=1054&utm_source=git)** | Pineville, NC | On Site | Sep 16 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Labor Relations Intern - Minneapolis, MN](https://jobright.ai/jobs/info/68cb804b9e3a822f5d24727f?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 16 |
 | **[Moss Adams](http://www.mossadams.com)** | **[Human Capital Management Intern - 2026 (Seattle)](https://jobright.ai/jobs/info/68ca3e78f16e3266d282586b?utm_campaign=1054&utm_source=git)** | Seattle, WAOther Locations | Hybrid | Sep 16 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Learning & Development Intern - Summer 2026](https://jobright.ai/jobs/info/68cb8c49efdec76df36be85d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 16 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/68cb5ad8efdec76df36bbabb?utm_campaign=1054&utm_source=git)** | East Taunton, MA | On Site | Sep 16 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ca1b42d4187c55157a6411?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 16 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Workforce Development Intern](https://jobright.ai/jobs/info/68ca252bd4187c55157a67ff?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 16 |
-| ↳ | **[2026 Workforce Development Intern](https://jobright.ai/jobs/info/68ca207fd4187c55157a65f4?utm_campaign=1054&utm_source=git)** | Baltimore, Maryland | Hybrid | Sep 16 |
-| **[Greater Cincinnati Behavioral Health Services](https://www.gcbhs.com/)** | **[(Social Media) HR Co-op](https://jobright.ai/jobs/info/68cb7f01efdec76df36bd90b?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 16 |
-| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ca1b0cf61c922772a72c6c?utm_campaign=1054&utm_source=git)** | US-TX-Houston | On Site | Sep 16 |
-| **[Benesch](https://www.benesch.com)** | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68ca16c9f16e3266d28227e7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 16 |
-| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68cac4c0d905e25191d9c071?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Sep 16 |
-| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68cb50d69e3a822f5d244c8e?utm_campaign=1054&utm_source=git)** | Pottsville, PA | Hybrid | Sep 16 |
-| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68cb6d2cefdec76df36bc7a0?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | Hybrid | Sep 16 |
-| ↳ | **[Pennsylvania Summer 2026 Internship](https://jobright.ai/jobs/info/68ca1082f61c922772a72699?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Sep 16 |
-| **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ca0a8dd4187c55157a594e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Sep 16 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[HR Intern](https://jobright.ai/jobs/info/68cb8271ba798c1a501d0e47?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 16 |
+| **[Constellation](https://www.constellationenergy.com/)** | **[2026 Workforce Development Intern](https://jobright.ai/jobs/info/68ca207fd4187c55157a65f4?utm_campaign=1054&utm_source=git)** | Baltimore, Maryland | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
