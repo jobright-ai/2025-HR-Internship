@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd1c47b2a74e1837ed2a95?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Sep 19 |
+| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd1476b2a74e1837ed20e5?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Sep 19 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[WOC Nurse Intern - 10hr Days](https://jobright.ai/jobs/info/68cd0d031ad6b16f02894229?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Sep 19 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd22bde23def7af55b5f33?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Sep 19 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68ccff5e77add66568abd755?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Sep 18 |
 | **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccf7ac77add66568abce63?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Linn-Benton Community College](http://www.linnbenton.edu/)** | **[Human Resources Clerical Aide WS, Student](https://jobright.ai/jobs/info/68cc23f016d00d2beeb1a819?utm_campaign=1054&utm_source=git)** | Albany, OR | On Site | Sep 18 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[HR Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/68cbbc8c9e3a822f5d24b227?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 18 |
 | **[CSX](http://www.csx.com)** | **[Public Safety Internship - Summer 2026](https://jobright.ai/jobs/info/68cbbbfeefdec76df36c1832?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Sep 18 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Summer Safety Intern](https://jobright.ai/jobs/info/68cbab0eba798c1a501d399c?utm_campaign=1054&utm_source=git)** | San Diego, California | On Site | Sep 17 |
-| **[The University of South Dakota Knudson School of Law](http://www.usd.edu/law)** | **[Employer Relations Specialist](https://jobright.ai/jobs/info/68ccf7115954791a1d701e12?utm_campaign=1054&utm_source=git)** | Vermillion, SD | On Site | Sep 17 |
-| **[Rutee](https://rutee.id)** | **[Human Resource Internship (UNPAID)](https://jobright.ai/jobs/info/68ccef8e77add66568abc372?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 17 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Employee Relations Intern (Summer 2026) - Lenoir City, TN](https://jobright.ai/jobs/info/68ccedb177add66568abbf5d?utm_campaign=1054&utm_source=git)** | Lenoir City, TN | On Site | Sep 17 |
-| **[Saint Louis Public Schools](http://www.slps.org/)** | **[HR/Talent Intern - Immediate (In person)](https://jobright.ai/jobs/info/68cb925befdec76df36bef27?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 17 |
+| **[HUB International](https://www.hubinternational.com)** | **[Employee Benefits Apprentice](https://jobright.ai/jobs/info/68cd0b8ce23def7af55b4435?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
