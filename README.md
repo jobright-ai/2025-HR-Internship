@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce343324dd5209002f078c?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 19 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33eab2a74e1837ee0583?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 19 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33a51ad6b16f028a2f76?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 19 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce3326b2a74e1837ee0449?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 19 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce324b1ad6b16f028a2d15?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Sep 19 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce2e4b1ad6b16f028a2bad?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Organizational Talent Services (HR) Intern](https://jobright.ai/jobs/info/68ce1325e23def7af55c1dc1?utm_campaign=1054&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/68ce06bab2a74e1837edea90?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
 | **[William Blair](http://www.williamblair.com)** | **[Fast Track to Investment Banking - Winter 2025 Event](https://jobright.ai/jobs/info/68ce0558b2a74e1837ede75a?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
@@ -98,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[2026 Molex HR Internship](https://jobright.ai/jobs/info/68cdb7b7e23def7af55be893?utm_campaign=1054&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management/Human Resources Information Systems Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb323b2a74e1837edb565?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 19 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - WC Claims - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68cdae041ad6b16f0289d848?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 19 |
+| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - PRATTVILLE, AL](https://jobright.ai/jobs/info/68cdb892b2a74e1837edb90e?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Sep 19 |
 | **[Ellingson](http://ellingsoncompanies.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68cdaaa7b2a74e1837edada7?utm_campaign=1054&utm_source=git)** | West Concord, Minnesota, United States | On Site | Sep 19 |
 | **[Shepherd Financial, LLC](https://www.shepherdfin.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68cdaa31b2a74e1837edac41?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cda837e23def7af55bd95c?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Sep 19 |
@@ -122,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Lake Mary, FL)](https://jobright.ai/jobs/info/68cd72d61ad6b16f02899b32?utm_campaign=1054&utm_source=git)** | 300 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Sep 19 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b0a8c6b47fb001d689443e?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Sep 19 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Lake Mary, FL)](https://jobright.ai/jobs/info/68cd708bb2a74e1837ed6f9c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL, United States | On Site | Sep 19 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Sep 19 |
 | **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips- Medisize HR Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b15b2804557a6c207bd078?utm_campaign=1054&utm_source=git)** | New Richmond, WI | On Site | Sep 19 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd65c8b2a74e1837ed6857?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Sep 19 |
 | **[FEDITC](http://feditc.com)** | **[Part time Security &amp; Recruiting Intern](https://jobright.ai/jobs/info/68cd5e51e23def7af55b8f93?utm_campaign=1054&utm_source=git)** | San Antonio, TX, USA | On Site | Sep 19 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccc35da77e5d7d744f5130?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Sep 18 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccc075d99309000e5a2794?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Sep 18 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccc073fa466330fef907f1?utm_campaign=1054&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Sep 18 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccb908128dc347fd9289f9?utm_campaign=1054&utm_source=git)** | Chesterfield, MI | On Site | Sep 18 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Intern](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Sep 18 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Payroll (Winter/Spring 2026)](https://jobright.ai/jobs/info/68ccb7d27342c7623ae689ff?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Sep 18 |
-| **[Ericsson](https://www.ericsson.com)** | **[Talent and Development People Intern](https://jobright.ai/jobs/info/68ccb77016d00d2beeb2347a?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Sep 18 |
-| **[AECOM](http://www.aecom.com/)** | **[Internship Opportunities - Visit us on Campus at Iowa Universities](https://jobright.ai/jobs/info/68ccb3ac128dc347fd92860e?utm_campaign=1054&utm_source=git)** | Iowa City, IA, USA | On Site | Sep 18 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Business, Human Resources, Marketing (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf1797702aa35207aa307d?utm_campaign=1054&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 18 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Human Resources Intern/Co-op (R14936)](https://jobright.ai/jobs/info/68ccae95128dc347fd9283d1?utm_campaign=1054&utm_source=git)** | Vancouver, WA | On Site | Sep 18 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 People Development Internship](https://jobright.ai/jobs/info/68ccae7f128dc347fd9283a5?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Sep 18 |
-| **[Glint Tech Solutions](http://www.glinttechsolutions.com/)** | **[HR Intern [Mandarin Preferred]](https://jobright.ai/jobs/info/68ccada9128dc347fd928252?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Sep 18 |
+| **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Lockheed Martin - College Work Experience Program - Non-Technical](https://jobright.ai/jobs/info/68cc092016d00d2beeb18892?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
