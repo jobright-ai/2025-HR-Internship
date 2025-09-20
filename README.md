@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management Intern, Spring 2026](https://jobright.ai/jobs/info/68cec819fb49c96ca6ea384b?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
+| ↳ | **[Organizational Management/Human Resources Information Systems Intern, Spring 2026](https://jobright.ai/jobs/info/68ceb52afb49c96ca6ea2fca?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
+| **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Sep 20 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/68cea1e7846f0b04af67bcdb?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Sep 20 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/68ce993dfb49c96ca6ea1eff?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Sep 20 |
+| **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c797d17d0db4114273e04b?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Sep 20 |
 | **[Shepherd Financial, LLC](https://www.shepherdfin.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ce9051dbd9fb154ede0c36?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 20 |
 | **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/68b1f2641ade4306aa633158?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer Intern](https://jobright.ai/jobs/info/68b24a321ade4306aa6354dc?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/68cdfa2fb2a74e1837eddd18?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | On Site | Sep 19 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68cdfa0b1ad6b16f028a05ba?utm_campaign=1054&utm_source=git)** | Remote (United States) | Remote | Sep 19 |
 | **[The People Concern](https://www.thepeopleconcern.org/)** | **[Internship](https://jobright.ai/jobs/info/68cdf83ae23def7af55c08f3?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern – Year Round (HR Service Center)](https://jobright.ai/jobs/info/68cec1a0dbd9fb154ede2886?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[HR Intern](https://jobright.ai/jobs/info/68cdef55e23def7af55c0674?utm_campaign=1054&utm_source=git)** | Mason, MI | On Site | Sep 19 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern – Year Round (HR Service Center)](https://jobright.ai/jobs/info/68cdee341ad6b16f028a0069?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Sep 19 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Human Resources Intern or Co-op - Spring 2026](https://jobright.ai/jobs/info/68cdeb5ab2a74e1837edd5f6?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 19 |
 | **[RESPEC](http://www.respec.com)** | **[Student Human Resources Intern](https://jobright.ai/jobs/info/68cdea231ad6b16f0289ff04?utm_campaign=1054&utm_source=git)** | Rapid City, SD | On Site | Sep 19 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[HR Intern](https://jobright.ai/jobs/info/68cde5a6b2a74e1837edd2ae?utm_campaign=1054&utm_source=git)** | Broadview Heights, OH | On Site | Sep 19 |
@@ -101,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cddfffe23def7af55bfe31?utm_campaign=1054&utm_source=git)** | Detroit | Hybrid | Sep 19 |
 | **[Wayfair](https://www.wayfair.com)** | **[Talent Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cddf921ad6b16f0289f939?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 19 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68cdcec8e23def7af55bf6bb?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68ce7082fb49c96ca6ea0667?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern](https://jobright.ai/jobs/info/68cdc9e5b2a74e1837edc5ec?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Sep 19 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68cdc906e23def7af55bf3e6?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 19 |
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68cdc6abe23def7af55bf29a?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 19 |
@@ -144,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Sep 19 |
 | **[Phillips Medisize](http://phillipsmedisize.com)** | **[Phillips- Medisize HR Internship Program- Summer 2026](https://jobright.ai/jobs/info/68b15b2804557a6c207bd078?utm_campaign=1054&utm_source=git)** | New Richmond, WI | On Site | Sep 19 |
 | **[FEDITC](http://feditc.com)** | **[Part time Security &amp; Recruiting Intern](https://jobright.ai/jobs/info/68cd5e51e23def7af55b8f93?utm_campaign=1054&utm_source=git)** | San Antonio, TX, USA | On Site | Sep 19 |
+| **[Pantex Plant](https://www.pantex.com)** | **[SkillBridge Military Intern](https://jobright.ai/jobs/info/68a2e367ff570d7ffd65e59d?utm_campaign=1054&utm_source=git)** | Amarillo, TX | Hybrid | Sep 19 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Corporate Communication & Talent Acquisition](https://jobright.ai/jobs/info/68cd59f2b2a74e1837ed5a28?utm_campaign=1054&utm_source=git)** | UNITED STATES-NY-New York | Hybrid | Sep 19 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[People Analytics Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68cd59cbb2a74e1837ed59c3?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Sep 19 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Corporate Communication & Talent Acquisition](https://jobright.ai/jobs/info/68cd59bc1ad6b16f02898380?utm_campaign=1054&utm_source=git)** | UNITED STATES-NC-Charlotte | Hybrid | Sep 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Human Resources Internships](https://jobright.ai/jobs/info/68cd53de1ad6b16f02897ffd?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Sep 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/68cce79877add66568abbbca?utm_campaign=1054&utm_source=git)** | Horsham, PA | On Site | Sep 19 |
 | ↳ | **[2026 North America Experienced Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/68c90eaaf9c6ff7aedf16fbc?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Sep 19 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Americold Corporate Internship](https://jobright.ai/jobs/info/68b0e7c9b47fb001d6896412?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd1c47b2a74e1837ed2a95?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Sep 19 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[WOC Nurse Intern - 10hr Days](https://jobright.ai/jobs/info/68cd0d031ad6b16f02894229?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Sep 19 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce66a0fb49c96ca6ea0049?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Sep 19 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68ccff5e77add66568abd755?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
