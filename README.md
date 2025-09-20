@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shepherd Financial, LLC](https://www.shepherdfin.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ce9051dbd9fb154ede0c36?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 20 |
+| **[Olin](http://www.olin.com/)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/68b1f2641ade4306aa633158?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Sep 20 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer Intern](https://jobright.ai/jobs/info/68b24a321ade4306aa6354dc?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[Olin](http://www.olin.com/)** | **[HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/68b2447c1ade4306aa6353cc?utm_campaign=1054&utm_source=git)** | Cleveland, TN | On Site | Sep 20 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68ce6d2f846f0b04af679ccb?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 20 |
 | **[San Ramon Valley Fire Protection District](https://www.firedepartment.org)** | **[Human Resources Intern Part-Time](https://jobright.ai/jobs/info/68ce6c85dbd9fb154eddf814?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 20 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Organizational Talent Services (HR) Intern](https://jobright.ai/jobs/info/68ce616d846f0b04af679438?utm_campaign=1054&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | On Site | Sep 20 |
@@ -113,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Ellingson](http://ellingsoncompanies.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68cdaaa7b2a74e1837edada7?utm_campaign=1054&utm_source=git)** | West Concord, Minnesota, United States | On Site | Sep 19 |
 | **[Shepherd Financial, LLC](https://www.shepherdfin.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68cdaa31b2a74e1837edac41?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cda837e23def7af55bd95c?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Sep 19 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13901ad6b16f028a19a0?utm_campaign=1054&utm_source=git)** | 515 ISLAND PARK DRIVE | On Site | Sep 19 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13c5b2a74e1837edf0e6?utm_campaign=1054&utm_source=git)** | US-KY-MADISONVILLE | On Site | Sep 19 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13c5b2a74e1837edf0e6?utm_campaign=1054&utm_source=git)** | US-KY-MADISONVILLE | On Site | Sep 19 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13901ad6b16f028a19a0?utm_campaign=1054&utm_source=git)** | 515 ISLAND PARK DRIVE | On Site | Sep 19 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Lake Mary, FL)](https://jobright.ai/jobs/info/68cda6a01ad6b16f0289ce6c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
 | **[Advanced Technology Services (ATS)](http://advancedtech.com/)** | **[Clemson Job Fair](https://jobright.ai/jobs/info/68cda5121ad6b16f0289cb20?utm_campaign=1054&utm_source=git)** | United States- Greenville, South Carolina | On Site | Sep 19 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Talent Management Intern](https://jobright.ai/jobs/info/68cd9eb8e23def7af55bceb2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68ccff5e77add66568abd755?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Sep 18 |
 | **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
 | ↳ | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccf7ac77add66568abce63?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 18 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ce4969dbd9fb154eddda5f?utm_campaign=1054&utm_source=git)** | Maquoketa, IA | On Site | Sep 18 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern- PSO Workforce Analytics- Division of Management](https://jobright.ai/jobs/info/68ce43ce24dd5209002f1194?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 18 |
-| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[HR Pathways Internship, Summer 2026](https://jobright.ai/jobs/info/68ccdf155954791a1d700168?utm_campaign=1054&utm_source=git)** | Arden Hills, MN (USA) | On Site | Sep 18 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Inclusion and Corporate Impact Intern - MN, CO](https://jobright.ai/jobs/info/68ccd7f45954791a1d6ff7aa?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
