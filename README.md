@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VertoTech](vertotech.us)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68cedc2a846f0b04af67d65d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 20 |
+| **[WeVote](https://www.WeVote.US)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68ced3c6dbd9fb154ede3133?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | Sep 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management Intern, Spring 2026](https://jobright.ai/jobs/info/68cec819fb49c96ca6ea384b?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 | ↳ | **[Organizational Management/Human Resources Information Systems Intern, Spring 2026](https://jobright.ai/jobs/info/68ceb52afb49c96ca6ea2fca?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Sep 20 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec210318026f5d538b2fcf?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Sep 20 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/68cea1e7846f0b04af67bcdb?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Sep 20 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68b7b66f872d1074a98b29d8?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Sep 20 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/68ce993dfb49c96ca6ea1eff?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Sep 20 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c797d17d0db4114273e04b?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Sep 20 |
@@ -105,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cddfffe23def7af55bfe31?utm_campaign=1054&utm_source=git)** | Detroit | Hybrid | Sep 19 |
 | **[Wayfair](https://www.wayfair.com)** | **[Talent Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cddf921ad6b16f0289f939?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 19 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68ce7082fb49c96ca6ea0667?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68cdcec8e23def7af55bf6bb?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern](https://jobright.ai/jobs/info/68cdc9e5b2a74e1837edc5ec?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Sep 19 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68cdc906e23def7af55bf3e6?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 19 |
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68cdc6abe23def7af55bf29a?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 19 |
@@ -116,8 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SALARIED INTERN-(NB) - LUMPKIN, GA](https://jobright.ai/jobs/info/68cdbb52e23def7af55beaab?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 | ↳ | **[SALARIED INTERN-(NB) - FLOWOOD, MS](https://jobright.ai/jobs/info/68cdb9b3b2a74e1837edba74?utm_campaign=1054&utm_source=git)** | Flowood, MS | On Site | Sep 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cdb912e23def7af55bea43?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 19 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - WALDO, AR](https://jobright.ai/jobs/info/68cdb8331ad6b16f0289e332?utm_campaign=1054&utm_source=git)** | Waldo, AR | On Site | Sep 19 |
-| ↳ | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/68cdb7c61ad6b16f0289e2c4?utm_campaign=1054&utm_source=git)** | Ola, AR | On Site | Sep 19 |
+| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/68cdb7c61ad6b16f0289e2c4?utm_campaign=1054&utm_source=git)** | Ola, AR | On Site | Sep 19 |
 | **[Molex](http://www.molex.com)** | **[2026 Molex HR Internship](https://jobright.ai/jobs/info/68cdb7b7e23def7af55be893?utm_campaign=1054&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management/Human Resources Information Systems Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb323b2a74e1837edb565?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 19 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - WC Claims - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/68cdae041ad6b16f0289d848?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Corporate Communication & Talent Acquisition](https://jobright.ai/jobs/info/68cd59bc1ad6b16f02898380?utm_campaign=1054&utm_source=git)** | UNITED STATES-NC-Charlotte | Hybrid | Sep 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 North America Experienced Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/68cd55b61ad6b16f028982e9?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Sep 19 |
 | **[Heartland Business Systems](https://www.hbs.net/welcomeavastone)** | **[Human Resources Intern - Summer 2026 Internship Program](https://jobright.ai/jobs/info/68cd19cf1ad6b16f02894e50?utm_campaign=1054&utm_source=git)** | Little Chute, WI | On Site | Sep 19 |
-| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Human Resources Internships](https://jobright.ai/jobs/info/68cd53de1ad6b16f02897ffd?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Sep 19 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/68cce79877add66568abbbca?utm_campaign=1054&utm_source=git)** | Horsham, PA | On Site | Sep 19 |
-| ↳ | **[2026 North America Experienced Human Resources Leadership Development Program Internship](https://jobright.ai/jobs/info/68c90eaaf9c6ff7aedf16fbc?utm_campaign=1054&utm_source=git)** | New Brunswick, NJ | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
