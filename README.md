@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cf435ddbd9fb154ede5d2a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68cefee9846f0b04af67e482?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/68ceed58846f0b04af67dd86?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68ceecb4dbd9fb154ede3a43?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Sep 20 |
 | **[VertoTech](vertotech.us)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68cedc2a846f0b04af67d65d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 20 |
@@ -69,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec210318026f5d538b2fcf?utm_campaign=1054&utm_source=git)** | Palm Beach Gardens, FL | Hybrid | Sep 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8acbc187f64e1bdf7f7?utm_campaign=1054&utm_source=git)** | Spirit Lake, IA | On Site | Sep 20 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern (Paid) 2026](https://jobright.ai/jobs/info/68cbad41ba798c1a501d3d2e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Sep 20 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bb?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Sep 20 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[2026 Summer Internships](https://jobright.ai/jobs/info/68cea1e7846f0b04af67bcdb?utm_campaign=1054&utm_source=git)** | College Station, TX | On Site | Sep 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68b7b66f872d1074a98b29d8?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Sep 20 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Ellingson](http://ellingsoncompanies.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68cdaaa7b2a74e1837edada7?utm_campaign=1054&utm_source=git)** | West Concord, Minnesota, United States | On Site | Sep 19 |
 | **[Shepherd Financial, LLC](https://www.shepherdfin.com/)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68cdaa31b2a74e1837edac41?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cda837e23def7af55bd95c?utm_campaign=1054&utm_source=git)** | Houston, TX, US | On Site | Sep 19 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13c5b2a74e1837edf0e6?utm_campaign=1054&utm_source=git)** | US-KY-MADISONVILLE | On Site | Sep 19 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13901ad6b16f028a19a0?utm_campaign=1054&utm_source=git)** | 515 ISLAND PARK DRIVE | On Site | Sep 19 |
+| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13901ad6b16f028a19a0?utm_campaign=1054&utm_source=git)** | 515 ISLAND PARK DRIVE | On Site | Sep 19 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce13c5b2a74e1837edf0e6?utm_campaign=1054&utm_source=git)** | US-KY-MADISONVILLE | On Site | Sep 19 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (Lake Mary, FL)](https://jobright.ai/jobs/info/68cda6a01ad6b16f0289ce6c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Sep 19 |
 | **[Advanced Technology Services (ATS)](http://advancedtech.com/)** | **[Clemson Job Fair](https://jobright.ai/jobs/info/68cda5121ad6b16f0289cb20?utm_campaign=1054&utm_source=git)** | United States- Greenville, South Carolina | On Site | Sep 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Sep 19 |
