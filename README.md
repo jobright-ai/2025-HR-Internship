@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Fall Internship](https://jobright.ai/jobs/info/68cfce1edbd9fb154edeb026?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Sep 21 |
 | **[McCarthy Improvement](https://www.mccarthyimprovement.com/)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/68cfc24b846f0b04af684be0?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Sep 21 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cf435ddbd9fb154ede5d2a?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 20 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/68ceed58846f0b04af67dd86?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68ceecb4dbd9fb154ede3a43?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Sep 20 |
 | **[WeVote](https://www.WeVote.US)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68ced3c6dbd9fb154ede3133?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | Sep 20 |
@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[GILLIG](http://gillig.com)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/673ff5219023c49b82b344fd?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68b1e2ef1ade4306aa63299c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[San Ramon Valley Fire Protection District](https://www.firedepartment.org)** | **[Human Resources Intern Part-Time](https://jobright.ai/jobs/info/68ce6c85dbd9fb154eddf814?utm_campaign=1054&utm_source=git)** | San Ramon, CA | On Site | Sep 20 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/689545914ed2ea559ca548f7?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Organizational Talent Services (HR) Intern](https://jobright.ai/jobs/info/68ce616d846f0b04af679438?utm_campaign=1054&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | On Site | Sep 20 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/68ce55adfb49c96ca6e9f378?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
 | ↳ | **[Early Talent Trainee - EL- Finance & Logistic &Sales Support](https://jobright.ai/jobs/info/68ce54ecdbd9fb154edde769?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Human Resources (Spring/Summer 2026)](https://jobright.ai/jobs/info/68cd9b1de23def7af55bc7a5?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Sep 19 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Corporate Communication & Talent Acquisition](https://jobright.ai/jobs/info/68ce77f3846f0b04af67a3bc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | Hybrid | Sep 19 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Talent Management Intern](https://jobright.ai/jobs/info/68cd9eb8e23def7af55bceb2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[YMCA of Metropolitan Chicago](http://www.ymcachicago.org/)** | **[Master's Level Case Manager Internship](https://jobright.ai/jobs/info/68c8c9be95f5211cd2ce9442?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
