@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Future Internships](https://jobright.ai/jobs/info/68d0d8ea7727df7d5a84e191?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Sep 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68d095b7dbd9fb154edeeb17?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 21 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68d0661afb49c96ca6eaf17e?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 21 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68d06599846f0b04af6889ef?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 21 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68cffb75846f0b04af686ab3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 21 |
 | **[City and County of Honolulu](http://www.honolulu.gov)** | **[PROGRAM DEVELOPMENT SPECIALIST (HR SPECIALIST II - TRAINING)](https://jobright.ai/jobs/info/68cff5bcdbd9fb154edec58c?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Sep 21 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/68cfed3bfb49c96ca6eacac2?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Sep 21 |
+| ↳ | **[Fall Internship](https://jobright.ai/jobs/info/68cfce1edbd9fb154edeb026?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Sep 21 |
 | **[Mauna Lani, Auberge Resorts Collection](http://maunalani.com)** | **[Talent Community](https://jobright.ai/jobs/info/67b523bce97810f47856913e?utm_campaign=1054&utm_source=git)** | Waimea, HI | On Site | Sep 21 |
 | **[McCarthy Improvement](https://www.mccarthyimprovement.com/)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/68cfc24b846f0b04af684be0?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Sep 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/68ca3622f16e3266d2824d5a?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68b7b66f872d1074a98b29d8?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Sep 20 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Join Our Talent Network](https://jobright.ai/jobs/info/68984752faa4e875e824cd27?utm_campaign=1054&utm_source=git)** | Rye Brook, NY | On Site | Sep 20 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68cff6b3846f0b04af6867c6?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Sep 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[Veteran SkillBridge Program Intern](https://jobright.ai/jobs/info/68ce993dfb49c96ca6ea1eff?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Sep 20 |
 | **[KLA](https://www.kla.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c797d17d0db4114273e04b?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Sep 20 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68ccdfdc5954791a1d700345?utm_campaign=1054&utm_source=git)** | Clinton, IA | On Site | Sep 20 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Royal Credit Union](https://www.rcu.org)** | **[Organizational Talent Services (HR) Intern](https://jobright.ai/jobs/info/68ce616d846f0b04af679438?utm_campaign=1054&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | On Site | Sep 20 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/68ce55adfb49c96ca6e9f378?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
 | ↳ | **[Early Talent Trainee - EL- Finance & Logistic &Sales Support](https://jobright.ai/jobs/info/68ce54ecdbd9fb154edde769?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
-| **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Intern, Talent Management](https://jobright.ai/jobs/info/68cd9eb8e23def7af55bceb2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce343324dd5209002f078c?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 19 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33eab2a74e1837ee0583?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 19 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33a51ad6b16f028a2f76?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 19 |
