@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68d0fd18f1976376178f1385?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Future Internships](https://jobright.ai/jobs/info/68d0d8ea7727df7d5a84e191?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Sep 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68d095b7dbd9fb154edeeb17?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 21 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68d0661afb49c96ca6eaf17e?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 21 |
@@ -65,9 +66,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Sep 21 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Montana)](https://jobright.ai/jobs/info/682573378859f1f4a7e93046?utm_campaign=1054&utm_source=git)** | Montana, United States | On Site | Sep 21 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68cffb75846f0b04af686ab3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 21 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Johnson & Johnson Military - SkillBridge Internship (Future Opportunity) in North America](https://jobright.ai/jobs/info/67ec0f7faca1a74bdfe3d60a?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Sep 21 |
 | **[City and County of Honolulu](http://www.honolulu.gov)** | **[PROGRAM DEVELOPMENT SPECIALIST (HR SPECIALIST II - TRAINING)](https://jobright.ai/jobs/info/68cff5bcdbd9fb154edec58c?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Sep 21 |
 | **[AtlantiCare](http://www.atlanticare.org)** | **[Counselor Intern](https://jobright.ai/jobs/info/68cfed3bfb49c96ca6eacac2?utm_campaign=1054&utm_source=git)** | Pleasantville, NJ | On Site | Sep 21 |
-| ↳ | **[Fall Internship](https://jobright.ai/jobs/info/68cfce1edbd9fb154edeb026?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Sep 21 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6753026408744769687830d2?utm_campaign=1054&utm_source=git)** | Martinsburg, WV | On Site | Sep 21 |
+| **[AtlantiCare](http://www.atlanticare.org)** | **[Fall Internship](https://jobright.ai/jobs/info/68cfce1edbd9fb154edeb026?utm_campaign=1054&utm_source=git)** | Egg Harbor, NJ | On Site | Sep 21 |
 | **[Mauna Lani, Auberge Resorts Collection](http://maunalani.com)** | **[Talent Community](https://jobright.ai/jobs/info/67b523bce97810f47856913e?utm_campaign=1054&utm_source=git)** | Waimea, HI | On Site | Sep 21 |
 | **[McCarthy Improvement](https://www.mccarthyimprovement.com/)** | **[Human Resources Intern- McCarthy Bush Corporation (Summer 2026)](https://jobright.ai/jobs/info/68cfc24b846f0b04af684be0?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Sep 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/68ca3622f16e3266d2824d5a?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
@@ -109,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Royal Credit Union](https://www.rcu.org)** | **[Organizational Talent Services (HR) Intern](https://jobright.ai/jobs/info/68ce616d846f0b04af679438?utm_campaign=1054&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | On Site | Sep 20 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Human Resources](https://jobright.ai/jobs/info/68ce55adfb49c96ca6e9f378?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
 | ↳ | **[Early Talent Trainee - EL- Finance & Logistic &Sales Support](https://jobright.ai/jobs/info/68ce54ecdbd9fb154edde769?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Sep 20 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Sep 19 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce343324dd5209002f078c?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 19 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33eab2a74e1837ee0583?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 19 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68ce33a51ad6b16f028a2f76?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 19 |
@@ -145,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cddfffe23def7af55bfe31?utm_campaign=1054&utm_source=git)** | Detroit | Hybrid | Sep 19 |
 | **[Wayfair](https://www.wayfair.com)** | **[Talent Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cddf921ad6b16f0289f939?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 19 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68cdcec8e23def7af55bf6bb?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68ce7082fb49c96ca6ea0667?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern](https://jobright.ai/jobs/info/68cdc9e5b2a74e1837edc5ec?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Sep 19 |
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68cdc6abe23def7af55bf29a?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 19 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/68cdc3db1ad6b16f0289ed34?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Sep 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce1f52b2a74e1837edf826?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Sep 19 |
 | **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - WARREN, AR](https://jobright.ai/jobs/info/68cdbb59e23def7af55beab6?utm_campaign=1054&utm_source=git)** | Warren, AR | On Site | Sep 19 |
 | ↳ | **[SALARIED INTERN-(NB) - LUMPKIN, GA](https://jobright.ai/jobs/info/68cdbb52e23def7af55beaab?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
-| ↳ | **[SALARIED INTERN-(NB) - FLOWOOD, MS](https://jobright.ai/jobs/info/68cdb9b3b2a74e1837edba74?utm_campaign=1054&utm_source=git)** | Flowood, MS | On Site | Sep 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cdb912e23def7af55bea43?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 19 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - CONWAY, AR](https://jobright.ai/jobs/info/68cdb7c61ad6b16f0289e2c4?utm_campaign=1054&utm_source=git)** | Ola, AR | On Site | Sep 19 |
-| **[Molex](http://www.molex.com)** | **[2026 Molex HR Internship](https://jobright.ai/jobs/info/68cdb7b7e23def7af55be893?utm_campaign=1054&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
