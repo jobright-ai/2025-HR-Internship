@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68b53771f4e41a61efd8eb48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 22 |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Join our Talent Community!](https://jobright.ai/jobs/info/68d1160593ddbf7eb21261b0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
+| **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Human Resources Internship Program (Dallas, TX) - Austin Industries](https://jobright.ai/jobs/info/68d115f4eadd8f0b04fab8b2?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Internship Talent Community](https://jobright.ai/jobs/info/68d105457727df7d5a850465?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Sep 22 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68d0fd18f1976376178f1385?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Future Internships](https://jobright.ai/jobs/info/68d0d8ea7727df7d5a84e191?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Sep 21 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68d095b7dbd9fb154edeeb17?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 21 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cddfffe23def7af55bfe31?utm_campaign=1054&utm_source=git)** | Detroit | Hybrid | Sep 19 |
 | **[Wayfair](https://www.wayfair.com)** | **[Talent Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cddf921ad6b16f0289f939?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Sep 19 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68ce7082fb49c96ca6ea0667?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Human Resources Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68cdcec8e23def7af55bf6bb?utm_campaign=1054&utm_source=git)** | Orrville, OH | Hybrid | Sep 19 |
 | **[Avid Technology Professionals](http://www.avidtec.com/)** | **[Human Resources/Administration Intern](https://jobright.ai/jobs/info/68cdc9e5b2a74e1837edc5ec?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Sep 19 |
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68cdc6abe23def7af55bf29a?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Sep 19 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/68cdc3db1ad6b16f0289ed34?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Sep 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Organizational Management Intern, Spring 2026](https://jobright.ai/jobs/info/68cdc1d7b2a74e1837edbf69?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 19 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ce1f52b2a74e1837edf826?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Sep 19 |
-| **[PotlatchDeltic Corporation](https://www.potlatchdeltic.com/)** | **[SALARIED INTERN-(NB) - WARREN, AR](https://jobright.ai/jobs/info/68cdbb59e23def7af55beab6?utm_campaign=1054&utm_source=git)** | Warren, AR | On Site | Sep 19 |
-| ↳ | **[SALARIED INTERN-(NB) - LUMPKIN, GA](https://jobright.ai/jobs/info/68cdbb52e23def7af55beaab?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
