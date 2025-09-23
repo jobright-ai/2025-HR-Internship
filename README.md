@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/68d2d9218c62e63bc7fdabe4?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/68d2d60e17554c2d9eeeaaf1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Clinical Trial Operations Meeting Management - Intern](https://jobright.ai/jobs/info/68d2cf5617554c2d9eeea8d2?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 23 |
+| ↳ | **[2026 Future Talent Program - Global Clinical Trial Operations Meeting Management - Intern](https://jobright.ai/jobs/info/68d2ce768c62e63bc7fda4bb?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 23 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Early Talent Recruiting and Talent Acquisition Programs Co-op (Jan - June 2026)](https://jobright.ai/jobs/info/68d2ce6ef0d9af73038db655?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d2c0e417554c2d9eee9640?utm_campaign=1054&utm_source=git)** | New York New York United States | On Site | Sep 23 |
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Human Resource Intern - J0048556](https://jobright.ai/jobs/info/68d2a6e98c62e63bc7fd8bc7?utm_campaign=1054&utm_source=git)** | Rock Spring, GA | On Site | Sep 23 |
+| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2d127f0d9af73038dbb6a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 23 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - 25/26 School Year](https://jobright.ai/jobs/info/68d2807717554c2d9eee7b97?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 23 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 23 |
@@ -124,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1b3748c62e63bc7fcebce?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[People & Culture Business Partner Intern, Summer 2026](https://jobright.ai/jobs/info/68d1b1788c62e63bc7fce913?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Human Resources Rotation (NYC)](https://jobright.ai/jobs/info/68d1ae2e17554c2d9eede98f?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Sep 22 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Internships (Summer 2026) - Campus Recruitment Events](https://jobright.ai/jobs/info/68d1ad9c17554c2d9eede88c?utm_campaign=1054&utm_source=git)** | Dublin, VA | On Site | Sep 22 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/68d1ad0617554c2d9eede798?utm_campaign=1054&utm_source=git)** | Cashton, WI | Hybrid | Sep 22 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1abeea54edb3bf3e14c36?utm_campaign=1054&utm_source=git)** | US-AZ-Phoenix | On Site | Sep 22 |
 | ↳ | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1abdd8c62e63bc7fce688?utm_campaign=1054&utm_source=git)** | US-TX-Dallas | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[DEI/HR Intern, 2026 Season](https://jobright.ai/jobs/info/68d172cbcece431f8b583e24?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | ↳ | **[Guest Experience Operations Intern, 2026 Season](https://jobright.ai/jobs/info/68d172aacece431f8b583e11?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | ↳ | **[Guest Experience Programs Intern, 2026 Season](https://jobright.ai/jobs/info/68d170388c62e63bc7fcb444?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
-| ↳ | **[Guest Experience Administration Intern, 2026 Season](https://jobright.ai/jobs/info/68d16e7ffa731f61692decf2?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
-| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/68d16b2acece431f8b5839a1?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Sep 22 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Human Resources Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d15e5cfa731f61692de4b7?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
-| **[Houchens Insurance Group](https://www.higusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/687a8c71764c3d7411c2ddb6?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Sep 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68ccc365fa466330fef90d48?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
