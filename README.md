@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d29d8bf0d9af73038d9bed?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 23 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - 25/26 School Year](https://jobright.ai/jobs/info/68d2807717554c2d9eee7b97?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 23 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 23 |
@@ -132,11 +133,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1abdd8c62e63bc7fce688?utm_campaign=1054&utm_source=git)** | US-TX-Dallas | On Site | Sep 22 |
 | ↳ | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1abb08c62e63bc7fce632?utm_campaign=1054&utm_source=git)** | US-ND-Fargo | On Site | Sep 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68d1ab5717554c2d9eede518?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Sep 22 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Internships (Summer 2026) - Campus Recruitment Events](https://jobright.ai/jobs/info/68d1ab3a17554c2d9eede4e3?utm_campaign=1054&utm_source=git)** | Shippensburg, PA | On Site | Sep 22 |
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[General Interest - 2026 Summer Internships](https://jobright.ai/jobs/info/68d1aa8917554c2d9eede3f0?utm_campaign=1054&utm_source=git)** | US-IN-Indianapolis | On Site | Sep 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d1aa788c62e63bc7fce409?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Sep 22 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Internships (Summer 2026) - Campus Recruitment Events](https://jobright.ai/jobs/info/68d1aa72a54edb3bf3e14a39?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 22 |
-| ↳ | **[Internships (Summer 2026) - Campus Recruitment Events](https://jobright.ai/jobs/info/68d1a97117554c2d9eede18c?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68ce029fe23def7af55c1260?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Human Resources Rotation (NYC)](https://jobright.ai/jobs/info/68d1a2fecece431f8b586548?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Strategic Support- Associate Engagement](https://jobright.ai/jobs/info/68d1a1b6cece431f8b586355?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
@@ -145,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68d19dd9cece431f8b585c8c?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | Sep 22 |
 | **[Uniqonix IT Solutions](www.uniqonixitsolutions.com)** | **[Join our Talent Community](https://jobright.ai/jobs/info/68d1b8ed17554c2d9eedf159?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Workforce Planning & Insights Intern](https://jobright.ai/jobs/info/68d19780cece431f8b5858a1?utm_campaign=1054&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Summer 2026 Undergraduate Internship - Human Resources](https://jobright.ai/jobs/info/68d196decece431f8b585807?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d1928c8c62e63bc7fccc73?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Sep 22 |
 | ↳ | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d18c49fa731f61692e0588?utm_campaign=1054&utm_source=git)** | USA - NJ - Camden | On Site | Sep 22 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Human Resources Internship (Master’s) – Summer 2026](https://jobright.ai/jobs/info/68d18698cece431f8b584c95?utm_campaign=1054&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Guest Experience Operations Intern, 2026 Season](https://jobright.ai/jobs/info/68d172aacece431f8b583e11?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | ↳ | **[Guest Experience Programs Intern, 2026 Season](https://jobright.ai/jobs/info/68d170388c62e63bc7fcb444?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 | ↳ | **[Guest Experience Administration Intern, 2026 Season](https://jobright.ai/jobs/info/68d16e7ffa731f61692decf2?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
+| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Recruiting Intern (Part Time) (Clayton, MO)](https://jobright.ai/jobs/info/68d16b2acece431f8b5839a1?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Sep 22 |
+| **[APCO](http://www.apcoworldwide.com)** | **[Human Resources Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d15e5cfa731f61692de4b7?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
