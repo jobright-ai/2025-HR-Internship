@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d221cf8c62e63bc7fd4829?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
 | **[CAMS](http://camstex.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2032217554c2d9eee232c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Human Resources Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fd9117554c2d9eee207d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 22 |
 | ↳ | **[Commercial Human Resources Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fcca17554c2d9eee1f77?utm_campaign=1054&utm_source=git)** | Baltimore, Maryland | On Site | Sep 22 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Human Resources Intern- Summer 2026](https://jobright.ai/jobs/info/68d1dce18c62e63bc7fd0331?utm_campaign=1054&utm_source=git)** | Lone Tree, CO | On Site | Sep 22 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Human Resources Internship (Master’s) – Summer 2026](https://jobright.ai/jobs/info/68d1dc25a54edb3bf3e16c87?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Sep 22 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d1dafe17554c2d9eee02f7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 22 |
-| **[HUB International](https://www.hubinternational.com)** | **[Operations Intern, Employee Benefits](https://jobright.ai/jobs/info/68d1dae117554c2d9eee02db?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d9708c62e63bc7fd0216?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Sep 22 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1d89a8c62e63bc7fd014b?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Sep 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d8268c62e63bc7fd00d0?utm_campaign=1054&utm_source=git)** | Lumberton, NC | On Site | Sep 22 |
@@ -130,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Spring)](https://jobright.ai/jobs/info/68ce029fe23def7af55c1260?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Human Resources Rotation (NYC)](https://jobright.ai/jobs/info/68d1a2fecece431f8b586548?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Strategic Support- Associate Engagement](https://jobright.ai/jobs/info/68d1a1b6cece431f8b586355?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
+| **[HUB International](https://www.hubinternational.com)** | **[Operations Intern, Employee Benefits](https://jobright.ai/jobs/info/68d1a19b17554c2d9eeddb44?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 22 |
 | **[Bain Capital](https://www.baincapital.com/)** | **[Recruiting Co-op](https://jobright.ai/jobs/info/68d1a19217554c2d9eeddb20?utm_campaign=1054&utm_source=git)** | Boston | On Site | Sep 22 |
 | **[Ovintiv](https://www.ovintiv.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68d19df38c62e63bc7fcd516?utm_campaign=1054&utm_source=git)** | Denver, CO, US | On Site | Sep 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68d19dd9cece431f8b585c8c?utm_campaign=1054&utm_source=git)** | San Antonio, TX, US | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MERGE](http://www.mergeworld.com/)** | **[Talent Network](https://jobright.ai/jobs/info/67afbf03c9e7043f19ac9110?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 Human Resources Co-op ( 6 Months)](https://jobright.ai/jobs/info/68d15374cece431f8b582e02?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Summer 2026 Undergraduate Internship - Human Resources](https://jobright.ai/jobs/info/68d1522ccece431f8b582cd2?utm_campaign=1054&utm_source=git)** | 100 New Millennium Way, Bldg 3, Durham NC | Hybrid | Sep 22 |
-| ↳ | **[Summer 2026 Undergraduate Internship - Human Resources](https://jobright.ai/jobs/info/68d151838c62e63bc7fca497?utm_campaign=1054&utm_source=git)** | Westlake, TX | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
