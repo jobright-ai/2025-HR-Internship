@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68d331b28c62e63bc7fde70c?utm_campaign=1054&utm_source=git)** | Davidson, NC | Hybrid | Sep 23 |
+| **[Sports Basement](http://sportsbasement.com)** | **[Seasonal Backcountry Hardgoods Staffer](https://jobright.ai/jobs/info/68d34d8417554c2d9eeefb19?utm_campaign=1054&utm_source=git)** | SANTA ROSA, CA, USA | On Site | Sep 23 |
+| ↳ | **[POS/FOH Staffer (Seasonal)](https://jobright.ai/jobs/info/68d34d248c62e63bc7fdf873?utm_campaign=1054&utm_source=git)** | SANTA ROSA, CA, USA | On Site | Sep 23 |
+| **[Qualfon](http://www.qualfon.com)** | **[Part-Time Onsite HR/Person Office Intern](https://jobright.ai/jobs/info/68d344528c62e63bc7fdf310?utm_campaign=1054&utm_source=git)** | Highland Park | On Site | Sep 23 |
+| **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/68d343508c62e63bc7fdf07b?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | On Site | Sep 23 |
+| **[Qualfon](http://www.qualfon.com)** | **[Part-Time Onsite HR/Person Office Intern](https://jobright.ai/jobs/info/68d342f28c62e63bc7fdef79?utm_campaign=1054&utm_source=git)** | 48203 | On Site | Sep 23 |
+| ↳ | **[Part-Time Onsite HR/Person Office Intern](https://jobright.ai/jobs/info/68d342f1f0d9af73038e067a?utm_campaign=1054&utm_source=git)** | US | On Site | Sep 23 |
+| ↳ | **[Part-Time Onsite HR/Person Office Intern](https://jobright.ai/jobs/info/68d34298f0d9af73038e0604?utm_campaign=1054&utm_source=git)** | 13700 Oakland Avenue | On Site | Sep 23 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68d33f2ff0d9af73038e029b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
+| **[Canidium](http://canidium.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d3325f8c62e63bc7fde803?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Sep 23 |
 | **[Qualfon](http://www.qualfon.com)** | **[HR/Person Office Intern](https://jobright.ai/jobs/info/68d32bc517554c2d9eeee5d3?utm_campaign=1054&utm_source=git)** | Highland Park, MI | On Site | Sep 23 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[Spring Intern, Human Resources (Onboarding)](https://jobright.ai/jobs/info/68d32b0e17554c2d9eeee52d?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Sep 23 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68d328fcf0d9af73038df7ff?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Sep 23 |
@@ -137,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Primerica](https://www.primerica.com)** | **[Human Resources Intern - HRO-2025-1i](https://jobright.ai/jobs/info/68d1dd4d17554c2d9eee04a2?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Sep 22 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Human Resources Internship (Master’s) – Summer 2026](https://jobright.ai/jobs/info/68d1dc25a54edb3bf3e16c87?utm_campaign=1054&utm_source=git)** | Dublin, OH | On Site | Sep 22 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d1dafe17554c2d9eee02f7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Sep 22 |
+| **[HUB International](https://www.hubinternational.com)** | **[Operations Intern, Employee Benefits](https://jobright.ai/jobs/info/68d1dae117554c2d9eee02db?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d9708c62e63bc7fd0216?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Sep 22 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1d89a8c62e63bc7fd014b?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Sep 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d8268c62e63bc7fd00d0?utm_campaign=1054&utm_source=git)** | Lumberton, NC | On Site | Sep 22 |
@@ -144,17 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Sep 22 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd2?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Sep 22 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1d1aaa54edb3bf3e166f2?utm_campaign=1054&utm_source=git)** | 2150 Schuetz Rd, St. Louis, MO, 63146, US | On Site | Sep 22 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1d032a54edb3bf3e16652?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 22 |
-| **[FTI](http://www.faithtechinc.com)** | **[HR- Talent Acquisition Internship](https://jobright.ai/jobs/info/68d1ceea17554c2d9eedfe26?utm_campaign=1054&utm_source=git)** | WI - Menasha | On Site | Sep 22 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1ce9017554c2d9eedfdce?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 22 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1cd088c62e63bc7fcfbb8?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Sep 22 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1ccf68c62e63bc7fcfba7?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 22 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1ccc58c62e63bc7fcfb84?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Sep 22 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1cba317554c2d9eedfcc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 22 |
-| **[General Dynamics - Bath Iron Works](https://www.gdbiw.com/)** | **[2026 Summer Internship Program](https://jobright.ai/jobs/info/68d1ffc78c62e63bc7fd2228?utm_campaign=1054&utm_source=git)** | Bath, ME | On Site | Sep 22 |
-| **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Healthcare Recruiter Trainee](https://jobright.ai/jobs/info/68d1c3fea54edb3bf3e15f82?utm_campaign=1054&utm_source=git)** | Jeffersonville, IN | On Site | Sep 22 |
-| **[Live it Up](https://letsliveitup.com/)** | **[Join Our Talent Community](https://jobright.ai/jobs/info/68c786827d0db4114273cb88?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 22 |
-| **[Hilcorp](http://www.hilcorp.com)** | **[I-2643 - Human Resources Accounting Part-Time Intern](https://jobright.ai/jobs/info/68d1ba028c62e63bc7fcf10c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 22 |
-| **[Christian Children's Home of Ohio](https://www.ccho.org)** | **[Counseling/Social Work INTERNSHIP](https://jobright.ai/jobs/info/68d1b7dea54edb3bf3e158d7?utm_campaign=1054&utm_source=git)** | Wooster, OH | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
