@@ -57,26 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3ed7417554c2d9eef4ee0?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Sep 24 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b7993a1ade4306aa64c79a?utm_campaign=1054&utm_source=git)** | Charlotte Metro | On Site | Sep 24 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68d3bdcb8c62e63bc7fe46c8?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 24 |
 | **[International Institute of New England](https://iine.org/)** | **[Program Benefits & Administration Intern (IINE Lowell)](https://jobright.ai/jobs/info/68d3ba5c8c62e63bc7fe45ce?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Sep 24 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Discovery Event: Early Talent (Virtual) - Susquehanna International Group](https://jobright.ai/jobs/info/68d3d3ca8c62e63bc7fe49a8?utm_campaign=1054&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Non-Workstudy)-Peer Leaders](https://jobright.ai/jobs/info/68d3b5c4952b4a32e23d8b3a?utm_campaign=1054&utm_source=git)** | Shelby, NC | On Site | Sep 24 |
 | **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a7b917554c2d9eef402d?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Sep 24 |
-| **[MantraCare](https://mantracare.org/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d3a62417554c2d9eef3ecf?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 24 |
-| **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a5de17554c2d9eef3ea0?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Sep 24 |
+| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a5de17554c2d9eef3ea0?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a0f48c62e63bc7fe3b5c?utm_campaign=1054&utm_source=git)** | Providence, RI | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a0408c62e63bc7fe3a62?utm_campaign=1054&utm_source=git)** | Helena, MT | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a03e17554c2d9eef3bfe?utm_campaign=1054&utm_source=git)** | Bismarck, ND | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fc7952b4a32e23d8146?utm_campaign=1054&utm_source=git)** | Carson City, NV | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fa7952b4a32e23d8120?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f8917554c2d9eef3b08?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Remote | Sep 24 |
+| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f55952b4a32e23d80a6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f2e952b4a32e23d805b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f20952b4a32e23d804b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 24 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d396b4952b4a32e23d77c3?utm_campaign=1054&utm_source=git)** | Richmond, VA | Remote | Sep 23 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d396ac17554c2d9eef3149?utm_campaign=1054&utm_source=git)** | Charleston, WV | Remote | Sep 23 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3969c17554c2d9eef3120?utm_campaign=1054&utm_source=git)** | Pierre, SD | Remote | Sep 23 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39673952b4a32e23d775d?utm_campaign=1054&utm_source=git)** | Cheyenne, WY | Remote | Sep 23 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d396688c62e63bc7fe3283?utm_campaign=1054&utm_source=git)** | Dover, DE | Remote | Sep 23 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d396658c62e63bc7fe327c?utm_campaign=1054&utm_source=git)** | Lincoln, NE | Remote | Sep 23 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d396538c62e63bc7fe3256?utm_campaign=1054&utm_source=git)** | Juneau, AK | Remote | Sep 23 |
