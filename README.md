@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Sep 24 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Human Resources](https://jobright.ai/jobs/info/68b7993a1ade4306aa64c79a?utm_campaign=1054&utm_source=git)** | Charlotte Metro | On Site | Sep 24 |
 | **[University of Houston](https://www.uh.edu)** | **[Graduate Administrative Assistant, MBA Graduate Office (part-time)](https://jobright.ai/jobs/info/68d3bdcb8c62e63bc7fe46c8?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 24 |
 | **[International Institute of New England](https://iine.org/)** | **[Program Benefits & Administration Intern (IINE Lowell)](https://jobright.ai/jobs/info/68d3ba5c8c62e63bc7fe45ce?utm_campaign=1054&utm_source=git)** | Lowell, MA | On Site | Sep 24 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Discovery Event: Early Talent (Virtual) - Susquehanna International Group](https://jobright.ai/jobs/info/68d3d3ca8c62e63bc7fe49a8?utm_campaign=1054&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 24 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Non-Workstudy)-Peer Leaders](https://jobright.ai/jobs/info/68d3b5c4952b4a32e23d8b3a?utm_campaign=1054&utm_source=git)** | Shelby, NC | On Site | Sep 24 |
 | **[Pearson](https://www.pearson.com/)** | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a7b917554c2d9eef402d?utm_campaign=1054&utm_source=git)** | Denver, CO | Remote | Sep 24 |
 | **[MantraCare](https://mantracare.org/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d3a62417554c2d9eef3ecf?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 24 |
@@ -68,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a03e17554c2d9eef3bfe?utm_campaign=1054&utm_source=git)** | Bismarck, ND | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fc7952b4a32e23d8146?utm_campaign=1054&utm_source=git)** | Carson City, NV | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fa7952b4a32e23d8120?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f8917554c2d9eef3b08?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
+| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f8917554c2d9eef3b08?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f55952b4a32e23d80a6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f2e952b4a32e23d805b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f20952b4a32e23d804b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cantex](https://www.cantexcc.com)** | **[Human Resources Intern - Unpaid (19377)](https://jobright.ai/jobs/info/68d2fc3c8c62e63bc7fdc60d?utm_campaign=1054&utm_source=git)** | Carrollton, TX | On Site | Sep 23 |
 | **[Meals on Wheels People](https://www.mowp.org/)** | **[HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68d2fb8317554c2d9eeecae0?utm_campaign=1054&utm_source=git)** | PORTLAND, OR, USA | On Site | Sep 23 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f9c617554c2d9eeec8d3?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Sep 23 |
-| **[INFICON](http://www.inficon.com)** | **[Human Resource Intern/Generalist - Part Time (Seasonal)](https://jobright.ai/jobs/info/68b746ae1ade4306aa6497ba?utm_campaign=1054&utm_source=git)** | Syracuse, NY | Hybrid | Sep 23 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68d2f88c17554c2d9eeec6de?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
-| **[Formlabs](http://www.formlabs.com)** | **[People Analytics MBA Intern (Fall 2025 Part-Time)](https://jobright.ai/jobs/info/68d2f86717554c2d9eeec687?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Sep 23 |
-| **[Key Construction](http://keyconstruction.com)** | **[2026 Summer Internship - DFW](https://jobright.ai/jobs/info/68d2f04ff0d9af73038dd22e?utm_campaign=1054&utm_source=git)** | Fort Worth, Texas, United States | On Site | Sep 23 |
-| **[UFG Insurance](https://www.ufginsurance.com/)** | **[Internship Opportunities 2026](https://jobright.ai/jobs/info/68d2efc7f0d9af73038dd0e1?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 23 |
-| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern – Work Comp Claims (Summer 2026)](https://jobright.ai/jobs/info/68d2eec28c62e63bc7fdb975?utm_campaign=1054&utm_source=git)** | US-WI-West Bend | On Site | Sep 23 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2ee8bf0d9af73038dce6e?utm_campaign=1054&utm_source=git)** | Watsonville, California | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
