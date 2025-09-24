@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Sr. HR Service Intern (October 2025/Year Round)](https://jobright.ai/jobs/info/68d27b3217554c2d9eee7acb?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Sep 23 |
 | **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68b72f8e2124650c14020197?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Sep 23 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[HR Intern](https://jobright.ai/jobs/info/68d36fbef0d9af73038e2481?utm_campaign=1054&utm_source=git)** | Little Falls, NJ | On Site | Sep 22 |
 | **[Lockton](https://global.lockton.com)** | **[Associate Experience and Development Intern](https://jobright.ai/jobs/info/68d2382617554c2d9eee584e?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Sep 22 |
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[HR Intern](https://jobright.ai/jobs/info/68d35fc1f0d9af73038e18a5?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[HR Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/68d250a717554c2d9eee6d66?utm_campaign=1054&utm_source=git)** | Carlisle, PA | Hybrid | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d8268c62e63bc7fd00d0?utm_campaign=1054&utm_source=git)** | Lumberton, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Sep 22 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
