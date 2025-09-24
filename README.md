@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CTBK](https://www.ctbk.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d35c128c62e63bc7fdffb6?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Sep 23 |
+| **[TellCo Europe Sagl Switzerland](https://tellco-europe.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d35ba2f0d9af73038e168f?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Superior Industries Inc](http://superior-ind.com)** | **[Summer 2026 Internship Experience](https://jobright.ai/jobs/info/68d353c0f0d9af73038e1150?utm_campaign=1054&utm_source=git)** | Morris, MN | On Site | Sep 23 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Sep 23 |
 | **[Sports Basement](http://sportsbasement.com)** | **[Seasonal Backcountry Hardgoods Staffer](https://jobright.ai/jobs/info/68d34d8417554c2d9eeefb19?utm_campaign=1054&utm_source=git)** | SANTA ROSA, CA, USA | On Site | Sep 23 |
 | ↳ | **[POS/FOH Staffer (Seasonal)](https://jobright.ai/jobs/info/68d34d248c62e63bc7fdf873?utm_campaign=1054&utm_source=git)** | SANTA ROSA, CA, USA | On Site | Sep 23 |
 | **[Qualfon](http://www.qualfon.com)** | **[Part-Time Onsite HR/Person Office Intern](https://jobright.ai/jobs/info/68d344528c62e63bc7fdf310?utm_campaign=1054&utm_source=git)** | Highland Park | On Site | Sep 23 |
@@ -114,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Sr. HR Service Intern (October 2025/Year Round)](https://jobright.ai/jobs/info/68d27b3217554c2d9eee7acb?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Sep 23 |
 | **[HII](https://hii.com)** | **[CORPORATE HUMAN RESOURCES INTERN](https://jobright.ai/jobs/info/68b72f8e2124650c14020197?utm_campaign=1054&utm_source=git)** | Newport News, VA | On Site | Sep 23 |
 | **[Lockton](https://global.lockton.com)** | **[Associate Experience and Development Intern](https://jobright.ai/jobs/info/68d2382617554c2d9eee584e?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Sep 22 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[HR Intern](https://jobright.ai/jobs/info/68d35fc1f0d9af73038e18a5?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[HR Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/68d250a717554c2d9eee6d66?utm_campaign=1054&utm_source=git)** | Carlisle, PA | Hybrid | Sep 22 |
 | ↳ | **[HR Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/68d24d7a8c62e63bc7fd6d57?utm_campaign=1054&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
 | **[CAMS](http://camstex.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2032217554c2d9eee232c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Sep 22 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Sep 22 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Sep 22 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (West Virginia)](https://jobright.ai/jobs/info/6752c5e2b232437059babdd2?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Sep 22 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1d1aaa54edb3bf3e166f2?utm_campaign=1054&utm_source=git)** | 2150 Schuetz Rd, St. Louis, MO, 63146, US | On Site | Sep 22 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d1d032a54edb3bf3e16652?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 22 |
-| **[Carboline](https://www.carboline.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1ce9017554c2d9eedfdce?utm_campaign=1054&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
