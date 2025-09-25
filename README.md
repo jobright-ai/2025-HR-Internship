@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AUTOKINITON](https://www.autokiniton.com)** | **[Human Resource Internship (Summer 2026)](https://jobright.ai/jobs/info/68d50fd4e678d65ec7d8ad95?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Sep 25 |
+| **[Southeastern Grocers](http://www.segrocers.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68b897fe07090163b6ba3405?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Sep 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68b9230e5b42bc456282ad9e?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
+| **[axogen](http://www.axogeninc.com)** | **[Want to be considered for future INTERNSHIPS (all locations)?](https://jobright.ai/jobs/info/68d50a59e678d65ec7d8ac14?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 25 |
+| **[Ovintiv](https://www.ovintiv.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68d5091f24b1ee4c7b66359f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Sep 25 |
+| **[The Home Depot](https://www.homedepot.com)** | **[2026 Summer Internship - Human Resources](https://jobright.ai/jobs/info/68d500ece678d65ec7d8a6e4?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Sep 25 |
 | **[Perryman Company](http://perrymanco.com)** | **[Internship - Human Resources (Summer of 2026)](https://jobright.ai/jobs/info/68d4e1048c62e63bc7fed66a?utm_campaign=1054&utm_source=git)** | Houston, PA | On Site | Sep 24 |
 | **[Deutsche Börse](https://deutsche-boerse.com)** | **[Intern - Human Resources (f/m/d)](https://jobright.ai/jobs/info/68d4dd4efcd3367e8df18b32?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
 | **[Hallmark Financial Services Inc.](http://www.hallmarkgrp.com/)** | **[Internship Opportunities](https://jobright.ai/jobs/info/68d4d5d58c62e63bc7fecec6?utm_campaign=1054&utm_source=git)** | Dallas | On Site | Sep 24 |
@@ -87,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Recruitment Intern – Part Time – Bilingual (Eng/Mandarin)](https://jobright.ai/jobs/info/68d4888277769e778f509d0b?utm_campaign=1054&utm_source=git)** | Edgewater Park, NJ | On Site | Sep 24 |
 | ↳ | **[HRBP - Intern](https://jobright.ai/jobs/info/68d486ee8c62e63bc7fea0c5?utm_campaign=1054&utm_source=git)** | Fontana, CA | On Site | Sep 24 |
 | ↳ | **[HRBP - Intern](https://jobright.ai/jobs/info/68d4813b77769e778f5097a4?utm_campaign=1054&utm_source=git)** | Fontana | On Site | Sep 24 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d47d688c62e63bc7fe9a38?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Sep 24 |
 | **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Fall 2025 (LA)](https://jobright.ai/jobs/info/68d4783777769e778f5093f5?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | Hybrid | Sep 24 |
 | **[Onsights](https://www.onsights.io)** | **[DoD SkillBridge Internship/Fellowship Opportunity Application (U.S. Military Only)](https://jobright.ai/jobs/info/68d464dcffc1276de3fda684?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 24 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68d4642e77769e778f508824?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 24 |
@@ -100,9 +105,10 @@ For a complete list, click the following sortable link below:
 | **[The Home Depot](https://www.homedepot.com)** | **[2026 Summer Internship - Human Resources](https://jobright.ai/jobs/info/68d4483417554c2d9eef7ce8?utm_campaign=1054&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 24 |
 | **[Ainsworth Inc](https://www.ainsworth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d447acffc1276de3fd9345?utm_campaign=1054&utm_source=git)** | Monroe, NJ | Hybrid | Sep 24 |
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (College)](https://jobright.ai/jobs/info/68d446778c62e63bc7fe79fc?utm_campaign=1054&utm_source=git)** | Washington | On Site | Sep 24 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d44583ffc1276de3fd8f5c?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Sep 24 |
+| **[CPL](https://cplteam.com/locations)** | **[Internship Interest Application - SUNY Alfred](https://jobright.ai/jobs/info/68d502542ed36439e51e4272?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Sep 24 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[HR Projects Intern](https://jobright.ai/jobs/info/68d43879ffc1276de3fd8786?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Sep 24 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Human Resources - Cleveland](https://jobright.ai/jobs/info/68d43822ffc1276de3fd86cc?utm_campaign=1054&utm_source=git)** | MD - Columbia | On Site | Sep 24 |
-| **[Deutsche Börse](https://deutsche-boerse.com)** | **[Intern - Human Resources (f/m/d)](https://jobright.ai/jobs/info/68d436c18c62e63bc7fe6bc9?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Staff Recruitment Team (Immediate Opening)](https://jobright.ai/jobs/info/68d4320517554c2d9eef6b0b?utm_campaign=1054&utm_source=git)** | Weslaco, TX | On Site | Sep 24 |
 | ↳ | **[Intern - Staff Recruitment Team (Immediate Opening)](https://jobright.ai/jobs/info/68d430a617554c2d9eef6a33?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | On Site | Sep 24 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | On Site | Sep 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f8917554c2d9eef3b08?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f55952b4a32e23d80a6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f2e952b4a32e23d805b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f20952b4a32e23d804b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39e9617554c2d9eef3991?utm_campaign=1054&utm_source=git)** | Trenton, NJ | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39e6c952b4a32e23d7f30?utm_campaign=1054&utm_source=git)** | St Paul, MN | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39e3817554c2d9eef38fd?utm_campaign=1054&utm_source=git)** | Augusta, ME | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39e2217554c2d9eef38d7?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
