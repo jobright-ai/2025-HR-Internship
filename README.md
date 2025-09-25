@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Knoxville](https://jobright.ai/jobs/info/68d4d2508c62e63bc7fece75?utm_campaign=1054&utm_source=git)** | Alcoa, TN | On Site | Sep 24 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68d4d13d8c62e63bc7feccc5?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Sep 24 |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68d4d12effc1276de3fde5be?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Sep 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Anderson](https://jobright.ai/jobs/info/68d4d0dcffc1276de3fde520?utm_campaign=1054&utm_source=git)** | Anderson, IN | On Site | Sep 24 |
+| **[Four Hands](https://fourhands.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68d4cc198c62e63bc7feca0c?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 24 |
+| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Fall 2025 (LA)](https://jobright.ai/jobs/info/68d4b16b8c62e63bc7feba49?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 24 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026-Supply Chain-Human Resources Intern-Denver, CO](https://jobright.ai/jobs/info/68d4ad50fcd3367e8df168fa?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Sep 24 |
+| **[County of Riverside](http://www.rc-hr.com)** | **[Child Support Services Unpaid Internship (Indio & Blythe)](https://jobright.ai/jobs/info/68d4a5fd8c62e63bc7feb360?utm_campaign=1054&utm_source=git)** | Riverside County, CA | On Site | Sep 24 |
+| ↳ | **[Child Support Services Unpaid Internship](https://jobright.ai/jobs/info/68d4a3b4ffc1276de3fdcc0f?utm_campaign=1054&utm_source=git)** | Riverside County, CA | On Site | Sep 24 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[HR Intern- WVUHS](https://jobright.ai/jobs/info/68d4a04f8c62e63bc7feb256?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Sep 24 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d49df38c62e63bc7feaf78?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Sep 24 |
 | **[Superior Air-Ground Ambulance Service](https://www.superiorambulance.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d49d8affc1276de3fdc934?utm_campaign=1054&utm_source=git)** | Elmhurst, IL | On Site | Sep 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/68d49cd9ffc1276de3fdc855?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 24 |
@@ -80,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68d4642e77769e778f508824?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 24 |
 | **[Albaugh, LLC](http://albaughllc.com)** | **[Human Resources Co-Op](https://jobright.ai/jobs/info/68d4601affc1276de3fda512?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Sep 24 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Human Resources - Cleveland](https://jobright.ai/jobs/info/68d45fc017554c2d9eef8ece?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Community & Experiential Internship - Fall 2025](https://jobright.ai/jobs/info/68d458cf17554c2d9eef898e?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 24 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Pilot Workforce Planning and Strategy (Summer 2026)](https://jobright.ai/jobs/info/68d45091ffc1276de3fd9a89?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Intern-Patient Transition Integrated Care Management-Flat Rate](https://jobright.ai/jobs/info/68d47611ffc1276de3fdaff7?utm_campaign=1054&utm_source=git)** | 1701 N Senate Blvd, Indianapolis, IN, 46202, US | On Site | Sep 24 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d44bae8c62e63bc7fe7bd8?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
@@ -109,10 +118,12 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Citi Buffalo Job & Internship Fairs](https://jobright.ai/jobs/info/68d41d9e8c62e63bc7fe5ff2?utm_campaign=1054&utm_source=git)** | New York New York United States | On Site | Sep 24 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68d41db517554c2d9eef6152?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | On Site | Sep 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68d3f9f75ae5a90cfd48268e?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Sep 24 |
+| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/68b8f95e5b42bc4562829629?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - People Operations](https://jobright.ai/jobs/info/68d3f9065ae5a90cfd482607?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/68b77d602124650c1402322b?utm_campaign=1054&utm_source=git)** | Pittsfield, MA | On Site | Sep 24 |
 | ↳ | **[Spring 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68b778ad1ade4306aa64b328?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Sep 24 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Sep 24 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Corporate Human Resources Internship (2025-26 School Year)](https://jobright.ai/jobs/info/68b77b5e2124650c14023018?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Sep 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Sep 24 |
@@ -132,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3a03e17554c2d9eef3bfe?utm_campaign=1054&utm_source=git)** | Bismarck, ND | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fc7952b4a32e23d8146?utm_campaign=1054&utm_source=git)** | Carson City, NV | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39fa7952b4a32e23d8120?utm_campaign=1054&utm_source=git)** | Columbus, OH | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f8917554c2d9eef3b08?utm_campaign=1054&utm_source=git)** | Honolulu, HI | Remote | Sep 24 |
+| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f89952b4a32e23d80ea?utm_campaign=1054&utm_source=git)** | Olympia, WA | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f55952b4a32e23d80a6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f2e952b4a32e23d805b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39f20952b4a32e23d804b?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Sep 24 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39c2c8c62e63bc7fe3743?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39995952b4a32e23d7ca0?utm_campaign=1054&utm_source=git)** | Lansing, MI | Remote | Sep 24 |
 | ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3997d17554c2d9eef3643?utm_campaign=1054&utm_source=git)** | Concord, NH | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3990817554c2d9eef3580?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d398fd17554c2d9eef3562?utm_campaign=1054&utm_source=git)** | Santa Fe, NM | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d398db17554c2d9eef352c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d398d217554c2d9eef3512?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3987f17554c2d9eef347e?utm_campaign=1054&utm_source=git)** | Hartford, CT | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39876952b4a32e23d7abd?utm_campaign=1054&utm_source=git)** | Little Rock, AR | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d398388c62e63bc7fe35da?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d39837952b4a32e23d7a42?utm_campaign=1054&utm_source=git)** | Topeka, KS | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d3981517554c2d9eef33d5?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d397f717554c2d9eef3399?utm_campaign=1054&utm_source=git)** | Columbia, SC | Remote | Sep 24 |
-| ↳ | **[Psychometrician & Researcher - Temporary](https://jobright.ai/jobs/info/68d397118c62e63bc7fe339f?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
