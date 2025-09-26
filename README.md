@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Partner/SHIFT Program Management Intern](https://jobright.ai/jobs/info/68d650dcebcef82ef5cf9999?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Sep 26 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - New York, NY](https://jobright.ai/jobs/info/68d64c35894705799a2ea612?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| **[LP Insurance Services](https://www.lpins.net)** | **[Internship - Employee Benefits - Las Vegas / Fall 2025](https://jobright.ai/jobs/info/68d65e56894705799a2eb3c4?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Sep 26 |
 | **[LaunchCapital](http://www.launchcapital.com)** | **[People Analytics MBA Intern (Fall 2025 Part-Time)](https://jobright.ai/jobs/info/68d64078ebcef82ef5cf87a9?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Sep 26 |
 | **[Metropolitan Government of Nashville and Davidson County](https://www.nashville.gov)** | **[Intern, Volunteers, and Outreach Coordinator](https://jobright.ai/jobs/info/68d63d03894705799a2e95ba?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Sep 26 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Summer 2026 - Human Resources](https://jobright.ai/jobs/info/68d63c5aebcef82ef5cf83bf?utm_campaign=1054&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - HR Generalist - Summer 2026](https://jobright.ai/jobs/info/68d5af8563d77d6f6f3f188b?utm_campaign=1054&utm_source=git)** | 1 Blue Bunny Drive, Le Mars, IA, 51031, US | On Site | Sep 25 |
 | ↳ | **[Internship - HR Total Rewards - Summer 2026](https://jobright.ai/jobs/info/68d5af0814935e31e231ae4d?utm_campaign=1054&utm_source=git)** | 1 Blue Bunny Drive, Le Mars, IA, 51031, US | On Site | Sep 25 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reserving Intern](https://jobright.ai/jobs/info/68d5cf2d2116ff37ee090725?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Discovery Event: Early Talent (Virtual) - Susquehanna International Group](https://jobright.ai/jobs/info/68d645f5894705799a2ea210?utm_campaign=1054&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 25 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68d5cdee2116ff37ee090636?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d5a2ab14935e31e231a72d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - HR Talent Acquisition - Summer 2026](https://jobright.ai/jobs/info/68d59ed163d77d6f6f3f111f?utm_campaign=1054&utm_source=git)** | Le Mars, IA | On Site | Sep 25 |
@@ -105,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d59cf763d77d6f6f3f0eb0?utm_campaign=1054&utm_source=git)** | Appleton-822 Comm | On Site | Sep 25 |
 | **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d5991514935e31e231a1e8?utm_campaign=1054&utm_source=git)** | Menasha, WI | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Sep 25 |
-| **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d593f939247e3c807ed142?utm_campaign=1054&utm_source=git)** | WI - Menasha | On Site | Sep 25 |
+| **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d5943f1f7fb2169ab11d79?utm_campaign=1054&utm_source=git)** | WI - Menasha | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - HR Talent Acquisition - Summer 2026](https://jobright.ai/jobs/info/68d5934d63d77d6f6f3f03f2?utm_campaign=1054&utm_source=git)** | 4501 Southern Hills Drive, Sioux City, IA, 51106, US | On Site | Sep 25 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Co-Op, Talent Acquisition & Human Resources Assistant](https://jobright.ai/jobs/info/68d592f163d77d6f6f3f02f5?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Sep 25 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd3c001ad6b16f02896dbf?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Sep 25 |
@@ -122,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship Program - Carolinas Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f531f7fb2169ab10a33?utm_campaign=1054&utm_source=git)** | NC_Asheville_219151 | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Bay Area, CA 2025 – 2026](https://jobright.ai/jobs/info/68d57f4b1f7fb2169ab10a2b?utm_campaign=1054&utm_source=git)** | CA_San Francisco_215109 | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Southern California Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f3863d77d6f6f3ef4cd?utm_campaign=1054&utm_source=git)** | CA_Los Angeles_213084 | On Site | Sep 25 |
-| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f381f7fb2169ab10a06?utm_campaign=1054&utm_source=git)** | AZ_Phoenix_Office | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f3839247e3c807ebd9f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
+| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f381f7fb2169ab10a06?utm_campaign=1054&utm_source=git)** | AZ_Phoenix_Office | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Midwest Region 2025 – 2026](https://jobright.ai/jobs/info/68d57ee51f7fb2169ab10993?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Carolinas Region 2025 – 2026](https://jobright.ai/jobs/info/68d57e5e39247e3c807ebb34?utm_campaign=1054&utm_source=git)** | Harleyville, SC | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Georgia and Florida Region 2025 – 2026](https://jobright.ai/jobs/info/68d57e5539247e3c807ebb26?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Marsh McLennan Apprenticeship Exploration Day](https://jobright.ai/jobs/info/68d51d7824b1ee4c7b663f97?utm_campaign=1054&utm_source=git)** | Worcester - Acorn | Hybrid | Sep 25 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[2025-2026 International Trainee Hotel Operations Internship](https://jobright.ai/jobs/info/68d53b7839247e3c807e94f3?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Sep 25 |
 | **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/68d5115824b1ee4c7b663a04?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Sep 25 |
-| **[AUTOKINITON](https://www.autokiniton.com)** | **[Human Resource Internship (Summer 2026)](https://jobright.ai/jobs/info/68d50fd4e678d65ec7d8ad95?utm_campaign=1054&utm_source=git)** | Romulus, MI | On Site | Sep 25 |
-| **[Southeastern Grocers](http://www.segrocers.com/)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68b897fe07090163b6ba3405?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Sep 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68b9230e5b42bc456282ad9e?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
-| **[Kearney & Company](http://www.kearneyco.com)** | **[Summer 2026 Internship Program - IT Audit Internship](https://jobright.ai/jobs/info/687ed58b764c3d7411c46922?utm_campaign=1054&utm_source=git)** | Alexandria, VA | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
