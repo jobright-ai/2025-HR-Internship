@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Human Resources Intern - Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/68d698f2d3fe025a3015aa41?utm_campaign=1054&utm_source=git)** | USA - NJ - Camden | On Site | Sep 26 |
+| **[KIPP St. Louis](https://www.kippstl.org)** | **[HR/Talent Intern - Immediate (In person)](https://jobright.ai/jobs/info/68d68c1345853d0e39cc8304?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Sep 26 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/68d67671d3fe025a3015a027?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Sep 26 |
 | **[xmstart, inc](http://xmstart.com)** | **[Talent Pool](https://jobright.ai/jobs/info/68d67585d3fe025a30159fc3?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 26 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[ITW](http://www.itw.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d59cf763d77d6f6f3f0eb0?utm_campaign=1054&utm_source=git)** | Appleton-822 Comm | On Site | Sep 25 |
 | **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d5991514935e31e231a1e8?utm_campaign=1054&utm_source=git)** | Menasha, WI | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Sep 25 |
-| **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d593f939247e3c807ed142?utm_campaign=1054&utm_source=git)** | WI - Menasha | On Site | Sep 25 |
+| **[FTI](http://www.faithtechinc.com)** | **[Human Resources Internship- Summer 2026](https://jobright.ai/jobs/info/68d5943f1f7fb2169ab11d79?utm_campaign=1054&utm_source=git)** | WI - Menasha | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - HR Talent Acquisition - Summer 2026](https://jobright.ai/jobs/info/68d5934d63d77d6f6f3f03f2?utm_campaign=1054&utm_source=git)** | 4501 Southern Hills Drive, Sioux City, IA, 51106, US | On Site | Sep 25 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Co-Op, Talent Acquisition & Human Resources Assistant](https://jobright.ai/jobs/info/68d592f163d77d6f6f3f02f5?utm_campaign=1054&utm_source=git)** | Boston, MA, US | On Site | Sep 25 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd3c001ad6b16f02896dbf?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Sep 25 |
@@ -134,9 +136,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Internship Program - Midwest Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f5539247e3c807ebdff?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Carolinas Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f531f7fb2169ab10a33?utm_campaign=1054&utm_source=git)** | NC_Asheville_219151 | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Bay Area, CA 2025 – 2026](https://jobright.ai/jobs/info/68d57f4b1f7fb2169ab10a2b?utm_campaign=1054&utm_source=git)** | CA_San Francisco_215109 | On Site | Sep 25 |
-| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f381f7fb2169ab10a06?utm_campaign=1054&utm_source=git)** | AZ_Phoenix_Office | On Site | Sep 25 |
-| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f3839247e3c807ebd9f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Southern California Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f3863d77d6f6f3ef4cd?utm_campaign=1054&utm_source=git)** | CA_Los Angeles_213084 | On Site | Sep 25 |
+| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f3839247e3c807ebd9f?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
+| ↳ | **[Safety Internship Program - Gulf Region 2025 – 2026](https://jobright.ai/jobs/info/68d57f381f7fb2169ab10a06?utm_campaign=1054&utm_source=git)** | AZ_Phoenix_Office | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Midwest Region 2025 – 2026](https://jobright.ai/jobs/info/68d57ee51f7fb2169ab10993?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Carolinas Region 2025 – 2026](https://jobright.ai/jobs/info/68d57e5e39247e3c807ebb34?utm_campaign=1054&utm_source=git)** | Harleyville, SC | On Site | Sep 25 |
 | ↳ | **[Safety Internship Program - Georgia and Florida Region 2025 – 2026](https://jobright.ai/jobs/info/68d57e5539247e3c807ebb26?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MultiCare Health System](http://www.multicare.org)** | **[College Job Shadows - Puget Sound Region](https://jobright.ai/jobs/info/682b71252a1c8d118fea3124?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Sep 25 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689bb405faa4e875e8262bf7?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Sep 25 |
 | **[Samba TV](http://www.samba.tv)** | **[People Operations Intern](https://jobright.ai/jobs/info/689b93e283d13d1f5b6a1490?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d553e21f7fb2169ab0efd2?utm_campaign=1054&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 25 |
-| **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
