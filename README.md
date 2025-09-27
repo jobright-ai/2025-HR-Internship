@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d7419e894705799a2f19c5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Knowledge Management QC Onboarding Co-op (Jun- Dec)](https://jobright.ai/jobs/info/68d75a9d7a37c712687c984d?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Sep 26 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d75016cb1d8e52c9766fd9?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d73e75d3fe025a3015fc6c?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Sep 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d73456d3fe025a3015f880?utm_campaign=1054&utm_source=git)** | Pendergrass, Georgia, USA | On Site | Sep 26 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7344b894705799a2f14f9?utm_campaign=1054&utm_source=git)** | Stone Mountain, Georgia, USA | On Site | Sep 26 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Sep 26 |
 | **[North Central Mental Health Services, Inc.](https://www.ncmhs.org)** | **[Paid Human Resources Internship](https://jobright.ai/jobs/info/68d72409894705799a2f0ed1?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
 | **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d712e045853d0e39cccb07?utm_campaign=1054&utm_source=git)** | Ogden, UT, United States | On Site | Sep 26 |
+| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68d70dd045853d0e39ccc853?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 26 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70dac45853d0e39ccc82c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d708c6894705799a2f0043?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 26 |
 | **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d706f7d3fe025a3015e40f?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[LandCare LLC](http://www.landcare.com)** | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6cb2445853d0e39cca06c?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 26 |
 | ↳ | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6cacb45853d0e39cca01d?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Sep 26 |
 | ↳ | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6ca15d3fe025a3015c0c2?utm_campaign=1054&utm_source=git)** | Dulles Town Center, VA | On Site | Sep 26 |
-| **[Donnelly-Boland and Associates](http://donnelly-boland.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6c99f45853d0e39cc9f24?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Sep 26 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Talent and Technology Internships - Summer 2026](https://jobright.ai/jobs/info/68d6c5a6d3fe025a3015bf6a?utm_campaign=1054&utm_source=git)** | Fort Collins - Lincoln Campus HQ | On Site | Sep 26 |
 | **[Prosek Partners](http://www.prosek.com/)** | **[Intern, Human Resources Employee Experience](https://jobright.ai/jobs/info/68d6c3c6894705799a2ed999?utm_campaign=1054&utm_source=git)** | New York City | On Site | Sep 26 |
 | ↳ | **[Intern, Human Resources Employee Experience](https://jobright.ai/jobs/info/68d6c355894705799a2ed8e1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[College Recruitment Internship/CO-OP Opportunities (2026)](https://jobright.ai/jobs/info/68653ac8058af3cde128e83a?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Sep 26 |
 | **[Chenega Security SBU](http://chenegasecurity.com)** | **[Skillbridge Intern](https://jobright.ai/jobs/info/68d67671d3fe025a3015a027?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Sep 26 |
 | **[xmstart, inc](http://xmstart.com)** | **[Talent Pool](https://jobright.ai/jobs/info/68d67585d3fe025a30159fc3?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 26 |
-| **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68d671cb894705799a2eba58?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Sep 26 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68b9cdb48043103d4f21a8cb?utm_campaign=1054&utm_source=git)** | Zeeland, MI | On Site | Sep 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Employee Experience Internship - Boston - Summer 2026](https://jobright.ai/jobs/info/68c64e0b7d0db411427382e7?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9c5778043103d4f21a33e?utm_campaign=1054&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Sep 26 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Miura Creative](https://miuracreative.com/)** | **[Assistant/Intern position](https://jobright.ai/jobs/info/68d692e4d3fe025a3015a83e?utm_campaign=1054&utm_source=git)** | Gilbert, AZ | On Site | Sep 25 |
 | **[Haley & Aldrich](http://www.haleyaldrich.com)** | **[Co-Op, Talent Acquisition & Human Resources Assistant](https://jobright.ai/jobs/info/68d5f30463d77d6f6f3f3637?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | **[MPR Associates, Inc.](http://www.mpr.com/)** | **[Human Resources Intern: Talent Acquisition](https://jobright.ai/jobs/info/68d62604ebcef82ef5cf6ca0?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Sep 25 |
+| **[Picarro](http://www.picarro.com)** | **[HR Intern](https://jobright.ai/jobs/info/68c7c5f05c38e536d41a6b66?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Sep 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d6130a63d77d6f6f3f4415?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Sep 25 |
 | ↳ | **[Spring 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/68d607ec63d77d6f6f3f3e84?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Sep 25 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[Recruiter Trainee](https://jobright.ai/jobs/info/68d612d52116ff37ee0925c7?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68d5e6012116ff37ee09115b?utm_campaign=1054&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Sep 25 |
 | ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68d5e5e01f7fb2169ab14895?utm_campaign=1054&utm_source=git)** | New York - 1166 | Hybrid | Sep 25 |
 | ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68d5e5c163d77d6f6f3f3027?utm_campaign=1054&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Sep 25 |
-| **[Mercer Company](https://mercer-company.com/)** | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68d5e4d91f7fb2169ab14773?utm_campaign=1054&utm_source=git)** | Chicago - 155 Wacker | Hybrid | Sep 25 |
-| ↳ | **[Mercer Marsh Benefits Summer Intern - College Program 2026](https://jobright.ai/jobs/info/68d5e34163d77d6f6f3f2e7c?utm_campaign=1054&utm_source=git)** | New York - 1166 | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
