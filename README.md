@@ -58,11 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d97541022fc803b48772a8?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 28 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be95?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[HR Intern](https://jobright.ai/jobs/info/68d9310e061b716fa295a078?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68d92803061b716fa2959f27?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68d905d3061b716fa2959d90?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Sep 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Director of Human Resources FT – 6375](https://jobright.ai/jobs/info/68d849aa295f8e37655e6b4a?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Sep 27 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68c81b22983e6768bc549b1b?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Sep 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Mason, OH)](https://jobright.ai/jobs/info/68bb47876105227d118a4d2e?utm_campaign=1054&utm_source=git)** | Mason, OH | On Site | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb40a25f3832749186dbc7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 27 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a583295f8e37655dfeff?utm_campaign=1054&utm_source=git)** | Pendergrass, GA | On Site | Sep 27 |
 | **[Code Red Consultants](https://coderedconsultants.com)** | **[Emerging Talent Winternship - January 2026](https://jobright.ai/jobs/info/68d79a457a37c712687d2892?utm_campaign=1054&utm_source=git)** | Southborough, MA | On Site | Sep 27 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d7949c7a37c712687d1d80?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 27 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68d7943b267b154f9a2dd4a7?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Sep 27 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68d7947d7a37c712687d1d31?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Sep 27 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[General Human Resources 2 Intern PRN](https://jobright.ai/jobs/info/68d8d881022fc803b487523e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 26 |
 | **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68d7671461a175619f8cbb16?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Sep 26 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68d763b57a37c712687cb23a?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 26 |
@@ -118,10 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, New York - USA, 2026](https://jobright.ai/jobs/info/68d70dac45853d0e39ccc82c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/68c7c430f42a830e1c7e7a09?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 26 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d708c6894705799a2f0043?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 26 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d706f7d3fe025a3015e40f?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d702dd894705799a2efce5?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Sep 26 |
 | **[United Language Group](http://unitedlanguagegroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d7029d894705799a2efc6e?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Sep 26 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d7008545853d0e39ccbe6c?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
-| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d6ffca45853d0e39ccbd35?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 26 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d6ffca45853d0e39ccbd35?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6ff8e894705799a2ef93e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale | On Site | Sep 26 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6feff894705799a2ef8b1?utm_campaign=1054&utm_source=git)** | Miami | On Site | Sep 26 |
 | ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6fe96d3fe025a3015dbc4?utm_campaign=1054&utm_source=git)** | West Palm Beach | On Site | Sep 26 |
@@ -146,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[LandCare LLC](http://www.landcare.com)** | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6cb2445853d0e39cca06c?utm_campaign=1054&utm_source=git)** | Frederick, MD | On Site | Sep 26 |
 | ↳ | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6cacb45853d0e39cca01d?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Sep 26 |
 | ↳ | **[VA Tech- Fall 2025 Connection Job Fair](https://jobright.ai/jobs/info/68d6ca15d3fe025a3015c0c2?utm_campaign=1054&utm_source=git)** | Dulles Town Center, VA | On Site | Sep 26 |
+| **[Merchants Bank IN](http://bankmerchants.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68b9c9d36105227d11897bf7?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 26 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Talent and Technology Internships - Summer 2026](https://jobright.ai/jobs/info/68d6c5a6d3fe025a3015bf6a?utm_campaign=1054&utm_source=git)** | Fort Collins - Lincoln Campus HQ | On Site | Sep 26 |
 | **[Prosek Partners](http://www.prosek.com/)** | **[Intern, Human Resources Employee Experience](https://jobright.ai/jobs/info/68d6c3c6894705799a2ed999?utm_campaign=1054&utm_source=git)** | New York City | On Site | Sep 26 |
 | ↳ | **[Intern, Human Resources Employee Experience](https://jobright.ai/jobs/info/68d6c355894705799a2ed8e1?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Human Resources Intern - Hanover, PA - Summer 2026](https://jobright.ai/jobs/info/68d6b85b894705799a2ed4af?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Sep 26 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d6b49ad3fe025a3015b609?utm_campaign=1054&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 26 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Human Resources Intern - Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/68d6b44ad3fe025a3015b581?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Sep 26 |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Internship](https://jobright.ai/jobs/info/68d6b38cd3fe025a3015b4a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 26 |
-| **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/68d6abf6894705799a2ecc5f?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Sep 26 |
-| **[OHSU School of Dentistry](https://ohsu.edu/sod)** | **[HR Coordinator (Non OHSU Student Worker)](https://jobright.ai/jobs/info/68d6a031d3fe025a3015acb5?utm_campaign=1054&utm_source=git)** | US-OR-Portland | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
