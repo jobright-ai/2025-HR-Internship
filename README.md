@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68d92803061b716fa2959f27?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Radius Packaging ](https://radiuspkg.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/68d905d3061b716fa2959d90?utm_campaign=1054&utm_source=git)** | New Berlin, WI | On Site | Sep 28 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Director of Human Resources FT – 6375](https://jobright.ai/jobs/info/68d849aa295f8e37655e6b4a?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Sep 27 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68c81b22983e6768bc549b1b?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Sep 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[HR Business Partner Intern (Mason, OH)](https://jobright.ai/jobs/info/68bb47876105227d118a4d2e?utm_campaign=1054&utm_source=git)** | Mason, OH | On Site | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb40a25f3832749186dbc7?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 27 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Sep 27 |
@@ -92,7 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a583295f8e37655dfeff?utm_campaign=1054&utm_source=git)** | Pendergrass, GA | On Site | Sep 27 |
 | **[Code Red Consultants](https://coderedconsultants.com)** | **[Emerging Talent Winternship - January 2026](https://jobright.ai/jobs/info/68d79a457a37c712687d2892?utm_campaign=1054&utm_source=git)** | Southborough, MA | On Site | Sep 27 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68d7949c7a37c712687d1d80?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Sep 27 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68d7947d7a37c712687d1d31?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Sep 27 |
+| ↳ | **[HR Intern](https://jobright.ai/jobs/info/68d7943b267b154f9a2dd4a7?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Sep 27 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[General Human Resources 2 Intern PRN](https://jobright.ai/jobs/info/68d8d881022fc803b487523e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Sep 26 |
 | **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68d7671461a175619f8cbb16?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Sep 26 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68d763b57a37c712687cb23a?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OHSU School of Dentistry](https://ohsu.edu/sod)** | **[HR Coordinator (Non OHSU Student Worker)](https://jobright.ai/jobs/info/68d6a031d3fe025a3015acb5?utm_campaign=1054&utm_source=git)** | US-OR-Portland | On Site | Sep 26 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Human Resources Intern - Hanover, PA - Summer 2026](https://jobright.ai/jobs/info/68d699f0894705799a2ec50e?utm_campaign=1054&utm_source=git)** | USA - NJ - Camden | On Site | Sep 26 |
 | ↳ | **[Supply Chain Human Resources Intern - Napoleon, OH - Summer 2026](https://jobright.ai/jobs/info/68d698f2d3fe025a3015aa41?utm_campaign=1054&utm_source=git)** | USA - NJ - Camden | On Site | Sep 26 |
-| **[Clarion Psychiatric Center](https://clarioncenter.com/)** | **[Internship / Clinical Rotation Opportunity](https://jobright.ai/jobs/info/68d6cb7ad3fe025a3015c1e3?utm_campaign=1054&utm_source=git)** | Clarion, PA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
