@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Human Resources Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68dac60907c157682e56d40b?utm_campaign=1054&utm_source=git)** | HNC32: US096-Winston-Salem (Oak Plaza 190 Oak Plaza Boulevard  , Winston-Salem, NC, 27105 USA | On Site | Sep 29 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dac0c36df7b8311bb11b77?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Sep 29 |
+| **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern – Part Time – Bilingual (Eng/Mandarin)](https://jobright.ai/jobs/info/68dabd1c6df7b8311bb11a14?utm_campaign=1054&utm_source=git)** | Beverly, NJ | On Site | Sep 29 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68dab6e66df7b8311bb11711?utm_campaign=1054&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Sep 29 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dab6946df7b8311bb11636?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
+| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/68daacca6df7b8311bb10ea5?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Sep 29 |
+| **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Human Resources](https://jobright.ai/jobs/info/68daac2a07c157682e56c3c7?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[DivIHN Integration Inc](http://divihn.com)** | **[HR Data Analyst](https://jobright.ai/jobs/info/68daa8c66df7b8311bb10b96?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Sep 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Knowledge Management QC Onboarding Co-op (Jun- Dec)](https://jobright.ai/jobs/info/68da9bb607c157682e56b579?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
 | ↳ | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68da9bb20b832179ca4aeb31?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
@@ -71,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 28 |
 | **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d97541022fc803b48772a8?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6f9faa4e875e828be95?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68a0ca5acc9ee94dc9120885?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Sep 28 |
 | **[Conair LLC](http://www.conair.com/)** | **[Join our Talent Community](https://jobright.ai/jobs/info/68cd7878b2a74e1837ed7371?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Sep 28 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68d92803061b716fa2959f27?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
@@ -133,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7344b894705799a2f14f9?utm_campaign=1054&utm_source=git)** | Stone Mountain, Georgia, USA | On Site | Sep 26 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d733d0894705799a2f1478?utm_campaign=1054&utm_source=git)** | Manteca, California, USA | On Site | Sep 26 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7333445853d0e39ccd7bd?utm_campaign=1054&utm_source=git)** | Greenwood, Indiana, USA | On Site | Sep 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Sep 26 |
-| ↳ | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68cf6b49fb49c96ca6ea8661?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Sep 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68cf6b49fb49c96ca6ea8661?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Sep 26 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Sep 26 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Sep 26 |
 | ↳ | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Sep 26 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program -  Global Safety & Environment - Intern](https://jobright.ai/jobs/info/68ba3b245f38327491865507?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Sep 26 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/68c7c430f42a830e1c7e7a09?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 26 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/689e36ccfaa4e875e827812e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d708c6894705799a2f0043?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 26 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d706f7d3fe025a3015e40f?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d702dd894705799a2efce5?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Sep 26 |
-| **[United Language Group](http://unitedlanguagegroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d7029d894705799a2efc6e?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Sep 26 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d7008545853d0e39ccbe6c?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
-| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d6ffca45853d0e39ccbd35?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 26 |
-| **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6ff8e894705799a2ef93e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale | On Site | Sep 26 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Development Intern - Year Round](https://jobright.ai/jobs/info/68acf630d627244576e4a33f?utm_campaign=1054&utm_source=git)** | Saukville, WI | Hybrid | Sep 26 |
-| **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6feff894705799a2ef8b1?utm_campaign=1054&utm_source=git)** | Miami | On Site | Sep 26 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6fe96d3fe025a3015dbc4?utm_campaign=1054&utm_source=git)** | West Palm Beach | On Site | Sep 26 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6fe5945853d0e39ccbb79?utm_campaign=1054&utm_source=git)** | Boca Raton | On Site | Sep 26 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9d0476105227d11897fd8?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
