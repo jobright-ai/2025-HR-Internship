@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[California Giant Berry Farms ](https://www.calgiant.com/)** | **[Internships](https://jobright.ai/jobs/info/68da6e7c6df7b8311bb0edd0?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Sep 29 |
+| **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Internship](https://jobright.ai/jobs/info/68da8c4607c157682e56ae2b?utm_campaign=1054&utm_source=git)** | Fort Collins Area | Hybrid | Sep 29 |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68da891e07c157682e56ac4b?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 29 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Los Angeles, CA](https://jobright.ai/jobs/info/68da38366df7b8311bb0ddc9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[City of Chico](https://chico.ca.us/)** | **[Intern - Human Resources and Risk Mangement](https://jobright.ai/jobs/info/68da2bf96df7b8311bb0cdf8?utm_campaign=1054&utm_source=git)** | Chico, CA | On Site | Sep 28 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 28 |
 | **[Telix Pharmaceuticals Limited](http://www.telixpharma.com)** | **[Telix Talent Pool (Americas)](https://jobright.ai/jobs/info/68da1dbd0b832179ca4ab2e3?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 28 |
@@ -141,10 +141,10 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - IT Emerging Talent Summer Intern Program (Hybrid)](https://jobright.ai/jobs/info/68c7c430f42a830e1c7e7a09?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Sep 26 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/689e36ccfaa4e875e827812e?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d708c6894705799a2f0043?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 26 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d706f7d3fe025a3015e40f?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d702dd894705799a2efce5?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Sep 26 |
 | **[United Language Group](http://unitedlanguagegroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d7029d894705799a2efc6e?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Sep 26 |
-| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d6ffca45853d0e39ccbd35?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 26 |
+| **[IDEA Public Schools](https://www.ideapublicschools.org/)** | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d7008545853d0e39ccbe6c?utm_campaign=1054&utm_source=git)** | Hidalgo County, TX | Remote | Sep 26 |
+| ↳ | **[Intern - Alumni Relationship Coordinator (Immediate Opening)](https://jobright.ai/jobs/info/68d6ffca45853d0e39ccbd35?utm_campaign=1054&utm_source=git)** | Weslaco, TX | Remote | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6ff8e894705799a2ef93e?utm_campaign=1054&utm_source=git)** | Fort Lauderdale | On Site | Sep 26 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Development Intern - Year Round](https://jobright.ai/jobs/info/68acf630d627244576e4a33f?utm_campaign=1054&utm_source=git)** | Saukville, WI | Hybrid | Sep 26 |
 | **[Berkowitz Pollack Brant Advisors + CPAs](http://bpbcpa.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68d6feff894705799a2ef8b1?utm_campaign=1054&utm_source=git)** | Miami | On Site | Sep 26 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68b9d0476105227d11897fd8?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Sep 26 |
 | **[Verdantas](https://www.verdantas.com)** | **[Summer Internship 2026 (Career Fair Applicants)](https://jobright.ai/jobs/info/68d6f825d3fe025a3015d877?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | Hybrid | Sep 26 |
 | **[Pantex Plant](https://www.pantex.com)** | **[SkillBridge Military Intern](https://jobright.ai/jobs/info/68a2e367ff570d7ffd65e59d?utm_campaign=1054&utm_source=git)** | Amarillo, TX | Hybrid | Sep 26 |
+| **[Propio Language Services](http://propio-ls.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d6f2ee45853d0e39ccb36d?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Sep 26 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Paid Internship](https://jobright.ai/jobs/info/68b9ebb18043103d4f21bdb1?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Sep 26 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Part-Time Human Resource Intern (Spring Internship 2/23/2026-5/1/2026)](https://jobright.ai/jobs/info/68d6effbd3fe025a3015d381?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX Corporation Internship Program - Los Angeles, CA](https://jobright.ai/jobs/info/68d6efbed3fe025a3015d346?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
-| **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/68bf2e53702aa35207aa3f38?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
