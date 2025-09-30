@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op - Human Resources (Spring 2026)](https://jobright.ai/jobs/info/68dbab96aa5f2e0e3c2f6070?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Sep 30 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68dbab7daa5f2e0e3c2f603f?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Sep 30 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Midwest - Summer 2026](https://jobright.ai/jobs/info/68ce71eb846f0b04af679fce?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
+| **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern/Co-op 2026 - HR Program](https://jobright.ai/jobs/info/68bf88595c5d5f14f46d7c85?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Sep 30 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - Corpus Christi](https://jobright.ai/jobs/info/68db8db734f2c406da6d9841?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Sep 30 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db867a34f2c406da6d9137?utm_campaign=1054&utm_source=git)** | West Sacramento, CA | On Site | Sep 30 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db86dbe19b9e63ba20d12e?utm_campaign=1054&utm_source=git)** | West Sacramento, CA | On Site | Sep 30 |
 | **[Georgia Transmission](http://gatrans.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68db7bd534f2c406da6d8826?utm_campaign=1054&utm_source=git)** | Tucker,GA,US | On Site | Sep 29 |
 | **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db78de34f2c406da6d87b2?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db684ae19b9e63ba20bd5e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 29 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Apprenticeship Networks, Applicant Outreach and Event Coordination Intern, Start Date January 2026](https://jobright.ai/jobs/info/68db2b5ce9b48513789b25be?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Bubble](https://hellobubble.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68db2a3d6df7b8311bb16878?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter](https://jobright.ai/jobs/info/68db29900dffed6f83d2cd1d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 29 |
+| **[Georgia Transmission](http://gatrans.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68dba4adaa5f2e0e3c2f4d7b?utm_campaign=1054&utm_source=git)** | Tucker, GA | On Site | Sep 29 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68db0fa86df7b8311bb15d95?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Sep 29 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Human Resources Assistant (Student Position)](https://jobright.ai/jobs/info/68db0f596df7b8311bb15c7d?utm_campaign=1054&utm_source=git)** | Big Rapids, MI | On Site | Sep 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0cc1e9b48513789b183c?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Sep 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dab6946df7b8311bb11636?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db590034f2c406da6d7250?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 29 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Human Resources](https://jobright.ai/jobs/info/68be9ddc3d31ec76b7e8b213?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Sep 29 |
-| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/68daacca6df7b8311bb10ea5?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Sep 29 |
-| **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Human Resources](https://jobright.ai/jobs/info/68daac2a07c157682e56c3c7?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
-| **[DivIHN Integration Inc](http://divihn.com)** | **[HR Data Analyst](https://jobright.ai/jobs/info/68daa8c66df7b8311bb10b96?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Sep 29 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Knowledge Management QC Onboarding Co-op (Jun- Dec)](https://jobright.ai/jobs/info/68da9bb607c157682e56b579?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
-| ↳ | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68da9bb20b832179ca4aeb31?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
