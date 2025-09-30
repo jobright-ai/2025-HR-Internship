@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db684ae19b9e63ba20bd5e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 29 |
+| **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Outpatient Mental Health RMHCI RCSWI RMFTI](https://jobright.ai/jobs/info/68db5c2534f2c406da6d72b2?utm_campaign=1054&utm_source=git)** | Ponte Vedra, FL | On Site | Sep 29 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db5c16e19b9e63ba20b36c?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Sep 29 |
+| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Associate, Tampa - USA, 2026](https://jobright.ai/jobs/info/68db54e434f2c406da6d6d1d?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Sep 29 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68db50c99f13662d20e49dff?utm_campaign=1054&utm_source=git)** | Plymouth, WI | On Site | Sep 29 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Learning Enablement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68db50729f13662d20e49c77?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Sep 29 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[Recruiting / Human Resources Intern](https://jobright.ai/jobs/info/68db439be19b9e63ba209bef?utm_campaign=1054&utm_source=git)** | Louisville, Kentucky | On Site | Sep 29 |
@@ -64,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2025 Management Trainee Intern - Albany, New York](https://jobright.ai/jobs/info/68db381634f2c406da6d56d9?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2025 Management Trainee Intern - Schenectady New York](https://jobright.ai/jobs/info/68db37fce19b9e63ba20966c?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Washington DC](https://jobright.ai/jobs/info/68db345f9f13662d20e48851?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Sep 29 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db345c9f13662d20e48848?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 29 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db30df6df7b8311bb16b3b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 29 |
 | **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Apprenticeship Networks, Applicant Outreach and Event Coordination Intern, Start Date January 2026](https://jobright.ai/jobs/info/68db2b5ce9b48513789b25be?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Bubble](https://hellobubble.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68db2a3d6df7b8311bb16878?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter](https://jobright.ai/jobs/info/68db29900dffed6f83d2cd1d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Sep 29 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Human Resources Assistant (Student Position)](https://jobright.ai/jobs/info/68db0f596df7b8311bb15c7d?utm_campaign=1054&utm_source=git)** | Big Rapids, MI | On Site | Sep 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0cc1e9b48513789b183c?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Sep 29 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0ca5e9b48513789b1806?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Sep 29 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Sep 29 |
 | **[Flagger Force](http://flaggerforce.com)** | **[Field Recruiting Intern](https://jobright.ai/jobs/info/68db0823e9b48513789b14e6?utm_campaign=1054&utm_source=git)** | Hummelstown, PA | On Site | Sep 29 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation Incentive - EDRP Approved](https://jobright.ai/jobs/info/68db07db0dffed6f83d2c036?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Sep 29 |
@@ -102,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Northern Trust](http://www.northerntrust.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dae6f96df7b8311bb13fa5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[People Development Group (Training) Intern](https://jobright.ai/jobs/info/68dae6aa0dffed6f83d2a4c3?utm_campaign=1054&utm_source=git)** | US-Remote | Remote | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[GRC Analyst , Co-Op](https://jobright.ai/jobs/info/68dae33d0b832179ca4b283f?utm_campaign=1054&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 29 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dae2ba6df7b8311bb13bfb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dae3090b832179ca4b2737?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[GRC Analyst, Co-Op](https://jobright.ai/jobs/info/68dae2926df7b8311bb13b53?utm_campaign=1054&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 29 |
 | **[Flagger Force](http://flaggerforce.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68dae27807c157682e56ef38?utm_campaign=1054&utm_source=git)** | US-PA-Hummelstown | On Site | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[GRC Analyst , Co-Op](https://jobright.ai/jobs/info/68dae2726df7b8311bb13aab?utm_campaign=1054&utm_source=git)** | Clifton, New Jersey | On Site | Sep 29 |
@@ -140,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[JD.COM](http://corporate.jd.com)** | **[Talent Acquisition Intern – Part Time – Bilingual (Eng/Mandarin)](https://jobright.ai/jobs/info/68dabd1c6df7b8311bb11a14?utm_campaign=1054&utm_source=git)** | Beverly, NJ | On Site | Sep 29 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68dab6e66df7b8311bb11711?utm_campaign=1054&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Sep 29 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dab6946df7b8311bb11636?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
+| **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db590034f2c406da6d7250?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 29 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/68daacca6df7b8311bb10ea5?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Sep 29 |
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Human Resources](https://jobright.ai/jobs/info/68daac2a07c157682e56c3c7?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[DivIHN Integration Inc](http://divihn.com)** | **[HR Data Analyst](https://jobright.ai/jobs/info/68daa8c66df7b8311bb10b96?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Sep 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Internship](https://jobright.ai/jobs/info/68da8c4607c157682e56ae2b?utm_campaign=1054&utm_source=git)** | Fort Collins Area | Hybrid | Sep 29 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68da891e07c157682e56ac4b?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 29 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdd134c4c5904ff6004304?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[DoD SkillBridge Internship Application (Missouri)](https://jobright.ai/jobs/info/682d4a56b3cea0fb949fcf6e?utm_campaign=1054&utm_source=git)** | Lees Summit, MO | On Site | Sep 29 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| ↳ | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX Corporation Internship Program - Los Angeles, CA](https://jobright.ai/jobs/info/68da38366df7b8311bb0ddc9?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Sep 29 |
-| **[CNO Financial Group](http://www.cnoinc.com)** | **[Benefits, Wellness and People Focus Intern – Summer 2026](https://jobright.ai/jobs/info/68adc312d627244576e4eb80?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Sep 29 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
