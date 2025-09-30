@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - Corpus Christi](https://jobright.ai/jobs/info/68db8db734f2c406da6d9841?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Sep 30 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db867a34f2c406da6d9137?utm_campaign=1054&utm_source=git)** | West Sacramento, CA | On Site | Sep 30 |
 | **[Georgia Transmission](http://gatrans.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68db7bd534f2c406da6d8826?utm_campaign=1054&utm_source=git)** | Tucker,GA,US | On Site | Sep 29 |
-| **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db785634f2c406da6d8654?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
+| **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db78de34f2c406da6d87b2?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db684ae19b9e63ba20bd5e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Outpatient Mental Health RMHCI RCSWI RMFTI](https://jobright.ai/jobs/info/68db5c2534f2c406da6d72b2?utm_campaign=1054&utm_source=git)** | Ponte Vedra, FL | On Site | Sep 29 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db5c16e19b9e63ba20b36c?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Sep 29 |
@@ -116,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[GRC Analyst , Co-Op](https://jobright.ai/jobs/info/68dae2726df7b8311bb13aab?utm_campaign=1054&utm_source=git)** | Clifton, New Jersey | On Site | Sep 29 |
 | ↳ | **[GRC Analyst , Co-Op](https://jobright.ai/jobs/info/68dae23307c157682e56ee04?utm_campaign=1054&utm_source=git)** | Atlanta, Georgia | On Site | Sep 29 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Human Resources Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/68dae2050b832179ca4b245a?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Sep 29 |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Payroll](https://jobright.ai/jobs/info/68cc83ef128dc347fd92612b?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Sep 29 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68dae1bc6df7b8311bb13903?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Sep 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Gainesville, FL](https://jobright.ai/jobs/info/68dae14d07c157682e56ec10?utm_campaign=1054&utm_source=git)** | Gainesville, FL | On Site | Sep 29 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68dadda507c157682e56eb5f?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Sep 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DivIHN Integration Inc](http://divihn.com)** | **[HR Data Analyst](https://jobright.ai/jobs/info/68daa8c66df7b8311bb10b96?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Sep 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Knowledge Management QC Onboarding Co-op (Jun- Dec)](https://jobright.ai/jobs/info/68da9bb607c157682e56b579?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
 | ↳ | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68da9bb20b832179ca4aeb31?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
-| **[Bain Capital](https://www.baincapital.com/)** | **[Intern](https://jobright.ai/jobs/info/68da988707c157682e56b459?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Sep 29 |
-| **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/68da97cf07c157682e56b38e?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
