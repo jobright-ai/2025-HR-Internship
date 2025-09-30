@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68db867a34f2c406da6d9137?utm_campaign=1054&utm_source=git)** | West Sacramento, CA | On Site | Sep 30 |
+| **[Georgia Transmission](http://gatrans.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68db7bd534f2c406da6d8826?utm_campaign=1054&utm_source=git)** | Tucker,GA,US | On Site | Sep 29 |
+| **[Weber County](https://webercountyutah.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db785634f2c406da6d8654?utm_campaign=1054&utm_source=git)** | Ogden, UT | On Site | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[HR Business Partner Project Intern (Global Business Solutions) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db684ae19b9e63ba20bd5e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Registered Intern Outpatient Mental Health RMHCI RCSWI RMFTI](https://jobright.ai/jobs/info/68db5c2534f2c406da6d72b2?utm_campaign=1054&utm_source=git)** | Ponte Vedra, FL | On Site | Sep 29 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db5c16e19b9e63ba20b36c?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Sep 29 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68dab6e66df7b8311bb11711?utm_campaign=1054&utm_source=git)** | Irving-Irving Corporate Office-3939 West John Carpenter Freeway | On Site | Sep 29 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dab6946df7b8311bb11636?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
 | **[Mahindra Ag North America](https://www.mahindrausa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db590034f2c406da6d7250?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Sep 29 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Human Resources](https://jobright.ai/jobs/info/68be9ddc3d31ec76b7e8b213?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Sep 29 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/68daacca6df7b8311bb10ea5?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Sep 29 |
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Human Resources](https://jobright.ai/jobs/info/68daac2a07c157682e56c3c7?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[DivIHN Integration Inc](http://divihn.com)** | **[HR Data Analyst](https://jobright.ai/jobs/info/68daa8c66df7b8311bb10b96?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Sep 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Knowledge Management QC Onboarding Co-op (Jan - Jun)](https://jobright.ai/jobs/info/68da9bb20b832179ca4aeb31?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Sep 29 |
 | **[Bain Capital](https://www.baincapital.com/)** | **[Intern](https://jobright.ai/jobs/info/68da988707c157682e56b459?utm_campaign=1054&utm_source=git)** | Boston | Hybrid | Sep 29 |
 | **[LB Foster](http://www.lbfoster.com/)** | **[Human Resources Intern (Remote)](https://jobright.ai/jobs/info/68da97cf07c157682e56b38e?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Sep 29 |
-| **[Terremoto Biosciences](https://terremotobio.com)** | **[Join Terremoto's Talent Network](https://jobright.ai/jobs/info/6830bd57a0916eec299da943?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Sep 29 |
-| **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[HR Internship](https://jobright.ai/jobs/info/68da8c4607c157682e56ae2b?utm_campaign=1054&utm_source=git)** | Fort Collins Area | Hybrid | Sep 29 |
-| **[Best Job Tool](https://www.bestjobtool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68da891e07c157682e56ac4b?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Sep 29 |
-| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Total Rewards Intern](https://jobright.ai/jobs/info/68bdd134c4c5904ff6004304?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
