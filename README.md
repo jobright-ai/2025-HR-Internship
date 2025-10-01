@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olin](http://www.olin.com/)** | **[HR Total Rewards Intern - 2026](https://jobright.ai/jobs/info/68dd008d44d32141e0bf39b6?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Oct 01 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68dd007d44d32141e0bf3998?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
+| **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcfc9a44d32141e0bf38b0?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Oct 01 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[Field Internship - Industrial Services (Summer 2026)](https://jobright.ai/jobs/info/68dcfc3b44d32141e0bf3758?utm_campaign=1054&utm_source=git)** | Deer Park, TX | On Site | Oct 01 |
+| **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcfb4344d32141e0bf34f7?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Oct 01 |
+| **[Barclays](https://home.barclays)** | **[2025 Empowering Leadership Fellowship](https://jobright.ai/jobs/info/68dcfa02a125e75c422a7852?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
+| **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcf999ddc10244dd67c0bd?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Oct 01 |
 | **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68dcf207a125e75c422a6e18?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68dce436ddc10244dd67b5c5?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Oct 01 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68dcd9eba125e75c422a5fa5?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68dcd9d9accfd24b67e5ac6c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[HR Analyst Summer Internship - 2026 [New York]](https://jobright.ai/jobs/info/68dc9419ddc10244dd676f92?utm_campaign=1054&utm_source=git)** | New York | On Site | Sep 30 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern- HR AI Data Science (January 2026)](https://jobright.ai/jobs/info/68dc8b0ba125e75c422a1bcf?utm_campaign=1054&utm_source=git)** | United States of America, Texas, Austin | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[HR Operations - Talent Acquisition Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc86aaa125e75c422a196c?utm_campaign=1054&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
@@ -115,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/68dbaec36f6c5c3fadf2eb1f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 30 |
 | **[Georgia Transmission](http://gatrans.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68dc8b70a125e75c422a1d41?utm_campaign=1054&utm_source=git)** | Tucker,GA,US | On Site | Sep 29 |
 | ↳ | **[Intern Human Resources](https://jobright.ai/jobs/info/68dcb0d8accfd24b67e58c1e?utm_campaign=1054&utm_source=git)** | Tucker, GA | On Site | Sep 29 |
-| **[Orano USA](https://www.orano.group/usa)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dca2c0ddc10244dd677bcb?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Sep 29 |
+| **[Orano USA](https://www.orano.group/usa)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dca2ddaccfd24b67e57df8?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Sep 29 |
 | **[Lake Lawn Resort](http://lakelawnresort.com)** | **[Internship Opportunity 2026](https://jobright.ai/jobs/info/68dc4bd8accfd24b67e53ff9?utm_campaign=1054&utm_source=git)** | Delavan Lake, WI | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68dcf58eddc10244dd67bbfe?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68dcc313accfd24b67e59c9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 28 |
