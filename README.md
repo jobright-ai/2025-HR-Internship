@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Access Contracting Enablement - Intern](https://jobright.ai/jobs/info/68dd67efddc10244dd67f1cb?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 01 |
+| **[MTS Systems Corporation](http://www.mts.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68dd640344d32141e0bf6496?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Oct 01 |
+| **[The A List](http://thealist.us)** | **[Spring Intern](https://jobright.ai/jobs/info/68dd63d144d32141e0bf643f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Oct 01 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dd606cddc10244dd67ee6b?utm_campaign=1054&utm_source=git)** | Amelia, OH | Hybrid | Oct 01 |
+| **[Textron](http://textron.com)** | **[2026 Global HR Services Internship](https://jobright.ai/jobs/info/68dd5770a125e75c422a9d4e?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Oct 01 |
+| **[Highgate](https://www.highgate.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68dd532fddc10244dd67e63b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
+| **[GlowUp ACS](https://www.linkedin.com/company/43344894)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dd52a3a125e75c422a9bda?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 01 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resources Intern (Various Locations)](https://jobright.ai/jobs/info/68c09892702aa35207aaef43?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Oct 01 |
 | ↳ | **[Human Resources Intern (Various Locations)](https://jobright.ai/jobs/info/68c090c25c5d5f14f46df3b5?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Oct 01 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dd3b1fa125e75c422a8bff?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
@@ -70,7 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68c08e475c5d5f14f46df14e?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | ↳ | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68c08e53702aa35207aae80f?utm_campaign=1054&utm_source=git)** | Warrenton, VA | On Site | Oct 01 |
 | ↳ | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68c0924b5c5d5f14f46df519?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Oct 01 |
-| ↳ | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68cd2a3ae23def7af55b64ce?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 01 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (College)](https://jobright.ai/jobs/info/68dd4f14ddc10244dd67e2bb?utm_campaign=1054&utm_source=git)** | Spokane Valley, Washington | On Site | Oct 01 |
+| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68cd2a3ae23def7af55b64ce?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 01 |
 | **[Olin](http://www.olin.com/)** | **[HR Total Rewards Intern - 2026](https://jobright.ai/jobs/info/68dd008d44d32141e0bf39b6?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Oct 01 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68dd007d44d32141e0bf3998?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 01 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcfc9a44d32141e0bf38b0?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Oct 01 |
@@ -79,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Barclays](https://home.barclays)** | **[2025 Empowering Leadership Fellowship](https://jobright.ai/jobs/info/68dcfa02a125e75c422a7852?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcf999ddc10244dd67c0bd?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68dce436ddc10244dd67b5c5?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Oct 01 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68dcd9eba125e75c422a5fa5?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68dcd9d9accfd24b67e5ac6c?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[HR Analyst Summer Internship - 2026 [New York]](https://jobright.ai/jobs/info/68dc9419ddc10244dd676f92?utm_campaign=1054&utm_source=git)** | New York | On Site | Sep 30 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern- HR AI Data Science (January 2026)](https://jobright.ai/jobs/info/68dc8b0ba125e75c422a1bcf?utm_campaign=1054&utm_source=git)** | United States of America, Texas, Austin | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[HR Operations - Talent Acquisition Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc86aaa125e75c422a196c?utm_campaign=1054&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
