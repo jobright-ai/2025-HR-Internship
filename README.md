@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Human Resources Intern (Various Locations)](https://jobright.ai/jobs/info/68c09892702aa35207aaef43?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Oct 01 |
+| ↳ | **[Human Resources Intern (Various Locations)](https://jobright.ai/jobs/info/68c090c25c5d5f14f46df3b5?utm_campaign=1054&utm_source=git)** | Melbourne, FL | On Site | Oct 01 |
+| **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dd3b1fa125e75c422a8bff?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
+| ↳ | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dd3b1ea125e75c422a8bfe?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dd3062ddc10244dd67d021?utm_campaign=1054&utm_source=git)** | Arvin, CA | On Site | Oct 01 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Virtual Internship](https://jobright.ai/jobs/info/68dd1eb8a125e75c422a7ff8?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Oct 01 |
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68dd1e82a125e75c422a7fb5?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Oct 01 |
@@ -74,11 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcfb4344d32141e0bf34f7?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Oct 01 |
 | **[Barclays](https://home.barclays)** | **[2025 Empowering Leadership Fellowship](https://jobright.ai/jobs/info/68dcfa02a125e75c422a7852?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dcf999ddc10244dd67c0bd?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Oct 01 |
-| **[Merakey](https://www.merakey.org/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/68dcf207a125e75c422a6e18?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68dce436ddc10244dd67b5c5?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Oct 01 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68dcd9eba125e75c422a5fa5?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 01 |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[HR Analyst Summer Internship - 2026 [New York]](https://jobright.ai/jobs/info/68dc9419ddc10244dd676f92?utm_campaign=1054&utm_source=git)** | New York | On Site | Sep 30 |
-| **[iManage](https://imanage.com)** | **[Sign up for iManage U 2026 Internship Program Alerts](https://jobright.ai/jobs/info/68dc8bacddc10244dd676941?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern- HR AI Data Science (January 2026)](https://jobright.ai/jobs/info/68dc8b0ba125e75c422a1bcf?utm_campaign=1054&utm_source=git)** | United States of America, Texas, Austin | Hybrid | Sep 30 |
 | **[Parkview Health](http://www.parkview.com)** | **[HR Operations - Talent Acquisition Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc86aaa125e75c422a196c?utm_campaign=1054&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
 | ↳ | **[Talent Acquisition Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68dc84eaddc10244dd676389?utm_campaign=1054&utm_source=git)** | Greater Fort Wayne | On Site | Sep 30 |
@@ -92,6 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc74b4ddc10244dd675909?utm_campaign=1054&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Human Resources Benefits Intern](https://jobright.ai/jobs/info/68dc7165a125e75c422a0df9?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Sep 30 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity (Copy)](https://jobright.ai/jobs/info/68dc705eddc10244dd675776?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Sep 30 |
+| **[iManage](https://imanage.com)** | **[Sign up for iManage U 2026 Internship Program Alerts](https://jobright.ai/jobs/info/68dc8bf4a125e75c422a1f1f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/68dd4549ddc10244dd67db77?utm_campaign=1054&utm_source=git)** | Florida (Remote) | Remote | Sep 30 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Human Resource Intern](https://jobright.ai/jobs/info/68dc6da5accfd24b67e5579e?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Sep 30 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR – Communications (Year-Round)](https://jobright.ai/jobs/info/68dc6da5accfd24b67e5579d?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 30 |
 | ↳ | **[Internship – HR – Talent Development (Year-Round)](https://jobright.ai/jobs/info/68dc6d3fddc10244dd6756b4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 30 |
@@ -125,12 +129,11 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR – Communications (Year-Round)](https://jobright.ai/jobs/info/68dc6c79ddc10244dd675503?utm_campaign=1054&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 30 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dbfe7197329f2f77321d39?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Sep 30 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Total Rewards - HR (Fall2025 - 6 months - Full-Time)](https://jobright.ai/jobs/info/68dbfe5397329f2f77321cf9?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Sep 30 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Career Development Program](https://jobright.ai/jobs/info/68dbe7116f6c5c3fadf33e23?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Sep 30 |
 | **[Shaw Industries](https://shawinc.com)** | **[Intern - Early Career Development Program](https://jobright.ai/jobs/info/68dbc51497329f2f7731db24?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Sep 30 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[2026 Summer Internship Program: Risk Management/Safety](https://jobright.ai/jobs/info/68bf24a08e65e77df55b74c5?utm_campaign=1054&utm_source=git)** | Yakima, WA | Hybrid | Sep 30 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 Operations Intern](https://jobright.ai/jobs/info/68dbaec36f6c5c3fadf2eb1f?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Sep 30 |
 | **[Georgia Transmission](http://gatrans.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68dcb0d8accfd24b67e58c1e?utm_campaign=1054&utm_source=git)** | Tucker, GA | On Site | Sep 29 |
-| **[Orano USA](https://www.orano.group/usa)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dca2ddaccfd24b67e57df8?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Sep 29 |
+| **[Orano USA](https://www.orano.group/usa)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dca2c0ddc10244dd677bcb?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Sep 29 |
 | **[Lake Lawn Resort](http://lakelawnresort.com)** | **[Internship Opportunity 2026](https://jobright.ai/jobs/info/68dc4bd8accfd24b67e53ff9?utm_campaign=1054&utm_source=git)** | Delavan Lake, WI | On Site | Sep 29 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[HR Learning Technology Intern](https://jobright.ai/jobs/info/68daa48c0b832179ca4af3e9?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Human Resources Summer Internship](https://jobright.ai/jobs/info/68dcf58eddc10244dd67bbfe?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
