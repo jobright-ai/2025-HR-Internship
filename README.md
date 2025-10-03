@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Muse New York](www.themusehotel.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa3d15ab4977c2e956931?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Renewable Innovations Inc](https://www.renewable-innovations.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68df8cdefe896042b0b7c0e1?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Oct 03 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df84ea5ab4977c2e955778?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df84026be63b6ec9970e58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df8a1a5ab4977c2e955ac7?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Oct 02 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[2026 Summer Internship Interest Application (Chicopee, MA)](https://jobright.ai/jobs/info/68cd0857e23def7af55b3a3e?utm_campaign=1054&utm_source=git)** | Chicopee, MA | On Site | Oct 02 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df798cfe896042b0b7b3fc?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
+| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68dfa2895ab4977c2e9566d3?utm_campaign=1054&utm_source=git)** | Kuna, ID | On Site | Oct 02 |
 | ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df8e955ab4977c2e955c98?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Oct 02 |
 | **[Appleseed Community Mental Health Center, Inc.](https://www.appleseedmentalhealth.com)** | **[Internship/ Field Placement](https://jobright.ai/jobs/info/68de3e1f09bda65a4b6284cb?utm_campaign=1054&utm_source=git)** | Ashland, OH | On Site | Oct 02 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Administration/Business Operations/Labor Management Intern](https://jobright.ai/jobs/info/68de372e44d32141e0bfe316?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill International, Inc.](http://hillintl.com)** | **[Proposal and Graphics Intern](https://jobright.ai/jobs/info/68ddadeaddc10244dd682e05?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Oct 01 |
 | **[People Incorporated](https://peopleincfr.org/)** | **[Internship](https://jobright.ai/jobs/info/68ddacafa125e75c422ae102?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Oct 01 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68dda970ddc10244dd682b50?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Oct 01 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Access Contracting Enablement - Intern](https://jobright.ai/jobs/info/68dda359a125e75c422ad9a7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 01 |
-| ↳ | **[2026 Future Talent Program - Global Market Access Strategy & Operations - Intern](https://jobright.ai/jobs/info/68dda0dd44d32141e0bf984b?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
