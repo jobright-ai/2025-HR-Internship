@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Associate](https://jobright.ai/jobs/info/68df34375ab4977c2e951646?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df31b1fe896042b0b7798b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Oct 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Oct 02 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/68df2a95fe896042b0b777dd?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
@@ -117,9 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[2026 Summer Internship Interest Application (Carlsbad, CA)](https://jobright.ai/jobs/info/68c2443333864f172f9be792?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 02 |
 | ↳ | **[2026 Summer Internship Interest Application (Fort Worth, TX)](https://jobright.ai/jobs/info/68c2350e63b706703e11267e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | ↳ | **[2026 Summer Internship Interest Application (Chicopee, MA)](https://jobright.ai/jobs/info/68cd0857e23def7af55b3a3e?utm_campaign=1054&utm_source=git)** | Chicopee, MA | On Site | Oct 02 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df16ba5ab4977c2e94f540?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Oct 02 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df0d41fe896042b0b74801?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df17125ab4977c2e94f6b6?utm_campaign=1054&utm_source=git)** | Kuna, ID | On Site | Oct 02 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df0d41fe896042b0b74801?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[Appleseed Community Mental Health Center, Inc.](https://www.appleseedmentalhealth.com)** | **[Internship/ Field Placement](https://jobright.ai/jobs/info/68de3e1f09bda65a4b6284cb?utm_campaign=1054&utm_source=git)** | Ashland, OH | On Site | Oct 02 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Administration/Business Operations/Labor Management Intern](https://jobright.ai/jobs/info/68de372e44d32141e0bfe316?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68de365809bda65a4b627cf6?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Human Resources - Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68dd8c33ddc10244dd680ace?utm_campaign=1054&utm_source=git)** | Portage, MI | On Site | Oct 01 |
 | **[Centricity Credit Union](https://centricity.org/)** | **[Human Resources Associate Internship or Temporary Position](https://jobright.ai/jobs/info/68dd8bc544d32141e0bf7ea8?utm_campaign=1054&utm_source=git)** | Duluth, MN | On Site | Oct 01 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/68dd8ac2a125e75c422abdea?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Oct 01 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68dd89dda125e75c422abc9c?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
