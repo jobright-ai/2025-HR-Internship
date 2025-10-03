@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Desert Mountain Club](https://www.desertmountain.com)** | **[Internship Opportunities (Spring)](https://jobright.ai/jobs/info/68df7f365ab4977c2e9552d8?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Talent Development & Inclusion Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e985ab4977c2e9551ed?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68df64495ab4977c2e9542e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Passion for Life, Inc.](https://bit.ly/3EjRZQD)** | **[Remote Human Resources Volunteer/Intern (Unpaid, USA Applicants Only)](https://jobright.ai/jobs/info/68df5ec0fe896042b0b7a0c8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Remote | Oct 02 |
 | **[Rapsodo](http://rapsodo.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68df5a1dfe896042b0b79f47?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Oct 02 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Admissions Associate](https://jobright.ai/jobs/info/68df34375ab4977c2e951646?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
@@ -88,12 +91,11 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68ded489a125e75c422b718d?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Oct 02 |
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68ded3dfa125e75c422b6fcb?utm_campaign=1054&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Oct 02 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68decc0009bda65a4b62dc03?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Oct 02 |
-| **[Barton & Loguidice](http://bartonandloguidice.com)** | **[2026 Summer Internship (Multiple Locations)](https://jobright.ai/jobs/info/68dec9cf44d32141e0c02403?utm_campaign=1054&utm_source=git)** | Liverpool, NY | On Site | Oct 02 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/68dec42b09bda65a4b62d6b5?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec3e009bda65a4b62d63d?utm_campaign=1054&utm_source=git)** | DeWitt, NY | On Site | Oct 02 |
 | ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec380a125e75c422b649e?utm_campaign=1054&utm_source=git)** | Utica, NY | On Site | Oct 02 |
 | ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec300a125e75c422b63d7?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Oct 02 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec15a44d32141e0c02135?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/68dec14e44d32141e0c02123?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec07244d32141e0c01fed?utm_campaign=1054&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
 | **[Penn State University](http://psu.edu)** | **[Bellisario College of Communications Part-Time Internship & Career Placement Office Intern](https://jobright.ai/jobs/info/68debfcfa125e75c422b6339?utm_campaign=1054&utm_source=git)** | University Park, PA | On Site | Oct 02 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deb91da125e75c422b60b3?utm_campaign=1054&utm_source=git)** | Charter Manufacturing Company, Inc - Mequon, WI | Hybrid | Oct 02 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dea7ed44d32141e0c01458?utm_campaign=1054&utm_source=git)** | Utica, NY | On Site | Oct 02 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Strategy & Operations - Intern](https://jobright.ai/jobs/info/68dea43a09bda65a4b62c882?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 02 |
 | ↳ | **[2026 Future Talent Program - Global Market Access Strategy & Operations - Intern](https://jobright.ai/jobs/info/68dea3b309bda65a4b62c757?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 02 |
-| ↳ | **[2026 Future Talent Program - Global Market Access Strategy & Operations - Intern](https://jobright.ai/jobs/info/68dea38744d32141e0c01346?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 02 |
+| ↳ | **[2026 Future Talent Program - Global Market Access Strategy & Operations - Intern](https://jobright.ai/jobs/info/68dea3b2a125e75c422b5637?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 02 |
 | **[Columbia Safety and Supply](https://www.colsafety.com)** | **[Career Fair: Internships](https://jobright.ai/jobs/info/68dea02044d32141e0c0121b?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Oct 02 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68df5e965ab4977c2e953d97?utm_campaign=1054&utm_source=git)** | DeWitt, NY | On Site | Oct 02 |
 | **[Penn State University](http://psu.edu)** | **[Bellisario College of Communications Part-Time Internship & Career Placement Office Intern ](https://jobright.ai/jobs/info/68de9bc044d32141e0c010b0?utm_campaign=1054&utm_source=git)** | Penn State University Park | On Site | Oct 02 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[2026 Summer Internship Interest Application (Carlsbad, CA)](https://jobright.ai/jobs/info/68c2443333864f172f9be792?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 02 |
 | ↳ | **[2026 Summer Internship Interest Application (Fort Worth, TX)](https://jobright.ai/jobs/info/68c2350e63b706703e11267e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | ↳ | **[2026 Summer Internship Interest Application (Chicopee, MA)](https://jobright.ai/jobs/info/68cd0857e23def7af55b3a3e?utm_campaign=1054&utm_source=git)** | Chicopee, MA | On Site | Oct 02 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68df798cfe896042b0b7b3fc?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[Appleseed Community Mental Health Center, Inc.](https://www.appleseedmentalhealth.com)** | **[Internship/ Field Placement](https://jobright.ai/jobs/info/68de3e1f09bda65a4b6284cb?utm_campaign=1054&utm_source=git)** | Ashland, OH | On Site | Oct 02 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Administration/Business Operations/Labor Management Intern](https://jobright.ai/jobs/info/68de372e44d32141e0bfe316?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68de365809bda65a4b627cf6?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grimmway Farms](http://www.grimmway.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68dd93e4ddc10244dd6810df?utm_campaign=1054&utm_source=git)** | 93203 | On Site | Oct 01 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/68dd922944d32141e0bf8548?utm_campaign=1054&utm_source=git)** | US-CA-Arvin | On Site | Oct 01 |
 | ↳ | **[Human Resources Internship](https://jobright.ai/jobs/info/68dd91ff44d32141e0bf849a?utm_campaign=1054&utm_source=git)** | 12064 Buena Vista Blvd. | On Site | Oct 01 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68ddc43f5c94f548c951a97e?utm_campaign=1054&utm_source=git)** | Plain City, Ohio | On Site | Oct 01 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68dd8c47ddc10244dd680b05?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Oct 01 |
-| **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Human Resources - Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68dd8c33ddc10244dd680ace?utm_campaign=1054&utm_source=git)** | Portage, MI | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
