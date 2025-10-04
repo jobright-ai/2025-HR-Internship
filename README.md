@@ -139,12 +139,12 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68df2308fe896042b0b774b0?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 02 |
 | **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df23ac5ab4977c2e950e9e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df21816be63b6ec996c7c9?utm_campaign=1054&utm_source=git)** | US-IL-Mattoon | On Site | Oct 02 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df206a5ab4977c2e950a27?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df2151fe896042b0b77145?utm_campaign=1054&utm_source=git)** | US - SEATTLE HUB & ADMINISTRATION (WASEA) | On Site | Oct 02 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e02800f758fe1f97e4a432?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Oct 02 |
