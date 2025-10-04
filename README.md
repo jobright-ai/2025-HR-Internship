@@ -81,11 +81,10 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Process Improvement](https://jobright.ai/jobs/info/68e041e31852e62f007e95b6?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 03 |
 | **[Metropolitan Ministries](http://www.metromin.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/68e041d4f758fe1f97e4ba86?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 03 |
 | **[SK hynix memory solutions America Inc.](http://www.skhms.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e04189b99ec3563b0cded1?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
-| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68e03c891852e62f007e9224?utm_campaign=1054&utm_source=git)** | West Bend, WI | Hybrid | Oct 03 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e0351fb99ec3563b0cd52f?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Oct 03 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e03457f758fe1f97e4af22?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Oct 03 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program - Summer 2026](https://jobright.ai/jobs/info/68e0344f1852e62f007e897f?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 03 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e033b0f758fe1f97e4ad24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Oct 03 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e033b0f758fe1f97e4ad24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Oct 03 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program - Summer 2026](https://jobright.ai/jobs/info/68e032cfb99ec3563b0ccfee?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 03 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e02d01b99ec3563b0ccd21?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e029531852e62f007e820a?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Workforce Planning Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68e028591852e62f007e807e?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
@@ -141,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68df2308fe896042b0b774b0?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 02 |
 | **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df23ac5ab4977c2e950e9e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df21816be63b6ec996c7c9?utm_campaign=1054&utm_source=git)** | US-IL-Mattoon | On Site | Oct 02 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DESRI](https://desri.com/)** | **[Intern, Recruiting](https://jobright.ai/jobs/info/68def7dda125e75c422b8b28?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Oct 02 |
 | ↳ | **[Intern, Recruiting](https://jobright.ai/jobs/info/68df16e75ab4977c2e94f619?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Muckleshoot Indian Tribe](http://www.muckleshoot.nsn.us/default.aspx)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68deecde09bda65a4b62ef18?utm_campaign=1054&utm_source=git)** | Auburn, WA | On Site | Oct 02 |
+| **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
