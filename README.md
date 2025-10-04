@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Food & Beverage Internship- Fall 2025](https://jobright.ai/jobs/info/68e079d41852e62f007eb2e3?utm_campaign=1054&utm_source=git)** | Bonita Springs, FL | On Site | Oct 03 |
+| **[Agave](https://www.useagave.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e07086f758fe1f97e4d2e1?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US | Remote | Oct 03 |
+| **[CYVL](https://cyvl.com)** | **[HR Winter Intern](https://jobright.ai/jobs/info/68e070611852e62f007eae06?utm_campaign=1054&utm_source=git)** | Boston | On Site | Oct 03 |
+| **[Metropolitan Ministries](http://www.metromin.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/68e0704db99ec3563b0cf6bc?utm_campaign=1054&utm_source=git)** | TAMPA | On Site | Oct 03 |
+| **[ArangoDB](http://www.arangodb.com)** | **[Join Team Avocado!People Operations Intern](https://jobright.ai/jobs/info/68e07038b99ec3563b0cf67e?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Agave](https://www.useagave.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e06fdfb99ec3563b0cf5ad?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Oct 03 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68e06fd81852e62f007eac7b?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US | Remote | Oct 03 |
+| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[Summer 2026 - College Intern - Talent Acquisition](https://jobright.ai/jobs/info/68e066cd1852e62f007eaa41?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
+| ↳ | **[College Intern I - Summer 2026 - Human Resources Compliance and Leave Management](https://jobright.ai/jobs/info/68e065cf1852e62f007ea9b2?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e057a0f758fe1f97e4c85a?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Shannon Medical Center](https://www.shannonhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e052a6b99ec3563b0ce95b?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Oct 03 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
@@ -71,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68e03c891852e62f007e9224?utm_campaign=1054&utm_source=git)** | West Bend, WI | Hybrid | Oct 03 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e0351fb99ec3563b0cd52f?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Oct 03 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e03457f758fe1f97e4af22?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Oct 03 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e033b0f758fe1f97e4ad24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Oct 03 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program - Summer 2026](https://jobright.ai/jobs/info/68e032cfb99ec3563b0ccfee?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 03 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program - Summer 2026](https://jobright.ai/jobs/info/68e0344f1852e62f007e897f?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 03 |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e033b0f758fe1f97e4ad24?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Oct 03 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e02d01b99ec3563b0ccd21?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e029531852e62f007e820a?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Workforce Planning Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68e028591852e62f007e807e?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
@@ -126,15 +135,16 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68df2308fe896042b0b774b0?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 02 |
 | **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df23ac5ab4977c2e950e9e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df21816be63b6ec996c7c9?utm_campaign=1054&utm_source=git)** | US-IL-Mattoon | On Site | Oct 02 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df206a5ab4977c2e950a27?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df2151fe896042b0b77145?utm_campaign=1054&utm_source=git)** | US - SEATTLE HUB & ADMINISTRATION (WASEA) | On Site | Oct 02 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e02800f758fe1f97e4a432?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Oct 02 |
+| **[Core-Mark International](http://www.core-mark.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e067bbb99ec3563b0cf2e8?utm_campaign=1054&utm_source=git)** | Westlake, TX | On Site | Oct 02 |
 | **[Kiteworks](http://www.kiteworks.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68df06906be63b6ec996964f?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Oct 02 |
 | **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Human Resources Intern - Wealthspire](https://jobright.ai/jobs/info/68def845a125e75c422b8c0a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Muckleshoot Indian Tribe](http://www.muckleshoot.nsn.us/default.aspx)** | **[Internship Coordinator](https://jobright.ai/jobs/info/68dedaad09bda65a4b62e42d?utm_campaign=1054&utm_source=git)** | US-WA-Auburn | On Site | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68ded489a125e75c422b718d?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Oct 02 |
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68ded3dfa125e75c422b6fcb?utm_campaign=1054&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Oct 02 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68decc0009bda65a4b62dc03?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Oct 02 |
-| **[Penn State University](http://psu.edu)** | **[Bellisario College of Communications Part-Time Internship & Career Placement Office Intern](https://jobright.ai/jobs/info/68debfcfa125e75c422b6339?utm_campaign=1054&utm_source=git)** | University Park, PA | On Site | Oct 02 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Recruiter Intern](https://jobright.ai/jobs/info/68dec14e44d32141e0c02123?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec15a44d32141e0c02135?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 02 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec380a125e75c422b649e?utm_campaign=1054&utm_source=git)** | Utica, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec07244d32141e0c01fed?utm_campaign=1054&utm_source=git)** | Binghamton, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec300a125e75c422b63d7?utm_campaign=1054&utm_source=git)** | Elmira, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68dec3e009bda65a4b62d63d?utm_campaign=1054&utm_source=git)** | DeWitt, NY | On Site | Oct 02 |
-| ↳ | **[College Intern I - Summer 2026 - Quality Improvement](https://jobright.ai/jobs/info/68deb84ea125e75c422b6038?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Oct 02 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68deb71944d32141e0c01c39?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
