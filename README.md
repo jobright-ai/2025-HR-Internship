@@ -130,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dfdc5d1852e62f007e5161?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
 | **[The Muse New York](www.themusehotel.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa3d15ab4977c2e956931?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Renewable Innovations Inc](https://www.renewable-innovations.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68df8cdefe896042b0b7c0e1?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Oct 03 |
+| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Oct 03 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df84ea5ab4977c2e955778?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df801afe896042b0b7b9d7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | **[Desert Mountain Club](https://www.desertmountain.com)** | **[Internship Opportunities (Spring)](https://jobright.ai/jobs/info/68df7f365ab4977c2e9552d8?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
@@ -143,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68df2308fe896042b0b774b0?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 02 |
 | **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df23ac5ab4977c2e950e9e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df21816be63b6ec996c7c9?utm_campaign=1054&utm_source=git)** | US-IL-Mattoon | On Site | Oct 02 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20f8fe896042b0b76fff?utm_campaign=1054&utm_source=git)** | Westlake, Texas (TX) | On Site | Oct 02 |
+| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68df20d45ab4977c2e950b5d?utm_campaign=1054&utm_source=git)** | CM Corporate Westlake, TX (2550) | On Site | Oct 02 |
 | **[State of Rhode Island](http://www.dot.ri.gov/)** | **[HUMAN RESOURCES TECHNICIAN INTERN](https://jobright.ai/jobs/info/68e045adb99ec3563b0ce1fa?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Oct 02 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df206a5ab4977c2e950a27?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df2151fe896042b0b77145?utm_campaign=1054&utm_source=git)** | US - SEATTLE HUB & ADMINISTRATION (WASEA) | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Core-Mark International](http://www.core-mark.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e067bbb99ec3563b0cf2e8?utm_campaign=1054&utm_source=git)** | Westlake, TX | On Site | Oct 02 |
 | **[Kiteworks](http://www.kiteworks.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68df06906be63b6ec996964f?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Oct 02 |
 | **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
-| **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Human Resources Intern - Wealthspire](https://jobright.ai/jobs/info/68def845a125e75c422b8c0a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
