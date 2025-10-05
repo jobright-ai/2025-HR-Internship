@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e248a3f758fe1f97e59f71?utm_campaign=1054&utm_source=git)** | Conyers, GA | On Site | Oct 05 |
 | **[Quadrant International Art Association](https://quadrantarts.org/)** | **[Fall Operations & Administration Internship](https://jobright.ai/jobs/info/68e1f5c41852e62f007f4b75?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Oct 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Workforce Planning Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac1bf758fe1f97e55bc9?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | **[GEICO](http://www.geico.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68e16a8ef758fe1f97e55164?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e02800f758fe1f97e4a432?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Oct 02 |
 | **[Core-Mark International](http://www.core-mark.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e067bbb99ec3563b0cf2e8?utm_campaign=1054&utm_source=git)** | Westlake, TX | On Site | Oct 02 |
 | **[Kiteworks](http://www.kiteworks.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68df06906be63b6ec996964f?utm_campaign=1054&utm_source=git)** | San Mateo, CA | Hybrid | Oct 02 |
-| **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
