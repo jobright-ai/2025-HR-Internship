@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Berg Group](https://berggroup.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e41c161852e62f00801a48?utm_campaign=1054&utm_source=git)** | Chaska, MN, USA | On Site | Oct 06 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Case Management Intern - UNPAID](https://jobright.ai/jobs/info/68e41be91852e62f008019cf?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 06 |
+| ↳ | **[Community Engagement Intern – UNPAID](https://jobright.ai/jobs/info/68e41b53f758fe1f97e63f4f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 06 |
+| ↳ | **[Economic Empowerment Intern - UNPAID](https://jobright.ai/jobs/info/68e419aa1852e62f008014a8?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 06 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Human Resources)](https://jobright.ai/jobs/info/68e418b8b99ec3563b0e5c97?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Oct 06 |
+| **[BCI Burke Company](http://www.bciburke.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e41591b99ec3563b0e5bd7?utm_campaign=1054&utm_source=git)** | Fond Du Lac, WI | On Site | Oct 06 |
+| **[OVD Insurance](https://ovdinsurance.com)** | **[Employee Benefits Data Analytics Intern](https://jobright.ai/jobs/info/68e414deb99ec3563b0e5aac?utm_campaign=1054&utm_source=git)** | OVD Insurance, Grand Rapids | On Site | Oct 06 |
+| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Human Resources Part-Time Intern](https://jobright.ai/jobs/info/68e41376b99ec3563b0e5695?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 06 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Aggregate Summer Intern](https://jobright.ai/jobs/info/68e412921852e62f00800bb8?utm_campaign=1054&utm_source=git)** | Sisquoc, California | On Site | Oct 06 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Lung Access Strategy - Intern](https://jobright.ai/jobs/info/68e41258f758fe1f97e63301?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 06 |
+| **[SEPHORA](https://www.sephora.com)** | **[Intern, Distribution Center HR - Communications](https://jobright.ai/jobs/info/68e40e021852e62f00800994?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Oct 06 |
+| ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/68e40cf1f758fe1f97e62fdd?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Oct 06 |
+| ↳ | **[Intern, Human Resources-Distribution Center](https://jobright.ai/jobs/info/68e40bf9b99ec3563b0e50f7?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 06 |
+| ↳ | **[Intern, HR Project Management](https://jobright.ai/jobs/info/68e40af31852e62f0080071f?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 06 |
+| ↳ | **[Intern, Human Resources-Distribution Center](https://jobright.ai/jobs/info/68e40a8df758fe1f97e62e43?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 HR Systems Intern](https://jobright.ai/jobs/info/68e40424b99ec3563b0e4e68?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Oct 06 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3f90ab99ec3563b0e43e4?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 06 |
 | **[ArangoDB](http://www.arangodb.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/68e3f8c9b99ec3563b0e438e?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 06 |
 | **[AGIC Energy](agicenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e3f42ef758fe1f97e6205e?utm_campaign=1054&utm_source=git)** | Poway, CA | On Site | Oct 06 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wind River](http://www.windriver.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68c4ac4bfce86561b9288418?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Oct 04 |
 | **[State of Rhode Island](http://www.dot.ri.gov/)** | **[HUMAN RESOURCES TECHNICIAN INTERN](https://jobright.ai/jobs/info/68e355ddf758fe1f97e5ce65?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Oct 03 |
 | **[Mitsui & Co. Energy Marketing and Services (USA), Inc.](http://mems-usa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e0a8c31852e62f007ed78c?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 03 |
-| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern Human Resources](https://jobright.ai/jobs/info/68e1f07b1852e62f007f4751?utm_campaign=1054&utm_source=git)** | West Bend, WI | Hybrid | Oct 03 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68e1ed3af758fe1f97e56c94?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Oct 03 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/68e08db21852e62f007ec027?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 03 |
-| **[Agave](https://www.useagave.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e084f4f758fe1f97e4dde4?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 03 |
-| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Food & Beverage Internship- Fall 2025](https://jobright.ai/jobs/info/68e079d41852e62f007eb2e3?utm_campaign=1054&utm_source=git)** | Bonita Springs, FL | On Site | Oct 03 |
-| **[Agave](https://www.useagave.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e07086f758fe1f97e4d2e1?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US | Remote | Oct 03 |
-| **[CYVL](https://cyvl.com)** | **[HR Winter Intern](https://jobright.ai/jobs/info/68e070611852e62f007eae06?utm_campaign=1054&utm_source=git)** | Boston | On Site | Oct 03 |
-| **[Metropolitan Ministries](http://www.metromin.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/68e0704db99ec3563b0cf6bc?utm_campaign=1054&utm_source=git)** | TAMPA | On Site | Oct 03 |
-| **[ArangoDB](http://www.arangodb.com)** | **[Join Team Avocado!People Operations Intern](https://jobright.ai/jobs/info/68e07038b99ec3563b0cf67e?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Agave](https://www.useagave.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e06fdfb99ec3563b0cf5ad?utm_campaign=1054&utm_source=git)** | Remote (US) | Remote | Oct 03 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68e06fd81852e62f007eac7b?utm_campaign=1054&utm_source=git)** | San Francisco, CA, US | Remote | Oct 03 |
-| **[Univera Healthcare](https://www.univerahealthcare.com)** | **[Summer 2026 - College Intern - Talent Acquisition](https://jobright.ai/jobs/info/68e066cd1852e62f007eaa41?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Human Resources Compliance and Leave Management](https://jobright.ai/jobs/info/68e065cf1852e62f007ea9b2?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| **[Shannon Medical Center](https://www.shannonhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e052a6b99ec3563b0ce95b?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Oct 03 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
