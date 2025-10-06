@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c7e01852e62f007fdf2c?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c79ff758fe1f97e606db?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c70ef758fe1f97e6068d?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Nuveen Operations](https://jobright.ai/jobs/info/68e3c70db99ec3563b0e276f?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 06 |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - HUMAN RESOURCES (HDQ)](https://jobright.ai/jobs/info/68c7d7b3f42a830e1c7e8547?utm_campaign=1054&utm_source=git)** | Bismarck, ND | On Site | Oct 06 |
+| **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES CO-OP](https://jobright.ai/jobs/info/68e3b5c51852e62f007fd70b?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Oct 06 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68e395f41852e62f007fcec2?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 06 |
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Human Resource Intern - J0048556](https://jobright.ai/jobs/info/68e3947ef758fe1f97e5f64e?utm_campaign=1054&utm_source=git)** | Rock Spring, GA | On Site | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Infrastructure Workforce Internship, Brookings Metro (Job ID 2025-3731)](https://jobright.ai/jobs/info/68e38b35b99ec3563b0e12a2?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
@@ -75,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/68e346521852e62f007fa1c1?utm_campaign=1054&utm_source=git)** | Frisco, TX - 6303 Cowboys Way | Hybrid | Oct 05 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resources Specialist](https://jobright.ai/jobs/info/68e32399f758fe1f97e5b500?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 05 |
 | **[Woolpert](http://www.woolpert.com)** | **[Internships - Expression of Interest](https://jobright.ai/jobs/info/68e2f27b1852e62f007f8b11?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 05 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68e283ceb99ec3563b0dc762?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Oct 05 |
 | **[Web Management Consultants Ltd](https://www.webmanagementconsultants.co.uk)** | **[Recruitment Intern](https://jobright.ai/jobs/info/68e331adf758fe1f97e5ba48?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Oct 05 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - HR Associates Relations](https://jobright.ai/jobs/info/68e278cbf758fe1f97e5a4d5?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e248a3f758fe1f97e59f71?utm_campaign=1054&utm_source=git)** | Conyers, GA | On Site | Oct 05 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Umbrex](http://www.umbrex.com)** | **[Human Resources Intern - Recruiting & Staffing](https://jobright.ai/jobs/info/68dfef7a1852e62f007e5c20?utm_campaign=1054&utm_source=git)** | Michigan, United States | Remote | Oct 03 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Animal Health Clinical Data Management - Intern](https://jobright.ai/jobs/info/68dfed981852e62f007e5b80?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[HR Operations Intern (Full-Time)](https://jobright.ai/jobs/info/68dfe7e9b99ec3563b0ca038?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Oct 03 |
-| **[Miura Creative](https://miuracreative.com/)** | **[Assistant/Intern position](https://jobright.ai/jobs/info/68dfe4761852e62f007e55c9?utm_campaign=1054&utm_source=git)** | Gilbert, AZ | On Site | Oct 03 |
-| **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dfde2e1852e62f007e52b8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68dfdc5d1852e62f007e5161?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
-| **[The Muse New York](www.themusehotel.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa3d15ab4977c2e956931?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Oct 03 |
-| **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df84ea5ab4977c2e955778?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
-| **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df801afe896042b0b7b9d7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
-| **[Desert Mountain Club](https://www.desertmountain.com)** | **[Internship Opportunities (Spring)](https://jobright.ai/jobs/info/68df7f365ab4977c2e9552d8?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Talent Development & Inclusion Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e985ab4977c2e9551ed?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e360d01852e62f007fad7d?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68df64495ab4977c2e9542e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
