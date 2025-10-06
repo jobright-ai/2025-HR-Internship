@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woolpert](http://www.woolpert.com)** | **[Internships - Expression of Interest](https://jobright.ai/jobs/info/68e2f27b1852e62f007f8b11?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 05 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68e2b5471852e62f007f83f2?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Oct 05 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68e283ceb99ec3563b0dc762?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Oct 05 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - HR Associates Relations](https://jobright.ai/jobs/info/68e278cbf758fe1f97e5a4d5?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e248a3f758fe1f97e59f71?utm_campaign=1054&utm_source=git)** | Conyers, GA | On Site | Oct 05 |
-| **[Quadrant International Art Association](https://quadrantarts.org/)** | **[Fall Operations & Administration Internship](https://jobright.ai/jobs/info/68e1f5c41852e62f007f4b75?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Oct 04 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Workforce Planning Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68e1ac1bf758fe1f97e55bc9?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Oct 04 |
 | **[GEICO](http://www.geico.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68e16a8ef758fe1f97e55164?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 04 |
 | **[AMETEK Paragon Medical](https://www.ametekemc.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68e1d81df758fe1f97e56087?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Oct 04 |
@@ -136,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Renewable Innovations Inc](https://www.renewable-innovations.com)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68df8cdefe896042b0b7c0e1?utm_campaign=1054&utm_source=git)** | American Fork, UT | On Site | Oct 03 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Malta, NY | On Site | Oct 03 |
 | **[Cheekwood](https://cheekwood.org)** | **[HR/Wellness Program Intern - Spring 2026](https://jobright.ai/jobs/info/68df84ea5ab4977c2e955778?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
-| **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df801afe896042b0b7b9d7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
+| **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df84026be63b6ec9970e58?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | **[Desert Mountain Club](https://www.desertmountain.com)** | **[Internship Opportunities (Spring)](https://jobright.ai/jobs/info/68df7f365ab4977c2e9552d8?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Talent Development & Inclusion Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e985ab4977c2e9551ed?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68df64495ab4977c2e9542e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
