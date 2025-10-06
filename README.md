@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3f90ab99ec3563b0e43e4?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 06 |
+| **[ArangoDB](http://www.arangodb.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/68e3f8c9b99ec3563b0e438e?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 06 |
+| **[AGIC Energy](agicenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e3f42ef758fe1f97e6205e?utm_campaign=1054&utm_source=git)** | Poway, CA | On Site | Oct 06 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/68e3f05cf758fe1f97e61d7a?utm_campaign=1054&utm_source=git)** | US - CO, Westminster | On Site | Oct 06 |
+| ↳ | **[Talent Attraction Intern](https://jobright.ai/jobs/info/68e3f0511852e62f007ff642?utm_campaign=1054&utm_source=git)** | US - OH, Dayton | On Site | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3e726f758fe1f97e619d3?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[HR Intern](https://jobright.ai/jobs/info/68e3e333f758fe1f97e615b7?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 06 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e3e144b99ec3563b0e3291?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 06 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3ddaa1852e62f007fea18?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
@@ -100,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c70ef758fe1f97e6068d?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Operations](https://jobright.ai/jobs/info/68e3c70db99ec3563b0e276f?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Human Resources Compliance and Leave Management](https://jobright.ai/jobs/info/68e065cf1852e62f007ea9b2?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | **[Shannon Medical Center](https://www.shannonhealth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e052a6b99ec3563b0ce95b?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Oct 03 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Magna International](http://www.magna.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68e04b24b99ec3563b0ce503?utm_campaign=1054&utm_source=git)** | Holly, MI | On Site | Oct 03 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e0491e1852e62f007e9c46?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e042b2f758fe1f97e4bc45?utm_campaign=1054&utm_source=git)** | MO - Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut) (64106) | On Site | Oct 03 |
-| **[Rocket](https://www.linkedin.com/company/105067979)** | **[Recruiting Coordinator Intern - Winter 2026](https://jobright.ai/jobs/info/68e042421852e62f007e96a6?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Process Improvement](https://jobright.ai/jobs/info/68e041e31852e62f007e95b6?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 03 |
-| **[Metropolitan Ministries](http://www.metromin.org)** | **[Case Management Intern](https://jobright.ai/jobs/info/68e041d4f758fe1f97e4ba86?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
