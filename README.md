@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68e358641852e62f007faa01?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Human Resources (People Team)](https://jobright.ai/jobs/info/68e348ccb99ec3563b0dea14?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 05 |
 | ↳ | **[2026 Early Talent Internship: Corporate Strategy & Development](https://jobright.ai/jobs/info/68e34696f758fe1f97e5c7ee?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Oct 05 |
 | ↳ | **[2026 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/68e3468cf758fe1f97e5c7e2?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 05 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[HR Intern - South WA](https://jobright.ai/jobs/info/68df801afe896042b0b7b9d7?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | **[Desert Mountain Club](https://www.desertmountain.com)** | **[Internship Opportunities (Spring)](https://jobright.ai/jobs/info/68df7f365ab4977c2e9552d8?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Talent Development & Inclusion Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e985ab4977c2e9551ed?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68e360d01852e62f007fad7d?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68df64495ab4977c2e9542e5?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
 | **[Rapsodo](http://rapsodo.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68df5a1dfe896042b0b79f47?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Oct 02 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df31b1fe896042b0b7798b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 02 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df23ac5ab4977c2e950e9e?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 02 |
 | ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df227efe896042b0b773ab?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24775ab4977c2e950fc3?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 02 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68df24605ab4977c2e950fa6?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
