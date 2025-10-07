@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46e7df758fe1f97e68418?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46c881852e62f00805d93?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Oct 06 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e44991b99ec3563b0e8afb?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e448abb99ec3563b0e8961?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[Princess Cruises](http://www.princess.com)** | **[Global Payroll Specialist - Summer 2026 Intern](https://jobright.ai/jobs/info/68e44738b99ec3563b0e86d9?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 06 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c7e01852e62f007fdf2c?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c79ff758fe1f97e606db?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Corporate Strategy & Development](https://jobright.ai/jobs/info/68e37e6eb99ec3563b0e0bb7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/68e37e2d1852e62f007fc31d?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship Program: Finance & Accounting](https://jobright.ai/jobs/info/68e37cd1f758fe1f97e5e980?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Associate Director, Employer Engagement](https://jobright.ai/jobs/info/68e358641852e62f007faa01?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 05 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Human Resources (People Team)](https://jobright.ai/jobs/info/68e348ccb99ec3563b0dea14?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 05 |
 | ↳ | **[2026 Early Talent Internship: Corporate Strategy & Development](https://jobright.ai/jobs/info/68e34696f758fe1f97e5c7ee?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Oct 05 |
 | ↳ | **[2026 Early Talent Internship: Internal Audit](https://jobright.ai/jobs/info/68e3468cf758fe1f97e5c7e2?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 05 |
-| ↳ | **[2026 Early Talent Internship Program: Finance & Accounting](https://jobright.ai/jobs/info/68e3466bf758fe1f97e5c749?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
