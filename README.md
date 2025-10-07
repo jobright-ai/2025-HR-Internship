@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[People & Organization Intern- Change Management](https://jobright.ai/jobs/info/68e581e9ae2b894b1d710438?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Talent Acquisition Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e580f91852e62f00811242?utm_campaign=1054&utm_source=git)** | Glendale, CA | Hybrid | Oct 07 |
+| **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/68e57fd1b99ec3563b0f57bd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 07 |
+| **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[OIEC - Office Intern (Admin Asst II) - Austin](https://jobright.ai/jobs/info/68e57d271852e62f00810abe?utm_campaign=1054&utm_source=git)** | Texas-AustinWork Locations | On Site | Oct 07 |
+| ↳ | **[OIEC - Office Intern (Admin Asst II) - Austin](https://jobright.ai/jobs/info/68e57c87b99ec3563b0f5461?utm_campaign=1054&utm_source=git)** | OIEC Barbara Jordan Building1601 Congress Avenue | On Site | Oct 07 |
+| **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Talent Acquisition Recruiting](https://jobright.ai/jobs/info/68e5736db99ec3563b0f4cb4?utm_campaign=1054&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 07 |
+| ↳ | **[Embark Intern - Talent Acquisition Recruiting](https://jobright.ai/jobs/info/68e57279b99ec3563b0f4aed?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 07 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Payroll Compliance Intern (Walnut Creek - Spring 26)](https://jobright.ai/jobs/info/68e571fdb99ec3563b0f4a19?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Oct 07 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57028b99ec3563b0f472a?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/68e56ff71852e62f0080ff78?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, USA | On Site | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Talent Acquisition Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e56af5ae2b894b1d70eb51?utm_campaign=1054&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 07 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/68e56a53ae2b894b1d70ea35?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Oct 07 |
 | **[Voyatek](https://www.voyatek.com/)** | **[HR Analyst Intern](https://jobright.ai/jobs/info/68e563691852e62f0080f358?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 07 |
 | **[Midea America](https://www.midea.com/us/)** | **[HR and IT Systems Internship](https://jobright.ai/jobs/info/68e55b141852e62f0080ecac?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 07 |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Human Resources and Talent Acquisition Intern](https://jobright.ai/jobs/info/68e5770c1852e62f0081051f?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Oct 07 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/68e54b94ae2b894b1d70d0e7?utm_campaign=1054&utm_source=git)** | US-IN-Evansville | On Site | Oct 07 |
 | ↳ | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/68e54b7db99ec3563b0f2866?utm_campaign=1054&utm_source=git)** | 101 Oakley Street, Downtown | On Site | Oct 07 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e54811b99ec3563b0f23cb?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Oct 07 |
@@ -90,11 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[Human Resources Intern - Customer Experience](https://jobright.ai/jobs/info/68e487161852e62f00806c8e?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | Hybrid | Oct 06 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Engagement Intern](https://jobright.ai/jobs/info/68e47ad61852e62f008065d7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Pneumatic Division - Richland](https://jobright.ai/jobs/info/68e476b0b99ec3563b0eaa11?utm_campaign=1054&utm_source=git)** | Richland, MI | On Site | Oct 06 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e473b11852e62f008061d1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Oct 06 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e473151852e62f00806151?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68e473051852e62f0080613d?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Oct 06 |
-| **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e472591852e62f00806096?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Oct 06 |
-| ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46c881852e62f00805d93?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Oct 06 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e44991b99ec3563b0e8afb?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e448abb99ec3563b0e8961?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
 | **[Princess Cruises](http://www.princess.com)** | **[Global Payroll Specialist - Summer 2026 Intern](https://jobright.ai/jobs/info/68e44738b99ec3563b0e86d9?utm_campaign=1054&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Nuveen Equities & Fixed Income (NEFI)](https://jobright.ai/jobs/info/68e3d666b99ec3563b0e2eee?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3d64c1852e62f007fe51a?utm_campaign=1054&utm_source=git)** | Dallas, TX, USA | Hybrid | Oct 06 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e3d6171852e62f007fe4e0?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Nuveen Clean Energy Infrastructure](https://jobright.ai/jobs/info/68e3d5fbf758fe1f97e60c46?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Nuveen Equities & Fixed Income (NEFI)](https://jobright.ai/jobs/info/68e3d5c91852e62f007fe45b?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Nuveen Business Intelligence](https://jobright.ai/jobs/info/68e3d5b9f758fe1f97e60bde?utm_campaign=1054&utm_source=git)** | Chicago, IL - 333 West Wacker Drive | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3d585f758fe1f97e60ba5?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Nuveen Clean Energy Infrastructure](https://jobright.ai/jobs/info/68e3d5641852e62f007fe3ab?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Nuveen Equities & Fixed Income (NEFI)](https://jobright.ai/jobs/info/68e3d539b99ec3563b0e2d99?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e3d536b99ec3563b0e2d92?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
