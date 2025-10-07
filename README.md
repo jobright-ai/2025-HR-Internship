@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e473151852e62f00806151?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68e473051852e62f0080613d?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Oct 06 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e472591852e62f00806096?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Oct 06 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e46f9ef758fe1f97e68548?utm_campaign=1054&utm_source=git)** | Anderson, CA | On Site | Oct 06 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e46ff1b99ec3563b0ea622?utm_campaign=1054&utm_source=git)** | Anderson, CA | On Site | Oct 06 |
 | **[Jerry](https://jerry.ai)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46f97f758fe1f97e68541?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 06 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46e7df758fe1f97e68418?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[People & Culture Intern](https://jobright.ai/jobs/info/68e46c881852e62f00805d93?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | Remote | Oct 06 |
@@ -147,10 +147,10 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c7e01852e62f007fdf2c?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c79ff758fe1f97e606db?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c70ef758fe1f97e6068d?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Operations](https://jobright.ai/jobs/info/68e3c70db99ec3563b0e276f?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 06 |
