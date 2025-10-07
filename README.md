@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd200fe23def7af55b5ae6?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Oct 07 |
+| **[West Michigan Hispanic Chamber of Commerce](https://westmihcc.org)** | **[HR Payroll and Work Study Site Intern - copy](https://jobright.ai/jobs/info/68e509e7b99ec3563b0efc1d?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Oct 07 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation Incentive - EDRP Approved](https://jobright.ai/jobs/info/68e507741852e62f0080b505?utm_campaign=1054&utm_source=git)** | Bonham, TX | On Site | Oct 07 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/68e4f2f8b99ec3563b0ef787?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 07 |
-| **[Romega Solutions](www.romega-solutions.com)** | **[Recruiter](https://jobright.ai/jobs/info/68e4d554b99ec3563b0eeb71?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Labor Markets & Workforce Development Internship, Brookings Metro (Job ID 2026-3725)](https://jobright.ai/jobs/info/68e49089ae2b894b1d7067ea?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 06 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/68e48784f758fe1f97e69251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 06 |
 | **[Grainger](https://www.grainger.com)** | **[Human Resources Intern - Customer Experience](https://jobright.ai/jobs/info/68e487161852e62f00806c8e?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | Hybrid | Oct 06 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Early Talent Internship: Nuveen Equities & Fixed Income (NEFI)](https://jobright.ai/jobs/info/68e3dbf91852e62f007fe771?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Retirement Solutions & Wealth Management](https://jobright.ai/jobs/info/68e3d7c4f758fe1f97e60de8?utm_campaign=1054&utm_source=git)** | Frisco, TX | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3d7a11852e62f007fe65a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3d7991852e62f007fe655?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3d7451852e62f007fe626?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Business Intelligence](https://jobright.ai/jobs/info/68e3d7181852e62f007fe60d?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Business Intelligence](https://jobright.ai/jobs/info/68e3d6e2f758fe1f97e60d6c?utm_campaign=1054&utm_source=git)** | West Chicago, IL | On Site | Oct 06 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c7e01852e62f007fdf2c?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c79ff758fe1f97e606db?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71ff758fe1f97e60695?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c70ef758fe1f97e6068d?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Operations](https://jobright.ai/jobs/info/68e3c70db99ec3563b0e276f?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 06 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Human Resources IT](https://jobright.ai/jobs/info/68c7a2c9db52c07d2884d8c6?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 06 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - HUMAN RESOURCES (HDQ)](https://jobright.ai/jobs/info/68c7d7b3f42a830e1c7e8547?utm_campaign=1054&utm_source=git)** | Bismarck, ND | On Site | Oct 06 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES CO-OP](https://jobright.ai/jobs/info/68e3b5c51852e62f007fd70b?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Oct 06 |
-| **[ByteDance](http://bytedance.com)** | **[Global Mobility Coordinator Intern-(HROP) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ac12b9758f2e4ac30042e5?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
