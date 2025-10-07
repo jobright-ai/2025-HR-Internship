@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Human Resources, Employee Benefits](https://jobright.ai/jobs/info/68cd56d3e23def7af55b871b?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Oct 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Spring 2026](https://jobright.ai/jobs/info/68c8a6ac95f5211cd2ce7eab?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 07 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/68e52937ae2b894b1d70b4bb?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 07 |
+| ↳ | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/68e52845b99ec3563b0f08fa?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Oct 07 |
+| **[Health and Safety Council®](http://www.hasc.com)** | **[Human Resources Assistant - Intern](https://jobright.ai/jobs/info/68e525e9ae2b894b1d70b04b?utm_campaign=1054&utm_source=git)** | Pasadena, TX | On Site | Oct 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68c8a67b95f5211cd2ce7e4a?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Oct 07 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd200fe23def7af55b5ae6?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Oct 07 |
 | **[West Michigan Hispanic Chamber of Commerce](https://westmihcc.org)** | **[HR Payroll and Work Study Site Intern - copy](https://jobright.ai/jobs/info/68e509e7b99ec3563b0efc1d?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Oct 07 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation Incentive - EDRP Approved](https://jobright.ai/jobs/info/68e507741852e62f0080b505?utm_campaign=1054&utm_source=git)** | Bonham, TX | On Site | Oct 07 |
@@ -85,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e42b9db99ec3563b0e6fe1?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Oct 06 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Organizational and Leadership Development Graduate Intern](https://jobright.ai/jobs/info/68e42a281852e62f008024c3?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Oct 06 |
 | **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e42957f758fe1f97e649b4?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
-| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Human Resources Part-Time Intern](https://jobright.ai/jobs/info/68e42938b99ec3563b0e6c55?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 06 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e42889b99ec3563b0e6b4d?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Oct 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/68e441f2f758fe1f97e662ea?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Oct 06 |
 | **[The Berg Group](https://berggroup.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e41c161852e62f00801a48?utm_campaign=1054&utm_source=git)** | Chaska, MN, USA | On Site | Oct 06 |
@@ -95,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Human Resources)](https://jobright.ai/jobs/info/68e418b8b99ec3563b0e5c97?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Oct 06 |
 | **[BCI Burke Company](http://www.bciburke.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e41591b99ec3563b0e5bd7?utm_campaign=1054&utm_source=git)** | Fond Du Lac, WI | On Site | Oct 06 |
 | **[OVD Insurance](https://ovdinsurance.com)** | **[Employee Benefits Data Analytics Intern](https://jobright.ai/jobs/info/68e414deb99ec3563b0e5aac?utm_campaign=1054&utm_source=git)** | OVD Insurance, Grand Rapids | On Site | Oct 06 |
+| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Human Resources Part-Time Intern](https://jobright.ai/jobs/info/68e41376b99ec3563b0e5695?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 06 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Aggregate Summer Intern](https://jobright.ai/jobs/info/68e412921852e62f00800bb8?utm_campaign=1054&utm_source=git)** | Sisquoc, California | On Site | Oct 06 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Lung Access Strategy - Intern](https://jobright.ai/jobs/info/68e41258f758fe1f97e63301?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 06 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Distribution Center HR - Communications](https://jobright.ai/jobs/info/68e40e021852e62f00800994?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Oct 06 |
@@ -130,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e3d6171852e62f007fe4e0?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 06 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Nuveen Clean Energy Infrastructure](https://jobright.ai/jobs/info/68e3d5fbf758fe1f97e60c46?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Equities & Fixed Income (NEFI)](https://jobright.ai/jobs/info/68e3d5c91852e62f007fe45b?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3d5c1f758fe1f97e60be4?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Business Intelligence](https://jobright.ai/jobs/info/68e3d5b9f758fe1f97e60bde?utm_campaign=1054&utm_source=git)** | Chicago, IL - 333 West Wacker Drive | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3d585f758fe1f97e60ba5?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Nuveen Clean Energy Infrastructure](https://jobright.ai/jobs/info/68e3d5641852e62f007fe3ab?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c7e01852e62f007fdf2c?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Client Services](https://jobright.ai/jobs/info/68e3c79ff758fe1f97e606db?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3c754f758fe1f97e606ad?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Technology](https://jobright.ai/jobs/info/68e3c71fb99ec3563b0e2787?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279f?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
+| ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c72bb99ec3563b0e279e?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: TIAA Enterprise Analytics](https://jobright.ai/jobs/info/68e3c7171852e62f007fdea8?utm_campaign=1054&utm_source=git)** | Charlotte, NC, USA | Hybrid | Oct 06 |
 | ↳ | **[2026 Early Talent Internship: Office of the Chief Administrative Office (Technology)](https://jobright.ai/jobs/info/68e3c70ef758fe1f97e6068d?utm_campaign=1054&utm_source=git)** | Iselin, NJ, USA | Hybrid | Oct 06 |
-| ↳ | **[2026 Early Talent Internship: Nuveen Operations](https://jobright.ai/jobs/info/68e3c70db99ec3563b0e276f?utm_campaign=1054&utm_source=git)** | Chicago, IL, USA | Hybrid | Oct 06 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Human Resources IT](https://jobright.ai/jobs/info/68c7a2c9db52c07d2884d8c6?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Oct 06 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - HUMAN RESOURCES (HDQ)](https://jobright.ai/jobs/info/68c7d7b3f42a830e1c7e8547?utm_campaign=1054&utm_source=git)** | Bismarck, ND | On Site | Oct 06 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES CO-OP](https://jobright.ai/jobs/info/68e3b5c51852e62f007fd70b?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
