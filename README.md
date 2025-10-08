@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Talent Management Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ca760d5f9f0336447ddf1e?utm_campaign=1054&utm_source=git)** | Franklin, TN | On Site | Oct 08 |
+| **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Oct 08 |
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e648431852e62f0081a506?utm_campaign=1054&utm_source=git)** | Roanoke, TX | On Site | Oct 08 |
 | **[People Incorporated](https://peopleincfr.org/)** | **[Internship](https://jobright.ai/jobs/info/68e64359ae2b894b1d719750?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Oct 08 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/68e641e5ae2b894b1d71965c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 08 |
@@ -90,11 +92,11 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Payroll Compliance Intern (Walnut Creek - Spring 26)](https://jobright.ai/jobs/info/68e571fdb99ec3563b0f4a19?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Oct 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57028b99ec3563b0f472a?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Kite Realty Group](http://kiterealty.com/)** | **[Intern-Human Resources](https://jobright.ai/jobs/info/68e56ff71852e62f0080ff78?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, USA | On Site | Oct 07 |
+| **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e59986b99ec3563b0f7253?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Oct 07 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68e59964b99ec3563b0f7218?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Oct 07 |
 | **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e596d7ae2b894b1d711863?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Oct 07 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Talent Acquisition Intern, DreamWorks Animation, Spring 2026](https://jobright.ai/jobs/info/68e56af5ae2b894b1d70eb51?utm_campaign=1054&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Oct 07 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/68e56a53ae2b894b1d70ea35?utm_campaign=1054&utm_source=git)** | Evansville, IN | On Site | Oct 07 |
-| **[Virginia Economic Development Partnership](https://www.vedp.org)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e58e5a1852e62f00811eeb?utm_campaign=1054&utm_source=git)** | Richmond, VA | Hybrid | Oct 07 |
 | **[Voyatek](https://www.voyatek.com/)** | **[HR Analyst Intern](https://jobright.ai/jobs/info/68e563691852e62f0080f358?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 07 |
 | **[Midea America](https://www.midea.com/us/)** | **[HR and IT Systems Internship](https://jobright.ai/jobs/info/68e55b141852e62f0080ecac?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68e59fe7ae2b894b1d7120ce?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 07 |
@@ -119,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd200fe23def7af55b5ae6?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Oct 07 |
 | **[West Michigan Hispanic Chamber of Commerce](https://westmihcc.org)** | **[HR Payroll and Work Study Site Intern - copy](https://jobright.ai/jobs/info/68e509e7b99ec3563b0efc1d?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Oct 07 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Staff Psychologist - Recruitment/Relocation Incentive - EDRP Approved](https://jobright.ai/jobs/info/68e507741852e62f0080b505?utm_campaign=1054&utm_source=git)** | Bonham, TX | On Site | Oct 07 |
+| **[Lockton](https://global.lockton.com)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68c93f3695f5211cd2cef72b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/68e4f2f8b99ec3563b0ef787?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 07 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Labor Markets & Workforce Development Internship, Brookings Metro (Job ID 2026-3725)](https://jobright.ai/jobs/info/68e49089ae2b894b1d7067ea?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 06 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/68e48784f758fe1f97e69251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, HR Business Partner](https://jobright.ai/jobs/info/68e40cf1f758fe1f97e62fdd?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Oct 06 |
 | ↳ | **[Intern, Human Resources-Distribution Center](https://jobright.ai/jobs/info/68e40bf9b99ec3563b0e50f7?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 06 |
 | ↳ | **[Intern, HR Project Management](https://jobright.ai/jobs/info/68e40af31852e62f0080071f?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 06 |
-| ↳ | **[Intern, Human Resources-Distribution Center](https://jobright.ai/jobs/info/68e40a8df758fe1f97e62e43?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 HR Systems Intern](https://jobright.ai/jobs/info/68e40424b99ec3563b0e4e68?utm_campaign=1054&utm_source=git)** | Kansas City, KS | On Site | Oct 06 |
-| **[The Berg Group](https://berggroup.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e4208a1852e62f00801c63?utm_campaign=1054&utm_source=git)** | Chaska, MN | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
