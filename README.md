@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e5f76aae2b894b1d715db8?utm_campaign=1054&utm_source=git)** | Oshkosh, WI | On Site | Oct 07 |
+| **[Dirt Roads](dirtroads.com)** | **[Intern - Talent Coordinator](https://jobright.ai/jobs/info/68e5f6801852e62f00816b28?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
+| **[Travis Credit Union](http://www.traviscu.org)** | **[Internship Program](https://jobright.ai/jobs/info/68e5f086ae2b894b1d715837?utm_campaign=1054&utm_source=git)** | Vacaville, CA | Hybrid | Oct 07 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e5cff61852e62f00814a29?utm_campaign=1054&utm_source=git)** | Asbury Park, NJ | On Site | Oct 07 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Human Resources & Office Operations Intern](https://jobright.ai/jobs/info/68e5cb021852e62f00814757?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Volunteer Program Intern](https://jobright.ai/jobs/info/68e5ca29e8daec61499a47b0?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern (Stanford Proximity)](https://jobright.ai/jobs/info/68e5a9291852e62f0081350b?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 07 |
 | **[RBC](https://www.rbc.com)** | **[2026 Advisor Recruiting Summer Internship - USWM](https://jobright.ai/jobs/info/68e59cf41852e62f00812bbf?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 07 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern](https://jobright.ai/jobs/info/68e59573ae2b894b1d7116a3?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Oct 07 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Spring/Summer 2026 Human Resources Intern - Oxnard, CA](https://jobright.ai/jobs/info/68e58f73b99ec3563b0f6783?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e58b871852e62f00811bce?utm_campaign=1054&utm_source=git)** | Remote, Wisconsin, United States | Remote | Oct 07 |
 | **[RBC](https://www.rbc.com)** | **[2026 Advisor Recruiting Summer Internship - USWM](https://jobright.ai/jobs/info/68e58aaf1852e62f00811af3?utm_campaign=1054&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e58a9eae2b894b1d710c8e?utm_campaign=1054&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Oct 07 |
@@ -93,11 +97,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern - Year Round](https://jobright.ai/jobs/info/68e54b7db99ec3563b0f2866?utm_campaign=1054&utm_source=git)** | 101 Oakley Street, Downtown | On Site | Oct 07 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e54811b99ec3563b0f23cb?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Oct 07 |
 | **[Compassus](https://www.compassus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e547ef1852e62f0080db58?utm_campaign=1054&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Spring/Summer 2026 Human Resources Intern - Oxnard, CA](https://jobright.ai/jobs/info/68e547a6b99ec3563b0f2324?utm_campaign=1054&utm_source=git)** | Oxnard, CA | On Site | Oct 07 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e543e6b99ec3563b0f20e8?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 07 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[HR Intern](https://jobright.ai/jobs/info/68e567ae1852e62f0080f6c0?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Oct 07 |
 | **[Safran](http://www.safran-group.com)** | **[International Mobility Intern-SHRS](https://jobright.ai/jobs/info/68e54271ae2b894b1d70c914?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Oct 07 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/68e54199b99ec3563b0f1e16?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 07 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e5416fae2b894b1d70c7e9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 07 |
 | **[Interstates](http://interstates.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68e54105b99ec3563b0f1d98?utm_campaign=1054&utm_source=git)** | Sioux Center, IA | On Site | Oct 07 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e53fbeb99ec3563b0f1c59?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 07 |
 | ↳ | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e53f02ae2b894b1d70c50c?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 07 |
@@ -115,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Walden Security](http://www.waldensecurity.com)** | **[Human Resources Intern - Fall Semester 2025 - Chattanooga, TN](https://jobright.ai/jobs/info/68e4f2f8b99ec3563b0ef787?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 07 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Labor Markets & Workforce Development Internship, Brookings Metro (Job ID 2026-3725)](https://jobright.ai/jobs/info/68e49089ae2b894b1d7067ea?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 06 |
 | **[PCL Construction](http://www.pcl.com)** | **[Human Resources Student](https://jobright.ai/jobs/info/68e48784f758fe1f97e69251?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 06 |
+| **[Colas USA](http://colasusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68df23e45ab4977c2e950efc?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 06 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Engagement Intern](https://jobright.ai/jobs/info/68e47ad61852e62f008065d7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Pneumatic Division - Richland](https://jobright.ai/jobs/info/68e476b0b99ec3563b0eaa11?utm_campaign=1054&utm_source=git)** | Richland, MI | On Site | Oct 06 |
 | **[RKL LLP](https://www.rklcpa.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68e473051852e62f0080613d?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Business Partner Intern, Fall 2025 - Spring 2026](https://jobright.ai/jobs/info/68e3f90ab99ec3563b0e43e4?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 06 |
 | **[AGIC Energy](agicenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e3f42ef758fe1f97e6205e?utm_campaign=1054&utm_source=git)** | Poway, CA | On Site | Oct 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/68e3f05cf758fe1f97e61d7a?utm_campaign=1054&utm_source=git)** | US - CO, Westminster | On Site | Oct 06 |
-| ↳ | **[Talent Attraction Intern](https://jobright.ai/jobs/info/68e3f0511852e62f007ff642?utm_campaign=1054&utm_source=git)** | US - OH, Dayton | On Site | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3e726f758fe1f97e619d3?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Market Access Precision Medicine - Intern](https://jobright.ai/jobs/info/68e3e144b99ec3563b0e3291?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 06 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship:  Nuveen Real Estate](https://jobright.ai/jobs/info/68e3ddaa1852e62f007fea18?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
