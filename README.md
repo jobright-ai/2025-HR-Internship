@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – HR Technology](https://jobright.ai/jobs/info/68e9279865768b6412b18fab?utm_campaign=1054&utm_source=git)** | Frisco, TX | Hybrid | Oct 10 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68e927979020b95add6a45da?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Oct 10 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 10 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 10 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68e901a49020b95add6a359c?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Oct 10 |
 | **[Regeneron](http://www.regeneron.com)** | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics, Statistics, Omics, Imaging, or Related Majors](https://jobright.ai/jobs/info/68e901369020b95add6a3533?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 10 |
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68e900099020b95add6a3372?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 10 |
@@ -98,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Employment Operations Internship](https://jobright.ai/jobs/info/68e82238c4895107182c2c03?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Recruiter](https://jobright.ai/jobs/info/68e8252009580a2fe57f44c5?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 09 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7ecccc4895107182bfa05?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
+| **[Textron](http://textron.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7ec9bc4895107182bf9f1?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e7ec5cc4895107182bf9e0?utm_campaign=1054&utm_source=git)** | Marinette, WI, United States | On Site | Oct 09 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Workforce Wellbeing Internship](https://jobright.ai/jobs/info/68e7ec22c4895107182bf9ce?utm_campaign=1054&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Oct 09 |
-| **[Textron](http://textron.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7eb5209580a2fe57f0e58?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Woburn, MA](https://jobright.ai/jobs/info/68e7e79dcc49a84b7e0ff345?utm_campaign=1054&utm_source=git)** | Woburn, MA 01801 | Hybrid | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Talent & Organization Internship](https://jobright.ai/jobs/info/68e7e6c1c4895107182bf359?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Oct 09 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e7e5f6cc49a84b7e0ff0bf?utm_campaign=1054&utm_source=git)** | Marinette, WI | On Site | Oct 09 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent (m/w/d) HR Recruiting](https://jobright.ai/jobs/info/68e7ae82c4895107182bcc72?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Oct 09 |
 | **[RKL eSolutions LLC](http://rklesolutions.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68e7956d60ad860a1dc80615?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Oct 09 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/6892b898f47efe211395e793?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 09 |
-| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae31852e62f0082494e?utm_campaign=1054&utm_source=git)** | NY- New York | On Site | Oct 08 |
-| ↳ | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae3ae2b894b1d723c20?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
+| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae3ae2b894b1d723c20?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
+| ↳ | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae31852e62f0082494e?utm_campaign=1054&utm_source=git)** | NY- New York | On Site | Oct 08 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e75730e8daec61499b48d0?utm_campaign=1054&utm_source=git)** | Middletown, OH | On Site | Oct 08 |
 | **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e7810c15da181e7e4edd01?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 08 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/68e75bc6ae2b894b1d723e2a?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a9411852e62f0081d333?utm_campaign=1054&utm_source=git)** | Highland Heights, OH | On Site | Oct 08 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026 (Rehlko)](https://jobright.ai/jobs/info/68e6a698e8daec61499ad239?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a4c7ae2b894b1d71c273?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 08 |
-| ↳ | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a1dbe8daec61499acf88?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 08 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Organizational Development Intern](https://jobright.ai/jobs/info/68e69e0fae2b894b1d71bd61?utm_campaign=1054&utm_source=git)** | Georgia-Roswell | On Site | Oct 08 |
-| **[Egan Company](https://www.eganco.com/)** | **[Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68e6994e1852e62f0081c822?utm_campaign=1054&utm_source=git)** | Champlin, MN | Hybrid | Oct 08 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Workforce Administration Summer Internship](https://jobright.ai/jobs/info/68e68a7b1852e62f0081c091?utm_campaign=1054&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
