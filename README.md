@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 10 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - HR Department](https://jobright.ai/jobs/info/68e8c64a2e74df3042370987?utm_campaign=1054&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Oct 09 |
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8a3a8cc49a84b7e108441?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Schwickert's Tecta America](http://schwickerts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e88526cc49a84b7e107343?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Oct 09 |
-| **[Adelphoi](http://www.adelphoi.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8815ac72beb74cb31f63e?utm_campaign=1054&utm_source=git)** | Latrobe, PA | On Site | Oct 09 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Wealth Client Services](https://jobright.ai/jobs/info/68e87a6209580a2fe57f80de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[ADT](http://www.adt.com)** | **[AI Intern – Talent Acquisition Technology](https://jobright.ai/jobs/info/68e87370c72beb74cb31eaf6?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 09 |
@@ -93,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Employment Operations Internship](https://jobright.ai/jobs/info/68e82238c4895107182c2c03?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Recruiter](https://jobright.ai/jobs/info/68e8252009580a2fe57f44c5?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 09 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7ecccc4895107182bfa05?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
-| **[Textron](http://textron.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7ec9bc4895107182bf9f1?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e7ec5cc4895107182bf9e0?utm_campaign=1054&utm_source=git)** | Marinette, WI, United States | On Site | Oct 09 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Workforce Wellbeing Internship](https://jobright.ai/jobs/info/68e7ec22c4895107182bf9ce?utm_campaign=1054&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Oct 09 |
+| **[Textron](http://textron.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e7eb5209580a2fe57f0e58?utm_campaign=1054&utm_source=git)** | US-Georgia-Augusta | On Site | Oct 09 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Human Resources Internship / Woburn, MA](https://jobright.ai/jobs/info/68e7e79dcc49a84b7e0ff345?utm_campaign=1054&utm_source=git)** | Woburn, MA 01801 | Hybrid | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Talent & Organization Internship](https://jobright.ai/jobs/info/68e7e6c1c4895107182bf359?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Oct 09 |
 | **[Samuel, Son & Co.](https://nelsonsteel.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e7e5f6cc49a84b7e0ff0bf?utm_campaign=1054&utm_source=git)** | Marinette, WI | On Site | Oct 09 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/68e7bb9709580a2fe57eef24?utm_campaign=1054&utm_source=git)** | King of Prussia, PA | Hybrid | Oct 09 |
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent (m/w/d) HR Recruiting](https://jobright.ai/jobs/info/68e7ae82c4895107182bcc72?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Oct 09 |
 | **[RKL eSolutions LLC](http://rklesolutions.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68e7956d60ad860a1dc80615?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Oct 09 |
-| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae31852e62f0082494e?utm_campaign=1054&utm_source=git)** | NY- New York | On Site | Oct 08 |
-| ↳ | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae3ae2b894b1d723c20?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
+| **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae3ae2b894b1d723c20?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 08 |
+| ↳ | **[Summer 2026 People Experience Internship](https://jobright.ai/jobs/info/68e75ae31852e62f0082494e?utm_campaign=1054&utm_source=git)** | NY- New York | On Site | Oct 08 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e75730e8daec61499b48d0?utm_campaign=1054&utm_source=git)** | Middletown, OH | On Site | Oct 08 |
 | **[Sully-Miller Contracting Co.](http://sully-miller.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e7810c15da181e7e4edd01?utm_campaign=1054&utm_source=git)** | Brea, CA | On Site | Oct 08 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[2026 Future Talent Program - Global Market Access Vaccines & Infectious Diseases - Intern](https://jobright.ai/jobs/info/68e75bc6ae2b894b1d723e2a?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 08 |
