@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 11 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cde4d5e23def7af55c0070?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea1e764a45b1233cc2fe34?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Oct 11 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea169fcfc08e4908915aa7?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Oct 11 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Oct 10 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Oct 10 |
 | **[FlyteVu](https://www.flytevu.com)** | **[Talent & Partnerships Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9ad610930fe0bc46282fd?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ea5e2a8369791ef782174f?utm_campaign=1054&utm_source=git)** | Blythe, CA | On Site | Oct 10 |
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Human Resource Intern - J0048556](https://jobright.ai/jobs/info/68e3947ef758fe1f97e5f64e?utm_campaign=1054&utm_source=git)** | Rock Spring, GA | On Site | Oct 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99b32f195760c354ab20d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99666f195760c354aaf31?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 10 |
@@ -110,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e95faef195760c354a8558?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 10 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
+| **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/68e9530c9020b95add6a5cd1?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Technical Recruiter - Intern](https://jobright.ai/jobs/info/68e9530c9020b95add6a5cd1?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Career Development Program](https://jobright.ai/jobs/info/68e942e99020b95add6a52d8?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
@@ -129,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68e9014865768b6412b17f64?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Oct 10 |
 | **[CU Online](https://online.cu.edu/)** | **[Employer Relations Manager](https://jobright.ai/jobs/info/68e9fc72cdf8d94b293a3a55?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Oct 09 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - HR Department](https://jobright.ai/jobs/info/68e8c64a2e74df3042370987?utm_campaign=1054&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Oct 09 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/68ea572276a1db7c5985a3d9?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Oct 09 |
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8a3a8cc49a84b7e108441?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Schwickert's Tecta America](http://schwickerts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e88526cc49a84b7e107343?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Oct 09 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Wealth Client Services](https://jobright.ai/jobs/info/68e87a6209580a2fe57f80de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Garver](https://garverusa.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/68e9935665768b6412b1db4e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 09 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e8484b09580a2fe57f63b5?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 09 |
 | **[Archer Integrated Risk Management](https://www.archerirm.com/)** | **[Archer Graduate Intern](https://jobright.ai/jobs/info/68e845a4cc49a84b7e104a2d?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Oct 09 |
+| **[Valeo Financial Advisors LLC](http://www.valeofinancial.com/)** | **[Summer 2026: Human Resources Internship](https://jobright.ai/jobs/info/68e8457dc72beb74cb31d06d?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 09 |
 | **[Southwire Company](http://southwire.com)** | **[Compounding Intern](https://jobright.ai/jobs/info/68e83cfecc49a84b7e1042ab?utm_campaign=1054&utm_source=git)** | Carrollton, GA | Hybrid | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e82ee5c4895107182c37f8?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Private Wealth Client Services](https://jobright.ai/jobs/info/68e82e4ecc49a84b7e103453?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Ennismore](https://ennismore.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68e82a33c4895107182c34e1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Oct 09 |
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Internship Program – People & Culture  Intern (Campus)](https://jobright.ai/jobs/info/68ccff3877add66568abd722?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
-| **[Valeo Financial Advisors LLC](http://www.valeofinancial.com/)** | **[Summer 2026: Human Resources Internship](https://jobright.ai/jobs/info/68e81f53cc49a84b7e1025b4?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 09 |
 | **[Textron](http://textron.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e81796cc49a84b7e1020e8?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 09 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Oncology Business Delivery Intern - Summer 2026](https://jobright.ai/jobs/info/68e8138d09580a2fe57f34d5?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Oct 09 |
-| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e830a2cc49a84b7e103840?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 09 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Claims Adjuster-Crop Intern (Summer 2026-IL)](https://jobright.ai/jobs/info/68e80fbacc49a84b7e101759?utm_campaign=1054&utm_source=git)** | Illinois, United States | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
