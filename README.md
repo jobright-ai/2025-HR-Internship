@@ -104,7 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Garland, TX (Miller)](https://jobright.ai/jobs/info/68e98cc065768b6412b1d5b9?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Oct 10 |
 | **[WFYI Public Media](https://www.wfyi.org/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68e98c680930fe0bc462701b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Winter Haven, FL](https://jobright.ai/jobs/info/68e98a3bf195760c354aa786?utm_campaign=1054&utm_source=git)** | Winter Haven, FL | On Site | Oct 10 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e987def195760c354aa40c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68eacfe72f64880ca0b54401?utm_campaign=1054&utm_source=git)** | Menlo Park, CA | Hybrid | Oct 10 |
+| ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e987def195760c354aa40c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Arlington, TX](https://jobright.ai/jobs/info/68e987b3f195760c354aa3ce?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Oct 10 |
 | ↳ | **[2026 HR Intern - Baltimore, MD](https://jobright.ai/jobs/info/68e9875af195760c354aa35c?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
 | **[Civil Science](http://civilscience.com)** | **[HR/Talent Acquisition Internship](https://jobright.ai/jobs/info/68e9800765768b6412b1ccb9?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Oct 10 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Intern Talent Acquisition](https://jobright.ai/jobs/info/68e9530c9020b95add6a5cd1?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68e8504109580a2fe57f67f7?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Oct 09 |
 | **[Garver](https://garverusa.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/68e9935665768b6412b1db4e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 09 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e8484b09580a2fe57f63b5?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 09 |
-| **[Archer Integrated Risk Management](https://www.archerirm.com/)** | **[Archer Graduate Intern](https://jobright.ai/jobs/info/68e845a4cc49a84b7e104a2d?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
