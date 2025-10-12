@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Oct 10 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Oct 10 |
 | **[FlyteVu](https://www.flytevu.com)** | **[Talent & Partnerships Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9ad610930fe0bc46282fd?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68e219b4b99ec3563b0da12a?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Oct 10 |
 | **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Human Resource Intern - J0048556](https://jobright.ai/jobs/info/68e3947ef758fe1f97e5f64e?utm_campaign=1054&utm_source=git)** | Rock Spring, GA | On Site | Oct 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99b32f195760c354ab20d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99666f195760c354aaf31?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Washington](http://access.wa.gov/)** | **[L&I Workers' Compensation Adjudicator 4/Claims Training](https://jobright.ai/jobs/info/68e965840930fe0bc46254e3?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | Hybrid | Oct 09 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68e8504109580a2fe57f67f7?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Oct 09 |
 | **[Garver](https://garverusa.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/68e9935665768b6412b1db4e?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 09 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68e8484b09580a2fe57f63b5?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
