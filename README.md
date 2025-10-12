@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[University of Colorado, Boulder Fall 2025 Technology, Innovation & Mathematics Career & Internship Fair](https://jobright.ai/jobs/info/68ec021c76a1db7c59861b43?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 12 |
+| ↳ | **[University of Colorado, Boulder Fall 2025 Technology, Innovation & Mathematics Career & Internship Fair](https://jobright.ai/jobs/info/68ec01f276a1db7c59861b2b?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Oct 12 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68ebdb7e8369791ef78285c8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Oct 12 |
 | **[Bubble](https://hellobubble.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68ebdb568369791ef78285b5?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Masters/PhD- Bioinformatics, Data Science, Computer Science, IT,](https://jobright.ai/jobs/info/68ebc8522f64880ca0b596aa?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68ebc7fb76a1db7c598615bc?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68ebbf8f8369791ef7828338?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Oct 12 |
 | ↳ | **[Regional Internship Manager](https://jobright.ai/jobs/info/68ebbf4576a1db7c598614d5?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Oct 12 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[HR Intern](https://jobright.ai/jobs/info/68ebbb2f8369791ef78282a5?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 12 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68eb8c7c8369791ef7827ad9?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Oct 12 |
 | **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cb1ebfba798c1a501cc043?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Oct 12 |
 | **[E-Z-GO](https://ezgo.txtsv.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68eba68976a1db7c598611db?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 12 |
@@ -141,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CU Online](https://online.cu.edu/)** | **[Employer Relations Manager](https://jobright.ai/jobs/info/68e9fc72cdf8d94b293a3a55?utm_campaign=1054&utm_source=git)** | Boulder, CO | On Site | Oct 09 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - HR Department](https://jobright.ai/jobs/info/68e8c64a2e74df3042370987?utm_campaign=1054&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Oct 09 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/68ea572276a1db7c5985a3d9?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Oct 09 |
-| **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8a3a8cc49a84b7e108441?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
