@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68ebdb7e8369791ef78285c8?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Oct 12 |
+| **[Bubble](https://hellobubble.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68ebdb568369791ef78285b5?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Masters/PhD- Bioinformatics, Data Science, Computer Science, IT,](https://jobright.ai/jobs/info/68ebc8522f64880ca0b596aa?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
 | ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics,](https://jobright.ai/jobs/info/68ebc8478369791ef7828430?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
 | ↳ | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related](https://jobright.ai/jobs/info/68ebc8342f64880ca0b596a1?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
@@ -139,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - HR Department](https://jobright.ai/jobs/info/68e8c64a2e74df3042370987?utm_campaign=1054&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Oct 09 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/68ea572276a1db7c5985a3d9?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Oct 09 |
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8a3a8cc49a84b7e108441?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
-| **[Schwickert's Tecta America](http://schwickerts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e88526cc49a84b7e107343?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Oct 09 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Wealth Client Services](https://jobright.ai/jobs/info/68e87a6209580a2fe57f80de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
