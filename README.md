@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer 2026 Intern- Masters/PhD- Bioinformatics, Data Science, Computer Science, IT,](https://jobright.ai/jobs/info/68ebc8522f64880ca0b596aa?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
+| ↳ | **[Summer 2026 Intern- Bachelors- Bioinformatics, Data Science, Computer Science, IT, Biostatistics,](https://jobright.ai/jobs/info/68ebc8478369791ef7828430?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
+| ↳ | **[Summer 2026 Intern- PharmD, Pharmacy, Pharmacoepi, Epidemiology, HEOR & Public Health, or Related](https://jobright.ai/jobs/info/68ebc8342f64880ca0b596a1?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
+| ↳ | **[Summer 2026 Intern- Human Resources, Marketing, Communications, Graphic Design, or Related Majors](https://jobright.ai/jobs/info/68ebc7fb76a1db7c598615bc?utm_campaign=1054&utm_source=git)** | Tarrytown, NY | On Site | Oct 12 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68ebbf8f8369791ef7828338?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Oct 12 |
+| ↳ | **[Regional Internship Manager](https://jobright.ai/jobs/info/68ebbf4576a1db7c598614d5?utm_campaign=1054&utm_source=git)** | Vienna, VA | On Site | Oct 12 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[HR Intern](https://jobright.ai/jobs/info/68ebbb2f8369791ef78282a5?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 12 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68eb8c7c8369791ef7827ad9?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Oct 12 |
 | **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cb1ebfba798c1a501cc043?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Oct 12 |
 | **[E-Z-GO](https://ezgo.txtsv.com/)** | **[2026 HR Intern](https://jobright.ai/jobs/info/68eba68976a1db7c598611db?utm_campaign=1054&utm_source=git)** | Augusta, GA | On Site | Oct 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e8a3a8cc49a84b7e108441?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Schwickert's Tecta America](http://schwickerts.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e88526cc49a84b7e107343?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Oct 09 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Wealth Client Services](https://jobright.ai/jobs/info/68e87a6209580a2fe57f80de?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
-| **[ADT](http://www.adt.com)** | **[AI Intern – Talent Acquisition Technology](https://jobright.ai/jobs/info/68e87370c72beb74cb31eaf6?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 09 |
-| **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Human Resources (Spring 2026)](https://jobright.ai/jobs/info/68e9cbdecdf8d94b293a269d?utm_campaign=1054&utm_source=git)** | Wolf Trap, VA | On Site | Oct 09 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 09 |
-| ↳ | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Oct 09 |
-| ↳ | **[Spring 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/68e86bb9c72beb74cb31e6d4?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 09 |
-| **[ADT](http://www.adt.com)** | **[Automation Intern – Talent Acquisition Operations](https://jobright.ai/jobs/info/68e8820109580a2fe57f869d?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 09 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/68e85f9bcc49a84b7e105a6f?utm_campaign=1054&utm_source=git)** | Colorado, Pennsylvania | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
