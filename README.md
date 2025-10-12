@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68eb8c7c8369791ef7827ad9?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Oct 12 |
+| **[Generac](https://www.generac.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cb1ebfba798c1a501cc043?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Oct 12 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68eab6008369791ef7822d4c?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 11 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Regional Internship Manager](https://jobright.ai/jobs/info/68ea78132f64880ca0b5332a?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Oct 11 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Oct 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADT](http://www.adt.com)** | **[Automation Intern – Talent Acquisition Operations](https://jobright.ai/jobs/info/68e8820109580a2fe57f869d?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 09 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/68e85f9bcc49a84b7e105a6f?utm_campaign=1054&utm_source=git)** | Colorado, Pennsylvania | Hybrid | Oct 09 |
 | **[Tecta America Commercial Roofing](http://www.tectaamerica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e85c54c72beb74cb31dc86?utm_campaign=1054&utm_source=git)** | Mankato, Minnesota | On Site | Oct 09 |
-| **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e955ce0930fe0bc46243b4?utm_campaign=1054&utm_source=git)** | Columbia, SC | Hybrid | Oct 09 |
-| **[Tectonic Engineering Consultants, Geologists & Land Surveyors, D.P.C.](http://tectonicengineering.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9437d0930fe0bc4623969?utm_campaign=1054&utm_source=git)** | Mountainville, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
