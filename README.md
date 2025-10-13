@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed739f6335d33236129144?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Oct 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Rutland Vermont](https://jobright.ai/jobs/info/68ed5ab081fdd1626d39b7e8?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Oct 13 |
+| ↳ | **[Spring 2026 Management Trainee Intern - White River Junction Vermont](https://jobright.ai/jobs/info/68ed59526335d33236127e81?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Oct 13 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Barre Vermont](https://jobright.ai/jobs/info/68ed592a6335d33236127e45?utm_campaign=1054&utm_source=git)** | Barre, VT | On Site | Oct 13 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/68ed57ac70b66e2345d3d017?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Oct 13 |
 | **[Fabick Cat](https://www.fabickcat.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ed4f8a70b66e2345d3c9c2?utm_campaign=1054&utm_source=git)** | Fenton, MO | On Site | Oct 13 |
 | **[SMUD](https://www.smud.org/en)** | **[Talent Acquisition Intern:  Year Round](https://jobright.ai/jobs/info/68ed4ef981fdd1626d39adc9?utm_campaign=1054&utm_source=git)** | Sacramento, CA, US | Hybrid | Oct 13 |
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Talent Development](https://jobright.ai/jobs/info/68ed4ed570b66e2345d3c8a3?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (COE & COT) (NFWS)](https://jobright.ai/jobs/info/68e973300930fe0bc4625ea6?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 | ↳ | **[Program Recruitment -- Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/68e97316f195760c354a933d?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 | ↳ | **[Program Recruitment -- Program Development Specialist Intern (CNS) (NFWS)](https://jobright.ai/jobs/info/68e972a1f195760c354a92ae?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| ↳ | **[Program Recruitment -- Program Development Specialist Intern (CCOB) (NFWS)](https://jobright.ai/jobs/info/68e97274f195760c354a928a?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| ↳ | **[Program Recruitment -- Program Development Specialist Intern (CNHCP) (NFWS)](https://jobright.ai/jobs/info/68e971b965768b6412b1c090?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York City | On Site | Oct 10 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Inclusion and Corporate Impact Intern - MN, CO](https://jobright.ai/jobs/info/68ccd7f45954791a1d6ff7aa?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 10 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
