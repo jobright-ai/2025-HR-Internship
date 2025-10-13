@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deutsche Börse](http://deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/business-areas/ventures/db1ventures-contacts)** | **[Intern - Human Resources (f/m/d)](https://jobright.ai/jobs/info/68ed1d1f6335d332361258cb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 13 |
+| **[ADT](http://www.adt.com)** | **[Automation Intern – Talent Acquisition Operations](https://jobright.ai/jobs/info/68e8820109580a2fe57f869d?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 13 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccfc0b77add66568abd118?utm_campaign=1054&utm_source=git)** | Lumber Bridge, NC | On Site | Oct 13 |
 | **[Ennismore](https://ennismore.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ece67770b66e2345d39313?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 13 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ecd5e36335d33236123d1a?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 13 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68cd9b1de23def7af55bc7a5?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Oct 11 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Indianapolis, IN](https://jobright.ai/jobs/info/68eb634476a1db7c5985fb4a?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 11 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ecef5570b66e2345d39565?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 11 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Corporate Communication & Talent Acquisition](https://jobright.ai/jobs/info/68ea068454fbf903f6a809e0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68ece90881fdd1626d397af0?utm_campaign=1054&utm_source=git)** | Blythe, CA | On Site | Oct 11 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/68cde4d5e23def7af55c0070?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 11 |
@@ -114,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Oct 10 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Oct 10 |
 | **[FlyteVu](https://www.flytevu.com)** | **[Talent & Partnerships Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9ad610930fe0bc46282fd?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
-| **[Astemo Ltd.](https://www.hitachiastemo.com)** | **[Human Resource Intern - J0048556](https://jobright.ai/jobs/info/68e3947ef758fe1f97e5f64e?utm_campaign=1054&utm_source=git)** | Rock Spring, GA | On Site | Oct 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99b32f195760c354ab20d?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 10 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e99666f195760c354aaf31?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Columbus, OH](https://jobright.ai/jobs/info/68e9955f65768b6412b1ddfb?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 10 |
@@ -150,7 +150,7 @@ For a complete list, click the following sortable link below:
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
