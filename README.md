@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ennismore](https://ennismore.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/68ece67770b66e2345d39313?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 13 |
+| **[Franklin County](https://www.franklincountyohio.gov/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ecd5e36335d33236123d1a?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 13 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68ec25552f64880ca0b5a01c?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 12 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68ec22732f64880ca0b5a003?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Oct 12 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Internship Opportunity – Virtual](https://jobright.ai/jobs/info/68ec1bf52f64880ca0b59fa3?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 12 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/68ec1b8f8369791ef7828cc1?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Oct 12 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68ec0e3976a1db7c59861cf3?utm_campaign=1054&utm_source=git)** | Waterloo, IA | On Site | Oct 12 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[University of Colorado, Boulder Fall 2025 Technology, Innovation & Mathematics Career & Internship Fair](https://jobright.ai/jobs/info/68ec021c76a1db7c59861b43?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 12 |
 | ↳ | **[University of Colorado, Boulder Fall 2025 Technology, Innovation & Mathematics Career & Internship Fair](https://jobright.ai/jobs/info/68ec01f276a1db7c59861b2b?utm_campaign=1054&utm_source=git)** | Remote - Texas | Remote | Oct 12 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Technical Recruiter - Intern](https://jobright.ai/jobs/info/68e9530c9020b95add6a5cd1?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
