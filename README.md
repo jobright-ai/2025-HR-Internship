@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68ec25552f64880ca0b5a01c?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 12 |
 | **[Spokane County](http://www.spokanecounty.org//)** | **[Skillbridge Intern - Various](https://jobright.ai/jobs/info/68ec22732f64880ca0b5a003?utm_campaign=1054&utm_source=git)** | Spokane, WA | On Site | Oct 12 |
 | **[American Public Health Association](https://www.apha.org)** | **[Component Affairs Internship: 2026 spring term (Jan. 15 - May 1)](https://jobright.ai/jobs/info/68ec1f7b2f64880ca0b59fd6?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[Their Story is Our Story](https://tsosrefugees.org/)** | **[Internship Opportunity – Virtual](https://jobright.ai/jobs/info/68ec1bf52f64880ca0b59fa3?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 12 |
@@ -142,12 +143,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Recruitment -- Program Development Specialist Intern (CCOB) (NFWS)](https://jobright.ai/jobs/info/68e97274f195760c354a928a?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 | ↳ | **[Program Recruitment -- Program Development Specialist Intern (CNHCP) (NFWS)](https://jobright.ai/jobs/info/68e971b965768b6412b1c090?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 | **[Trumid](https://www.trumid.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68928f9ff47efe211395d700?utm_campaign=1054&utm_source=git)** | New York City | On Site | Oct 10 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Inclusion and Corporate Impact Intern - MN, CO](https://jobright.ai/jobs/info/68ccd7f45954791a1d6ff7aa?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 10 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e95faef195760c354a8558?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 10 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[HR Intern](https://jobright.ai/jobs/info/68e95f5b65768b6412b1b4a2?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/68e95b420930fe0bc462492c?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Oct 10 |
 | **[DonorConnect](https://www.donorconnect.life)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68e94b179020b95add6a585d?utm_campaign=1054&utm_source=git)** | Murray, UT | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e94ac99020b95add6a5821?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Intern (Workplace Experience)](https://jobright.ai/jobs/info/68e93d769020b95add6a5136?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e937b39020b95add6a4e98?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 10 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[HR Systems Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9358e65768b6412b195d7?utm_campaign=1054&utm_source=git)** | Columbia, SC, United States | Hybrid | Oct 10 |
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 10 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M -Employee Engagement Summer Intern - TN](https://jobright.ai/jobs/info/68e87fd209580a2fe57f847c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 10 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68e9f7a1cfc08e4908914081?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Oct 10 |
-| **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
