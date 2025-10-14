@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tidelands Health](https://www.tidelandshealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed8dfe81fdd1626d39d7a3?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 13 |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[HR INTERN IN SAN ANTONIO TEXAS](https://jobright.ai/jobs/info/68ed8cf96335d33236129eef?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 13 |
+| **[Coinbase](https://www.coinbase.com)** | **[Talent Density Program Intern](https://jobright.ai/jobs/info/68ed871770b66e2345d3ef06?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| ↳ | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/68ed86d981fdd1626d39d5e2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[Richards Building Supply Co.](http://richards-supply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed866c6335d33236129d44?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Oct 13 |
+| **[Coinbase](https://www.coinbase.com)** | **[HR M&A Intern](https://jobright.ai/jobs/info/68ed860d6335d33236129cf5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern - Eligibility Section](https://jobright.ai/jobs/info/68ed7e0f6335d33236129938?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Oct 13 |
+| **[Emerson](http://www.emerson.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed781d81fdd1626d39ccd5?utm_campaign=1054&utm_source=git)** | Round Rock, TX | Hybrid | Oct 13 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - HR Leadership & Development Advisor - Summer 2026](https://jobright.ai/jobs/info/68ed781c6335d33236129506?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 13 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed75d770b66e2345d3e4a3?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Oct 13 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed739f6335d33236129144?utm_campaign=1054&utm_source=git)** | Rosemont, IL | On Site | Oct 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Rutland Vermont](https://jobright.ai/jobs/info/68ed5ab081fdd1626d39b7e8?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Oct 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern - White River Junction Vermont](https://jobright.ai/jobs/info/68ed59526335d33236127e81?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Oct 13 |
@@ -67,14 +77,11 @@ For a complete list, click the following sortable link below:
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Talent Development](https://jobright.ai/jobs/info/68ed4ed570b66e2345d3c8a3?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse HR Intern – Orlando, Florida](https://jobright.ai/jobs/info/68ed4eb070b66e2345d3c825?utm_campaign=1054&utm_source=git)** | ORLANDO, Florida | On Site | Oct 13 |
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Airport Operations Control Center (DFW)](https://jobright.ai/jobs/info/68ed4ea781fdd1626d39acd3?utm_campaign=1054&utm_source=git)** | US-TX-Dallas - Fort Worth (DFW) Airport | On Site | Oct 13 |
-| **[Tidelands Health](https://www.tidelandshealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed4e5181fdd1626d39aba2?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 13 |
-| **[Envoy Air](https://envoyair.com)** | **[College Intern - HR Information Systems Analyst](https://jobright.ai/jobs/info/68ed4d4e70b66e2345d3c49f?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
+| ↳ | **[College Intern - HR Information Systems Analyst](https://jobright.ai/jobs/info/68ed4d4e70b66e2345d3c49f?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | ↳ | **[College Intern - Compensation and Benefits](https://jobright.ai/jobs/info/68ed4d2770b66e2345d3c441?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | ↳ | **[College Intern - Human Resources Generalist](https://jobright.ai/jobs/info/68ed4ced70b66e2345d3c3d6?utm_campaign=1054&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | **[Family & Children's Center](https://www.fcconline.org/)** | **[RISE - Internship](https://jobright.ai/jobs/info/68ed346c70b66e2345d3b734?utm_campaign=1054&utm_source=git)** | Winona, MN | On Site | Oct 13 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68ed28f270b66e2345d3b067?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Oct 13 |
-| ↳ | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68ed4b7181fdd1626d39aa34?utm_campaign=1054&utm_source=git)** | Plain City, Ohio | On Site | Oct 13 |
-| **[Deutsche Börse](http://deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/business-areas/ventures/db1ventures-contacts)** | **[Intern - Human Resources (f/m/d)](https://jobright.ai/jobs/info/68ed1d1f6335d332361258cb?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 13 |
+| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68ed4b7181fdd1626d39aa34?utm_campaign=1054&utm_source=git)** | Plain City, Ohio | On Site | Oct 13 |
 | **[ADT](http://www.adt.com)** | **[AI Intern – Talent Acquisition Technology](https://jobright.ai/jobs/info/68e87370c72beb74cb31eaf6?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 13 |
 | ↳ | **[Automation Intern – Talent Acquisition Operations](https://jobright.ai/jobs/info/68e8820109580a2fe57f869d?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 13 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccfc0b77add66568abd118?utm_campaign=1054&utm_source=git)** | Lumber Bridge, NC | On Site | Oct 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/68e987def195760c354aa40c?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Arlington, TX](https://jobright.ai/jobs/info/68e987b3f195760c354aa3ce?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Oct 10 |
 | ↳ | **[2026 HR Intern - Baltimore, MD](https://jobright.ai/jobs/info/68e9875af195760c354aa35c?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 10 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern – Year Round (HR Service Center)](https://jobright.ai/jobs/info/68e2f62fb99ec3563b0dd2f4?utm_campaign=1054&utm_source=git)** | Winchester, VA | On Site | Oct 10 |
-| **[Civil Science](http://civilscience.com)** | **[HR/Talent Acquisition Internship](https://jobright.ai/jobs/info/68e9800765768b6412b1ccb9?utm_campaign=1054&utm_source=git)** | Lehi, UT | On Site | Oct 10 |
-| **[Weiss Asset Management](https://www.weissasset.com)** | **[Summer 2027 Internship - Resume Drop](https://jobright.ai/jobs/info/68e979b9f195760c354a97f8?utm_campaign=1054&utm_source=git)** | Boston, Massachusetts, United States | On Site | Oct 10 |
-| **[COPT Defense Properties](http://www.copt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e973f3f195760c354a947f?utm_campaign=1054&utm_source=git)** | Columbia, MD | On Site | Oct 10 |
-| **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment -- Program Development Specialist Intern (COE & COT) (NFWS)](https://jobright.ai/jobs/info/68e973300930fe0bc4625ea6?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| ↳ | **[Program Recruitment -- Program Development Specialist Intern (CAM) (NFWS)](https://jobright.ai/jobs/info/68e97316f195760c354a933d?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
-| ↳ | **[Program Recruitment -- Program Development Specialist Intern (CNS) (NFWS)](https://jobright.ai/jobs/info/68e972a1f195760c354a92ae?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
