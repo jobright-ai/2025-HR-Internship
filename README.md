@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Overview](https://www.123goecom.com/)** | **[People Operations & Talent Intern](https://jobright.ai/jobs/info/68eff10ede50091dbfa50fb1?utm_campaign=1054&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Visionary Machines](https://www.visionarymachines.com/)** | **[Future Intern Opportunities Sydney, NSW, Australia](https://jobright.ai/jobs/info/68ef96d9de50091dbfa4f24e?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 15 |
 | **[Valeo Financial Advisors LLC](http://www.valeofinancial.com/)** | **[Summer 2026: Human Resources Internship](https://jobright.ai/jobs/info/68ef779978ba1621431def91?utm_campaign=1054&utm_source=git)** | Carmel, IN | On Site | Oct 15 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68ef53b49821486c423c4590?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 15 |
-| **[Hustle Magazine](www.hustlemagazine.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ef2b6f20456578d5eb6226?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 14 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern -Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68ef0353a1a1d02df61e81f9?utm_campaign=1054&utm_source=git)** | US-WI-West Bend | Hybrid | Oct 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern / Greater New York](https://jobright.ai/jobs/info/68ef003120456578d5eb3ecb?utm_campaign=1054&utm_source=git)** | Jamaica, NY | On Site | Oct 14 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68eeff8720456578d5eb3d71?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Oct 14 |
@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Suncore](https://sunroc.com/)** | **[HR Intern – Talent Acquisition & Development (part-time)](https://jobright.ai/jobs/info/68edadab70b66e2345d3fe73?utm_campaign=1054&utm_source=git)** | UT | On Site | Oct 13 |
 | ↳ | **[HR Intern – Talent Acquisition & Development (part-time)](https://jobright.ai/jobs/info/68edab866335d3323612ab91?utm_campaign=1054&utm_source=git)** | Spanish Fork | On Site | Oct 13 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - HR Technology Innovation Research](https://jobright.ai/jobs/info/68eda55f70b66e2345d3fa60?utm_campaign=1054&utm_source=git)** | San Jose | Hybrid | Oct 13 |
-| **[Dollar General](https://www.dollargeneral.com/)** | **[HR INTERN IN SAN ANTONIO TEXAS](https://jobright.ai/jobs/info/68ed9f4c81fdd1626d39de9d?utm_campaign=1054&utm_source=git)** | SAN ANTONIO, Texas | On Site | Oct 13 |
-| ↳ | **[Summer 2026 Warehouse HR Intern](https://jobright.ai/jobs/info/68ed9ed481fdd1626d39dd7e?utm_campaign=1054&utm_source=git)** | ARDMORE, Oklahoma | On Site | Oct 13 |
+| **[Dollar General](https://www.dollargeneral.com/)** | **[HR INTERN IN SAN ANTONIO TEXAS](https://jobright.ai/jobs/info/68ed9fed6335d3323612a6af?utm_campaign=1054&utm_source=git)** | SAN ANTONIO, Texas | On Site | Oct 13 |
+| ↳ | **[Summer 2026 Warehouse HR Intern](https://jobright.ai/jobs/info/68ed9f2f6335d3323612a4cf?utm_campaign=1054&utm_source=git)** | ARDMORE, Oklahoma | On Site | Oct 13 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, I-O Psychology - Talent Assessment (Spring 2026)](https://jobright.ai/jobs/info/68ed9dba81fdd1626d39dc7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Oct 13 |
 | **[California State Treasurer's Office](https://www.treasurer.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68eeb60146e5b153e5a5e930?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Oct 13 |
 | **[Tidelands Health](https://www.tidelandshealth.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ed8dfe81fdd1626d39d7a3?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 13 |
