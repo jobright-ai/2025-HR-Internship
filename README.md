@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f18139e6870116b1f59dc3?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
+| **[Gordon Food Service](https://www.gfs.com)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f17d37e6870116b1f59cbc?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 16 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern AI & HR Process Excellence](https://jobright.ai/jobs/info/68f16cf5ef766b3f0fd0dda5?utm_campaign=1054&utm_source=git)** | CA-Remote | Remote | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f16686e6870116b1f5872e?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Oct 16 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68f16681f462172a5a7d7dfc?utm_campaign=1054&utm_source=git)** | US-NY-New York | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1667fe6870116b1f5871b?utm_campaign=1054&utm_source=git)** | Kimpton Brice Hotel - Savannah, GA | On Site | Oct 16 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Janicki](http://www.janicki.com/)** | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f15b19f462172a5a7d709b?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, WA | On Site | Oct 16 |
 | **[Tires Easy](http://tires-easy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f15a7de6870116b1f5769c?utm_campaign=1054&utm_source=git)** | USA - Remote | Remote | Oct 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship Applications](https://jobright.ai/jobs/info/68f1599eef766b3f0fd0c64a?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Oct 16 |
-| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f15850e6870116b1f57606?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f1583ff462172a5a7d6aca?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship Applications](https://jobright.ai/jobs/info/68f15714e6870116b1f574ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Oct 16 |
 | **[Janicki](http://www.janicki.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f15511ef766b3f0fd0c1b0?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, WA | On Site | Oct 16 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Graduate Intern, Human Resources](https://jobright.ai/jobs/info/68f13b78f462172a5a7d4860?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Oct 16 |
 | **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f133e2e6870116b1f54a84?utm_campaign=1054&utm_source=git)** | US - SAN JOSE (CAJOS) | On Site | Oct 16 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026](https://jobright.ai/jobs/info/68f12759e6870116b1f54111?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
+| **[American Foods Group](https://www.americanfoodsgroup.com)** | **[Human Resources Intern - America's Service Line](https://jobright.ai/jobs/info/68eb6f582f64880ca0b581ab?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Intern - Talent Acquisition (Summer 2026) - (Hybrid)](https://jobright.ai/jobs/info/68f11448f462172a5a7d2cb3?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Oct 16 |
 | **[Highgate](https://www.highgate.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f111f4f462172a5a7d29ec?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Centerstone](https://centerstone.org/)** | **[Evaluation Intern](https://jobright.ai/jobs/info/68f1336cef766b3f0fd09c3b?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 16 |
@@ -110,12 +113,13 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Crossville](https://jobright.ai/jobs/info/68f106bce6870116b1f52e28?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Oct 16 |
 | ↳ | **[Spring 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/68f106b0e6870116b1f52e1c?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Oct 16 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Oct 16 |
+| **[Ainsworth Inc](https://www.ainsworth.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68de946fa125e75c422b51f8?utm_campaign=1054&utm_source=git)** | Monroe, NJ | On Site | Oct 16 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/68f16514e6870116b1f58315?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f13401ef766b3f0fd09cf7?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Oct 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Extended Case Management Intern](https://jobright.ai/jobs/info/68f13218f462172a5a7d3f99?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Employee Relations Intern (Summer 2026) - Lenoir City, TN](https://jobright.ai/jobs/info/68f0f845e6870116b1f52643?utm_campaign=1054&utm_source=git)** | Lenoir City, TN | On Site | Oct 16 |
-| **[Janicki](http://www.janicki.com/)** | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f1232aef766b3f0fd08fe5?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68f12353f462172a5a7d35a3?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
+| **[Janicki](http://www.janicki.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f12353f462172a5a7d35a3?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
+| ↳ | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f1232aef766b3f0fd08fe5?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0de0df462172a5a7d0883?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f0dc78e6870116b1f5123a?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Oct 16 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, TRIO Talent Search](https://jobright.ai/jobs/info/68f0c991f462172a5a7cfd1e?utm_campaign=1054&utm_source=git)** | Joliet, IL | On Site | Oct 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddbede50091dbfa50bbf?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efd973de50091dbfa50aad?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
-| **[Orano USA](https://www.orano.group/usa)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68efce64de50091dbfa505e9?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Oct 15 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68efc7e49821486c423c74ff?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 15 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68efc5ce78ba1621431e0393?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
