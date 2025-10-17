@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68f1c30eef766b3f0fd11e51?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Oct 16 |
+| **[Humana](http://www.humana.com)** | **[Senior Talent Management Professional - Intern Program](https://jobright.ai/jobs/info/68f1bbbeef766b3f0fd1162c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 16 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Communications Data & Analytics - Intern](https://jobright.ai/jobs/info/68f1b691e6870116b1f5c3a7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 16 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Director of Employer Engagement, UNLV Career and Life Design [R0149373]](https://jobright.ai/jobs/info/68f1af64ef766b3f0fd10be0?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1ae85ef766b3f0fd10a47?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Oct 16 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Tires Easy](http://tires-easy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f18fd1ef766b3f0fd0f625?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 16 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[P&O Intern 1](https://jobright.ai/jobs/info/68f188acf462172a5a7d9a58?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Oct 16 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[HR Intern](https://jobright.ai/jobs/info/68f187e6f462172a5a7d9955?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 16 |
-| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f18139e6870116b1f59dc3?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f17d37e6870116b1f59cbc?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern AI & HR Process Excellence](https://jobright.ai/jobs/info/68f16cf5ef766b3f0fd0dda5?utm_campaign=1054&utm_source=git)** | CA-Remote | Remote | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f16686e6870116b1f5872e?utm_campaign=1054&utm_source=git)** | HEI Hotels & Resorts | On Site | Oct 16 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Janicki](http://www.janicki.com/)** | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f15b19f462172a5a7d709b?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, WA | On Site | Oct 16 |
 | **[Tires Easy](http://tires-easy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f15a7de6870116b1f5769c?utm_campaign=1054&utm_source=git)** | USA - Remote | Remote | Oct 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship Applications](https://jobright.ai/jobs/info/68f1599eef766b3f0fd0c64a?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Oct 16 |
+| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f15850e6870116b1f57606?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f1583ff462172a5a7d6aca?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship Applications](https://jobright.ai/jobs/info/68f15714e6870116b1f574ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Oct 16 |
 | **[Janicki](http://www.janicki.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f15511ef766b3f0fd0c1b0?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, WA | On Site | Oct 16 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68f12353f462172a5a7d35a3?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0de0df462172a5a7d0883?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f0dc78e6870116b1f5123a?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Oct 16 |
+| **[Misericordia Heart of Mercy](https://www.misericordia.com/)** | **[Federal Work Study Student: HR Clerk](https://jobright.ai/jobs/info/68f1c4bfe6870116b1f5d0fc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, TRIO Talent Search](https://jobright.ai/jobs/info/68f0c991f462172a5a7cfd1e?utm_campaign=1054&utm_source=git)** | Joliet, IL | On Site | Oct 16 |
 | **[AirBoss of America](http://airbossofamerica.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0c918f462172a5a7cfce7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Oct 16 |
 | **[JD.COM](http://corporate.jd.com)** | **[HRBP - Intern](https://jobright.ai/jobs/info/68f0c8a2f462172a5a7cfc6c?utm_campaign=1054&utm_source=git)** | Fontana, CA | On Site | Oct 16 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68f0c0c31f624a7ec1cf7975?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Oct 16 |
-| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern-IT Payroll](https://jobright.ai/jobs/info/68f12274ef766b3f0fd08eb1?utm_campaign=1054&utm_source=git)** | Houston, TX, United States | On Site | Oct 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 16 |
-| **[FJ Management](https://www.fjmgt.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f099f7a6b9004b5e321e78?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
