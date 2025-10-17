@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1959ae6870116b1f5ab31?utm_campaign=1054&utm_source=git)** | East Troy, WI, US | On Site | Oct 16 |
+| **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Oct 16 |
+| **[Tires Easy](http://tires-easy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f18fd1ef766b3f0fd0f625?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 16 |
+| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[P&O Intern 1](https://jobright.ai/jobs/info/68f188acf462172a5a7d9a58?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Oct 16 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[HR Intern](https://jobright.ai/jobs/info/68f187e6f462172a5a7d9955?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 16 |
 | **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f18139e6870116b1f59dc3?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f17d37e6870116b1f59cbc?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern AI & HR Process Excellence](https://jobright.ai/jobs/info/68f16cf5ef766b3f0fd0dda5?utm_campaign=1054&utm_source=git)** | CA-Remote | Remote | Oct 16 |
@@ -141,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Behavioral Health Coordinator (Internal Applicants Only)](https://jobright.ai/jobs/info/68f02e66de50091dbfa52f36?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Oct 15 |
 | **[The Hagerman Group](http://thehagermangroup.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f02cacde50091dbfa52a77?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Oct 15 |
 | **[The Goodyear Tire & Rubber Company](https://jobs.goodyear.com/)** | **[Goodyear Internship: Stay Connected for Future Openings](https://jobright.ai/jobs/info/68f02ab078ba1621431e298c?utm_campaign=1054&utm_source=git)** | Texarkana, AR | On Site | Oct 15 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Career Navigation Intern](https://jobright.ai/jobs/info/68f0f59ee6870116b1f520d0?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Oct 15 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Career Navigation Intern](https://jobright.ai/jobs/info/68f0f8c3e6870116b1f5278c?utm_campaign=1054&utm_source=git)** | Allentown, PA - 1110 American Parkway | Hybrid | Oct 15 |
 | **[PSEG](https://www.pseg.com)** | **[2001A Staff Intern - Human Resources](https://jobright.ai/jobs/info/68f02e5878ba1621431e31f0?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Oct 15 |
 | **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68f00a0978ba1621431e1b2c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 15 |
 | **[COOP](http://coopcareers.org)** | **[COOP Careers Fellowship for Recent Grads in San Francisco](https://jobright.ai/jobs/info/68f02f4078ba1621431e3440?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f01e48de50091dbfa51cc5?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Oct 15 |
 | **[Global Overview](https://www.123goecom.com/)** | **[People Operations & Talent Intern](https://jobright.ai/jobs/info/68eff10ede50091dbfa50fb1?utm_campaign=1054&utm_source=git)** | Minnetonka, MN | Hybrid | Oct 15 |
 | **[Discovery World](https://discoveryworld.org)** | **[Volunteer Services Intern](https://jobright.ai/jobs/info/68f0e4f5f462172a5a7d0d70?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, USA | On Site | Oct 15 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/68f00185de50091dbfa51749?utm_campaign=1054&utm_source=git)** | USA - Update Location | Hybrid | Oct 15 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddbede50091dbfa50bbf?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
