@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[FALL/SPRING COLLEGE INTERN- HUMAN RESOURCES](https://jobright.ai/jobs/info/68f1dd04f462172a5a7dd310?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Oct 16 |
 | **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68f1c30eef766b3f0fd11e51?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Oct 16 |
 | **[Humana](http://www.humana.com)** | **[Senior Talent Management Professional - Intern Program](https://jobright.ai/jobs/info/68f1bbbeef766b3f0fd1162c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 16 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Communications Data & Analytics - Intern](https://jobright.ai/jobs/info/68f1b691e6870116b1f5c3a7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 16 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f13401ef766b3f0fd09cf7?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Oct 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Extended Case Management Intern](https://jobright.ai/jobs/info/68f13218f462172a5a7d3f99?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 16 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Employee Relations Intern (Summer 2026) - Lenoir City, TN](https://jobright.ai/jobs/info/68f0f845e6870116b1f52643?utm_campaign=1054&utm_source=git)** | Lenoir City, TN | On Site | Oct 16 |
-| **[Janicki](http://www.janicki.com/)** | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f1232aef766b3f0fd08fe5?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
-| ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/68f12353f462172a5a7d35a3?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
+| **[Janicki](http://www.janicki.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f12353f462172a5a7d35a3?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
+| ↳ | **[Human Resources Training Intern](https://jobright.ai/jobs/info/68f1232aef766b3f0fd08fe5?utm_campaign=1054&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Oct 16 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0de0df462172a5a7d0883?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f0dc78e6870116b1f5123a?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Oct 16 |
 | **[Misericordia Heart of Mercy](https://www.misericordia.com/)** | **[Federal Work Study Student: HR Clerk](https://jobright.ai/jobs/info/68f1c4bfe6870116b1f5d0fc?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, TRIO Talent Search](https://jobright.ai/jobs/info/68f0c991f462172a5a7cfd1e?utm_campaign=1054&utm_source=git)** | Joliet, IL | On Site | Oct 16 |
 | **[AirBoss of America](http://airbossofamerica.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0c918f462172a5a7cfce7?utm_campaign=1054&utm_source=git)** | Auburn Hills, MI | On Site | Oct 16 |
-| **[JD.COM](http://corporate.jd.com)** | **[HRBP - Intern](https://jobright.ai/jobs/info/68f0c8a2f462172a5a7cfc6c?utm_campaign=1054&utm_source=git)** | Fontana, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
