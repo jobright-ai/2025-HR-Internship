@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f3f1149a65fd3458588c44?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68f3cc1f9a65fd3458588629?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Oct 18 |
 | **[Bass, Berry & Sims](http://www.bassberry.com)** | **[Summer Associate 2026 (DC, Nashville, Memphis)](https://jobright.ai/jobs/info/68f3cc169a65fd3458588628?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 18 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[HR Intern](https://jobright.ai/jobs/info/68f3c4cf9a65fd3458588545?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/68f27d599a65fd345857d03c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Kentucky Employee Assistance Program](https://jobright.ai/jobs/info/68f293499a63986de7568fa6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Oct 17 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68f26c6b76a51a4307bc3a49?utm_campaign=1054&utm_source=git)** | US DC Main Office | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
