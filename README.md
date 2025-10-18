@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd3c001ad6b16f02896dbf?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Oct 17 |
+| **[Flagger Force](http://flaggerforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2d07676a51a4307bc881e?utm_campaign=1054&utm_source=git)** | Hummelstown, PA | On Site | Oct 17 |
+| **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2ce699a65fd3458581333?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/68ca3622f16e3266d2824d5a?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
+| **[The Goodman Group, LLC](https://thegoodmangroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2c7c89a65fd3458580fde?utm_campaign=1054&utm_source=git)** | Largo, FL | On Site | Oct 17 |
+| **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 17 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68f2c56f9a65fd3458580dba?utm_campaign=1054&utm_source=git)** | Arlington, VA | Hybrid | Oct 17 |
+| **[Save the Children US](http://savethechildren.org)** | **[Talent Development & Engagement Intern (P&C)](https://jobright.ai/jobs/info/68f2c38e9a63986de756c163?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 17 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68f2c3539a65fd3458580bae?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 17 |
+| **[Beztak](http://beztak.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f2c30776a51a4307bc8121?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Oct 17 |
+| **[Save the Children US](http://savethechildren.org)** | **[Talent Development & Engagement Intern (P&C)](https://jobright.ai/jobs/info/68f2bed476a51a4307bc7cf9?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 17 |
+| ↳ | **[Talent Development & Engagement Intern (P&C)](https://jobright.ai/jobs/info/68f2be7d76a51a4307bc7c9b?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68f2b3a476a51a4307bc7136?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68f2ab7e9a65fd345857ef05?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Oct 17 |
@@ -121,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Oct 17 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 17 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68f22adcaf0b5a06b584a6ce?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 17 |
+| **[Gotham Advisors](https://www.gothamadvisors.net/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f2bd479a65fd34585807eb?utm_campaign=1054&utm_source=git)** | Tenafly, NJ | On Site | Oct 17 |
 | **[Bi-State Development](https://www.bistatedev.org/)** | **[Human Resources/Talent Management - Intern](https://jobright.ai/jobs/info/68f1e608f462172a5a7dda2b?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri | On Site | Oct 16 |
 | ↳ | **[Learning and Development - Intern](https://jobright.ai/jobs/info/68f1e594e6870116b1f5e2cb?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri | On Site | Oct 16 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/68f1e3d9f462172a5a7dd7e5?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Oct 16 |
@@ -135,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a1fcef766b3f0fd10401?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Oct 16 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f1a15cf462172a5a7dac85?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f1a1a7f462172a5a7dacc6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a151f462172a5a7dac7b?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Oct 16 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1a118ef766b3f0fd10322?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a111ef766b3f0fd10317?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 16 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19f00f462172a5a7daa42?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Oct 16 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19dd3e6870116b1f5b308?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 16 |
 | ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f19c70ef766b3f0fd100ab?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Oct 16 |
-| ↳ | **[Internship- Housekeeping](https://jobright.ai/jobs/info/68f19c2fe6870116b1f5b05e?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19c1ee6870116b1f5b048?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Oct 16 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f19b56f462172a5a7da88b?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Oct 16 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19b10f462172a5a7da843?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19aeef462172a5a7da822?utm_campaign=1054&utm_source=git)** | Monticello, NY | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f199f3f462172a5a7da6ef?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Oct 16 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f199b4f462172a5a7da697?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f198d9f462172a5a7da592?utm_campaign=1054&utm_source=git)** | Savannah, GA | On Site | Oct 16 |
-| **[PPC Partners Inc.](https://ppcpartnersinc.com/)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1959ae6870116b1f5ab31?utm_campaign=1054&utm_source=git)** | East Troy, WI, US | On Site | Oct 16 |
-| **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Oct 16 |
-| **[Tires Easy](http://tires-easy.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f18fd1ef766b3f0fd0f625?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Oct 16 |
-| **[Everest](https://www.everestglobal.com/)** | **[Human Resources - People Services & Operations Internship Program](https://jobright.ai/jobs/info/68f18139e6870116b1f59dc3?utm_campaign=1054&utm_source=git)** | Warren, NJ | Hybrid | Oct 16 |
-| **[Gordon Food Service](https://www.gfs.com)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f17d37e6870116b1f59cbc?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
