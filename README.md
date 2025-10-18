@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
+| **[The New Yorker, A Wyndham Hotel](http://newyorkerhotel.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f35e5b9a63986de7571d60?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f35e3a9a63986de7571d55?utm_campaign=1054&utm_source=git)** | Downingtown, PA | On Site | Oct 18 |
+| **[ABB](https://global.abb/group/en)** | **[HR Internship - Training](https://jobright.ai/jobs/info/68f358169a65fd3458586777?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68f2fee776a51a4307bc9dbd?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[Rakuten International](http://rakuten.us)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2f53c9a63986de756d705?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68f1c30eef766b3f0fd11e51?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Oct 16 |
 | **[Humana](http://www.humana.com)** | **[Senior Talent Management Professional - Intern Program](https://jobright.ai/jobs/info/68f1bbbeef766b3f0fd1162c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 16 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Communications Data & Analytics - Intern](https://jobright.ai/jobs/info/68f1b691e6870116b1f5c3a7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 16 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Director of Employer Engagement, UNLV Career and Life Design [R0149373]](https://jobright.ai/jobs/info/68f1af64ef766b3f0fd10be0?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Oct 16 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1ae85ef766b3f0fd10a47?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 16 |
-| **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Oct 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
