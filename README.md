@@ -134,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Environmental, Health, and Safety – Intern](https://jobright.ai/jobs/info/68ba391c8043103d4f21eb99?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Oct 17 |
 | ↳ | **[2026 Future Talent Program - Global Clinical Supplies - Intern](https://jobright.ai/jobs/info/68bd45b93bf9eb44f83278e0?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 17 |
+| ↳ | **[2026 Future Talent Program – Bladder Cancer – Outcomes Research – Intern](https://jobright.ai/jobs/info/68ba39818043103d4f21ec09?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 17 |
 | ↳ | **[2026 Future Talent Program -  Global Safety & Environment - Intern](https://jobright.ai/jobs/info/68ba3b245f38327491865507?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/68cfe365846f0b04af685e5a?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Oct 17 |
 | **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c8ca8f983e6768bc5515d6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Oct 17 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 17 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68f22adcaf0b5a06b584a6ce?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 17 |
+| **[SB Energy](https://sbenergy.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f32aa59a63986de756fa02?utm_campaign=1054&utm_source=git)** | Redwood City, CA | Hybrid | Oct 17 |
 | **[Gotham Advisors](https://www.gothamadvisors.net/)** | **[Paid Intern](https://jobright.ai/jobs/info/68f2bd479a65fd34585807eb?utm_campaign=1054&utm_source=git)** | Tenafly, NJ | On Site | Oct 17 |
 | **[Bi-State Development](https://www.bistatedev.org/)** | **[Human Resources/Talent Management - Intern](https://jobright.ai/jobs/info/68f1e608f462172a5a7dda2b?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri | On Site | Oct 16 |
 | ↳ | **[Learning and Development - Intern](https://jobright.ai/jobs/info/68f1e594e6870116b1f5e2cb?utm_campaign=1054&utm_source=git)** | St. Louis, Missouri | On Site | Oct 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1ae85ef766b3f0fd10a47?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Oct 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Oct 16 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68f3036e76a51a4307bca06f?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
