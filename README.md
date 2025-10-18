@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2f02d76a51a4307bc95df?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
+| **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Assistant Intern](https://jobright.ai/jobs/info/68f2e5219a63986de756d035?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 17 |
+| **[Rakuten](http://global.rakuten.com)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2e4be9a63986de756cf59?utm_campaign=1054&utm_source=git)** | San Mateo, California | On Site | Oct 17 |
+| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2e0d99a65fd3458581953?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
+| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2026 (LA)](https://jobright.ai/jobs/info/68f2d8da9a63986de756cb20?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
+| ↳ | **[Talent Management & Entertainment Internship - Winter 2026 (NY)](https://jobright.ai/jobs/info/68f2d73d76a51a4307bc8b24?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd3c001ad6b16f02896dbf?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Oct 17 |
 | **[Flagger Force](http://flaggerforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2d07676a51a4307bc881e?utm_campaign=1054&utm_source=git)** | Hummelstown, PA | On Site | Oct 17 |
 | **[Halo Industries, Inc.](http://www.halo-industries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2ce699a65fd3458581333?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Oct 17 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a1fcef766b3f0fd10401?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Oct 16 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f1a1a7f462172a5a7dacc6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f1a15cf462172a5a7dac85?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a151f462172a5a7dac7b?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Oct 16 |
 | ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1a118ef766b3f0fd10322?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a111ef766b3f0fd10317?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1a107f462172a5a7dac39?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1a053f462172a5a7dab4e?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19f00f462172a5a7daa42?utm_campaign=1054&utm_source=git)** | Greater Orlando | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f19dd3e6870116b1f5b308?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 16 |
-| ↳ | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f19c70ef766b3f0fd100ab?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
