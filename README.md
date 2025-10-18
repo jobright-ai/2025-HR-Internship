@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Oct 17 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68f2fee776a51a4307bc9dbd?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
+| **[Rakuten International](http://rakuten.us)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2f53c9a63986de756d705?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Oct 17 |
+| **[American Bankers Association](http://www.aba.com)** | **[Intern, Workforce Excellence](https://jobright.ai/jobs/info/68eea6d3d078b81ad160d32e?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2f02d76a51a4307bc95df?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Assistant Intern](https://jobright.ai/jobs/info/68f2e5219a63986de756d035?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 17 |
 | **[Rakuten](http://global.rakuten.com)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2e4be9a63986de756cf59?utm_campaign=1054&utm_source=git)** | San Mateo, California | On Site | Oct 17 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[ComForCare](https://comforcare.com/)** | **[Part Time HR Intern](https://jobright.ai/jobs/info/68f1c30eef766b3f0fd11e51?utm_campaign=1054&utm_source=git)** | McLean, VA | On Site | Oct 16 |
 | **[Humana](http://www.humana.com)** | **[Senior Talent Management Professional - Intern Program](https://jobright.ai/jobs/info/68f1bbbeef766b3f0fd1162c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Oct 16 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Communications Data & Analytics - Intern](https://jobright.ai/jobs/info/68f1b691e6870116b1f5c3a7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 16 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68f30ad776a51a4307bca56c?utm_campaign=1054&utm_source=git)** | Davidson, NC | Hybrid | Oct 16 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Assistant Director of Employer Engagement, UNLV Career and Life Design [R0149373]](https://jobright.ai/jobs/info/68f1af64ef766b3f0fd10be0?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Oct 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1ae85ef766b3f0fd10a47?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 16 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health & Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Oct 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Oct 16 |
-| ↳ | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Oct 16 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a1fcef766b3f0fd10401?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Oct 16 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f1a15cf462172a5a7dac85?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Internship- Food & Beverage FOH](https://jobright.ai/jobs/info/68f1a151f462172a5a7dac7b?utm_campaign=1054&utm_source=git)** | Braselton, GA | On Site | Oct 16 |
-| ↳ | **[Internship- Front Office](https://jobright.ai/jobs/info/68f1a118ef766b3f0fd10322?utm_campaign=1054&utm_source=git)** | Mars, PA | On Site | Oct 16 |
+| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/68f3036e76a51a4307bca06f?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
