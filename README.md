@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Regulatory Planning and Publishing (RPP) - Intern](https://jobright.ai/jobs/info/68bb368d6105227d118a40e6?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 19 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68e7f60fc4895107182c0202?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Oct 19 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Oct 19 |
+| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 19 |
 | **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68f4a9769a65fd345858bde9?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 19 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSM Corporation](https://csmcorp.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2aa449a65fd345857ec3a?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern](https://jobright.ai/jobs/info/68f29f7c76a51a4307bc5745?utm_campaign=1054&utm_source=git)** | Silver Spring, MD | On Site | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Human Resource Management](https://jobright.ai/jobs/info/68f291849a65fd345857dad8?utm_campaign=1054&utm_source=git)** | Frankfort, KY, US | On Site | Oct 17 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Fall 2025 - AFO Internship](https://jobright.ai/jobs/info/68f290359a65fd345857d929?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Oct 17 |
-| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2026 (LA)](https://jobright.ai/jobs/info/68f28ff39a65fd345857d8ef?utm_campaign=1054&utm_source=git)** | Los Angeles, California, United States | Hybrid | Oct 17 |
-| **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Alumni Engagement Intern](https://jobright.ai/jobs/info/68f2ac719a63986de756a759?utm_campaign=1054&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
-| **[Juggernaut Media Partners](juggernautmp.com)** | **[Intern - Entry Level Talent Coordinator](https://jobright.ai/jobs/info/68f2b1e89a65fd345857fb06?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Human Resource Management](https://jobright.ai/jobs/info/68f28cac76a51a4307bc4abc?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
