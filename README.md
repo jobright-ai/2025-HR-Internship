@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[The New Yorker, A Wyndham Hotel](http://newyorkerhotel.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f35e5b9a63986de7571d60?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f35e3a9a63986de7571d55?utm_campaign=1054&utm_source=git)** | Downingtown, PA | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship - Training](https://jobright.ai/jobs/info/68f358169a65fd3458586777?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
+| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f471e076a51a4307bd17aa?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68f2fee776a51a4307bc9dbd?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
 | **[Rakuten International](http://rakuten.us)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2f53c9a63986de756d705?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2026 (NY)](https://jobright.ai/jobs/info/68f2b8089a63986de756b581?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Oct 17 |
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68f310879a65fd345858377a?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern](https://jobright.ai/jobs/info/68f27eed76a51a4307bc4393?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 17 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/68f27d599a65fd345857d03c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
