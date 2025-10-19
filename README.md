@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/68f507019a63986de75785e2?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 19 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Oct 19 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Oct 19 |
+| ↳ | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Oct 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Greater Columbus](https://jobright.ai/jobs/info/68bbc0dd6105227d118a973d?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a7477a37c712687d38e9?utm_campaign=1054&utm_source=git)** | Manteca, CA | On Site | Oct 19 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/68e80917c4895107182c13d5?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 19 |
@@ -66,10 +70,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a6b37796a83635f09a4b?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | On Site | Oct 19 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a5bf295f8e37655e0048?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Oct 19 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68ba53358043103d4f21f86f?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 19 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94628043103d4f229dea?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 19 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68e79fcf09580a2fe57eda21?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
+| ↳ | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68e79fcf09580a2fe57eda21?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 19 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Oct 19 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 19 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Project and Alliance Management - Intern](https://jobright.ai/jobs/info/68cf7f91846f0b04af6828f7?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 19 |
 | ↳ | **[2026 Future Talent Program - Global Regulatory Affairs and Clinical Safety - Intern](https://jobright.ai/jobs/info/68ccff0177add66568abd6b0?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 19 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Oct 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Assistant Intern](https://jobright.ai/jobs/info/68f2e5219a63986de756d035?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 17 |
 | **[Rakuten](http://global.rakuten.com)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2e4be9a63986de756cf59?utm_campaign=1054&utm_source=git)** | San Mateo, California | On Site | Oct 17 |
 | **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2e0d99a65fd3458581953?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
-| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2026 (LA)](https://jobright.ai/jobs/info/68f2d8da9a63986de756cb20?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
-| ↳ | **[Talent Management & Entertainment Internship - Winter 2026 (NY)](https://jobright.ai/jobs/info/68f2d73d76a51a4307bc8b24?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
-| **[Anker Innovations LTD](https://us.anker.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd3c001ad6b16f02896dbf?utm_campaign=1054&utm_source=git)** | Greater Seattle Area | On Site | Oct 17 |
-| **[Flagger Force](http://flaggerforce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f2d07676a51a4307bc881e?utm_campaign=1054&utm_source=git)** | Hummelstown, PA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
