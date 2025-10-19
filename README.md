@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Children's Home ](https://chowc.org/)** | **[Social Work Internship](https://jobright.ai/jobs/info/68f5417976a51a4307bd4a89?utm_campaign=1054&utm_source=git)** | Binghamton, NY | On Site | Oct 19 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resource Specialist](https://jobright.ai/jobs/info/68f507019a63986de75785e2?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Oct 19 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2f02d76a51a4307bc95df?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Assistant Intern](https://jobright.ai/jobs/info/68f2e5219a63986de756d035?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 17 |
 | **[Rakuten](http://global.rakuten.com)** | **[University Recruiting Intern](https://jobright.ai/jobs/info/68f2e4be9a63986de756cf59?utm_campaign=1054&utm_source=git)** | San Mateo, California | On Site | Oct 17 |
-| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2e0d99a65fd3458581953?utm_campaign=1054&utm_source=git)** | Avon, OH | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
