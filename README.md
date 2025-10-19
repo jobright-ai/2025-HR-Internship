@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent Acquisition Marketing Account Management Intern, Spring 2026](https://jobright.ai/jobs/info/68f4360876a51a4307bd0608?utm_campaign=1054&utm_source=git)** | Orlando, FL, USA | On Site | Oct 18 |
+| ↳ | **[Talent Acquisition Marketing Account Management Intern, Spring 2026](https://jobright.ai/jobs/info/68f435b19a65fd3458589270?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | On Site | Oct 18 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f3f1149a65fd3458588c44?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68f3cc1f9a65fd3458588629?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Oct 18 |
 | **[Bass, Berry & Sims](http://www.bassberry.com)** | **[Summer Associate 2026 (DC, Nashville, Memphis)](https://jobright.ai/jobs/info/68f3cc169a65fd3458588628?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Oct 18 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[HR Intern](https://jobright.ai/jobs/info/68f3c4cf9a65fd3458588545?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 18 |
 | **[Careforth](https://careforth.com)** | **[Human Resources Intern, Part -Time](https://jobright.ai/jobs/info/68f3c1a59a65fd34585884b2?utm_campaign=1054&utm_source=git)** | Massachusetts, United States | Hybrid | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb78225f3832749186f5c7?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| **[Health-Link Society](healthlinksociety.org)** | **[HR Manager Intern](https://jobright.ai/jobs/info/68f3bafd76a51a4307bcf6fe?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 18 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68c81b22983e6768bc549b1b?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
+| ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68c81b22983e6768bc549b1b?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Oct 18 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/68bf2e53702aa35207aa3f38?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 18 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/68f3b07876a51a4307bcf545?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68f310879a65fd345858377a?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern](https://jobright.ai/jobs/info/68f27eed76a51a4307bc4393?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 17 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/68f27d599a65fd345857d03c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
-| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Kentucky Employee Assistance Program](https://jobright.ai/jobs/info/68f293499a63986de7568fa6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 HR Intern](https://jobright.ai/jobs/info/68d34f06f0d9af73038e0fa8?utm_campaign=1054&utm_source=git)** | Shakopee, MN | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
