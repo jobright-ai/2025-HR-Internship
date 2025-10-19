@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68f4a9769a65fd345858bde9?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 19 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent Acquisition Marketing Account Management Intern, Spring 2026](https://jobright.ai/jobs/info/68f4360876a51a4307bd0608?utm_campaign=1054&utm_source=git)** | Orlando, FL, USA | On Site | Oct 18 |
 | ↳ | **[Talent Acquisition Marketing Account Management Intern, Spring 2026](https://jobright.ai/jobs/info/68f435b19a65fd3458589270?utm_campaign=1054&utm_source=git)** | Burbank, CA, USA | On Site | Oct 18 |
@@ -120,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[The New Yorker, A Wyndham Hotel](http://newyorkerhotel.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f35e5b9a63986de7571d60?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f35e3a9a63986de7571d55?utm_campaign=1054&utm_source=git)** | Downingtown, PA | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship - Training](https://jobright.ai/jobs/info/68f358169a65fd3458586777?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f4ac949a65fd345858be3f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 18 |
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f471e076a51a4307bd17aa?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Oct 17 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/68f2fee776a51a4307bc9dbd?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program - Alumni Engagement Intern](https://jobright.ai/jobs/info/68f2ac719a63986de756a759?utm_campaign=1054&utm_source=git)** | Iowa City, IA | Hybrid | Oct 17 |
 | **[Juggernaut Media Partners](juggernautmp.com)** | **[Intern - Entry Level Talent Coordinator](https://jobright.ai/jobs/info/68f2b1e89a65fd345857fb06?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 17 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Health & Family Services - Office of Human Resource Management](https://jobright.ai/jobs/info/68f28cac76a51a4307bc4abc?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 17 |
-| **[Select Management Group](http://select.co)** | **[Talent Management & Entertainment Internship - Winter 2026 (NY)](https://jobright.ai/jobs/info/68f2b8089a63986de756b581?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Oct 17 |
-| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68f310879a65fd345858377a?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-in Services Intern](https://jobright.ai/jobs/info/68f27eed76a51a4307bc4393?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 17 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/68f27d599a65fd345857d03c?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
