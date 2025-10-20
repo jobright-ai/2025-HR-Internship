@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Oct 20 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent Acquisition Marketing Account Management Intern, Spring 2026](https://jobright.ai/jobs/info/68f61ec29a63986de757c61e?utm_campaign=1054&utm_source=git)** | Winter Garden, FL | On Site | Oct 20 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Oct 20 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Oct 20 |
+| **[Badger](http://badgerlax.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/68f609119a65fd34585910f1?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Human Resources Rotational Intern - Summer 2026](https://jobright.ai/jobs/info/68f5fa329a65fd3458590a9e?utm_campaign=1054&utm_source=git)** | Bloomington, MN | Hybrid | Oct 20 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5df189a65fd345858f8e1?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5db969a65fd345858f7eb?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 19 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5db4f9a65fd345858f780?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 19 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da629a65fd345858f695?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da579a63986de757a9f4?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 19 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da199a65fd345858f688?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 19 |
 | **[Tipmont](http://wintek.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68f5d9d19a63986de757a94b?utm_campaign=1054&utm_source=git)** | Linden, Indiana | On Site | Oct 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Kentucky Employee Assistance Program](https://jobright.ai/jobs/info/68f293499a63986de7568fa6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 19 |
 | **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f5524d9a63986de7578d47?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68dca370ddc10244dd677e47?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/68e1fa1eb99ec3563b0d9581?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
-| **[The New Yorker, A Wyndham Hotel](http://newyorkerhotel.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f35e5b9a63986de7571d60?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f35e3a9a63986de7571d55?utm_campaign=1054&utm_source=git)** | Downingtown, PA | On Site | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[HR Internship - Training](https://jobright.ai/jobs/info/68f358169a65fd3458586777?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Oct 18 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f4ac949a65fd345858be3f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 18 |
-| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Human Resources Shared Services Internship](https://jobright.ai/jobs/info/68f471e076a51a4307bd17aa?utm_campaign=1054&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
