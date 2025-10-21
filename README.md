@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saltmarsh](http://saltmarshcpa.com)** | **[2026 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f713c89a65fd3458599970?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Oct 20 |
+| ↳ | **[2027 Internship Opportunities (Tax & Audit)](https://jobright.ai/jobs/info/68f7136c9a63986de7584cc0?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Oct 20 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7057c76a51a4307be04dc?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 20 |
+| **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Human Resource Intern (Clayton, MO)](https://jobright.ai/jobs/info/68f703ee76a51a4307be0392?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Oct 20 |
 | **[Primerica](https://www.primerica.com)** | **[Human Resources Intern - HRO-2025-2i](https://jobright.ai/jobs/info/68f6fb769a63986de75840be?utm_campaign=1054&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
 | **[Bubble](https://hellobubble.com/)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68ebdb568369791ef78285b5?utm_campaign=1054&utm_source=git)** | New York | On Site | Oct 20 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - Payroll Intern/Co-Op Student](https://jobright.ai/jobs/info/68db3b629f13662d20e48ba5?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 20 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[IDEMIA](https://www.idemia.com/)** | **[Talent Acquisition Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ea929a65fd3458598388?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Oct 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8b69a65fd34585981da?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Oct 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8679a63986de7583592?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Oct 20 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f6e72376a51a4307bdf399?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Employment Casework Intern](https://jobright.ai/jobs/info/68f6e2e29a63986de75832cb?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | On Site | Oct 20 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f6e1d09a63986de7583213?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 20 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help CSPL Graduate Intern Recruiter](https://jobright.ai/jobs/info/68f6def59a65fd3458597df0?utm_campaign=1054&utm_source=git)** | Springfield, IL, US | On Site | Oct 20 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Talent Acquisition Internship - Summer 2026](https://jobright.ai/jobs/info/68f6de3b9a65fd3458597c87?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Oct 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6de2c9a65fd3458597c5e?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Oct 20 |
@@ -119,10 +123,11 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Oct 20 |
 | **[Badger](http://badgerlax.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/68f609119a65fd34585910f1?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 20 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Human Resources Rotational Intern - Summer 2026](https://jobright.ai/jobs/info/68f5fa329a65fd3458590a9e?utm_campaign=1054&utm_source=git)** | Bloomington, MN | Hybrid | Oct 20 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5dba776a51a4307bd6ad6?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 19 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da629a65fd345858f695?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
-| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da579a63986de757a9f4?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 19 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5db4f9a65fd345858f780?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Oct 19 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5db319a65fd345858f74a?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
+| ↳ | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f5da199a65fd345858f688?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Oct 19 |
 | **[Tipmont](http://wintek.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68f5d9d19a63986de757a94b?utm_campaign=1054&utm_source=git)** | Linden, Indiana | On Site | Oct 19 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68f719b39a63986de7584f4a?utm_campaign=1054&utm_source=git)** | Moon, PA | On Site | Oct 19 |
 | **[Sain Associates, Inc.](http://www.sain.com)** | **[Summer Internship](https://jobright.ai/jobs/info/68f69f2776a51a4307bdc662?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Oct 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Kentucky Employee Assistance Program](https://jobright.ai/jobs/info/68f293499a63986de7568fa6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Oct 19 |
 | **[Equity Residential](http://equityapartments.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/68f6e23c9a63986de7583260?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Regulatory Planning and Publishing (RPP) - Intern](https://jobright.ai/jobs/info/68bb368d6105227d118a40e6?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 19 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68e7f60fc4895107182c0202?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Oct 19 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Oct 19 |
-| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 19 |
-| **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68f4a9769a65fd345858bde9?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 19 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
