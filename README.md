@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winland Foods](https://winlandfoods.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f8a7d44bafad6d2d764dc5?utm_campaign=1054&utm_source=git)** | Oak Brook, IL | Hybrid | Oct 22 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Pathfinder Intern - Red Team - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68f88daea628d10664e8401c?utm_campaign=1054&utm_source=git)** | USA - Remote | Remote | Oct 22 |
 | **[Security Finance](https://www.securityfinance.com)** | **[Training and Talent Development Intern](https://jobright.ai/jobs/info/68f8673ca628d10664e828d9?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Oct 21 |
 | **[Lockton](https://global.lockton.com)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Oct 21 |
@@ -73,10 +74,8 @@ For a complete list, click the following sortable link below:
 | **[CIEE College Study Abroad](https://www.ciee.org/go-abroad/college-study-abroad?utm_campaign=sa-social-organic&utm_medium=social&utm_source=linkedin&utm_content=linkedin_profile)** | **[Intern](https://jobright.ai/jobs/info/68f8048bb0edcf159dc8dc46?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Oct 21 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Animal Health Clinical Operations - Intern](https://jobright.ai/jobs/info/68f804475dc1be6012820297?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 21 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
-| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 HR People Analytics Summer Intern](https://jobright.ai/jobs/info/68f80154ec6dbe7073fd034d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[Radware](https://www.radware.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fcb15dc1be601281f9a4?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Oct 21 |
 | **[Primient](https://primient.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fb86b0edcf159dc8d164?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Oct 21 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f7fa1d5dc1be601281f5be?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Oct 21 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Communications Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f7f9c4ec6dbe7073fcf6bb?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68f7f5b8b0edcf159dc8cba1?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 21 |
@@ -87,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[HBK CPAs & Consultants](http://www.hbkcpa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7f28dec6dbe7073fcefef?utm_campaign=1054&utm_source=git)** | Melville, NY | On Site | Oct 21 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional](https://jobright.ai/jobs/info/68f7f221ec6dbe7073fcef2c?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Oct 21 |
 | ↳ | **[2026 Intern Conversion: HR Professional](https://jobright.ai/jobs/info/68f7f1ecb0edcf159dc8c532?utm_campaign=1054&utm_source=git)** | Research Park, CA | Hybrid | Oct 21 |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 HR People Analytics Summer Intern](https://jobright.ai/jobs/info/68f7ea2eb0edcf159dc8bc6b?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[HR Training & Development Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f80cf2b0edcf159dc8e1f0?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
 | **[Radware](https://www.radware.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7e9c6ec6dbe7073fce4ff?utm_campaign=1054&utm_source=git)** | Mahwah, NJ | On Site | Oct 21 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f7e97bec6dbe7073fce4a8?utm_campaign=1054&utm_source=git)** | Northfield, IL | On Site | Oct 21 |
@@ -146,12 +146,12 @@ For a complete list, click the following sortable link below:
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68ce717a846f0b04af679f1d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 21 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f78404ec6dbe7073fc4d4e?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 21 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68db07226df7b8311bb157ea?utm_campaign=1054&utm_source=git)** | Niles, IL | On Site | Oct 21 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0cc1e9b48513789b183c?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Oct 21 |
 | **[Cartersville-Bartow County Chamber of Commerce](http://www.cartersvillechamber.com)** | **[FWS - Assistant - Student - Recruitment](https://jobright.ai/jobs/info/68f77f04ec6dbe7073fc44f2?utm_campaign=1054&utm_source=git)** | Cartersville, GA | On Site | Oct 21 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Human Resources Intern – US – Summer 2026](https://jobright.ai/jobs/info/68a2c539da4b7a7e730739ff?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 21 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0ca5e9b48513789b1806?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Oct 21 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[HR Learning Technology Intern](https://jobright.ai/jobs/info/68daa48c0b832179ca4af3e9?utm_campaign=1054&utm_source=git)** | Plymouth, MN | Hybrid | Oct 21 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Health Economics - Intern](https://jobright.ai/jobs/info/68c77e63c96a22563ecf155e?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Oct 21 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Oct 21 |
 | **[Curi Capital](http://www.rmbcap.com)** | **[People Team Intern, Summer 2026, IL](https://jobright.ai/jobs/info/68f779c3b0edcf159dc80c78?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/68ca3622f16e3266d2824d5a?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Oct 21 |
 | **[Ameresco](http://www.apses.com)** | **[Human Resources Co-op](https://jobright.ai/jobs/info/68cd9cbd1ad6b16f0289c4d8?utm_campaign=1054&utm_source=git)** | Framingham, MA | On Site | Oct 21 |
