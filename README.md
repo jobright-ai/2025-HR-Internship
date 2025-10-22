@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Casework Intern - UNPAID](https://jobright.ai/jobs/info/68f93393cadb2e5a06a6252e?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 22 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Virtual/Remote Marketing, Business or HR Internships for AI Projects](https://jobright.ai/jobs/info/68f93369cadb2e5a06a62500?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 22 |
+| **[Piper Sandler](https://www.pipersandler.com/)** | **[Campus Recruiting - Investment Banking Data Analyst - Intern](https://jobright.ai/jobs/info/68f92b9aa628d10664e89d5e?utm_campaign=1054&utm_source=git)** | Minneapolis, MN - HQ | On Site | Oct 22 |
+| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/68f92715a628d10664e89bc3?utm_campaign=1054&utm_source=git)** | Greater Lexington Area | On Site | Oct 22 |
+| **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68f9210fcadb2e5a06a6176f?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | On Site | Oct 22 |
 | **[Prime Intellect](https://www.primeintellect.ai/)** | **[Internship](https://jobright.ai/jobs/info/68f909a76de2db04dc3e47ec?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[Port Canaveral](https://www.portcanaveral.com/)** | **[Intern - Human Resources Rotating - Summer 2026](https://jobright.ai/jobs/info/68f905f9cadb2e5a06a5fe30?utm_campaign=1054&utm_source=git)** | Cape Canaveral, FL | On Site | Oct 22 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Talent Management Intern](https://jobright.ai/jobs/info/68c070f38e65e77df55c1164?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Oct 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[HR Communications Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f8052dec6dbe7073fd0587?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
 | **[CIEE College Study Abroad](https://www.ciee.org/go-abroad/college-study-abroad?utm_campaign=sa-social-organic&utm_medium=social&utm_source=linkedin&utm_content=linkedin_profile)** | **[Intern](https://jobright.ai/jobs/info/68f8048bb0edcf159dc8dc46?utm_campaign=1054&utm_source=git)** | Remote, US | Remote | Oct 21 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Animal Health Clinical Operations - Intern](https://jobright.ai/jobs/info/68f804475dc1be6012820297?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Oct 21 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 21 |
-| **[Radware](https://www.radware.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fcb15dc1be601281f9a4?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Remote | Oct 21 |
-| **[Primient](https://primient.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fb86b0edcf159dc8d164?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Oct 21 |
-| **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f7fa1d5dc1be601281f5be?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Oct 21 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[HR Communications Intern / 2026 Treasury Spring Internship Program](https://jobright.ai/jobs/info/68f7f9c4ec6dbe7073fcf6bb?utm_campaign=1054&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
