@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/68fa868aedd190144238db70?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources Operations Center Intern](https://jobright.ai/jobs/info/68fa802fedd190144238d3fa?utm_campaign=1054&utm_source=git)** | Maryland | Remote | Oct 23 |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fa7c6eedd190144238cf04?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Oct 23 |
+| **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
 | **[Flextrip](flextriptravel.com)** | **[🌍 Study Abroad Lead Coordinator (Campus Recruiter)](https://jobright.ai/jobs/info/68fa65037959161d33e62d90?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 23 |
 | **[NetShape Solutions Group](www.shapecorp.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68fa60ebedd190144238bae7?utm_campaign=1054&utm_source=git)** | Grand Haven, MI, 49417, United States | On Site | Oct 23 |
 | **[Signal Energy](http://www.signalenergy.com/)** | **[2026 Talent Management Intern](https://jobright.ai/jobs/info/68fa600567272b29af72e687?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Internship - Greater Bangor](https://jobright.ai/jobs/info/68c25c1133864f172f9bfe6b?utm_campaign=1054&utm_source=git)** | Bangor, ME | On Site | Oct 23 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68c25d5733864f172f9c0011?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Oct 23 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/68de830ea125e75c422b49ca?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Oct 23 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – HR Technology](https://jobright.ai/jobs/info/68e9279865768b6412b18fab?utm_campaign=1054&utm_source=git)** | Frisco, TX | On Site | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & HR Specialist Internship In Bali](https://jobright.ai/jobs/info/68fa393267272b29af72cbf7?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68ca3826f61c922772a753c3?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | Oct 23 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Summer 2026 AWS Human Resources Leadership Development Program Internship, AWS](https://jobright.ai/jobs/info/68fa002b8a7359609b8c8663?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
@@ -107,8 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa6822edd190144238c0a2?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Oct 23 |
 | **[STP Nuclear Operating Company](https://www.stpnoc.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68cccf65fa466330fef91bf4?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 23 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68f9fadf8a7359609b8c8543?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa53a97959161d33e61e20?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fa6859edd190144238c1bf?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Oct 23 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68f99462a628d10664e8e0f7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Oct 22 |
@@ -133,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f93c12a628d10664e8ac25?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Oct 22 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Oct 22 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f9398acadb2e5a06a628ed?utm_campaign=1054&utm_source=git)** | US-OH-Remote | Hybrid | Oct 22 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/68f9e34e7ab77a56387e8000?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Oct 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Casework Intern - UNPAID](https://jobright.ai/jobs/info/68f93393cadb2e5a06a6252e?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 22 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Campus Recruiting - Investment Banking Data Analyst - Intern](https://jobright.ai/jobs/info/68f92b9aa628d10664e89d5e?utm_campaign=1054&utm_source=git)** | Minneapolis, MN - HQ | On Site | Oct 22 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/68f92715a628d10664e89bc3?utm_campaign=1054&utm_source=git)** | Greater Lexington Area | On Site | Oct 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/68b527ddbc187f64e1be598a?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Oct 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb8e78e65e77df55bcb86?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 22 |
 | ↳ | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/68dc38aaa271e745b8a7cdeb?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/68dbe67097329f2f7731fc5e?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Oct 22 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b96c735f3832749185dc2c?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Oct 22 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cd10acb2a74e1837ed19e6?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | Oct 22 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b505bef4e41a61efd8cfcd?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
