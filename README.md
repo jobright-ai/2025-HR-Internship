@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68f99462a628d10664e8e0f7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[People Systems Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/68f992b36de2db04dc3ea2ea?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Oct 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Oct 22 |
 | **[Sealaska](http://www.sealaska.com/)** | **[HR Benefits Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f98a1acadb2e5a06a65a0e?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (unpaid)](https://jobright.ai/jobs/info/68f9856ccadb2e5a06a65801?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 22 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Human Resources & Recruiting](https://jobright.ai/jobs/info/68f93a96cadb2e5a06a62a48?utm_campaign=1054&utm_source=git)** | Kirkland, WA | On Site | Oct 22 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f9398acadb2e5a06a628ed?utm_campaign=1054&utm_source=git)** | US-OH-Remote | Hybrid | Oct 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Casework Intern - UNPAID](https://jobright.ai/jobs/info/68f93393cadb2e5a06a6252e?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 22 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[Virtual/Remote Marketing, Business or HR Internships for AI Projects](https://jobright.ai/jobs/info/68f93369cadb2e5a06a62500?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Piper Sandler](https://www.pipersandler.com/)** | **[Campus Recruiting - Investment Banking Data Analyst - Intern](https://jobright.ai/jobs/info/68f92b9aa628d10664e89d5e?utm_campaign=1054&utm_source=git)** | Minneapolis, MN - HQ | On Site | Oct 22 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[HR Administrative Intern](https://jobright.ai/jobs/info/68f92715a628d10664e89bc3?utm_campaign=1054&utm_source=git)** | Greater Lexington Area | On Site | Oct 22 |
 | **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68f9210fcadb2e5a06a6176f?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | On Site | Oct 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Olin](http://www.olin.com/)** | **[HR Total Rewards Intern - 2026](https://jobright.ai/jobs/info/68dd008d44d32141e0bf39b6?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Oct 22 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Oct 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68bfb7de5c5d5f14f46d9564?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Oct 22 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68dc705eddc10244dd675776?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
