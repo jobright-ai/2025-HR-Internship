@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2026 Internship: CWC Human Resources (Muskegon, MI)](https://jobright.ai/jobs/info/68f9f3058a7359609b8c80aa?utm_campaign=1054&utm_source=git)** | Muskegon, MI | On Site | Oct 23 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68f99462a628d10664e8e0f7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Oct 22 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Animal Health Research and Development Quality Assurance - Intern](https://jobright.ai/jobs/info/68dc518fa125e75c4229fafe?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 22 |
 | **[Graco](http://graco.com/in/en/)** | **[Human Resources Intern- Total Rewards](https://jobright.ai/jobs/info/68dc29a766059a42a715c29b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 22 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources, Compensation Internship](https://jobright.ai/jobs/info/68dc2a2197329f2f77323214?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | On Site | Oct 22 |
-| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f8cfb3a628d10664e85d12?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Oct 22 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Standards & Training Intern](https://jobright.ai/jobs/info/68cd23bb1ad6b16f02895a7f?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 22 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR – Talent Development (Year-Round)](https://jobright.ai/jobs/info/68dc6d3fddc10244dd6756b4?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (People Analytics) (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/68bf32278e65e77df55b8118?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Oct 22 |
@@ -146,7 +146,9 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68dbfe7197329f2f77321d39?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Oct 22 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – V&I Outcomes Research (Cardiovascular & Metabolism) - Intern](https://jobright.ai/jobs/info/68c081f78e65e77df55c1e8e?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 22 |
 | ↳ | **[2026 Future Talent Program - US Medical Affairs - Intern](https://jobright.ai/jobs/info/68f8cca84bafad6d2d765a97?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Oct 22 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f8cc9f4bafad6d2d765a95?utm_campaign=1054&utm_source=git)** | Commerce City, CO | On Site | Oct 22 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Oct 22 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[New Haven Recruiting Intern](https://jobright.ai/jobs/info/68f9ed488a7359609b8c7cb8?utm_campaign=1054&utm_source=git)** | New Haven, CT | On Site | Oct 22 |
 | **[Harris](https://www.harriscompany.com/)** | **[Human Resources Intern - HRIS](https://jobright.ai/jobs/info/68c0658f8e65e77df55c0be3?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Oct 22 |
 | **[ADP](http://www.adp.com)** | **[Benefits Client Support Spring Intern - May '26 Grads](https://jobright.ai/jobs/info/68d353ddf0d9af73038e116a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 22 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ca3e68f16e3266d282582e?utm_campaign=1054&utm_source=git)** | Mansfield, TX | On Site | Oct 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Professional Services Pathfinder Intern - Red Team - Summer 2026 (Remote)](https://jobright.ai/jobs/info/68f8bacd4bafad6d2d76553b?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Olin](http://www.olin.com/)** | **[HR Total Rewards Intern - 2026](https://jobright.ai/jobs/info/68dd008d44d32141e0bf39b6?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Oct 22 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Oct 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68bfb7de5c5d5f14f46d9564?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Oct 22 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68dc705eddc10244dd675776?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
