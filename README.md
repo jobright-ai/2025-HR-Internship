@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbd59af55bb021a889cef9?utm_campaign=1054&utm_source=git)** | Taylor, MI | On Site | Oct 24 |
+| **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbd2fd93c49825ab106380?utm_campaign=1054&utm_source=git)** | US-VA-Tysons | Hybrid | Oct 24 |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcd634129dd33cd134de9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
+| **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbccb34129dd33cd134d03?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 24 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcc45f55bb021a889c82c?utm_campaign=1054&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 24 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[HR Intern](https://jobright.ai/jobs/info/68fbbd5b93c49825ab105386?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 24 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: People & Culture (Spring 2026)](https://jobright.ai/jobs/info/68fba78d93c49825ab1046be?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Oct 24 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fba65df55bb021a889b209?utm_campaign=1054&utm_source=git)** | Charter Manufacturing Company, Inc - Mequon, WI | Hybrid | Oct 24 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 24 |
@@ -137,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Talent and Development Internship - Summer 2026](https://jobright.ai/jobs/info/68fa91e2b2c86843bf20f6bd?utm_campaign=1054&utm_source=git)** | US-VA-Reston | Hybrid | Oct 23 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Human Resources - Site Locations](https://jobright.ai/jobs/info/68fa8fa967272b29af730e94?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 23 |
 | **[UNDP Careers](https://www.undp.org)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/68fa8f2cedd190144238e36a?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Oct 23 |
-| **[HMH](https://hmhw.com/)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/68fa8f15edd190144238e353?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e6eb2c86843bf20f52a?utm_campaign=1054&utm_source=git)** | US-MA-Bedford | Hybrid | Oct 23 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fa8cd1b2c86843bf20f326?utm_campaign=1054&utm_source=git)** | Lakeland, FL (USA) | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8aededd190144238dfd6?utm_campaign=1054&utm_source=git)** | US-TN-Brentwood | Hybrid | Oct 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAMBA](https://camba.org/)** | **[Internship Developer, Learning to Work - Independence High School](https://jobright.ai/jobs/info/68fa9296edd190144238e74a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources &amp; Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fa9189edd190144238e5e5?utm_campaign=1054&utm_source=git)** | Wisconsin | On Site | Oct 23 |
 | **[Flextrip](flextriptravel.com)** | **[🌍 Study Abroad Lead Coordinator (Campus Recruiter)](https://jobright.ai/jobs/info/68fa65037959161d33e62d90?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 23 |
-| **[NetShape Solutions Group](www.shapecorp.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68fa60ebedd190144238bae7?utm_campaign=1054&utm_source=git)** | Grand Haven, MI, 49417, United States | On Site | Oct 23 |
-| **[Signal Energy](http://www.signalenergy.com/)** | **[2026 Talent Management Intern](https://jobright.ai/jobs/info/68fa600567272b29af72e687?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
-| **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Oct 23 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c1ac213fd8b059a20f1639?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 23 |
-| **[Samba TV](http://www.samba.tv)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68dd6e56ddc10244dd67f46b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 23 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f981c66de2db04dc3e9ae7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
