@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/68dd8ac2a125e75c422abdea?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Oct 23 |
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68dd1e51ddc10244dd67c9ef?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c0d5d58e65e77df55c4f25?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Oct 23 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fb03f53c99cc1d9602847e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[STP Nuclear Operating Company](https://www.stpnoc.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68cccf65fa466330fef91bf4?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 23 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68f9fadf8a7359609b8c8543?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f981c66de2db04dc3e9ae7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68f981986de2db04dc3e9aa6?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Oct 22 |
 | **[C.H. Guenther & Son](http://www.chg.com)** | **[Human Resources AI Intern - CH Guenther & Son](https://jobright.ai/jobs/info/68f97702a628d10664e8d1df?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 22 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68f96a4fa628d10664e8cd6c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
