@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elire](http://www.elire.com)** | **[Summer 2026 Human Resources / Talent Internship](https://jobright.ai/jobs/info/68fbf35df55bb021a889e755?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 24 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Assistant (Developmental) FT – 6506](https://jobright.ai/jobs/info/68fbedd9f55bb021a889e3b5?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Oct 24 |
+| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-ERBP](https://jobright.ai/jobs/info/68fbedbff55bb021a889e39a?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 24 |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Total Rewards](https://jobright.ai/jobs/info/68cd1fe0b2a74e1837ed2bf4?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Oct 24 |
+| **[Tencent](https://www.tencent.com/)** | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/68fbe5dc93c49825ab10722c?utm_campaign=1054&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
+| ↳ | **[Global Talent Sourcing Intern](https://jobright.ai/jobs/info/68fbe37d93c49825ab106f2b?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Early Talent Acquisition Intern/Co-op](https://jobright.ai/jobs/info/68fbe1ddf55bb021a889d886?utm_campaign=1054&utm_source=git)** | Richmond Heights, MO | On Site | Oct 24 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68fbe16493c49825ab106d34?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Oct 24 |
+| **[A-C Electric Company](http://a-celectric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbdc2e93c49825ab106a45?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Oct 24 |
 | **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbd59af55bb021a889cef9?utm_campaign=1054&utm_source=git)** | Taylor, MI | On Site | Oct 24 |
 | **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbd2fd93c49825ab106380?utm_campaign=1054&utm_source=git)** | US-VA-Tysons | Hybrid | Oct 24 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fa8cd1b2c86843bf20f326?utm_campaign=1054&utm_source=git)** | Lakeland, FL (USA) | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8aededd190144238dfd6?utm_campaign=1054&utm_source=git)** | US-TN-Brentwood | Hybrid | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/68fa894867272b29af730925?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
-| **[INK Management](https://www.ink.management)** | **[Recruiter - College Basketball](https://jobright.ai/jobs/info/68fa8735edd190144238dc77?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Oct 23 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/68fa868aedd190144238db70?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
-| **[HMH](https://hmhw.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68faa337b2c86843bf2108be?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources Operations Center Intern](https://jobright.ai/jobs/info/68fa802fedd190144238d3fa?utm_campaign=1054&utm_source=git)** | Maryland | Remote | Oct 23 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fa7c6eedd190144238cf04?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Oct 23 |
-| **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 23 |
-| **[CAMBA](https://camba.org/)** | **[Internship Developer, Learning to Work - Independence High School](https://jobright.ai/jobs/info/68fa9296edd190144238e74a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 23 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources &amp; Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fa9189edd190144238e5e5?utm_campaign=1054&utm_source=git)** | Wisconsin | On Site | Oct 23 |
-| **[Flextrip](flextriptravel.com)** | **[🌍 Study Abroad Lead Coordinator (Campus Recruiter)](https://jobright.ai/jobs/info/68fa65037959161d33e62d90?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
