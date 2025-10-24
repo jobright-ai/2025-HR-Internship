@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fb394f3c99cc1d96029e18?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Labor Relations Intern, Anaheim, Spring 2026](https://jobright.ai/jobs/info/68fb383e3c99cc1d96029cfe?utm_campaign=1054&utm_source=git)** | Anaheim, CA, USA | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb12aa3c99cc1d9602899f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
 | ↳ | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb12a53c99cc1d9602899e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/68fb10289e8e925ac6c88936?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Oct 23 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[HMH](https://hmhw.com/)** | **[HR Learning & Development Intern](https://jobright.ai/jobs/info/68fa8f15edd190144238e353?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8e6eb2c86843bf20f52a?utm_campaign=1054&utm_source=git)** | US-MA-Bedford | Hybrid | Oct 23 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fa8cd1b2c86843bf20f326?utm_campaign=1054&utm_source=git)** | Lakeland, FL (USA) | On Site | Oct 23 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8aededd190144238dfd6?utm_campaign=1054&utm_source=git)** | US-TN-Brentwood | Hybrid | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Employment Services Intern - UNPAID](https://jobright.ai/jobs/info/68fa894867272b29af730925?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[INK Management](https://www.ink.management)** | **[Recruiter - College Basketball](https://jobright.ai/jobs/info/68fa8735edd190144238dc77?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/68fa868aedd190144238db70?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
@@ -110,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Shape Corp.](https://www.shapecorp.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68fa4d8c7959161d33e619ba?utm_campaign=1054&utm_source=git)** | Grand Haven, MI | On Site | Oct 23 |
 | **[Henkel](http://www.henkel.com)** | **[HR Business Partner Intern – Summer 2026](https://jobright.ai/jobs/info/68c1b29c3fd8b059a20f1937?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Oct 23 |
 | **[Samba TV](http://www.samba.tv)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68dd6e98ddc10244dd67f4f2?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
+| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Facilitator Intern](https://jobright.ai/jobs/info/68fb3247e154835f11efa6d9?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
 | **[THE TUDOR GROUP](http://www.tudorfunds.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68fa497467272b29af72d56c?utm_campaign=1054&utm_source=git)** | NYC | On Site | Oct 23 |
 | **[The Kendall Group](https://kendallgroup.com/home/index)** | **[Human Resources - Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68dd8c33ddc10244dd680ace?utm_campaign=1054&utm_source=git)** | Portage, MI | On Site | Oct 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b516501ade4306aa63fbf4?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Oct 23 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68dd1e51ddc10244dd67c9ef?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c0d5d58e65e77df55c4f25?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Oct 23 |
 | **[STP Nuclear Operating Company](https://www.stpnoc.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68cccf65fa466330fef91bf4?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 23 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fb3260e154835f11efa741?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68f9fadf8a7359609b8c8543?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fb42773c99cc1d9602a280?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Oct 23 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[New Haven Recruiting Intern](https://jobright.ai/jobs/info/68fb3bf2e154835f11efad4b?utm_campaign=1054&utm_source=git)** | New Haven, CT | On Site | Oct 23 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68f99462a628d10664e8e0f7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Oct 22 |
-| **[Sealaska](http://www.sealaska.com/)** | **[HR Benefits Intern (THTBC) - Summer 2026](https://jobright.ai/jobs/info/68f98a1acadb2e5a06a65a0e?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Oct 22 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (unpaid)](https://jobright.ai/jobs/info/68f9856ccadb2e5a06a65801?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f981c66de2db04dc3e9ae7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68f981986de2db04dc3e9aa6?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Oct 22 |
-| **[C.H. Guenther & Son](http://www.chg.com)** | **[Human Resources AI Intern - CH Guenther & Son](https://jobright.ai/jobs/info/68f97702a628d10664e8d1df?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 22 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68f96a4fa628d10664e8cd6c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
