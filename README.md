@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb12aa3c99cc1d9602899f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
+| ↳ | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb12a53c99cc1d9602899e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/68fb10289e8e925ac6c88936?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Oct 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Labor Relations Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68fb0416e154835f11ef92e3?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Human Resources Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68f7a184b0edcf159dc851c8?utm_campaign=1054&utm_source=git)** | Euclid, OH | Hybrid | Oct 23 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Human Resources/Summer 2026 (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68fae4803c99cc1d960272b7?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Oct 23 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68fadf4c8d32c164778cc25d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[NetShape Solutions Group](www.shapecorp.com)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68fa60ebedd190144238bae7?utm_campaign=1054&utm_source=git)** | Grand Haven, MI, 49417, United States | On Site | Oct 23 |
 | **[Signal Energy](http://www.signalenergy.com/)** | **[2026 Talent Management Intern](https://jobright.ai/jobs/info/68fa600567272b29af72e687?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 | **[Phoenix Industrial, Inc.](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Oct 23 |
-| **[Business Sweden](http://www.business-sweden.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fa570a67272b29af72deb3?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c1ac213fd8b059a20f1639?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 23 |
 | **[Samba TV](http://www.samba.tv)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68dd6e56ddc10244dd67f46b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Volunteer Management Intern - UNPAID](https://jobright.ai/jobs/info/68fa508f67272b29af72d8ae?utm_campaign=1054&utm_source=git)** | Atlanta, GA USA | On Site | Oct 23 |
@@ -143,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Human Resources](https://jobright.ai/jobs/info/68dd8ac2a125e75c422abdea?utm_campaign=1054&utm_source=git)** | Omaha, NE | Hybrid | Oct 23 |
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68dd1e51ddc10244dd67c9ef?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 23 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c0d5d58e65e77df55c4f25?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Oct 23 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fb03f53c99cc1d9602847e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[STP Nuclear Operating Company](https://www.stpnoc.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68cccf65fa466330fef91bf4?utm_campaign=1054&utm_source=git)** | Texas, United States | On Site | Oct 23 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68f9fadf8a7359609b8c8543?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 23 |
 | **[ASML](https://www.asml.com)** | **[Internship – Community and Employee Engagement](https://jobright.ai/jobs/info/68f9cfea7b89366816034680?utm_campaign=1054&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f981c66de2db04dc3e9ae7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[HR Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68f981986de2db04dc3e9aa6?utm_campaign=1054&utm_source=git)** | Shelton, CT | On Site | Oct 22 |
 | **[C.H. Guenther & Son](http://www.chg.com)** | **[Human Resources AI Intern - CH Guenther & Son](https://jobright.ai/jobs/info/68f97702a628d10664e8d1df?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 22 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68f96a4fa628d10664e8cd6c?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
-| ↳ | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/68f96956a628d10664e8ccfb?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
-| ↳ | **[Summer 2026 Human Resources People Analytics Intern](https://jobright.ai/jobs/info/68f9674e6de2db04dc3e8ff8?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
-| **[Broadview Federal Credit Union](https://www.broadviewfcu.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68f96718cadb2e5a06a64a67?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
