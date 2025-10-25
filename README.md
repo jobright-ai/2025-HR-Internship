@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68fc48a9f55bb021a88a243f?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Oct 24 |
 | **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[RN Internship](https://jobright.ai/jobs/info/68fc47b093c49825ab10b6b5?utm_campaign=1054&utm_source=git)** | Midland, TX | On Site | Oct 24 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/68fc4248f55bb021a88a2089?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Oct 24 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68fc3fccf55bb021a88a1ec8?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Oct 24 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fba65df55bb021a889b209?utm_campaign=1054&utm_source=git)** | Charter Manufacturing Company, Inc - Mequon, WI | Hybrid | Oct 24 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 24 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68ded489a125e75c422b718d?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Oct 24 |
-| **[GlowUp ACS](https://www.linkedin.com/company/43344894)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fb9cb0f55bb021a889acb3?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 24 |
 | **[Business Sweden](http://www.business-sweden.se/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fb99aff55bb021a889ab2f?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 24 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68de947344d32141e0c00d3f?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Oct 24 |
@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Nordex Group](http://www.nordex-online.com/en)** | **[Werkstudent*in (m/w/d) People & Culture - Ausbildung](https://jobright.ai/jobs/info/68fb7d5bf55bb021a889a1e7?utm_campaign=1054&utm_source=git)** | Laurys Station, PA | On Site | Oct 24 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68decc0009bda65a4b62dc03?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Oct 24 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/688b250e9f961617fe22213c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Oct 24 |
+| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Organizational Development and Communications Intern](https://jobright.ai/jobs/info/68fc63d84129dd33cd13b9db?utm_campaign=1054&utm_source=git)** | Midvale, UT | On Site | Oct 24 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[2026 Human Resources Intern - Wealthspire](https://jobright.ai/jobs/info/68def845a125e75c422b8c0a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Outcomes Research Pulmonary Arterial Hypertension – Intern](https://jobright.ai/jobs/info/68cb4972efdec76df36baf9a?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Oct 24 |
 | **[County of Riverside](http://www.rc-hr.com)** | **[Child Support Services Unpaid Internship (Indio & Blythe)](https://jobright.ai/jobs/info/68fb73524129dd33cd132281?utm_campaign=1054&utm_source=git)** | Riverside County, CA | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fad7559e8e925ac6c86ca5?utm_campaign=1054&utm_source=git)** | Peosta, IA | On Site | Oct 23 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Organizational Development and Communications Intern](https://jobright.ai/jobs/info/68fad7178d32c164778cbe8b?utm_campaign=1054&utm_source=git)** | Midvale, Utah, United States | On Site | Oct 23 |
 | **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68dd8c47ddc10244dd680b05?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | Hybrid | Oct 23 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide- Bilingual (Spanish)](https://jobright.ai/jobs/info/68fc305df55bb021a88a13ce?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
