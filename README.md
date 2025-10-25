@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO](https://www.arco1952.com)** | **[Early Talent Acquisition Intern/Co-op](https://jobright.ai/jobs/info/68fc28a0f55bb021a88a1111?utm_campaign=1054&utm_source=git)** | St. Louis - Richmond Heights, Missouri | On Site | Oct 24 |
+| **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Classification/Compensation Analyst - Human Resources Specialist 1, 2 or 3](https://jobright.ai/jobs/info/68fc26d7f55bb021a88a0fe4?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Oct 24 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 24 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Talent Acquisition Intern](https://jobright.ai/jobs/info/68fc02ba93c49825ab108a96?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | On Site | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Talent Development & Engagement Intern (P&C)](https://jobright.ai/jobs/info/68f2c38e9a63986de756c163?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
@@ -71,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68fbf518f55bb021a889e9be?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[Elire](http://www.elire.com)** | **[Summer 2026 Human Resources / Talent Internship](https://jobright.ai/jobs/info/68fbf35df55bb021a889e755?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 24 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
+| ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/68fc2442f55bb021a88a0ded?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Assistant (Developmental) FT – 6506](https://jobright.ai/jobs/info/68fbedd9f55bb021a889e3b5?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Oct 24 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-ERBP](https://jobright.ai/jobs/info/68fbedbff55bb021a889e39a?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 24 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Total Rewards](https://jobright.ai/jobs/info/68cd1fe0b2a74e1837ed2bf4?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Oct 24 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[A-C Electric Company](http://a-celectric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbdc2e93c49825ab106a45?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Oct 24 |
 | **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbd59af55bb021a889cef9?utm_campaign=1054&utm_source=git)** | Taylor, MI | On Site | Oct 24 |
 | **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbd2fd93c49825ab106380?utm_campaign=1054&utm_source=git)** | US-VA-Tysons | Hybrid | Oct 24 |
+| **[Mental Health Systems](https://www.mhsinc.org)** | **[Intern](https://jobright.ai/jobs/info/68fc27c84129dd33cd1394c7?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcd634129dd33cd134de9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
 | **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbccb34129dd33cd134d03?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern - Human Resources/Summer 2026 (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68fad07d3c99cc1d96026806?utm_campaign=1054&utm_source=git)** | Southfield, Michigan | Hybrid | Oct 23 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/68faced88d32c164778cb835?utm_campaign=1054&utm_source=git)** | Wisconsin | On Site | Oct 23 |
 | **[Sterling Group](https://www.thesterlinggrp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbb0e44129dd33cd133c7a?utm_campaign=1054&utm_source=git)** | Mishawaka, IN | On Site | Oct 23 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Winter, 2026)](https://jobright.ai/jobs/info/68fac34a67272b29af7335db?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 23 |
-| **[Summit ](http://www.summitholdings.com)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fac07067272b29af73347e?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Oct 23 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[You Belong Intern](https://jobright.ai/jobs/info/68ca3622f16e3266d2824d5a?utm_campaign=1054&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[HR & Talent Internship Winter/Spring 2026 (On-Site)](https://jobright.ai/jobs/info/68f93c12a628d10664e8ac25?utm_campaign=1054&utm_source=git)** | New York, New York | On Site | Oct 23 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d708c6894705799a2f0043?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
