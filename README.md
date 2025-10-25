@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/68df2a95fe896042b0b777dd?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Oct 25 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/68cd6639e23def7af55b9681?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Oct 25 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern -Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e1f07b1852e62f007f4751?utm_campaign=1054&utm_source=git)** | West Bend, WI | Hybrid | Oct 25 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e02d01b99ec3563b0ccd21?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
 | **[Lockton](https://global.lockton.com)** | **[People Analytics Intern - Kansas City](https://jobright.ai/jobs/info/68cd2017e23def7af55b5afa?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Global Lottery Talent Acquisition Intern](https://jobright.ai/jobs/info/689e864c79a9f9666254daa3?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Oct 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68fc48a9f55bb021a88a243f?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Oct 24 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68fb5261f55bb021a88994b2?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Oct 24 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Human Resources Rotational Intern - Summer 2026](https://jobright.ai/jobs/info/68f5fa329a65fd3458590a9e?utm_campaign=1054&utm_source=git)** | Bloomington, MN | Hybrid | Oct 24 |
 | **[DriveTime](https://www.drivetime.com)** | **[Talent Acquisition Intern (Summer 2026)](https://jobright.ai/jobs/info/68df2308fe896042b0b774b0?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Oct 24 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68fc9a11e0c73b3a1118d996?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Oct 24 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fb394f3c99cc1d96029e18?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Labor Relations Intern, Anaheim, Spring 2026](https://jobright.ai/jobs/info/68fb383e3c99cc1d96029cfe?utm_campaign=1054&utm_source=git)** | Anaheim, CA, USA | On Site | Oct 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Labor Relations Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68fb0416e154835f11ef92e3?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Human Resources Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68f7a184b0edcf159dc851c8?utm_campaign=1054&utm_source=git)** | Euclid, OH | Hybrid | Oct 23 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[College Intern - Human Resources/Summer 2026 (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68fae4803c99cc1d960272b7?utm_campaign=1054&utm_source=git)** | Southfield, MI | Hybrid | Oct 23 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68fadf4c8d32c164778cc25d?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | On Site | Oct 23 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[HR Employment Specialist Internship](https://jobright.ai/jobs/info/68fad8e33c99cc1d96026d6d?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Oct 23 |
-| ↳ | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/68fad8973c99cc1d96026d4d?utm_campaign=1054&utm_source=git)** | Sun Prairie, WI | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
