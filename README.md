@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Oct 26 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccb9a3128dc347fd928b38?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Oct 26 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c48213e471ef3ce16d6d9a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 26 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d67131e5763f188e3eb6?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Oct 26 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c8d8a995f5211cd2ce9f4b?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 26 |
+| **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68cc62c4128dc347fd92406e?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Chicago Pacific Founders](http://www.cpfounders.com/)** | **[Summer 2026 Executive Recruiting Intern](https://jobright.ai/jobs/info/68ee808046e5b153e5a5b383?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68cd947eb2a74e1837ed8fb5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 26 |
 | **[GEICO](http://www.geico.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68e16a8ef758fe1f97e55164?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 26 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Spring 2026](https://jobright.ai/jobs/info/68fd22cc0ab3b222462a0fcd?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Oct 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fd005ee04ac838fb5adf84?utm_campaign=1054&utm_source=git)** | Racine, WI | Remote | Oct 25 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program (Master's Level)](https://jobright.ai/jobs/info/68e032cfb99ec3563b0ccfee?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 25 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f80797ec6dbe7073fd07f3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -135,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Intern](https://jobright.ai/jobs/info/68fbf640f55bb021a889eb67?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68fc8543bf1f431bc45f5ddc?utm_campaign=1054&utm_source=git)** | Plain City, OH, US | On Site | Oct 24 |
-| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
-| ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/68fc2442f55bb021a88a0ded?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
+| **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/68fc2442f55bb021a88a0ded?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
+| ↳ | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Assistant (Developmental) FT – 6506](https://jobright.ai/jobs/info/68fbedd9f55bb021a889e3b5?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Oct 24 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-ERBP](https://jobright.ai/jobs/info/68fbedbff55bb021a889e39a?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 24 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Total Rewards](https://jobright.ai/jobs/info/68cd1fe0b2a74e1837ed2bf4?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Oct 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Recruiting Coordinator Intern](https://jobright.ai/jobs/info/68fbe16493c49825ab106d34?utm_campaign=1054&utm_source=git)** | Fort Collins, CO | On Site | Oct 24 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbdc2e93c49825ab106a45?utm_campaign=1054&utm_source=git)** | Bakersfield, CA | On Site | Oct 24 |
 | **[AJM Packaging Corporation](https://www.ajmpack.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fbd59af55bb021a889cef9?utm_campaign=1054&utm_source=git)** | Taylor, MI | On Site | Oct 24 |
-| **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbd2fd93c49825ab106380?utm_campaign=1054&utm_source=git)** | US-VA-Tysons | Hybrid | Oct 24 |
-| **[Mental Health Systems](https://www.mhsinc.org)** | **[Intern](https://jobright.ai/jobs/info/68fc27c84129dd33cd1394c7?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Oct 24 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 24 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcd634129dd33cd134de9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
-| **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbccb34129dd33cd134d03?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 24 |
-| **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcc45f55bb021a889c82c?utm_campaign=1054&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 24 |
-| **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: People & Culture (Spring 2026)](https://jobright.ai/jobs/info/68fba78d93c49825ab1046be?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
