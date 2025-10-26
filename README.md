@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ámaxa](https://www.amaxaimpact.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fdd50de0c73b3a1119527a?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 26 |
+| **[Chicago Pacific Founders](http://www.cpfounders.com/)** | **[Summer 2026 Executive Recruiting Intern](https://jobright.ai/jobs/info/68ee808046e5b153e5a5b383?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
+| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68cd947eb2a74e1837ed8fb5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 26 |
+| **[GEICO](http://www.geico.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68e16a8ef758fe1f97e55164?utm_campaign=1054&utm_source=git)** | Chevy Chase, MD | Hybrid | Oct 26 |
+| **[Wind River](http://www.windriver.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68c4ac4bfce86561b9288418?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Oct 26 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68e248a3f758fe1f97e59f71?utm_campaign=1054&utm_source=git)** | Conyers, GA | On Site | Oct 26 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 26 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Edina, MN](https://jobright.ai/jobs/info/68fdd218e04ac838fb5b20b1?utm_campaign=1054&utm_source=git)** | US-MN-Edina | On Site | Oct 26 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/68fd992ee04ac838fb5b0b6a?utm_campaign=1054&utm_source=git)** | Carlsbad, CA | On Site | Oct 25 |
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fcd48fe0c73b3a1118fff8?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Oct 25 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Spring 2026](https://jobright.ai/jobs/info/68fd22cc0ab3b222462a0fcd?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Oct 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fd005ee04ac838fb5adf84?utm_campaign=1054&utm_source=git)** | Racine, WI | Remote | Oct 25 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program (Master's Level)](https://jobright.ai/jobs/info/68e032cfb99ec3563b0ccfee?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Oct 25 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f80797ec6dbe7073fd07f3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LMI](http://www.lmi.org)** | **[Human Resources Intern (Talent Management)](https://jobright.ai/jobs/info/68fbccb34129dd33cd134d03?utm_campaign=1054&utm_source=git)** | Tysons Corner, VA | Hybrid | Oct 24 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern – Human Resources (Dallas/Houston Rotation)](https://jobright.ai/jobs/info/68fbcc45f55bb021a889c82c?utm_campaign=1054&utm_source=git)** | DALLAS, Texas, United States | On Site | Oct 24 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: People & Culture (Spring 2026)](https://jobright.ai/jobs/info/68fba78d93c49825ab1046be?utm_campaign=1054&utm_source=git)** | Macungie, PA | On Site | Oct 24 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fba65df55bb021a889b209?utm_campaign=1054&utm_source=git)** | Charter Manufacturing Company, Inc - Mequon, WI | Hybrid | Oct 24 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 24 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/68ded489a125e75c422b718d?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Oct 24 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
