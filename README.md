@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2026 Intern - Americas](https://jobright.ai/jobs/info/68f6a6ab9a63986de7580d59?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Oct 27 |
+| **[UNDP Careers](https://www.undp.org)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/68fa8f2cedd190144238e36a?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Oct 27 |
 | **[JINGDONG Logistics](https://www.jdl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ff01a80ab3b222462a8b0f?utm_campaign=1054&utm_source=git)** | Fontana | On Site | Oct 26 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Oct 26 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[HR Intern](https://jobright.ai/jobs/info/68feae05e04ac838fb5b48e8?utm_campaign=1054&utm_source=git)** | Waller County, TX | Remote | Oct 26 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/68fe96400ab3b222462a73b8?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 26 |
-| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fe8d4f0ab3b222462a7316?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Oct 26 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fe8eb5e0c73b3a11197738?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Oct 26 |
 | **[Summit](http://summitllc.us)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fe7faf0ab3b222462a70d7?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Oct 26 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Kennywood - Operations Analyst Intern](https://jobright.ai/jobs/info/68fe6f95e0c73b3a111971f3?utm_campaign=1054&utm_source=git)** | Kennywood, 4800 Kennywood Blvd., West Mifflin,  PA 15122, United States of America | On Site | Oct 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Healing Hands Incorporated](www.healinganhsint.com)** | **[Clinical Case Manager Internship](https://jobright.ai/jobs/info/68fd51750ab3b222462a17e1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Oct 25 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Spring 2026](https://jobright.ai/jobs/info/68fd22cc0ab3b222462a0fcd?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Oct 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fd005ee04ac838fb5adf84?utm_campaign=1054&utm_source=git)** | Racine, WI | Remote | Oct 25 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f80797ec6dbe7073fd07f3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/68fccc920ab3b2224629f82a?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Intern](https://jobright.ai/jobs/info/68fbf640f55bb021a889eb67?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68fc8543bf1f431bc45f5ddc?utm_campaign=1054&utm_source=git)** | Plain City, OH, US | On Site | Oct 24 |
-| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
