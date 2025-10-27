@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PatientPoint®](http://patientpoint.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ffc6e9e04ac838fb5bb277?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 27 |
+| **[EQT Corporation](https://www.eqt.com/)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/68ffc66c0ab3b222462add1d?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Oct 27 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68a75eae758f2e4ac3feb7d3?utm_campaign=1054&utm_source=git)** | Oklahoma City, OK | On Site | Oct 27 |
+| **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Refugee Resettlement Case Management - Intern](https://jobright.ai/jobs/info/68ffb874e0c73b3a1119db9c?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Oct 27 |
+| **[IAMPACT MGMT](iampactmgmt.com)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/68ffb809e04ac838fb5baa50?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Oct 27 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - The People Team (New York, NY)](https://jobright.ai/jobs/info/68c7fd05983e6768bc548bf5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | ↳ | **[2026 BNY Summer Internship Program - The People Team (Lake Mary, FL)](https://jobright.ai/jobs/info/68cda6a01ad6b16f0289ce6c?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | On Site | Oct 27 |
 | **[Project Builders](https://projectbuilders.com/)** | **[Internship & Co-op Opportunities - Spring 2026](https://jobright.ai/jobs/info/68ffa05c0ab3b222462ac95a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 27 |
@@ -81,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68ff653ee04ac838fb5b8394?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Oct 27 |
 | ↳ | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68ff652de04ac838fb5b8391?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | ↳ | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/68ff629ae04ac838fb5b8323?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68ff9b4fe04ac838fb5b9a8c?utm_campaign=1054&utm_source=git)** | Plain City, Ohio | On Site | Oct 27 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2026 Intern - Americas](https://jobright.ai/jobs/info/68f6a6ab9a63986de7580d59?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/68fa8f2cedd190144238e36a?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Oct 27 |
 | **[JINGDONG Logistics](https://www.jdl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ff01a80ab3b222462a8b0f?utm_campaign=1054&utm_source=git)** | Fontana | On Site | Oct 26 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68fd45f80ab3b222462a1646?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
 | **[Healing Hands Incorporated](www.healinghandsint.com)** | **[Clinical Case Manager Internship](https://jobright.ai/jobs/info/68fd51750ab3b222462a17e1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Oct 25 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Spring 2026](https://jobright.ai/jobs/info/68fd22cc0ab3b222462a0fcd?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Oct 25 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f80797ec6dbe7073fd07f3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Labor Relations Intern, Orlando, Spring 2026](https://jobright.ai/jobs/info/68fcbdeee0c73b3a1118f5f8?utm_campaign=1054&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 25 |
 | ↳ | **[Labor Relations Intern, Anaheim, Spring 2026](https://jobright.ai/jobs/info/68fcbbb1e04ac838fb5ac523?utm_campaign=1054&utm_source=git)** | Anaheim, CA | On Site | Oct 25 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/688cff831808534a89cc0304?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Oct 25 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[National Indigenous Campus Recruitment - Talent Pool](https://jobright.ai/jobs/info/68df2a95fe896042b0b777dd?utm_campaign=1054&utm_source=git)** | London, CA | On Site | Oct 25 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Spring 2026)](https://jobright.ai/jobs/info/68cd6639e23def7af55b9681?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
