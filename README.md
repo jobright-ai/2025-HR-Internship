@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55a02db52c07d28842603?utm_campaign=1054&utm_source=git)** | Alexandria, LA | On Site | Oct 25 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Oct 25 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c79ad8db52c07d2884ce45?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Oct 25 |
-| **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fcd803e04ac838fb5ad3cd?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Human Resources Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e0491e1852e62f007e9c46?utm_campaign=1054&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
 | **[Loretto](https://lorettocny.org/)** | **[Unpaid Intern - Talent Acquisition Customer Service Internship](https://jobright.ai/jobs/info/688a937209808a6103e4fe57?utm_campaign=1054&utm_source=git)** | Syracuse-Auburn Area | On Site | Oct 25 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68c4db44fce86561b9289e64?utm_campaign=1054&utm_source=git)** | Draper, UT | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Intern](https://jobright.ai/jobs/info/68fbf640f55bb021a889eb67?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68fc8543bf1f431bc45f5ddc?utm_campaign=1054&utm_source=git)** | Plain City, OH, US | On Site | Oct 24 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
