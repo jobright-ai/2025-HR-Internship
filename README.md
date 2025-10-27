@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Healing Hands Incorporated](www.healinganhsint.com)** | **[Clinical Case Manager Internship](https://jobright.ai/jobs/info/68fd51750ab3b222462a17e1?utm_campaign=1054&utm_source=git)** | New York, NY, US | On Site | Oct 25 |
 | **[Dallas Zoo](http://dallaszoo.com)** | **[Volunteer Management Intern - Spring 2026](https://jobright.ai/jobs/info/68fd22cc0ab3b222462a0fcd?utm_campaign=1054&utm_source=git)** | Dallas, Texas | On Site | Oct 25 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Undergraduate Leadership Program](https://jobright.ai/jobs/info/68fd005ee04ac838fb5adf84?utm_campaign=1054&utm_source=git)** | Racine, WI | Remote | Oct 25 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Preferred Banking Operations](https://jobright.ai/jobs/info/68f80797ec6dbe7073fd07f3?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 25 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[College Intern](https://jobright.ai/jobs/info/68fbf640f55bb021a889eb67?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 24 |
 | **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/68f2c6a79a65fd3458580ef4?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/68fc8543bf1f431bc45f5ddc?utm_campaign=1054&utm_source=git)** | Plain City, OH, US | On Site | Oct 24 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68fc1f6293c49825ab109ea1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
