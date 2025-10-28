@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/690045580ab3b222462b38a8?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Oct 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Hendersonville](https://jobright.ai/jobs/info/69003f90e0c73b3a111a3af0?utm_campaign=1054&utm_source=git)** | Madison, TN | On Site | Oct 27 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69003d48e04ac838fb5c0a25?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Oct 27 |
 | **[UHS](https://uhs.com)** | **[Internship](https://jobright.ai/jobs/info/69003afde0c73b3a111a393a?utm_campaign=1054&utm_source=git)** | CLIVE, Iowa | On Site | Oct 27 |
 | **[vialytics](http://www.vialytics.de)** | **[People & Culture Intern with Recruiting Focus, US](https://jobright.ai/jobs/info/6900394be0c73b3a111a37c8?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Oct 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/6900351ae04ac838fb5c04ba?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Oct 27 |
@@ -143,9 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Seagate Total Rewards Summer 2026 Intern - Americas](https://jobright.ai/jobs/info/68f6a6ab9a63986de7580d59?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Oct 27 |
 | **[UNDP Careers](https://www.undp.org)** | **[Communications Intern-UNV Human Resources Section-Remote](https://jobright.ai/jobs/info/68fa8f2cedd190144238e36a?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Oct 27 |
 | **[JINGDONG Logistics](https://www.jdl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ff01a80ab3b222462a8b0f?utm_campaign=1054&utm_source=git)** | Fontana | On Site | Oct 26 |
+| **[EBMUD](https://www.ebmud.com/)** | **[Human Resources Intern II (Part-Time)](https://jobright.ai/jobs/info/690046530ab3b222462b3922?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | Oct 26 |
 | **[JFS Altius Farms](https://altiusfarms.com/)** | **[Refugee Resettlement Case Management - Intern](https://jobright.ai/jobs/info/68fff1fce0c73b3a111a0cab?utm_campaign=1054&utm_source=git)** | Tamarac, FL | On Site | Oct 26 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Oct 26 |
-| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fe8d4f0ab3b222462a7316?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Oct 26 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fe8eb5e0c73b3a11197738?utm_campaign=1054&utm_source=git)** | Orem, UT | On Site | Oct 26 |
 | **[Summit](http://summitllc.us)** | **[Claims Intern 2026](https://jobright.ai/jobs/info/68fe7faf0ab3b222462a70d7?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Oct 26 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Kennywood - Operations Analyst Intern](https://jobright.ai/jobs/info/68fe6f95e0c73b3a111971f3?utm_campaign=1054&utm_source=git)** | Kennywood, 4800 Kennywood Blvd., West Mifflin,  PA 15122, United States of America | On Site | Oct 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
 | ↳ | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Oct 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c7b5e55c25e576f7b29d4d?utm_campaign=1054&utm_source=git)** | Monroe, LA | On Site | Oct 26 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/68d11cccfa731f61692dcae0?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Oct 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/68b505ff1ade4306aa63f0b6?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
