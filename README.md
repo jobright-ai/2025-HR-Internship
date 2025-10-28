@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zuckerman Investment Group, LLC](https://www.zuckermaninvestmentgroup.com)** | **[Wealth Management Associate  Early Talent Direct Hire](https://jobright.ai/jobs/info/69008709e04ac838fb5c29a9?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Career Development Program](https://jobright.ai/jobs/info/69007c99e04ac838fb5c2501?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Oct 28 |
+| **[Horizon Air](https://careers.alaskaair.com)** | **[Intern - Horizon HR Process Improvement (Summer 2026)](https://jobright.ai/jobs/info/68efaece9821486c423c6b69?utm_campaign=1054&utm_source=git)** | SeaTac, WA | On Site | Oct 28 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HR Compensation Intern](https://jobright.ai/jobs/info/690045580ab3b222462b38a8?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Oct 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Hendersonville](https://jobright.ai/jobs/info/69003f90e0c73b3a111a3af0?utm_campaign=1054&utm_source=git)** | Madison, TN | On Site | Oct 27 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Human Resources Summer Associate](https://jobright.ai/jobs/info/69003d48e04ac838fb5c0a25?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Oct 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Kennywood - Operations Analyst Intern](https://jobright.ai/jobs/info/68fe6f95e0c73b3a111971f3?utm_campaign=1054&utm_source=git)** | Kennywood, 4800 Kennywood Blvd., West Mifflin,  PA 15122, United States of America | On Site | Oct 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
 | **[ATI Physical Therapy](https://news.atipt.com)** | **[Skill Bridge - Worksite Solutions Based Internship](https://jobright.ai/jobs/info/6868a40635584b6542be6d92?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Oct 26 |
-| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
-| ↳ | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
