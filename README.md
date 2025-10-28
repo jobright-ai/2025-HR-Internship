@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dunmore](http://www.dunmore.com/)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/6901389f4539ea1f2141e115?utm_campaign=1054&utm_source=git)** | Bristol, PA, 19007, United States | On Site | Oct 28 |
+| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6901383f4539ea1f2141e0ed?utm_campaign=1054&utm_source=git)** | Brighton, MA, US | Hybrid | Oct 28 |
+| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - Payroll Intern/Co-Op Student](https://jobright.ai/jobs/info/68db3b629f13662d20e48ba5?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Oct 28 |
+| **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/690133d7f8ce7a040fdbd64e?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Oct 28 |
+| **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | Oct 28 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Oct 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Kingston, NY and Hudson, NY](https://jobright.ai/jobs/info/69012231d5259a1b3cff1bfb?utm_campaign=1054&utm_source=git)** | Kingston, NY | On Site | Oct 28 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/69011e18f8ce7a040fdbc417?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Oct 28 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69011b08d5259a1b3cff1725?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Oct 28 |
 | **[CSM Corporation](https://csmcorp.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6901193ad5259a1b3cff1571?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 28 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690117d6d5259a1b3cff1452?utm_campaign=1054&utm_source=git)** | US-CA-Valencia | On Site | Oct 28 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69011698f8ce7a040fdbbe70?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 28 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting - Spring 2026 - Summer 2026](https://jobright.ai/jobs/info/69010b4a4539ea1f2141bd51?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Oct 28 |
+| ↳ | **[Insurance Agent Recruiting Intern - Spring 2026 - Summer 2026](https://jobright.ai/jobs/info/690124c4f8ce7a040fdbc8db?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, US | On Site | Oct 28 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690102cb4539ea1f2141b8e1?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Oct 28 |
 | **[PatientPoint®](http://patientpoint.com)** | **[HR Intern](https://jobright.ai/jobs/info/69010291d5259a1b3cff0785?utm_campaign=1054&utm_source=git)** | Greater St. Louis | Hybrid | Oct 28 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[HR Intern - OCM](https://jobright.ai/jobs/info/69010009f8ce7a040fdbb239?utm_campaign=1054&utm_source=git)** | Yulee, FL | Hybrid | Oct 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PatientPoint®](http://patientpoint.com)** | **[HR Intern](https://jobright.ai/jobs/info/68ffd64fe04ac838fb5bc1cf?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | Remote | Oct 27 |
 | ↳ | **[HR Intern](https://jobright.ai/jobs/info/68ffd5a3e04ac838fb5bc135?utm_campaign=1054&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 27 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/68f1fad616d3640372516a6d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Oct 27 |
-| **[Hexion Inc.](https://www.hexion.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ffdd220ab3b222462af3e6?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Oct 27 |
-| **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[Employee Benefits - Data Analytics Intern](https://jobright.ai/jobs/info/68ffdd12e0c73b3a1119f800?utm_campaign=1054&utm_source=git)** | Camden, New Jersey, United States | On Site | Oct 27 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ffdba50ab3b222462af1a0?utm_campaign=1054&utm_source=git)** | San Diego, California, United States | On Site | Oct 27 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/68ffd992e0c73b3a1119f497?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Oct 27 |
-| ↳ | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/68ffd8fde0c73b3a1119f3c4?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 27 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ffd7fb0ab3b222462aebc0?utm_campaign=1054&utm_source=git)** | Pearl, MS | On Site | Oct 27 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Human Resources (Talent Management)](https://jobright.ai/jobs/info/68ffd7030ab3b222462aeb49?utm_campaign=1054&utm_source=git)** | Overland Park, Kansas | On Site | Oct 27 |
-| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68ffd695e0c73b3a1119f194?utm_campaign=1054&utm_source=git)** | Ankeny, IA | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
