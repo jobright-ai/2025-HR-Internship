@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Mt. Juliet](https://jobright.ai/jobs/info/6901cd71f8ce7a040fdc2bb5?utm_campaign=1054&utm_source=git)** | Mount Juliet, TN | On Site | Oct 29 |
 | **[LumoraX](lumorax.us)** | **[HR Intern](https://jobright.ai/jobs/info/6901c2c7f8ce7a040fdc2710?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 29 |
+| **[UPS](http://www.ups.com)** | **[HR Intern](https://jobright.ai/jobs/info/6901dc6ff8ce7a040fdc3008?utm_campaign=1054&utm_source=git)** | Rockford, IL | On Site | Oct 29 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Finance & Performance - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6901aa5bf8ce7a040fdc1d3a?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
 | ↳ | **[Summer Intern - Human Resources - Workforce Planning - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6901a8ac4539ea1f214221cc?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
 | ↳ | **[Summer Intern - Human Resources - Labor Relations](https://jobright.ai/jobs/info/6901a7ed4539ea1f214221a3?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID, Internship, Human Resource Specialist](https://jobright.ai/jobs/info/69001707e0c73b3a111a21c8?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Oct 27 |
 | **[Squire](https://www.squire.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69001366e0c73b3a111a1d1b?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT, US | Hybrid | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Workplace Inclusion Intern](https://jobright.ai/jobs/info/69001136e04ac838fb5bebec?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
-| ↳ | **[Benefits Intern](https://jobright.ai/jobs/info/69000f670ab3b222462b1661?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
-| **[Office of the Minnesota Attorney General](http://www.ag.state.mn.us)** | **[Spring 2026 – Undergraduate – Internship Opportunity Mondale-Humphrey Scholars](https://jobright.ai/jobs/info/6900da53d5259a1b3cfef068?utm_campaign=1054&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
