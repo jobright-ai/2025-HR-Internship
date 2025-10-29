@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / Michigan Technological University](https://jobright.ai/jobs/info/690186a7d5259a1b3cff5d80?utm_campaign=1054&utm_source=git)** | Houghton, MI | On Site | Oct 28 |
+| **[Schneider](https://schneider.com)** | **[Recruiting Intern - Summer 2026](https://jobright.ai/jobs/info/690182a24539ea1f21420ae7?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Oct 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69017d4cd5259a1b3cff5567?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 28 |
+| ↳ | **[Spring 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69017c4dd5259a1b3cff54a8?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Oct 28 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Oct 28 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - HR Corporate Safety Group](https://jobright.ai/jobs/info/690143d5d5259a1b3cff3aea?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Oct 28 |
 | **[Chobani](http://www.chobani.com)** | **[People Tech & Operations Intern](https://jobright.ai/jobs/info/69013a64d5259a1b3cff3313?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Oct 28 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Office of the Minnesota Attorney General](http://www.ag.state.mn.us)** | **[Spring 2026 – Undergraduate – Internship Opportunity Mondale-Humphrey Scholars](https://jobright.ai/jobs/info/6900da53d5259a1b3cfef068?utm_campaign=1054&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Oct 27 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/690001dc0ab3b222462b1151?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Oct 27 |
 | **[CU Online](https://online.cu.edu/)** | **[Senior HR Generalist](https://jobright.ai/jobs/info/690035b1e0c73b3a111a3562?utm_campaign=1054&utm_source=git)** | Boulder, CO | Hybrid | Oct 27 |
-| **[Formlabs](http://www.formlabs.com)** | **[People Analytics MBA Intern (Winter/Spring 2026 Part-Time)](https://jobright.ai/jobs/info/68fffb46e0c73b3a111a12e9?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Oct 27 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment & Skill Building Intern (Spring 2026)](https://jobright.ai/jobs/info/68ffee45e04ac838fb5bd7b8?utm_campaign=1054&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 27 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/68ffe8640ab3b222462afe4f?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 27 |
 | ↳ | **[Intern - Human Resources (Talent Management)](https://jobright.ai/jobs/info/68ffe82ce0c73b3a111a03ce?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Oct 27 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/68ffe4820ab3b222462afab4?utm_campaign=1054&utm_source=git)** | San Diego, CA | Hybrid | Oct 27 |
-| **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[Employee Benefits Intern](https://jobright.ai/jobs/info/68ffe2d8e0c73b3a1119ffd4?utm_campaign=1054&utm_source=git)** | Camden, New Jersey, United States | On Site | Oct 27 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Fall 2025 - AFO Internship](https://jobright.ai/jobs/info/68ffe0310ab3b222462af80d?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
