@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Memphis Chapter)](https://jobright.ai/jobs/info/6902521f00a1816c41e9cde7?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
+| **[Tessera](https://tessera.org)** | **[Vocational/Human Resources Intern](https://jobright.ai/jobs/info/69026fa0ff462851fefe2fe3?utm_campaign=1054&utm_source=git)** | Bremerton, WA | On Site | Oct 29 |
+| **[Trinity Services Inc.](https://www.trinityservices.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69026ad300a1816c41e9ddac?utm_campaign=1054&utm_source=git)** | Wilmington, IL | On Site | Oct 29 |
+| **[Lone Mountain Strategies](lonemountainstrategies.com)** | **[Regional Recruiter Intern](https://jobright.ai/jobs/info/690263bd98707b2b0fe6ed24?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Pond & Company](https://www.pondco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690262a400a1816c41e9d767?utm_campaign=1054&utm_source=git)** | Peachtree Corners, GA | On Site | Oct 29 |
+| **[Tessera](https://tessera.org)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/69026074ff462851fefe267c?utm_campaign=1054&utm_source=git)** | Bremerton, WA | On Site | Oct 29 |
+| **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - HR Internship](https://jobright.ai/jobs/info/6902589cff462851fefe2274?utm_campaign=1054&utm_source=git)** | Westminster, CO | On Site | Oct 29 |
+| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Membership & Industry Relations (Memphis Chapter)](https://jobright.ai/jobs/info/690256e7ff462851fefe213b?utm_campaign=1054&utm_source=git)** | United States | On Site | Oct 29 |
+| ↳ | **[Intern, Membership & Industry Relations (Memphis Chapter)](https://jobright.ai/jobs/info/6902521f00a1816c41e9cde7?utm_campaign=1054&utm_source=git)** | New Orleans, LA | On Site | Oct 29 |
 | **[Skookum](https://tessera.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69024a3a00a1816c41e9c969?utm_campaign=1054&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | ↳ | **[Vocational/Human Resources Intern](https://jobright.ai/jobs/info/690249c2ff462851fefe18bc?utm_campaign=1054&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | ↳ | **[Workforce Development Intern](https://jobright.ai/jobs/info/69024651ff462851fefe1660?utm_campaign=1054&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Year-Round Intern – Supply Chain](https://jobright.ai/jobs/info/69023d9598707b2b0fe6d704?utm_campaign=1054&utm_source=git)** | USA, Louisville, KY | Hybrid | Oct 29 |
 | ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69023d70ff462851fefe1222?utm_campaign=1054&utm_source=git)** | USA, Louisville, KY | Hybrid | Oct 29 |
+| **[Trinity Services Inc.](https://www.trinityservices.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902570298707b2b0fe6e643?utm_campaign=1054&utm_source=git)** | Wilmington, IL, 60481, United States | On Site | Oct 29 |
 | **[AAR](http://aarcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902372a00a1816c41e9be0f?utm_campaign=1054&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/68ca532f46caff4db51fd5a9?utm_campaign=1054&utm_source=git)** | Beloit, WI | On Site | Oct 29 |
 | ↳ | **[Summer 2026 Management Internship - Nashua, NH Area](https://jobright.ai/jobs/info/68e5c374ae2b894b1d7133b8?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Oct 29 |
@@ -85,11 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd0472e5ac5c0dc6d26689?utm_campaign=1054&utm_source=git)** | Concord, NC | On Site | Oct 29 |
 | ↳ | **[Management Trainee Intern Summer 2026](https://jobright.ai/jobs/info/68cd3208b2a74e1837ed3bf1?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Oct 29 |
 | ↳ | **[Summer 2026 Management Intern Dallas](https://jobright.ai/jobs/info/68e5783f1852e62f0081075c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 29 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Human Resources Leadership Development Program, Colleague Experience Group - New York, NY](https://jobright.ai/jobs/info/68acc2dcdaf1431824c980c3?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[Republic Airways](http://www.rjet.com)** | **[LIFT Admissions Intern - Spring 2026](https://jobright.ai/jobs/info/689f7eecfaa4e875e8288aa8?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Workforce Development Intern](https://jobright.ai/jobs/info/68ca252bd4187c55157a67ff?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Oct 29 |
 | **[SageSure](https://www.sagesure.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69021ca3ff462851fefe0330?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Oct 29 |
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cf1e0adbd9fb154ede52c7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Oct 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/689339044c7e851b90adc97c?utm_campaign=1054&utm_source=git)** | Roseville, CA | On Site | Oct 29 |
+| ↳ | **[Management Trainee Intern - Appleton/Oshkosh](https://jobright.ai/jobs/info/68ca43d70456a931db2967c4?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Oct 29 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca4a9f06a34016008c637f?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Oct 29 |
 | ↳ | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/68ca496906a34016008c6204?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Oct 29 |
 | **[Graco](http://graco.com/in/en/)** | **[HR Analytics Intern](https://jobright.ai/jobs/info/68cffc4ffb49c96ca6ead23c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 29 |
@@ -131,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/69017d4cd5259a1b3cff5567?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Oct 28 |
 | ↳ | **[Spring 2026 Management Trainee Intern Homestead](https://jobright.ai/jobs/info/69017c4dd5259a1b3cff54a8?utm_campaign=1054&utm_source=git)** | Homestead, FL | On Site | Oct 28 |
 | **[DivcoWest](http://www.divcowest.com/)** | **[AI Intern, People Operations](https://jobright.ai/jobs/info/690193cdd5259a1b3cff65a0?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Oct 28 |
+| **[HDI Global SE](https://www.hdi.global/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69025bd198707b2b0fe6e9ba?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Oct 28 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - HR Corporate Safety Group](https://jobright.ai/jobs/info/690143d5d5259a1b3cff3aea?utm_campaign=1054&utm_source=git)** | Newark, NJ | Hybrid | Oct 28 |
 | **[Chobani](http://www.chobani.com)** | **[People Tech & Operations Intern](https://jobright.ai/jobs/info/69013a64d5259a1b3cff3313?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Oct 28 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSM Corporation](https://csmcorp.net/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6901193ad5259a1b3cff1571?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Oct 28 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/690118c8d5259a1b3cff151a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Oct 28 |
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690117d6d5259a1b3cff1452?utm_campaign=1054&utm_source=git)** | US-CA-Valencia | On Site | Oct 28 |
-| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Compensation Intern](https://jobright.ai/jobs/info/69011698f8ce7a040fdbbe70?utm_campaign=1054&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 28 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/6901502a4539ea1f2141f2e7?utm_campaign=1054&utm_source=git)** | US-SC-West Columbia | On Site | Oct 28 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Insurance Agent Recruiting - Spring 2026 - Summer 2026](https://jobright.ai/jobs/info/69010b4a4539ea1f2141bd51?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Oct 28 |
-| ↳ | **[Insurance Agent Recruiting Intern - Spring 2026 - Summer 2026](https://jobright.ai/jobs/info/690124c4f8ce7a040fdbc8db?utm_campaign=1054&utm_source=git)** | West Des Moines, IA, US | On Site | Oct 28 |
-| **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690102cb4539ea1f2141b8e1?utm_campaign=1054&utm_source=git)** | Bedford, NH | On Site | Oct 28 |
-| **[PatientPoint®](http://patientpoint.com)** | **[HR Intern](https://jobright.ai/jobs/info/69010291d5259a1b3cff0785?utm_campaign=1054&utm_source=git)** | Greater St. Louis | Hybrid | Oct 28 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[HR Intern - OCM](https://jobright.ai/jobs/info/69010009f8ce7a040fdbb239?utm_campaign=1054&utm_source=git)** | Yulee, FL | Hybrid | Oct 28 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68fbf83493c49825ab10819d?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Oct 28 |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Associate Degree Apprenticeship Program - WC Claims - Schaumburg, IL (Summer 2026)](https://jobright.ai/jobs/info/6900f57ed5259a1b3cfefe92?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 28 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Global Lottery Talent Acquisition Intern](https://jobright.ai/jobs/info/689e864c79a9f9666254daa3?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Oct 28 |
-| **[Save the Children US](http://savethechildren.org)** | **[Benefits Intern (P&C)](https://jobright.ai/jobs/info/6900ee1cf8ce7a040fdba6c0?utm_campaign=1054&utm_source=git)** | Fairfield, CT | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
