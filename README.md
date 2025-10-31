@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0985e1f624a7ec1cf4595?utm_campaign=1054&utm_source=git)** | St Paul Park, MN | On Site | Oct 31 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Human Resources Intern – Talent Program Management (Center of Excellence)](https://jobright.ai/jobs/info/6904400cd64a22104aa98807?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Oct 30 |
 | **[BWXT](http://www.bwxt.com/)** | **[HR Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69043dd263502c0aded71dee?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Oct 30 |
 | **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69043cb3ff462851feff4239?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Oct 30 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/69041121d64a22104aa96905?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69040ea6d64a22104aa9678b?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | Hybrid | Oct 30 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69040358d64a22104aa95ebc?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Oct 30 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69040146ff462851feff1c00?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 30 |
+| **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resource/Talent Acquisition Intern](https://jobright.ai/jobs/info/68ff8fe8e0c73b3a1119c4da?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 30 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fd74d64a22104aa95b81?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Learning and Developement Intern](https://jobright.ai/jobs/info/690429b7ff462851feff381b?utm_campaign=1054&utm_source=git)** | Austin Texas | On Site | Oct 30 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fa24ff462851feff15d8?utm_campaign=1054&utm_source=git)** | West Des Moines | On Site | Oct 30 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Human Resource Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69036c12ff462851fefeb147?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e71a7a1852e62f00822414?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Oct 30 |
 | **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Oct 30 |
+| **[Musco Lighting](http://www.musco.com)** | **[MUSCO Posting Template](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Oct 30 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Worker's Compensation)](https://jobright.ai/jobs/info/68cbaa199e3a822f5d249f77?utm_campaign=1054&utm_source=git)** | Iowa, United States | Remote | Oct 30 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Safety & Environment - Intern](https://jobright.ai/jobs/info/68e6ddcde8daec61499afe7f?utm_campaign=1054&utm_source=git)** | Lansdale, PA | Hybrid | Oct 30 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Oct 30 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2026 - Strategic Engagement & Culture Intern](https://jobright.ai/jobs/info/6902d2ce00a1816c41ea1adf?utm_campaign=1054&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Oct 29 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902d1bf98707b2b0fe72fff?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Oct 29 |
 | **[Johnson Level & Tool](http://johnsonlevel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902d16898707b2b0fe72fd5?utm_campaign=1054&utm_source=git)** | Mequon, WI | On Site | Oct 29 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902bf5698707b2b0fe727b6?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Oct 29 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Benefits Intern](https://jobright.ai/jobs/info/6902c12198707b2b0fe728b7?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Oct 29 |
 | **[Corrugated Supplies Company](http://www.corrugatedsuppliescompany.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6903a3d363502c0aded6a891?utm_campaign=1054&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 29 |
 | **[State of Washington](http://access.wa.gov/)** | **[OFFICE ASSISTANT 3 - Graduated Reentry Section 3 (WFSE Internal Transfer Only)](https://jobright.ai/jobs/info/690373c1d64a22104aa8f91d?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | On Site | Oct 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Immigration Specialist (Winter/Spring 2026)](https://jobright.ai/jobs/info/6902ae7698707b2b0fe72090?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902ad5700a1816c41ea0a90?utm_campaign=1054&utm_source=git)** | Red Oak, TX | On Site | Oct 29 |
+| **[Brave Health](https://bebravehealth.com)** | **[Registered Mental Health Counselor Intern (RMHCI) - Remote - Spanish Speaking](https://jobright.ai/jobs/info/69045bab63502c0aded72772?utm_campaign=1054&utm_source=git)** | Florida (Remote) | Remote | Oct 29 |
 | **[Broadview Federal Credit Union](https://www.broadviewfcu.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68f96718cadb2e5a06a64a67?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Oct 29 |
-| **[LaunchCapital](http://www.launchcapital.com)** | **[People Analytics MBA Intern (Winter/Spring 2026 Part-Time)](https://jobright.ai/jobs/info/6903fafdd64a22104aa958bc?utm_campaign=1054&utm_source=git)** | Somerville, MA | On Site | Oct 29 |
-| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/6902965dff462851fefe4fee?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Oct 29 |
-| **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Tech Eco](https://jobright.ai/jobs/info/69029567ff462851fefe4f3b?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
