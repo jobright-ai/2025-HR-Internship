@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69056c8c63502c0aded7afb3?utm_campaign=1054&utm_source=git)** | Souderton, PA | On Site | Oct 31 |
+| **[NAPA Auto Parts](http://napaonline.com)** | **[People Team, Talent Planning Intern Summer 2026](https://jobright.ai/jobs/info/69056c5e122e8474c78d8daf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/69056afc63502c0aded7aebd?utm_campaign=1054&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Labor Relations](https://jobright.ai/jobs/info/6901a7ed4539ea1f214221a3?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 31 |
@@ -67,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Huhtamaki](http://huhtamaki.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69053354ff462851feffbb50?utm_campaign=1054&utm_source=git)** | De Soto, KS | Hybrid | Oct 31 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/690532e8ff462851feffbaa3?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Internship Recruiting and Development Lead](https://jobright.ai/jobs/info/6905323963502c0aded796cd?utm_campaign=1054&utm_source=git)** | Red Bank, NJ | On Site | Oct 31 |
-| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6905305563502c0aded7955c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Oct 31 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6905670c63502c0aded7adb8?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Oct 31 |
+| ↳ | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/6905305563502c0aded7955c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Oct 31 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Human Capital Services Intern](https://jobright.ai/jobs/info/69052fd963502c0aded794be?utm_campaign=1054&utm_source=git)** | New Haven, CT | On Site | Oct 31 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer HR Operations Internship](https://jobright.ai/jobs/info/69052eeb63502c0aded79336?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 31 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69052c93122e8474c78d70b5?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Oct 31 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Training Area Assistant - International Missionary Experience (20 Hrs/Wk)](https://jobright.ai/jobs/info/6904330dd64a22104aa98057?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Oct 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Human Resources Intern – Talent Program Management (Center of Excellence)](https://jobright.ai/jobs/info/690432bbd64a22104aa98011?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Oct 30 |
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/690429e6d64a22104aa97ab7?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Oct 30 |
-| **[Helpothon](https://helpothon.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6904e7a2122e8474c78d415f?utm_campaign=1054&utm_source=git)** | Mobile, AL | On Site | Oct 30 |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69041d07d64a22104aa970d0?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 30 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Benefits and Eligibility Specialist I](https://jobright.ai/jobs/info/69041c5fd64a22104aa97070?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 30 |
 | **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69041a4463502c0aded70603?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Oct 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fa24ff462851feff15d8?utm_campaign=1054&utm_source=git)** | West Des Moines | On Site | Oct 30 |
 | **[ITW](http://www.itw.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/6903f87e63502c0aded6ee68?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Oct 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Work Place Intern](https://jobright.ai/jobs/info/6903f0c263502c0aded6e8aa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Oct 30 |
-| **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/6903fea3ff462851feff1869?utm_campaign=1054&utm_source=git)** | United States, Missouri, Saint Joseph | On Site | Oct 30 |
-| **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOGNFS - Summer 2026](https://jobright.ai/jobs/info/6903de90ff462851fefeff32?utm_campaign=1054&utm_source=git)** | Erwin, TN | On Site | Oct 30 |
-| ↳ | **[Human Resources Intern, NOGL - Summer 2026](https://jobright.ai/jobs/info/6903fc54d64a22104aa95a50?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
