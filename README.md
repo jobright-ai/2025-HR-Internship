@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Labor Relations](https://jobright.ai/jobs/info/6901a7ed4539ea1f214221a3?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Oct 31 |
+| **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
+| **[The Waldinger Corporation](http://waldinger.com)** | **[Intern](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 31 |
+| **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/690118c8d5259a1b3cff151a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Oct 31 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905419663502c0aded79f67?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Oct 31 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69053cc4122e8474c78d7c2e?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Oct 31 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/69053465ff462851feffbca6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clarios](https://www.clarios.com/)** | **[HR Intern - St Joseph, MO DAP (Summer 2026)](https://jobright.ai/jobs/info/6903fea3ff462851feff1869?utm_campaign=1054&utm_source=git)** | United States, Missouri, Saint Joseph | On Site | Oct 30 |
 | **[BWXT](http://www.bwxt.com/)** | **[Human Resources Intern, NOGNFS - Summer 2026](https://jobright.ai/jobs/info/6903de90ff462851fefeff32?utm_campaign=1054&utm_source=git)** | Erwin, TN | On Site | Oct 30 |
 | ↳ | **[Human Resources Intern, NOGL - Summer 2026](https://jobright.ai/jobs/info/6903fc54d64a22104aa95a50?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Oct 30 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Total Rewards - HR (Fall2025 - 6 months - Full-Time)](https://jobright.ai/jobs/info/6903d398ff462851fefef599?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Oct 30 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6903ce6f63502c0aded6cbe3?utm_campaign=1054&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Oct 30 |
-| **[Project Builders](https://projectbuilders.com/)** | **[Internship & Co-op Opportunities - Spring 2026](https://jobright.ai/jobs/info/68ffa05c0ab3b222462ac95a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
-| **[Sonepar USA](http://sonepar-us.com)** | **[Human Resources Intern (Talent Enablement)](https://jobright.ai/jobs/info/6903d40cd64a22104aa9392d?utm_campaign=1054&utm_source=git)** | North Charleston, SC | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
