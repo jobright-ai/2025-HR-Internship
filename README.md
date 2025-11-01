@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/690656e763502c0aded8200e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/69065394122e8474c78dfbdd?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9914cf195760c354aaca0?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Nov 01 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| ↳ | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 01 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Nov 01 |
@@ -113,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6905d87f122e8474c78dc684?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/6905d7f163502c0aded7e93a?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 01 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reserving Intern](https://jobright.ai/jobs/info/68ec9bf51eecd439f43fb6a2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69064b90122e8474c78dfaeb?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905d0e863502c0aded7e4bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/6905b70d122e8474c78db289?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905185063502c0aded78130?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/690511e163502c0aded77b34?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Oct 31 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - People & Culture Analytics/IT](https://jobright.ai/jobs/info/69050774ff462851feff9a00?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
-| **[G&W Electric Co.](http://www.gwelec.com/)** | **[Intern - Human Resources - Summer 2026](https://jobright.ai/jobs/info/690505d5122e8474c78d53a8?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Oct 31 |
-| **[L.L.Bean](http://www.llbean.com/)** | **[Talent Acquisition & Intern Socialization Internship](https://jobright.ai/jobs/info/6905014cff462851feff9811?utm_campaign=1054&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
