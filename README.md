@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
+| ↳ | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9914cf195760c354aaca0?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c8b0cfc08e4908912f7f?utm_campaign=1054&utm_source=git)** | Butler, PA | On Site | Nov 01 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68ccdfdc5954791a1d700345?utm_campaign=1054&utm_source=git)** | Clinton, IA | On Site | Nov 01 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6905022963502c0aded77198?utm_campaign=1054&utm_source=git)** | Chesterfield, MI | On Site | Nov 01 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Maternal Health & Sustainability -  Intern](https://jobright.ai/jobs/info/68e95faef195760c354a8558?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 01 |
+| **[Airbus Aircraft](http://www.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/69063ca363502c0aded81c15?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68ccd9d7d11b445e0bee2ee8?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Nov 01 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/6905f8d5122e8474c78dd63a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905f5f3122e8474c78dd5de?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - People & Culture Analytics/IT](https://jobright.ai/jobs/info/69050774ff462851feff9a00?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[G&W Electric Co.](http://www.gwelec.com/)** | **[Intern - Human Resources - Summer 2026](https://jobright.ai/jobs/info/690505d5122e8474c78d53a8?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Talent Acquisition & Intern Socialization Internship](https://jobright.ai/jobs/info/6905014cff462851feff9811?utm_campaign=1054&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/69051bd0ff462851feffa842?utm_campaign=1054&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6904eadfff462851feff89b9?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
