@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CFG Bank](https://thecfgbank.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6905d31aff462851fe000a85?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905d0e863502c0aded7e4bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
+| **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/6905b70d122e8474c78db289?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | **[Executive Jet Management](https://www.executivejetmanagement.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6905b210122e8474c78dae68?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/69059d2b122e8474c78da572?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/69040358d64a22104aa95ebc?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Oct 30 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Human Resource/Talent Acquisition Intern](https://jobright.ai/jobs/info/68ff8fe8e0c73b3a1119c4da?utm_campaign=1054&utm_source=git)** | Ankeny, IA | Hybrid | Oct 30 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fd74d64a22104aa95b81?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Oct 30 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Learning and Developement Intern](https://jobright.ai/jobs/info/690429b7ff462851feff381b?utm_campaign=1054&utm_source=git)** | Austin Texas | On Site | Oct 30 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fa24ff462851feff15d8?utm_campaign=1054&utm_source=git)** | West Des Moines | On Site | Oct 30 |
-| **[ITW](http://www.itw.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/6903f87e63502c0aded6ee68?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
