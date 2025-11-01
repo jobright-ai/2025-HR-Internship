@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/6905b70d122e8474c78db289?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
+| **[Executive Jet Management](https://www.executivejetmanagement.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6905b210122e8474c78dae68?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/69059d2b122e8474c78da572?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/6905945c122e8474c78da336?utm_campaign=1054&utm_source=git)** | Allendale, NJ | On Site | Oct 31 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Human Resources - Talent Engagement & Development Intern](https://jobright.ai/jobs/info/69059142122e8474c78da18b?utm_campaign=1054&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[G&W Electric Co.](http://www.gwelec.com/)** | **[Intern - Human Resources - Summer 2026](https://jobright.ai/jobs/info/690505d5122e8474c78d53a8?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Talent Acquisition & Intern Socialization Internship](https://jobright.ai/jobs/info/6905014cff462851feff9811?utm_campaign=1054&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/69051bd0ff462851feffa842?utm_campaign=1054&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/6904fb4eff462851feff93ed?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Oct 31 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6904eadfff462851feff89b9?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Oct 31 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Human Resource Internship](https://jobright.ai/jobs/info/6904e73e63502c0aded76203?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Oct 31 |
 | **[FIRST](https://firstagency.com/)** | **[People Engagement Coordinator Intern - Spring 2026](https://jobright.ai/jobs/info/6904e061ff462851feff83e5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69041d07d64a22104aa970d0?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Oct 30 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Benefits and Eligibility Specialist I](https://jobright.ai/jobs/info/69041c5fd64a22104aa97070?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 30 |
 | **[AbilityFirst](https://www.abilityfirst.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69041a4463502c0aded70603?utm_campaign=1054&utm_source=git)** | Pasadena, CA | Hybrid | Oct 30 |
-| **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Talent Acquisition Recruiting](https://jobright.ai/jobs/info/690412d363502c0aded700f5?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Oct 30 |
 | **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6904120aff462851feff26e1?utm_campaign=1054&utm_source=git)** | Hamilton,OH,US | On Site | Oct 30 |
 | **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69040ea6d64a22104aa9678b?utm_campaign=1054&utm_source=git)** | Dallas, TX, US | Hybrid | Oct 30 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69040e6463502c0aded6fe35?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Oct 30 |
