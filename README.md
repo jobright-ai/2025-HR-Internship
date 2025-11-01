@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CFG Bank](https://thecfgbank.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6906782b122e8474c78e023d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/690656e763502c0aded8200e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/69065394122e8474c78dfbdd?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905d0e863502c0aded7e4bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/6905b70d122e8474c78db289?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
-| **[Silver Valley Homes](http://www.silvervalleyhomes.ca)** | **[Internship  Remote Jobs (General)](https://jobright.ai/jobs/info/69060b9663502c0aded8058f?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 01 |
 | **[Crescent Butte Designs Co](http://www.crescentbuttedesigns.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/69060f63122e8474c78de491?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905f3e1ff462851fe001e31?utm_campaign=1054&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Executive Jet Management](https://www.executivejetmanagement.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6905b210122e8474c78dae68?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 01 |
