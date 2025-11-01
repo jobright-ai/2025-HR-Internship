@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/69059d2b122e8474c78da572?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
+| **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/6905945c122e8474c78da336?utm_campaign=1054&utm_source=git)** | Allendale, NJ | On Site | Oct 31 |
+| **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Human Resources - Talent Engagement & Development Intern](https://jobright.ai/jobs/info/69059142122e8474c78da18b?utm_campaign=1054&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Career Development Program](https://jobright.ai/jobs/info/6905893c122e8474c78d9e1f?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Oct 31 |
 | **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69056c8c63502c0aded7afb3?utm_campaign=1054&utm_source=git)** | Souderton, PA | On Site | Oct 31 |
 | **[NAPA Auto Parts](http://napaonline.com)** | **[People Team, Talent Planning Intern Summer 2026](https://jobright.ai/jobs/info/69056c5e122e8474c78d8daf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Human Resources Intern](https://jobright.ai/jobs/info/69056afc63502c0aded7aebd?utm_campaign=1054&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905232d63502c0aded788e4?utm_campaign=1054&utm_source=git)** | Herndon Area, VA | Hybrid | Oct 31 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Intern -Human Resources](https://jobright.ai/jobs/info/69052259122e8474c78d6813?utm_campaign=1054&utm_source=git)** | US-NJ-Allendale | On Site | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/69052254122e8474c78d680e?utm_campaign=1054&utm_source=git)** | US-PA-Conshohocken | Hybrid | Oct 31 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69051cd8ff462851feffa977?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905185063502c0aded78130?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/690511e163502c0aded77b34?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Oct 31 |
@@ -116,9 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cce1f55954791a1d700706?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Oct 31 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd78b11ad6b16f02899ef7?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Oct 31 |
 | **[Röchling Automotive](http://www.roechling.com/automotive)** | **[HR Intern](https://jobright.ai/jobs/info/6904e054ff462851feff83db?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Oct 31 |
-| **[Honeywell](http://www.honeywell.com)** | **[Future HR Leaders - Summer 2026 Intern](https://jobright.ai/jobs/info/68af981e962903596357dcdd?utm_campaign=1054&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68933dfaa9199876488dc8b5?utm_campaign=1054&utm_source=git)** | Eureka, CA | On Site | Oct 31 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Learning and Developement Intern](https://jobright.ai/jobs/info/6904bad263502c0aded74ce6?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Oct 31 |
 | ↳ | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 31 |
@@ -131,11 +132,11 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/68ccf7ac77add66568abce63?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 31 |
 | **[Vista Wealth Solutions](www.vistawealthsolutions.com)** | **[Internship and Post-Graduation Career Opportunities](https://jobright.ai/jobs/info/68e7e4d509580a2fe57f07ec?utm_campaign=1054&utm_source=git)** | Radnor, PA | Hybrid | Oct 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Farmington, CT)](https://jobright.ai/jobs/info/68ea572276a1db7c5985a3d9?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Oct 31 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Learning and Developement Intern](https://jobright.ai/jobs/info/6904bad263502c0aded74ce6?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[DP World](https://www.dpworld.com/)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/68ccf82ed11b445e0bee5458?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Oct 31 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - West - Summer 2026](https://jobright.ai/jobs/info/69048a3c63502c0aded73b0d?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Oct 31 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Oncology Business Delivery Intern - Summer 2026](https://jobright.ai/jobs/info/6904898f63502c0aded73a78?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Oct 31 |
 | **[FJ Management](https://www.fjmgt.com)** | **[HR Intern](https://jobright.ai/jobs/info/6904a405122e8474c78d2498?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Oct 31 |
-| **[Cone Health](http://www.conehealth.com)** | **[Intern - Workforce Development](https://jobright.ai/jobs/info/68ed532870b66e2345d3ca42?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Oct 31 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f0985e1f624a7ec1cf4595?utm_campaign=1054&utm_source=git)** | St Paul Park, MN | On Site | Oct 31 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Human Resources Intern – Talent Program Management (Center of Excellence)](https://jobright.ai/jobs/info/6904400cd64a22104aa98807?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Oct 30 |
 | **[BWXT](http://www.bwxt.com/)** | **[HR Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/69043dd263502c0aded71dee?utm_campaign=1054&utm_source=git)** | Lynchburg, VA | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Learning and Developement Intern](https://jobright.ai/jobs/info/690429b7ff462851feff381b?utm_campaign=1054&utm_source=git)** | Austin Texas | On Site | Oct 30 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Talent & Culture Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/6903fa24ff462851feff15d8?utm_campaign=1054&utm_source=git)** | West Des Moines | On Site | Oct 30 |
 | **[ITW](http://www.itw.com/)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/6903f87e63502c0aded6ee68?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Oct 30 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Work Place Intern](https://jobright.ai/jobs/info/6903f0c263502c0aded6e8aa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
