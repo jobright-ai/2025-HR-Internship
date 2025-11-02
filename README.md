@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| ↳ | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 01 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Nov 01 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6905d87f122e8474c78dc684?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/6905d7f163502c0aded7e93a?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 01 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reserving Intern](https://jobright.ai/jobs/info/68ec9bf51eecd439f43fb6a2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6906d6aaff462851fe005aaf?utm_campaign=1054&utm_source=git)** | Blythe, CA | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905d0e863502c0aded7e4bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Silver Valley Homes](http://www.silvervalleyhomes.ca)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bbbd122e8474c78e087e?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer HR Operations Internship](https://jobright.ai/jobs/info/690529ccff462851feffb3cd?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 31 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690529c4ff462851feffb3c0?utm_campaign=1054&utm_source=git)** | De Soto, KS, USA | Hybrid | Oct 31 |
 | **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905297f122e8474c78d6d07?utm_campaign=1054&utm_source=git)** | Souderton, Pennsylvania | On Site | Oct 31 |
+| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905232d63502c0aded788e4?utm_campaign=1054&utm_source=git)** | Herndon Area, VA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
