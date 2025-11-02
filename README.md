@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6906b438ff462851fe004f6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES ANALYST CO-OP](https://jobright.ai/jobs/info/6906a0e763502c0aded82845?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Nov 01 |
 | **[CFG Bank](https://thecfgbank.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6906782b122e8474c78e023d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/690656e763502c0aded8200e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/69065394122e8474c78dfbdd?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 01 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
-| ↳ | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 01 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/69052254122e8474c78d680e?utm_campaign=1054&utm_source=git)** | US-PA-Conshohocken | Hybrid | Oct 31 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905185063502c0aded78130?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/690511e163502c0aded77b34?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 31 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Oct 31 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - People & Culture Analytics/IT](https://jobright.ai/jobs/info/69050774ff462851feff9a00?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
