@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bytescare](https://bytescare.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/69072a97ff462851fe0077dc?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/690726cbff462851fe0076aa?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 02 |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6906b438ff462851fe004f6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[HUMAN RESOURCES ANALYST CO-OP](https://jobright.ai/jobs/info/6906a0e763502c0aded82845?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Nov 01 |
 | **[CFG Bank](https://thecfgbank.com)** | **[Human Resources Summer Internship](https://jobright.ai/jobs/info/6906782b122e8474c78e023d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/690656e763502c0aded8200e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
-| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/69065394122e8474c78dfbdd?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 01 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9914cf195760c354aaca0?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer HR Operations Internship](https://jobright.ai/jobs/info/690529ccff462851feffb3cd?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 31 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690529c4ff462851feffb3c0?utm_campaign=1054&utm_source=git)** | De Soto, KS, USA | Hybrid | Oct 31 |
 | **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905297f122e8474c78d6d07?utm_campaign=1054&utm_source=git)** | Souderton, Pennsylvania | On Site | Oct 31 |
-| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905232d63502c0aded788e4?utm_campaign=1054&utm_source=git)** | Herndon Area, VA | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
