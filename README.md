@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
+| **[Red Hat](http://www.redhat.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68f3203d9a63986de756f4d9?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
+| **[Green Bay Packers](http://www.packers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690731e0ff462851fe00790e?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Nov 02 |
 | **[Bytescare](https://bytescare.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/69072a97ff462851fe0077dc?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/690726cbff462851fe0076aa?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 02 |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6906b438ff462851fe004f6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Nov 01 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[HR/Labor Relations Intern - 2026](https://jobright.ai/jobs/info/68b1fd051ade4306aa633a0b?utm_campaign=1054&utm_source=git)** | Independence, MO | On Site | Nov 01 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/6905ed3a122e8474c78dd165?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
+| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Career Pathways Intern](https://jobright.ai/jobs/info/69074509ff462851fe007fa1?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | On Site | Nov 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Nov 01 |
 | **[Ericsson](https://www.ericsson.com)** | **[Talent and Development People Intern](https://jobright.ai/jobs/info/68db0b646df7b8311bb15aa7?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Nov 01 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Ready-Mix Intern (Summer 2026)](https://jobright.ai/jobs/info/68c890da983e6768bc54f3b2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 01 |
@@ -142,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Oct 31 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round Human Resources Intern](https://jobright.ai/jobs/info/690118c8d5259a1b3cff151a?utm_campaign=1054&utm_source=git)** | Arlington, TX | On Site | Oct 31 |
-| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905419663502c0aded79f67?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Oct 31 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69053cc4122e8474c78d7c2e?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Oct 31 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / People Analytics Research](https://jobright.ai/jobs/info/69053465ff462851feffbca6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[HR Intern](https://jobright.ai/jobs/info/69053354ff462851feffbb50?utm_campaign=1054&utm_source=git)** | De Soto, KS | Hybrid | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer HR Operations Internship](https://jobright.ai/jobs/info/69052eeb63502c0aded79336?utm_campaign=1054&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 31 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/69052c93122e8474c78d70b5?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Oct 31 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 31 |
-| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer HR Operations Internship](https://jobright.ai/jobs/info/690529ccff462851feffb3cd?utm_campaign=1054&utm_source=git)** | California, United States | Hybrid | Oct 31 |
-| **[Huhtamaki](http://huhtamaki.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690529c4ff462851feffb3c0?utm_campaign=1054&utm_source=git)** | De Soto, KS, USA | Hybrid | Oct 31 |
-| **[Univest](http://www.univest.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905297f122e8474c78d6d07?utm_campaign=1054&utm_source=git)** | Souderton, Pennsylvania | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
