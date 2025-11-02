@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Human Resources Internship](https://jobright.ai/jobs/info/6905d87f122e8474c78dc684?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/6905d7f163502c0aded7e93a?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 01 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Reserving Intern](https://jobright.ai/jobs/info/68ec9bf51eecd439f43fb6a2?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69064b90122e8474c78dfaeb?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6905d0e863502c0aded7e4bc?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship](https://jobright.ai/jobs/info/68f3604776a51a4307bcde8b?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Talent Development](https://jobright.ai/jobs/info/6905b70d122e8474c78db289?utm_campaign=1054&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - HRIS (Human Resources Information Systems)](https://jobright.ai/jobs/info/6905185063502c0aded78130?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Oct 31 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/690511e163502c0aded77b34?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Oct 31 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - People & Culture Analytics/IT](https://jobright.ai/jobs/info/69050774ff462851feff9a00?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
