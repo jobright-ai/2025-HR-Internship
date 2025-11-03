@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69080612122e8474c78e78f7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c574122e8474c78e6c78?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c92863502c0aded8927b?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 02 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Employee Digital Experience (DEX) Implementation Intern, MBA Leadership & Development Program (Summer 2026)](https://jobright.ai/jobs/info/68e6c82cae2b894b1d71dc06?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | **[Altronica](http://www.altronica.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bd4163502c0aded82c50?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c27bcfc08e4908912c02?utm_campaign=1054&utm_source=git)** | Washington, PA | On Site | Nov 01 |
-| **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bcee122e8474c78e08f1?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 01 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb0965768b6412b1ef57?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Nov 01 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Recruiting Internship](https://jobright.ai/jobs/info/68e9d6b2cdf8d94b293a29c2?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905f5f3122e8474c78dd5de?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
 | ↳ | **[Corporate Cross-Functional Rotation Intern](https://jobright.ai/jobs/info/6905f3dd63502c0aded7f7ed?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Nov 01 |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Labor Planning Intern](https://jobright.ai/jobs/info/6905f36dff462851fe001dde?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
