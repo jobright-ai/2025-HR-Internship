@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Human Resources](https://jobright.ai/jobs/info/6908e9d84a1b456627afa047?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Nov 03 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6908cd02d046ab6061cce100?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Nov 03 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/6908c813d046ab6061ccdf9b?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 03 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Cleveland Talent Alliance Internship - Spring 2026](https://jobright.ai/jobs/info/6908c70a4a1b456627af8faa?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 03 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/68b53771f4e41a61efd8eb48?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 03 |
 | **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 03 |
 | **[GIANT](https://giantfoodstores.com/)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/69088d36d046ab6061ccbcef?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 03 |
-| **[Mazeno Clothing](http://www.mazenoclothing.com/about-us/)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6908aba6d046ab6061cccfa2?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 03 |
+| **[AGG PRINT](https://www.aggprint.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6908e5b9bcccf20de59d4859?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69086377ff462851fe00f222?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69080612122e8474c78e78f7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c574122e8474c78e6c78?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - People Team](https://jobright.ai/jobs/info/68cce91f5954791a1d7010ad?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Nov 01 |
+| ↳ | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/68b1c418f4e41a61efd7f8dc?utm_campaign=1054&utm_source=git)** | Sarasota, FL | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 01 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Recruiting Internship](https://jobright.ai/jobs/info/68e9d6b2cdf8d94b293a29c2?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 01 |
 | **[Garver](https://garverusa.com/)** | **[Employee Experience Intern](https://jobright.ai/jobs/info/68e9946e0930fe0bc4627766?utm_campaign=1054&utm_source=git)** | OKC Metro Area | On Site | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b106bc6fab621da7b0972e?utm_campaign=1054&utm_source=git)** | Findlay, OH | On Site | Nov 01 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68ccdfdc5954791a1d700345?utm_campaign=1054&utm_source=git)** | Clinton, IA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
