@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Balance Now](https://www.balance.ca)** | **[HR Recruiter Team Member](https://jobright.ai/jobs/info/6907d52eff462851fe00b879?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
+| **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69080612122e8474c78e78f7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c574122e8474c78e6c78?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 02 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Nov 02 |
@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68cd5cb7e23def7af55b8c24?utm_campaign=1054&utm_source=git)** | Wyoming, MN | On Site | Nov 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b513c5f4e41a61efd8d622?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Nov 02 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 02 |
+| **[Swan EMS an EC Electronics Company](https://www.swanems.co.uk)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6908064d122e8474c78e7913?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f93dbc187f64e1bdf84b?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Nov 02 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2026](https://jobright.ai/jobs/info/68cbad41ba798c1a501d3d2e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Nov 02 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed1ff462851fe008c95?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Nov 02 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Human Resources Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68ca499046caff4db51fc945?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Nov 02 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68fafd6e3c99cc1d960281cc?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Nov 02 |
+| **[Kukamet Clamping Solutions](http://www.kukamet.com.tr/)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6907fcd7ff462851fe00bef5?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b104de6fab621da7b09635?utm_campaign=1054&utm_source=git)** | Garyville, LA | On Site | Nov 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Nov 02 |
 | ↳ | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bb?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Nov 02 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68f3203d9a63986de756f4d9?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Green Bay Packers](http://www.packers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690731e0ff462851fe00790e?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Nov 02 |
-| **[Ability Beyond](https://abilitybeyond.org/)** | **[HR (Human Resources) Intern](https://jobright.ai/jobs/info/69074dba63502c0aded85fff?utm_campaign=1054&utm_source=git)** | Bethel, CT | On Site | Nov 02 |
 | **[Bytescare](https://bytescare.com)** | **[Human Resources Intern (Unpaid)](https://jobright.ai/jobs/info/69072a97ff462851fe0077dc?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/690726cbff462851fe0076aa?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 02 |
 | **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6906b438ff462851fe004f6e?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Employee Digital Experience (DEX) Implementation Intern, MBA Leadership & Development Program (Summer 2026)](https://jobright.ai/jobs/info/68e6c82cae2b894b1d71dc06?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | **[Altronica](http://www.altronica.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bd4163502c0aded82c50?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c27bcfc08e4908912c02?utm_campaign=1054&utm_source=git)** | Washington, PA | On Site | Nov 01 |
-| **[Vision Link Surveillance](http://www.visionlinksurveillance.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bd90ff462851fe005163?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 01 |
 | **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6906bcee122e8474c78e08f1?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 01 |
 | **[Modern Executive Solutions](http://www.modernexecutivesolutions.com)** | **[Intern - Executive Search - Summer 2026](https://jobright.ai/jobs/info/68ce9d4ddbd9fb154ede1577?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb0965768b6412b1ef57?utm_campaign=1054&utm_source=git)** | Warren, MI | On Site | Nov 01 |
