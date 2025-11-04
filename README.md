@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cognizant](https://www.cognizant.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/690a74404a1b456627b07dce?utm_campaign=1054&utm_source=git)** | Teaneck, NJ | Hybrid | Nov 04 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Northeast - Summer 2026](https://jobright.ai/jobs/info/690a7229bcccf20de59e24da?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit HR Internship](https://jobright.ai/jobs/info/690a5a444a1b456627b0684b?utm_campaign=1054&utm_source=git)** | Cranston,RI,US | On Site | Nov 04 |
+| **[Haworth](http://www.haworth.com/)** | **[Human Resources Intern - Holland, MI](https://jobright.ai/jobs/info/690a594cd046ab6061cdb654?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 04 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a511cbcccf20de59e0cb6?utm_campaign=1054&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
 | **[ebm-papst](https://www.ebmpapst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a54324a1b456627b06500?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Nov 04 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Business Operations Internship - Human Resources](https://jobright.ai/jobs/info/690901e7bcccf20de59d5d25?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Nov 03 |
 | **[Zoox](https://www.zoox.com/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/690901c54a1b456627afb155?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690900a5d046ab6061cd00b1?utm_campaign=1054&utm_source=git)** | Hampton, VA, 23666, US | On Site | Nov 03 |
-| **[Zoox](https://www.zoox.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6909003d4a1b456627afaff8?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
-| **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6908fd8cbcccf20de59d599c?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 03 |
-| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Iselin, NJ](https://jobright.ai/jobs/info/6908f5ced046ab6061ccf97d?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Nov 03 |
-| ↳ | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6908f3a7d046ab6061ccf807?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
