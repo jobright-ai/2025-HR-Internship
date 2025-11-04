@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909a6ebd046ab6061cd72ab?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 03 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2026 Associate, Search and Advisory](https://jobright.ai/jobs/info/69099da4d046ab6061cd702c?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 03 |
 | **[Swagelok](http://www.swagelok.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bb3a4e6105227d118a4538?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Nov 03 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Corporate Center – Employee Experience Intern](https://jobright.ai/jobs/info/690982d6d046ab6061cd61f1?utm_campaign=1054&utm_source=git)** | Brooklyn, OH | On Site | Nov 03 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/69097a234a1b456627b00e99?utm_campaign=1054&utm_source=git)** | Plymouth, WI | On Site | Nov 03 |
@@ -121,6 +123,8 @@ For a complete list, click the following sortable link below:
 | **[GIANT](https://giantfoodstores.com/)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/69088d36d046ab6061ccbcef?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69086377ff462851fe00f222?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
 | **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c92863502c0aded8927b?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
+| **[18 Talent](www.18talent.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69099c044a1b456627b02200?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 02 |
+| **[Rural Products Ltd](http://www.ruralcountry.uk/)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6909a117d046ab6061cd70d9?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 02 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 02 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
@@ -138,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f93dbc187f64e1bdf84b?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Nov 02 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2026](https://jobright.ai/jobs/info/68cbad41ba798c1a501d3d2e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Nov 02 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b6f4e41a61efd887a7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Nov 02 |
-| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301e2f4e41a61efd887b7?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Nov 02 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301e2f4e41a61efd887b7?utm_campaign=1054&utm_source=git)** | Huntsville, AL | On Site | Nov 02 |
+| ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b6f4e41a61efd887a7?utm_campaign=1054&utm_source=git)** | Plymouth, MN | On Site | Nov 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841efe6cd01cd7733145dc8?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Nov 02 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Loyalty Rewards Intern](https://jobright.ai/jobs/info/68ea71ee76a1db7c5985b04b?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Houston)](https://jobright.ai/jobs/info/68cdb912e23def7af55bea43?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kukamet Clamping Solutions](http://www.kukamet.com.tr/)** | **[HR Intern (Remote)](https://jobright.ai/jobs/info/6907fcd7ff462851fe00bef5?utm_campaign=1054&utm_source=git)** | New York, United States | Remote | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b104de6fab621da7b09635?utm_campaign=1054&utm_source=git)** | Garyville, LA | On Site | Nov 02 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Nov 02 |
-| ↳ | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bb?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Nov 02 |
-| ↳ | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 02 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Nov 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Dallas)](https://jobright.ai/jobs/info/68db680ce19b9e63ba20bc82?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
