@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[Summer 2026 Corporate Center – Employee Experience Intern](https://jobright.ai/jobs/info/69096a964a1b456627b00316?utm_campaign=1054&utm_source=git)** | Brooklyn, OH | On Site | Nov 03 |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69096701bcccf20de59dabca?utm_campaign=1054&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
+| **[Financial Times](http://ft.com)** | **[People and Talent Acquisition Intern](https://jobright.ai/jobs/info/6909652bd046ab6061cd4d91?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/6909602c4a1b456627affdc2?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Nov 03 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/69095ebd4a1b456627affd17?utm_campaign=1054&utm_source=git)** | Shamokin Dam, PA | On Site | Nov 03 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Nov 03 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Nov 03 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/6909542dbcccf20de59da113?utm_campaign=1054&utm_source=git)** | Florham Park, NJ | Hybrid | Nov 03 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[HR Advisory & Projects Intern](https://jobright.ai/jobs/info/690953d4bcccf20de59da0c3?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 03 |
 | ↳ | **[HR & Organisational Development Intern](https://jobright.ai/jobs/info/690952124a1b456627aff3dd?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 03 |
@@ -110,8 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 03 |
 | **[GIANT](https://giantfoodstores.com/)** | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/69088d36d046ab6061ccbcef?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69086377ff462851fe00f222?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Nov 02 |
-| **[Acumatica](https://www.acumatica.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69080612122e8474c78e78f7?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c92863502c0aded8927b?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6907c574122e8474c78e6c78?utm_campaign=1054&utm_source=git)** | St George, UT | Hybrid | Nov 02 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 02 |
 | **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Safety Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68db57a4e19b9e63ba20afb4?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 02 |
 | ↳ | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68b7b66f872d1074a98b29d8?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 02 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - People Team Intern](https://jobright.ai/jobs/info/68df63415ab4977c2e95411e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/68ce4a95dbd9fb154edddc31?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Nov 02 |
-| **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Nov 02 |
-| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 02 |
-| **[Red Hat](http://www.redhat.com)** | **[People Team Intern](https://jobright.ai/jobs/info/68f3203d9a63986de756f4d9?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690731e0ff462851fe00790e?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Nov 02 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/690726cbff462851fe0076aa?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
