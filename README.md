@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a511cbcccf20de59e0cb6?utm_campaign=1054&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
+| **[ebm-papst](https://www.ebmpapst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a54324a1b456627b06500?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Nov 04 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d9708c62e63bc7fd0216?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
 | **[Coinbase](https://www.coinbase.com)** | **[HR M&A Intern](https://jobright.ai/jobs/info/68ed860d6335d33236129cf5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 04 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d8268c62e63bc7fd00d0?utm_campaign=1054&utm_source=git)** | Lumberton, NC | On Site | Nov 04 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Barre Vermont](https://jobright.ai/jobs/info/68ed592a6335d33236127e45?utm_campaign=1054&utm_source=git)** | Barre, VT | On Site | Nov 04 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a18e0d046ab6061cd92ae?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 04 |
+| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ee6fae46e5b153e5a5a6dd?utm_campaign=1054&utm_source=git)** | Apex, NC | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
 | ↳ | **[Spring 2026 Management Trainee Intern - White River Junction Vermont](https://jobright.ai/jobs/info/68ed59526335d33236127e81?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Nov 04 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690a138e4a1b456627b0426a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merchants Bonding Company](http://merchantsbonding.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6908fd8cbcccf20de59d599c?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 03 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Iselin, NJ](https://jobright.ai/jobs/info/6908f5ced046ab6061ccf97d?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Nov 03 |
 | ↳ | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6908f3a7d046ab6061ccf807?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 03 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6908f361bcccf20de59d5328?utm_campaign=1054&utm_source=git)** | Galveston, TX | Hybrid | Nov 03 |
-| **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6909232ed046ab6061cd1f16?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 03 |
-| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Human Resources](https://jobright.ai/jobs/info/6908e9d84a1b456627afa047?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Nov 03 |
-| **[Chicago Pacific Founders](http://www.cpfounders.com/)** | **[Summer 2026 Executive Recruiting Intern](https://jobright.ai/jobs/info/68ee808046e5b153e5a5b383?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
