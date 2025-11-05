@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690ae3ba4a1b456627b0c4a7?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 04 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Work Place Intern](https://jobright.ai/jobs/info/6903f0c263502c0aded6e8aa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Nov 04 |
+| **[Arity](http://www.arity.com)** | **[Arity - People & Culture Intern - Arity](https://jobright.ai/jobs/info/690add7f4a1b456627b0c045?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Human Resources Intern – Talent Program Management (Center of Excellence)](https://jobright.ai/jobs/info/6904400cd64a22104aa98807?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Research Innovation and Information Management Hyperautomation - Summer Intern](https://jobright.ai/jobs/info/690ac71e4a1b456627b0b498?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 04 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern - Summer 2026](https://jobright.ai/jobs/info/690ac2174a1b456627b0aef7?utm_campaign=1054&utm_source=git)** | VA, Manassas | On Site | Nov 04 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/690abda34a1b456627b0acc1?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 04 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d1dafe17554c2d9eee02f7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Nov 04 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, I-O Psychology - Talent Assessment (Spring 2026)](https://jobright.ai/jobs/info/68ed9dba81fdd1626d39dc7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
 | **[Richards Building Supply Co.](http://richards-supply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68edb57a70b66e2345d400f2?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Nov 04 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[People Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68d1928c8c62e63bc7fccc73?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Nov 04 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 04 |
 | **[Synergy Cooperative](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909fbc04a1b456627b03af4?utm_campaign=1054&utm_source=git)** | Ridgeland, WI, USA | On Site | Nov 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/6909391bd046ab6061cd3196?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Nov 03 |
 | **[Financial Times](http://ft.com)** | **[People and Talent Acquisition Intern](https://jobright.ai/jobs/info/69093893bcccf20de59d8db3?utm_campaign=1054&utm_source=git)** | New York | On Site | Nov 03 |
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909348bd046ab6061cd2dd8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Human Resources/Talent Acquisition Intern](https://jobright.ai/jobs/info/69093148d046ab6061cd2a68?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Nov 03 |
-| **[Versiti Blood Center of Wisconsin](https://www.bcw.edu/bcw/index.htm)** | **[Summer 2026 Student Internship - HR/Talent Development](https://jobright.ai/jobs/info/69028fd600a1816c41e9fb9e?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 03 |
-| **[MVP Sports Clubs](https://mvp-corp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69092b894a1b456627afd74a?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
