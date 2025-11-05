@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director, International Services](https://jobright.ai/jobs/info/690af7b9d046ab6061ce1b0f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
+| **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690aed9ebcccf20de59e752a?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Nov 04 |
 | **[State of Missouri](http://mo.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690ae3ba4a1b456627b0c4a7?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 04 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Work Place Intern](https://jobright.ai/jobs/info/6903f0c263502c0aded6e8aa?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Nov 04 |
 | **[Arity](http://www.arity.com)** | **[Arity - People & Culture Intern - Arity](https://jobright.ai/jobs/info/690add7f4a1b456627b0c045?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 04 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 04 |
 | **[Synergy Cooperative](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909fbc04a1b456627b03af4?utm_campaign=1054&utm_source=git)** | Ridgeland, WI, USA | On Site | Nov 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68ff7029e04ac838fb5b8625?utm_campaign=1054&utm_source=git)** | Maquoketa, IA | On Site | Nov 04 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690994e8d046ab6061cd6b81?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 04 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1fad917554c2d9eee1cc0?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/69093bd64a1b456627afe5ab?utm_campaign=1054&utm_source=git)** | USA - Massachusetts - Cambridge (Caraway) | Hybrid | Nov 03 |
 | ↳ | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/6909391bd046ab6061cd3196?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Nov 03 |
 | **[Financial Times](http://ft.com)** | **[People and Talent Acquisition Intern](https://jobright.ai/jobs/info/69093893bcccf20de59d8db3?utm_campaign=1054&utm_source=git)** | New York | On Site | Nov 03 |
-| **[Sun Country Airlines](https://www.suncountry.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909348bd046ab6061cd2dd8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
