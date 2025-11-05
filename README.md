@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68b63299f4e41a61efd91fb7?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Nov 05 |
+| **[Johnsonville](http://www.johnsonville.com/)** | **[Recruiting Internship](https://jobright.ai/jobs/info/68ce832a846f0b04af67a8fd?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Nov 05 |
 | **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/690b15b74a1b456627b0da2f?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Nov 05 |
 | **[USA Football](http://usafootball.com)** | **[Intern, U.S. National Teams Operations](https://jobright.ai/jobs/info/690b0cacd046ab6061ce252b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Remote | Nov 05 |
 | **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690b0508d046ab6061ce2223?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
@@ -127,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690994e8d046ab6061cd6b81?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 04 |
+| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690b34de4a1b456627b0e61a?utm_campaign=1054&utm_source=git)** | Maquoketa, IA | On Site | Nov 04 |
 | **[Carboline](https://www.carboline.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1fad917554c2d9eee1cc0?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - HR Technology Innovation Research](https://jobright.ai/jobs/info/68edd0ee70b66e2345d4146a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 04 |
 | **[Lockton](https://global.lockton.com)** | **[Associate Experience and Development Intern](https://jobright.ai/jobs/info/68d2382617554c2d9eee584e?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 04 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/69095c13d046ab6061cd48cb?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Nov 03 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/69095a6d4a1b456627aff9e8?utm_campaign=1054&utm_source=git)** | Stroudsburg, PA | On Site | Nov 03 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/6909542dbcccf20de59da113?utm_campaign=1054&utm_source=git)** | Florham Park, NJ | Hybrid | Nov 03 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[HR & Organisational Development Intern](https://jobright.ai/jobs/info/690952124a1b456627aff3dd?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 03 |
 | **[Newmark](https://www.nmrk.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69095095d046ab6061cd411b?utm_campaign=1054&utm_source=git)** | One Sansome Street, San Francisco, CA, 94104, US | On Site | Nov 03 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources, Compensation Internship](https://jobright.ai/jobs/info/69094e05bcccf20de59d9c57?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | On Site | Nov 03 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/69094c40d046ab6061cd3e91?utm_campaign=1054&utm_source=git)** | Kennesaw, GA | Hybrid | Nov 03 |
 | ↳ | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/69094a66bcccf20de59d9a03?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 03 |
 | **[Summit ](http://www.summitholdings.com)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690945dabcccf20de59d985c?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 03 |
-| **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Workforce Planning - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6901a8ac4539ea1f214221cc?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Nov 03 |
-| **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/68bf2e53702aa35207aa3f38?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
