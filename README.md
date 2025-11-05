@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creators United](https://www.cuagency.co/)** | **[Influencer Talent Agency Intern](https://jobright.ai/jobs/info/690a8f78bcccf20de59e3e4b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Internships](https://jobright.ai/jobs/info/690a8d08d046ab6061cde0a0?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
+| ↳ | **[KD Human Resources Spring Intern (2026 Program)](https://jobright.ai/jobs/info/690a8c9ebcccf20de59e3c36?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Nov 04 |
+| ↳ | **[Administrative Internships](https://jobright.ai/jobs/info/690a8c44bcccf20de59e3c04?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Nov 04 |
+| **[CCMC](http://ccmcnet.com)** | **[Intern Opportunities - Southwest Florida](https://jobright.ai/jobs/info/690a83344a1b456627b08af9?utm_campaign=1054&utm_source=git)** | Babcock Ranch, FL | On Site | Nov 04 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Human Resources Co-op (Spring 2026)](https://jobright.ai/jobs/info/690a7ef74a1b456627b086f6?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Nov 04 |
+| **[CSC](http://www.cscglobal.com)** | **[HR Intern- Talent Operations](https://jobright.ai/jobs/info/690a7b514a1b456627b085c0?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Nov 04 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/690a7521bcccf20de59e28ce?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 04 |
 | **[Cognizant](https://www.cognizant.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/690a74404a1b456627b07dce?utm_campaign=1054&utm_source=git)** | Teaneck, NJ | Hybrid | Nov 04 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Northeast - Summer 2026](https://jobright.ai/jobs/info/690a7229bcccf20de59e24da?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
+| **[State of Michigan](https://michigancountymap.com/)** | **[Veteran Intern (General Office Assistant) Office of Organizational Development](https://jobright.ai/jobs/info/690a8b52bcccf20de59e3b34?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Nov 04 |
 | **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit HR Internship](https://jobright.ai/jobs/info/690a5a444a1b456627b0684b?utm_campaign=1054&utm_source=git)** | Cranston,RI,US | On Site | Nov 04 |
 | **[Haworth](http://www.haworth.com/)** | **[Human Resources Intern - Holland, MI](https://jobright.ai/jobs/info/690a594cd046ab6061cdb654?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 04 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a511cbcccf20de59e0cb6?utm_campaign=1054&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
@@ -80,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ee6fae46e5b153e5a5a6dd?utm_campaign=1054&utm_source=git)** | Apex, NC | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
 | ↳ | **[Spring 2026 Management Trainee Intern - White River Junction Vermont](https://jobright.ai/jobs/info/68ed59526335d33236127e81?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Nov 04 |
-| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690a138e4a1b456627b0426a?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 04 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 04 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 04 |
 | **[USI Kibble & Prentice](http://www.kpcom.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/690a2a96bcccf20de59df7a3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 04 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690a2a384a1b456627b04d82?utm_campaign=1054&utm_source=git)** | Gloucester, VA | Hybrid | Nov 04 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - People Service Center Rep](https://jobright.ai/jobs/info/690916e24a1b456627afc44e?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | On Site | Nov 03 |
 | **[Zoox](https://www.zoox.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69091073bcccf20de59d6aef?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Employee Benefits Insurance Intern](https://jobright.ai/jobs/info/690938f3bcccf20de59d8e27?utm_campaign=1054&utm_source=git)** | Syracuse, NY, USA | On Site | Nov 03 |
-| **[Zoox](https://www.zoox.com/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/69090bb7bcccf20de59d6685?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
-| **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits - Iselin, NJ](https://jobright.ai/jobs/info/690909f2bcccf20de59d6511?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Nov 03 |
-| **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Business Operations Internship - Human Resources](https://jobright.ai/jobs/info/690904d6d046ab6061cd03a0?utm_campaign=1054&utm_source=git)** | Oak Ridge,  TN | On Site | Nov 03 |
-| **[Providence Medical Center](https://providencemedical.com)** | **[Human Resources Intern / Human Resources / Part-time](https://jobright.ai/jobs/info/6909045c4a1b456627afb3d5?utm_campaign=1054&utm_source=git)** | Wayne, NE 68787, USA | On Site | Nov 03 |
-| **[Zoox](https://www.zoox.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/69092899bcccf20de59d80ed?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Human Resources Intern - SPRING](https://jobright.ai/jobs/info/69090249bcccf20de59d5d7d?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 03 |
-| **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Business Operations Internship - Human Resources](https://jobright.ai/jobs/info/690901e7bcccf20de59d5d25?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Nov 03 |
-| **[Zoox](https://www.zoox.com/)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/690901c54a1b456627afb155?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 03 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690900a5d046ab6061cd00b1?utm_campaign=1054&utm_source=git)** | Hampton, VA, 23666, US | On Site | Nov 03 |
+| **[Strategic Management Solutions, LLC (SMSI)](https://smsi.us)** | **[Business Operations Internship - Human Resources](https://jobright.ai/jobs/info/69090bced046ab6061cd0a3d?utm_campaign=1054&utm_source=git)** | Oak Ridge, TN | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
