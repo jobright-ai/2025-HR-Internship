@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seagate Technology](http://www.seagate.com)** | **[HR AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/690b15b74a1b456627b0da2f?utm_campaign=1054&utm_source=git)** | Longmont, CO | On Site | Nov 05 |
+| **[USA Football](http://usafootball.com)** | **[Intern, U.S. National Teams Operations](https://jobright.ai/jobs/info/690b0cacd046ab6061ce252b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Remote | Nov 05 |
+| **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690b0508d046ab6061ce2223?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director, International Services](https://jobright.ai/jobs/info/690af7b9d046ab6061ce1b0f?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690aed9ebcccf20de59e752a?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Nov 04 |
 | **[State of Missouri](http://mo.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690ae3ba4a1b456627b0c4a7?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Summit ](http://www.summitholdings.com)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690945dabcccf20de59d985c?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 03 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Human Resources - Workforce Planning - Oahu or Hawai'i Island](https://jobright.ai/jobs/info/6901a8ac4539ea1f214221cc?utm_campaign=1054&utm_source=git)** | Hawaii, United States | On Site | Nov 03 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/68bf2e53702aa35207aa3f38?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 03 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/69093bd64a1b456627afe5ab?utm_campaign=1054&utm_source=git)** | USA - Massachusetts - Cambridge (Caraway) | Hybrid | Nov 03 |
-| ↳ | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/6909391bd046ab6061cd3196?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Nov 03 |
-| **[Financial Times](http://ft.com)** | **[People and Talent Acquisition Intern](https://jobright.ai/jobs/info/69093893bcccf20de59d8db3?utm_campaign=1054&utm_source=git)** | New York | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
