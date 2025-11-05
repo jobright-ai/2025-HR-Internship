@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bc21a4a1b456627b126f7?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
+| **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bbfe64a1b456627b125ef?utm_campaign=1054&utm_source=git)** | Alexandria, VA, US | On Site | Nov 05 |
+| **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/690bbf6a4a1b456627b12576?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 05 |
+| **[Spheros](www.spheros.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690bbed94a1b456627b124bf?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 05 |
+| **[HUB International](https://www.hubinternational.com)** | **[2026 Winter Internship](https://jobright.ai/jobs/info/690bb31f4a1b456627b11c3a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 05 |
+| **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/690bb199d046ab6061ce689d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Nov 05 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Human Resources Intern](https://jobright.ai/jobs/info/690b9d1d4a1b456627b10d77?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Concentric Healthcare Staffing](http://concentrichealthcare.com)** | **[HR Intern (Scottsdale, AZ)](https://jobright.ai/jobs/info/690b9c9e221b890c277f62ab?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 05 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/690b9c6ad046ab6061ce5aa5?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690b95c7d046ab6061ce57ca?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690bc2ff221b890c277f7d77?utm_campaign=1054&utm_source=git)** | Spokane Valley,WA,US | On Site | Nov 05 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/68f1fad616d3640372516a6d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Nov 05 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Talent Acquisition Programs](https://jobright.ai/jobs/info/68ee6a04e0db924225805a9c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Pneumatic Division - Richland](https://jobright.ai/jobs/info/690a09b4bcccf20de59de8f5?utm_campaign=1054&utm_source=git)** | Richland, MI | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Nov 04 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d1dafe17554c2d9eee02f7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Nov 04 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, I-O Psychology - Talent Assessment (Spring 2026)](https://jobright.ai/jobs/info/68ed9dba81fdd1626d39dc7d?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Nov 04 |
-| **[Richards Building Supply Co.](http://richards-supply.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68edb57a70b66e2345d400f2?utm_campaign=1054&utm_source=git)** | Goldsboro, NC | On Site | Nov 04 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 04 |
-| **[Synergy Cooperative ](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909fbc04a1b456627b03af4?utm_campaign=1054&utm_source=git)** | Ridgeland, WI, USA | On Site | Nov 04 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
