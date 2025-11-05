@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Human Resources Intern](https://jobright.ai/jobs/info/690b9d1d4a1b456627b10d77?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 05 |
+| **[Concentric Healthcare Staffing](http://concentrichealthcare.com)** | **[HR Intern (Scottsdale, AZ)](https://jobright.ai/jobs/info/690b9c9e221b890c277f62ab?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 05 |
+| **[Mercury Marine](http://mercurymarine.com/)** | **[Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/690b9c6ad046ab6061ce5aa5?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
+| **[Shop Online New York](https://www.topofny.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690b95c7d046ab6061ce57ca?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Bipartisan Policy Center](http://bipartisanpolicy.org/)** | **[Spring Internship 2026 - Human Capital](https://jobright.ai/jobs/info/68f1fad616d3640372516a6d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Nov 05 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Talent Acquisition Programs](https://jobright.ai/jobs/info/68ee6a04e0db924225805a9c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68eeff8720456578d5eb3d71?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Nov 05 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 05 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690b811dd046ab6061ce4c2f?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | Hybrid | Nov 05 |
-| **[Nightwing](nightwing.com)** | **[Human Resource Intern – 2026](https://jobright.ai/jobs/info/690b8caa221b890c277f5a53?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Nov 05 |
 | **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Human Resources Rotational Internship 2026](https://jobright.ai/jobs/info/68eeb0cdd078b81ad160dbff?utm_campaign=1054&utm_source=git)** | Racine, WI | On Site | Nov 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Corporate Human Resources Internship (2025-26 School Year)](https://jobright.ai/jobs/info/68b77b5e2124650c14023018?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Synergy Cooperative ](https://synergycoop.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909fbc04a1b456627b03af4?utm_campaign=1054&utm_source=git)** | Ridgeland, WI, USA | On Site | Nov 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (San Antonio)](https://jobright.ai/jobs/info/68da05613c03cd32709423bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 04 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[People & Culture Intern Summer 2026](https://jobright.ai/jobs/info/68d1ed048c62e63bc7fd1214?utm_campaign=1054&utm_source=git)** | Long Beach, CA | On Site | Nov 04 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690994e8d046ab6061cd6b81?utm_campaign=1054&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 04 |
-| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690b34de4a1b456627b0e61a?utm_campaign=1054&utm_source=git)** | Maquoketa, IA | On Site | Nov 04 |
-| **[Carboline](https://www.carboline.com)** | **[HR Intern - Summer 2026](https://jobright.ai/jobs/info/68d1fad917554c2d9eee1cc0?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
