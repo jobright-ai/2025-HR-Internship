@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68f0c0c31f624a7ec1cf7975?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/690c7f04221b890c277fe401?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 06 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting & HR Internship](https://jobright.ai/jobs/info/690c544dd046ab6061cec708?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c52c7d046ab6061cec6b2?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 05 |
 | **[West Shore Home](http://westshorehome.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c4989221b890c277fcb32?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
-| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c8643d046ab6061cedf61?utm_campaign=1054&utm_source=git)** | Spokane Valley, Washington | On Site | Nov 05 |
+| **[West Shore Home](http://westshorehome.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director, International Services](https://jobright.ai/jobs/info/690c3db94a1b456627b1720c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c31694a1b456627b16d80?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - Provo](https://jobright.ai/jobs/info/690c0899d046ab6061cea43b?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Nov 05 |
 | ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 05 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bf3204a1b456627b14989?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690be7334a1b456627b143b6?utm_campaign=1054&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c0e88221b890c277fb02b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/68f6b64f9a65fd34585966e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Southwire Company](http://southwire.com)** | **[Inclusion Intern](https://jobright.ai/jobs/info/690bd59e4a1b456627b13760?utm_campaign=1054&utm_source=git)** | Carrollton, GA | Hybrid | Nov 05 |
 | **[Summit](http://summitllc.us)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690bc858d046ab6061ce7aee?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Human Resources Intern - Holland, MI](https://jobright.ai/jobs/info/690a594cd046ab6061cdb654?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 04 |
 | **[Alabama Credit Union](https://alabamacu.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a511cbcccf20de59e0cb6?utm_campaign=1054&utm_source=git)** | Tuscaloosa,AL,US | On Site | Nov 04 |
 | **[ebm-papst](https://www.ebmpapst.com/en/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a54324a1b456627b06500?utm_campaign=1054&utm_source=git)** | Farmington, CT | On Site | Nov 04 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
-| **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d9708c62e63bc7fd0216?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
