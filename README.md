@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting & HR Internship](https://jobright.ai/jobs/info/690c544dd046ab6061cec708?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c52c7d046ab6061cec6b2?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 05 |
+| **[West Shore Home](http://westshorehome.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c4989221b890c277fcb32?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director, International Services](https://jobright.ai/jobs/info/690c3db94a1b456627b1720c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c31694a1b456627b16d80?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - Provo](https://jobright.ai/jobs/info/690c0899d046ab6061cea43b?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Nov 05 |
 | ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 05 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 05 |
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690bfbef4a1b456627b14ec1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/6903baedd64a22104aa923a8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
+| **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/6903baedd64a22104aa923a8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
 | **[Contour Aviation](https://contouraviation.com/)** | **[Human Resources Intern (PT)](https://jobright.ai/jobs/info/690c139ad046ab6061ceabbb?utm_campaign=1054&utm_source=git)** | Smyrna, TN, USA | On Site | Nov 05 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bf3204a1b456627b14989?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690be7334a1b456627b143b6?utm_campaign=1054&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c0e88221b890c277fb02b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/68f6b64f9a65fd34585966e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Southwire Company](http://southwire.com)** | **[Inclusion Intern](https://jobright.ai/jobs/info/690bd59e4a1b456627b13760?utm_campaign=1054&utm_source=git)** | Carrollton, GA | Hybrid | Nov 05 |
 | **[Summit](http://summitllc.us)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690bc858d046ab6061ce7aee?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 05 |
@@ -109,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f9c617554c2d9eeec8d3?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Nov 05 |
 | **[Gentherm](https://gentherm.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68eec7d8d078b81ad160f49c?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Nov 05 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68b63299f4e41a61efd91fb7?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Nov 05 |
-| **[Black Achievers](http://www.blackachievers.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c07964a1b456627b155c3?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Nov 05 |
+| **[Achievers Network](https://www.achieversnetwork.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c07964a1b456627b155c3?utm_campaign=1054&utm_source=git)** | Wheaton, IL | On Site | Nov 05 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68eeb0ced078b81ad160dc05?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Nov 05 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Recruiting Internship](https://jobright.ai/jobs/info/68ce832a846f0b04af67a8fd?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Nov 05 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/68d33f2ff0d9af73038e029b?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 04 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d9708c62e63bc7fd0216?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[HR M&A Intern](https://jobright.ai/jobs/info/68ed860d6335d33236129cf5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690a2394bcccf20de59df31e?utm_campaign=1054&utm_source=git)** | Hampton, VA | Hybrid | Nov 04 |
-| ↳ | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690a22084a1b456627b04824?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | Hybrid | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[Talent Density Program Intern](https://jobright.ai/jobs/info/68ed871770b66e2345d3ef06?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Rutland Vermont](https://jobright.ai/jobs/info/68ed5ab081fdd1626d39b7e8?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Nov 04 |
-| **[Metalsa](http://www.metalsa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a1c19bcccf20de59df08a?utm_campaign=1054&utm_source=git)** | Hopkinsville, KY | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
