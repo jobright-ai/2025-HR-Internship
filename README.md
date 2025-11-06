@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/68f6b64f9a65fd34585966e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
+| **[Southwire Company](http://southwire.com)** | **[Inclusion Intern](https://jobright.ai/jobs/info/690bd59e4a1b456627b13760?utm_campaign=1054&utm_source=git)** | Carrollton, GA | Hybrid | Nov 05 |
+| **[Summit](http://summitllc.us)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690bc858d046ab6061ce7aee?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 05 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bc21a4a1b456627b126f7?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
 | **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bbfe64a1b456627b125ef?utm_campaign=1054&utm_source=git)** | Alexandria, VA, US | On Site | Nov 05 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/690bbf6a4a1b456627b12576?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Spheros](www.spheros.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690bbed94a1b456627b124bf?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 05 |
 | **[HUB International](https://www.hubinternational.com)** | **[2026 Winter Internship](https://jobright.ai/jobs/info/690bb31f4a1b456627b11c3a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 05 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Legal Recruiting Intern](https://jobright.ai/jobs/info/690bb199d046ab6061ce689d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Nov 05 |
+| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690bcc46d046ab6061ce7f31?utm_campaign=1054&utm_source=git)** | Remote - Maryland, USA | Hybrid | Nov 05 |
+| **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 05 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Human Resources Intern](https://jobright.ai/jobs/info/690b9d1d4a1b456627b10d77?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 05 |
 | **[Concentric Healthcare Staffing](http://concentrichealthcare.com)** | **[HR Intern (Scottsdale, AZ)](https://jobright.ai/jobs/info/690b9c9e221b890c277f62ab?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 05 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Human Resources Intern - Manufacturing Operations](https://jobright.ai/jobs/info/690b9c6ad046ab6061ce5aa5?utm_campaign=1054&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 04 |
 | **[USI Kibble & Prentice](http://www.kpcom.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/690a2a96bcccf20de59df7a3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 04 |
 | **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690a2a384a1b456627b04d82?utm_campaign=1054&utm_source=git)** | Gloucester, VA | Hybrid | Nov 04 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Human Resources Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fd9117554c2d9eee207d?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Nov 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/68ed57ac70b66e2345d3d017?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Nov 04 |
-| **[Parker Hannifin](http://www.parker.com)** | **[HR Intern - Pneumatic Division - Richland](https://jobright.ai/jobs/info/690a09b4bcccf20de59de8f5?utm_campaign=1054&utm_source=git)** | Richland, MI | On Site | Nov 04 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Nov 04 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d1dafe17554c2d9eee02f7?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
