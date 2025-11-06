@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690bfbef4a1b456627b14ec1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/6903baedd64a22104aa923a8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bf3204a1b456627b14989?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 05 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690be7334a1b456627b143b6?utm_campaign=1054&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 05 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/68f6b64f9a65fd34585966e3?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
 | **[Southwire Company](http://southwire.com)** | **[Inclusion Intern](https://jobright.ai/jobs/info/690bd59e4a1b456627b13760?utm_campaign=1054&utm_source=git)** | Carrollton, GA | Hybrid | Nov 05 |
 | **[Summit](http://summitllc.us)** | **[HR Intern 2026](https://jobright.ai/jobs/info/690bc858d046ab6061ce7aee?utm_campaign=1054&utm_source=git)** | Lakeland, FL | On Site | Nov 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lima One Capital](https://www.limaone.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690a18e0d046ab6061cd92ae?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 04 |
 | **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ee6fae46e5b153e5a5a6dd?utm_campaign=1054&utm_source=git)** | Apex, NC | On Site | Nov 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d6b917554c2d9eee01b7?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Nov 04 |
-| ↳ | **[Spring 2026 Management Trainee Intern - White River Junction Vermont](https://jobright.ai/jobs/info/68ed59526335d33236127e81?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Nov 04 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 04 |
-| **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 04 |
-| **[USI Kibble & Prentice](http://www.kpcom.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/690a2a96bcccf20de59df7a3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 04 |
-| **[Commonwealth Senior Living](https://www.commonwealthsl.com)** | **[Healthcare Administration Internship](https://jobright.ai/jobs/info/690a2a384a1b456627b04d82?utm_campaign=1054&utm_source=git)** | Gloucester, VA | Hybrid | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
