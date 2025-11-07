@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clayco](http://www.claycorp.com/)** | **[Recruiting Admin Intern](https://jobright.ai/jobs/info/690e4614d046ab6061cfbcc4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Community Relations South Region](https://jobright.ai/jobs/info/690e3ae9221b890c2780be97?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Nov 07 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Career Development Program](https://jobright.ai/jobs/info/690e396a221b890c2780bdcc?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 07 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Researcher](https://jobright.ai/jobs/info/690e3430221b890c2780bab5?utm_campaign=1054&utm_source=git)** | San Francisco | Hybrid | Nov 07 |
+| **[Lanco Group of Companies](https://www.thelancogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/690e45ffd046ab6061cfbcb7?utm_campaign=1054&utm_source=git)** | Union City, TN | Hybrid | Nov 07 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15037f462172a5a7d6195?utm_campaign=1054&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
 | **[Johnstone Supply - The JTeam Group](http://www.teamjohnstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fdc87ee0c73b3a11194afb?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/690e1e44d046ab6061cfa9f3?utm_campaign=1054&utm_source=git)** | Spring Grove, PA | On Site | Nov 07 |
@@ -78,9 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15ef4ef766b3f0fd0cd4f?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Nov 07 |
 | **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Human Resources Intern](https://jobright.ai/jobs/info/690e22acd046ab6061cfabbd?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/690e3c2344146d3b6ec522bc?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Nov 07 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Nov 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Nov 07 |
+| ↳ | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 07 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 07 |
 | ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 07 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Nov 06 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc715e55be5e2604e0b2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 06 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 06 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68caef1bd905e25191d9da06?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Nov 06 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efd973de50091dbfa50aad?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Indiana](https://jobright.ai/jobs/info/68d4d0d4ffc1276de3fde513?utm_campaign=1054&utm_source=git)** | Brownsburg, IN | On Site | Nov 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68d4d13d8c62e63bc7feccc5?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68d400c55ae5a90cfd482812?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Knoxville](https://jobright.ai/jobs/info/68d4d2508c62e63bc7fece75?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/68cd4129e23def7af55b74b2?utm_campaign=1054&utm_source=git)** | Waterbury, CT | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 06 |
-| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68e22278b99ec3563b0dab92?utm_campaign=1054&utm_source=git)** | Tallahassee, FL | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
