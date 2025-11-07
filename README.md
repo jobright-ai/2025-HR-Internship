@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c8643d046ab6061cedf61?utm_campaign=1054&utm_source=git)** | Spokane Valley, Washington | On Site | Nov 05 |
 | **[West Shore Home](http://westshorehome.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/690c4989221b890c277fcb32?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - Provo](https://jobright.ai/jobs/info/690c0899d046ab6061cea43b?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
