@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 07 |
+| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689ce610faa4e875e826bb17?utm_campaign=1054&utm_source=git)** | South Burlington, VT | On Site | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Nov 07 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690e0b8944146d3b6ec50f66?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 07 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15ef4ef766b3f0fd0cd4f?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Nov 07 |
+| **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Nov 07 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6812989c7b50544212acd136?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 07 |
+| ↳ | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 07 |
+| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/689e1be3faa4e875e8276c5e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 07 |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/690e0f14d046ab6061cfa530?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 07 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f19b56f462172a5a7da88b?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Nov 07 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/68cfe365846f0b04af685e5a?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Nov 07 |
@@ -66,6 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/690dd7d6d046ab6061cf97c2?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Nov 07 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6225b42bc4562828245?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 07 |
+| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Nov 07 |
+| **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Nov 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690dc63a44146d3b6ec4fbac?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Nov 07 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[Intern - Human Resources (College Level)](https://jobright.ai/jobs/info/690df43a221b890c2780a681?utm_campaign=1054&utm_source=git)** | Canton, GA | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690d912344146d3b6ec4dd01?utm_campaign=1054&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
@@ -97,8 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690cfaa44a1b456627b1c11a?utm_campaign=1054&utm_source=git)** | Ripon, WI | On Site | Nov 06 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Employee Benefits Insurance Intern](https://jobright.ai/jobs/info/690d204fd046ab6061cf32a3?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 06 |
 | **[Goldbelt Hawk, LLC](https://www.gbhawk.com/)** | **[Intern](https://jobright.ai/jobs/info/690cf4bed046ab6061cf0d9c?utm_campaign=1054&utm_source=git)** | Juneau, Alaska | On Site | Nov 06 |
-| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/690d1e8d221b890c278037cb?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 06 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/690d1f58d046ab6061cf318d?utm_campaign=1054&utm_source=git)** | Fresno, California | On Site | Nov 06 |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/690d1f58d046ab6061cf318d?utm_campaign=1054&utm_source=git)** | Fresno, California | On Site | Nov 06 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern - (Unpaid Internship)](https://jobright.ai/jobs/info/690cf0c8d046ab6061cf0b8b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 06 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship](https://jobright.ai/jobs/info/690d1038221b890c27802a1a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/690ce8c7d046ab6061cf06ac?utm_campaign=1054&utm_source=git)** | VA-NORFOLK, 5800 NORTHAMPTON BLVD | Hybrid | Nov 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - East Indianapolis](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
 | ↳ | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/68d2d60e17554c2d9eeeaaf1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
 | ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/68b8f95e5b42bc4562829629?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Nov 06 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Nov 06 |
-| **[Republic Airways](http://www.rjet.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/68f00a0978ba1621431e1b2c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68d537af39247e3c807e9154?utm_campaign=1054&utm_source=git)** | Terre Haute, IN | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Crossville](https://jobright.ai/jobs/info/68f106bce6870116b1f52e28?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/68d52ef8b80731686f6becf9?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6908fbddd046ab6061ccfcb0?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68f051d4e2767e5e924c55cf?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Nov 06 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5d4f39a65fd345858f46b?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | Nov 06 |
-| **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
