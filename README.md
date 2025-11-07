@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 07 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f19b56f462172a5a7da88b?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Nov 07 |
+| **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/68f1a9d5e6870116b1f5b8f0?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Nov 07 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/68cfe365846f0b04af685e5a?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Nov 07 |
 | **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c8ca8f983e6768bc5515d6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d52f07090163b6ba543d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[Naapbooks Limited](http://www.naapbooks.com)** | **[HR Intern](https://jobright.ai/jobs/info/690dd7d6d046ab6061cf97c2?utm_campaign=1054&utm_source=git)** | Branch, LA | On Site | Nov 07 |
 | **[Lockton](https://global.lockton.com)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6225b42bc4562828245?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690dc63a44146d3b6ec4fbac?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Nov 07 |
+| **[Universal Alloy Corporation](https://universalalloy.com/)** | **[Intern - Human Resources (College Level)](https://jobright.ai/jobs/info/690df43a221b890c2780a681?utm_campaign=1054&utm_source=git)** | Canton, GA | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690d912344146d3b6ec4dd01?utm_campaign=1054&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690d87c044146d3b6ec4d86b?utm_campaign=1054&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Human Resources - Site Locations](https://jobright.ai/jobs/info/68fa8fa967272b29af730e94?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
@@ -71,10 +76,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
 | **[Quantinuum](https://www.quantinuum.com/)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/690d94e844146d3b6ec4def7?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Nov 06 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Nov 06 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d4c934a1b456627b2049f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace HR Intern (Fall/Spring 2026)](https://jobright.ai/jobs/info/690d455b4a1b456627b1ff9a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d4478221b890c2780550f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern (FSD) - Chattanooga, TN](https://jobright.ai/jobs/info/690d3e89221b890c27805102?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/690d30104a1b456627b1ef57?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68f051d4e2767e5e924c55cf?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Nov 06 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5d4f39a65fd345858f46b?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | Nov 06 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68f0c0c31f624a7ec1cf7975?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
-| **[Actus Nutrition](https://actus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d48e948c62e63bc7fea738?utm_campaign=1054&utm_source=git)** | Wautoma, WI | On Site | Nov 06 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Administrative Support Intern- Global Business Services](https://jobright.ai/jobs/info/690caec24a1b456627b1a300?utm_campaign=1054&utm_source=git)** | Poland, ND | On Site | Nov 06 |
-| **[Phoenix Companies, LLC](https://phoenixcompaniesllc.com/)** | **[2026 Intern - Human Resources](https://jobright.ai/jobs/info/690c900c221b890c277fed83?utm_campaign=1054&utm_source=git)** | Hartford, CT | On Site | Nov 06 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[HR Engagement Intern - Summer 2026](https://jobright.ai/jobs/info/690c7f04221b890c277fe401?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
