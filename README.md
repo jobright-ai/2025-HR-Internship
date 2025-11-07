@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690d87c044146d3b6ec4d86b?utm_campaign=1054&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Human Resources - Site Locations](https://jobright.ai/jobs/info/68fa8fa967272b29af730e94?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 HR Summer Internship Program](https://jobright.ai/jobs/info/690d5f0cd046ab6061cf5a8b?utm_campaign=1054&utm_source=git)** | Costa Mesa, CA | On Site | Nov 06 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace HR Intern (Fall/Spring 2026)](https://jobright.ai/jobs/info/690d455b4a1b456627b1ff9a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/690ce8c7d046ab6061cf06ac?utm_campaign=1054&utm_source=git)** | VA-NORFOLK, 5800 NORTHAMPTON BLVD | Hybrid | Nov 06 |
 | ↳ | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/690ce584221b890c27800bc5?utm_campaign=1054&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Nov 06 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690d08f64a1b456627b1ccce?utm_campaign=1054&utm_source=git)** | Madisonville, KY | On Site | Nov 06 |
-| **[Powell](http://www.powellind.com)** | **[Intern Corporate Human Resources](https://jobright.ai/jobs/info/690ce331d046ab6061cf0440?utm_campaign=1054&utm_source=git)** | Greater Houston | On Site | Nov 06 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/690cd6f04a1b456627b1afa4?utm_campaign=1054&utm_source=git)** | United States-Texas-Temple | On Site | Nov 06 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/690d15d64a1b456627b1d77b?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 06 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern - (Unpaid Internship)](https://jobright.ai/jobs/info/690ccf064a1b456627b1ad07?utm_campaign=1054&utm_source=git)** | Orange Blossom Trail | On Site | Nov 06 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting & HR Internship](https://jobright.ai/jobs/info/690c544dd046ab6061cec708?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c52c7d046ab6061cec6b2?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 05 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - People Service Center Rep](https://jobright.ai/jobs/info/690916e24a1b456627afc44e?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | On Site | Nov 05 |
-| **[West Shore Home](http://westshorehome.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c4989221b890c277fcb32?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690c8643d046ab6061cedf61?utm_campaign=1054&utm_source=git)** | Spokane Valley, Washington | On Site | Nov 05 |
-| **[West Shore Home](http://westshorehome.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| **[West Shore Home](http://westshorehome.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/690c4989221b890c277fcb32?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| ↳ | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/690c3e4e4a1b456627b1723e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Nov 05 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - Provo](https://jobright.ai/jobs/info/690c0899d046ab6061cea43b?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Nov 05 |
 | ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 05 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 05 |
-| **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 05 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690bfbef4a1b456627b14ec1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
-| **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/6903baedd64a22104aa923a8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
