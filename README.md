@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Human Resources - Site Locations](https://jobright.ai/jobs/info/68fa8fa967272b29af730e94?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
+| **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 HR Summer Internship Program](https://jobright.ai/jobs/info/690d5f0cd046ab6061cf5a8b?utm_campaign=1054&utm_source=git)** | Costa Mesa, CA | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace HR Intern (Fall/Spring 2026)](https://jobright.ai/jobs/info/690d455b4a1b456627b1ff9a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
@@ -89,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/690cd6f04a1b456627b1afa4?utm_campaign=1054&utm_source=git)** | United States-Texas-Temple | On Site | Nov 06 |
 | **[WHITE CROSS MANAGEMENT](https://whitecrossmanagement.com)** | **[Internship/Mentorship for Talent Management & Production Company](https://jobright.ai/jobs/info/690d15d64a1b456627b1d77b?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 06 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern - (Unpaid Internship)](https://jobright.ai/jobs/info/690ccf064a1b456627b1ad07?utm_campaign=1054&utm_source=git)** | Orange Blossom Trail | On Site | Nov 06 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | **[Swagelok](http://www.swagelok.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bb3a4e6105227d118a4538?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Nov 06 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | Hybrid | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/68d400078c62e63bc7fe53f1?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Nov 06 |
@@ -135,8 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 06 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6908fbddd046ab6061ccfcb0?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Nov 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68f051d4e2767e5e924c55cf?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Nov 06 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690c9be8d046ab6061cee9ba?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 06 |
-| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5d4f39a65fd345858f46b?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | Nov 06 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5d4f39a65fd345858f46b?utm_campaign=1054&utm_source=git)** | Savanna, IL | On Site | Nov 06 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68f0c0c31f624a7ec1cf7975?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
 | **[Actus Nutrition](https://actus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d48e948c62e63bc7fea738?utm_campaign=1054&utm_source=git)** | Wautoma, WI | On Site | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Human Resources Intern, HR Shared Services (Summer 2026)](https://jobright.ai/jobs/info/68e228731852e62f007f68f5?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Public Benefits & Navigation Program Intern (UNPAID)](https://jobright.ai/jobs/info/690bfbef4a1b456627b14ec1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[ASME (The American Society of Mechanical Engineers)](https://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/6903baedd64a22104aa923a8?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Nov 05 |
-| **[Contour Aviation](https://contouraviation.com/)** | **[Human Resources Intern (PT)](https://jobright.ai/jobs/info/690c139ad046ab6061ceabbb?utm_campaign=1054&utm_source=git)** | Smyrna, TN, USA | On Site | Nov 05 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bf3204a1b456627b14989?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
