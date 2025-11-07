@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loop Capital](http://www.loopcapital.com)** | **[Human Resources 2026 Summer Intern - Loop Capital](https://jobright.ai/jobs/info/690e667c221b890c2780d8a1?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690e65f9d046ab6061cfd0c6?utm_campaign=1054&utm_source=git)** | United States - Remote | Remote | Nov 07 |
+| **[Cognizant](https://www.cognizant.com)** | **[Campus Recruitment Intern](https://jobright.ai/jobs/info/690e653744146d3b6ec53afb?utm_campaign=1054&utm_source=git)** | Teaneck, NJ | Hybrid | Nov 07 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690e61be221b890c2780d5e9?utm_campaign=1054&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/690e5decd046ab6061cfcbc6?utm_campaign=1054&utm_source=git)** | 228 S Main St, Spring Grove, PA 17362, USA | On Site | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/690e5d3c221b890c2780d2d4?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Nov 07 |
+| **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Program Recruitment  Social Media Intern (NFWS)](https://jobright.ai/jobs/info/690e58e344146d3b6ec532aa?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 07 |
+| **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship #1](https://jobright.ai/jobs/info/690e58c0221b890c2780cfb7?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/690e57bed046ab6061cfc6ee?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Nov 07 |
 | **[Clayco](http://www.claycorp.com/)** | **[Recruiting Admin Intern](https://jobright.ai/jobs/info/690e4614d046ab6061cfbcc4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Community Relations South Region](https://jobright.ai/jobs/info/690e3ae9221b890c2780be97?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Nov 07 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Career Development Program](https://jobright.ai/jobs/info/690e396a221b890c2780bdcc?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 07 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Researcher](https://jobright.ai/jobs/info/690e3430221b890c2780bab5?utm_campaign=1054&utm_source=git)** | San Francisco | Hybrid | Nov 07 |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Assistant Director, International Services](https://jobright.ai/jobs/info/690e4d2744146d3b6ec52bca?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[Lanco Group of Companies](https://www.thelancogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/690e45ffd046ab6061cfbcb7?utm_campaign=1054&utm_source=git)** | Union City, TN | Hybrid | Nov 07 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15037f462172a5a7d6195?utm_campaign=1054&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
 | **[Johnstone Supply - The JTeam Group](http://www.teamjohnstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fdc87ee0c73b3a11194afb?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
@@ -113,10 +123,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
 | **[Quantinuum](https://www.quantinuum.com/)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/690d94e844146d3b6ec4def7?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Nov 06 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Nov 06 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d4c934a1b456627b2049f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[GE Aerospace HR Intern (Fall/Spring 2026)](https://jobright.ai/jobs/info/690d455b4a1b456627b1ff9a?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d4478221b890c2780550f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
+| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/690e4da344146d3b6ec52c08?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern (FSD) - Chattanooga, TN](https://jobright.ai/jobs/info/690d3e89221b890c27805102?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
 | **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/690d30104a1b456627b1ef57?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 | **[Swagelok](http://www.swagelok.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bb3a4e6105227d118a4538?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Nov 06 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | Hybrid | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/68d400078c62e63bc7fe53f1?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 06 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Employee Benefits Co-Op Intern](https://jobright.ai/jobs/info/68d5115824b1ee4c7b663a04?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Nov 06 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc715e55be5e2604e0b2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 06 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efd973de50091dbfa50aad?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Indiana](https://jobright.ai/jobs/info/68d4d0d4ffc1276de3fde513?utm_campaign=1054&utm_source=git)** | Brownsburg, IN | On Site | Nov 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
