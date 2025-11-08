@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Career Navigation Intern](https://jobright.ai/jobs/info/690fb3c7183be660d26765c5?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Nov 08 |
+| **[Contour Aviation](https://contouraviation.com/)** | **[Human Resources Intern (PT)](https://jobright.ai/jobs/info/690fb34bbb519377733e9ac0?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Nov 08 |
+| **[Valence](https://www.getvalence.com)** | **[Human Resources Technologist Internship](https://jobright.ai/jobs/info/690fb312bb519377733e9ab1?utm_campaign=1054&utm_source=git)** | Lynwood, CA | On Site | Nov 08 |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse, Acute Care (Med Surg) Internship, Opportunities at All Campuses (Full Time)](https://jobright.ai/jobs/info/690fb00c988c2b7b4ec4f188?utm_campaign=1054&utm_source=git)** | West Easton, PA | On Site | Nov 08 |
+| **[CYVL](https://cyvl.com)** | **[Human Resources Winter Internship](https://jobright.ai/jobs/info/690fadab183be660d26764c2?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68c81b22983e6768bc549b1b?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb78225f3832749186f5c7?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/68bb77975f3832749186f52c?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpartanNash](https://www.spartannash.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15037f462172a5a7d6195?utm_campaign=1054&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
 | **[Johnstone Supply - The JTeam Group](http://www.teamjohnstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fdc87ee0c73b3a11194afb?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/690e1e44d046ab6061cfa9f3?utm_campaign=1054&utm_source=git)** | Spring Grove, PA | On Site | Nov 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Temple, Waco and Killeen](https://jobright.ai/jobs/info/68b92a9c07090163b6ba86b7?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Nov 07 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Preconstruction Management Intern - Summer 2026](https://jobright.ai/jobs/info/689ce62bfaa4e875e826bb6b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/68d607ec63d77d6f6f3f3e84?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Nov 07 |
-| ↳ | **[Spring 2026 Management Trainee Intern Jupiter & Stuart](https://jobright.ai/jobs/info/68d5f86c63d77d6f6f3f379b?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Nov 07 |
-| **[Fox Rothschild](http://www.foxrothschild.com/)** | **[Drexel Attorney Recruitment Intern](https://jobright.ai/jobs/info/690e177044146d3b6ec512aa?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
