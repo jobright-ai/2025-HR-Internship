@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
+| **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer HR Coordinator Internship (unpaid & remote)](https://jobright.ai/jobs/info/690ee18a221b890c278125a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship in the AI B2B Startup](https://jobright.ai/jobs/info/690edc67d046ab6061d01c27?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec528d046ab6061d010bf?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 07 |
-| **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690ebfd1d046ab6061d00cbb?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
+| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690eea72d046ab6061d020f5?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 07 |
+| ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690ebfd1d046ab6061d00cbb?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690bcc46d046ab6061ce7f31?utm_campaign=1054&utm_source=git)** | Remote - Maryland, USA | Hybrid | Nov 07 |
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690ebd02d046ab6061d00b5c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Nov 07 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Nov 07 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ea41cd046ab6061cffa4e?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690e9e3c221b890c2780fe79?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 | **[Enveda](https://enveda.com)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/690e9c7344146d3b6ec55f1d?utm_campaign=1054&utm_source=git)** | Boulder, CO | Remote | Nov 07 |
 | **[ASML](https://www.asml.com)** | **[Internship, People Operations Summer 2026](https://jobright.ai/jobs/info/690e992b44146d3b6ec55ba9?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Nov 07 |
@@ -140,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Nov 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690dc63a44146d3b6ec4fbac?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Nov 07 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[Intern - Human Resources (College Level)](https://jobright.ai/jobs/info/690df43a221b890c2780a681?utm_campaign=1054&utm_source=git)** | Canton, GA | On Site | Nov 07 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/690ef38f44146d3b6ec58dfc?utm_campaign=1054&utm_source=git)** | Davidson, NC | Hybrid | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690d912344146d3b6ec4dd01?utm_campaign=1054&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690d87c044146d3b6ec4d86b?utm_campaign=1054&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690ed99444146d3b6ec58351?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Nov 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d4c934a1b456627b2049f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
-| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Talent Development Intern](https://jobright.ai/jobs/info/690e4da344146d3b6ec52c08?utm_campaign=1054&utm_source=git)** | Atlanta, GA | Hybrid | Nov 06 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern (FSD) - Chattanooga, TN](https://jobright.ai/jobs/info/690d3e89221b890c27805102?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 06 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 06 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/690d30104a1b456627b1ef57?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
