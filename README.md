@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/690f26ec44146d3b6ec5a5c8?utm_campaign=1054&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
+| ↳ | **[2026 Summer Human Resources Intern](https://jobright.ai/jobs/info/690cbb72221b890c277ffc9f?utm_campaign=1054&utm_source=git)** | Orange, CT | On Site | Nov 08 |
+| **[Amway](http://www.amway.com)** | **[Human Resources Analyst, Summer 2026 (42325)](https://jobright.ai/jobs/info/69090946bcccf20de59d6270?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 08 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/68dca370ddc10244dd677e47?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
+| **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[HR Intern (CPP - Euclid)](https://jobright.ai/jobs/info/690f1995d046ab6061d03873?utm_campaign=1054&utm_source=git)** | Euclid, OH | On Site | Nov 07 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer HR Coordinator Internship (unpaid & remote)](https://jobright.ai/jobs/info/690ee18a221b890c278125a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship in the AI B2B Startup](https://jobright.ai/jobs/info/690edc67d046ab6061d01c27?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec528d046ab6061d010bf?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 07 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690ebd02d046ab6061d00b5c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Nov 07 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Nov 07 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ea41cd046ab6061cffa4e?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690e9e3c221b890c2780fe79?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 | **[Enveda](https://enveda.com)** | **[HR Data Analyst Intern](https://jobright.ai/jobs/info/690e9c7344146d3b6ec55f1d?utm_campaign=1054&utm_source=git)** | Boulder, CO | Remote | Nov 07 |
 | **[ASML](https://www.asml.com)** | **[Internship, People Operations Summer 2026](https://jobright.ai/jobs/info/690e992b44146d3b6ec55ba9?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Nov 07 |
@@ -143,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Nov 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/690dc63a44146d3b6ec4fbac?utm_campaign=1054&utm_source=git)** | Durham, NC | Hybrid | Nov 07 |
 | **[Universal Alloy Corporation](https://universalalloy.com/)** | **[Intern - Human Resources (College Level)](https://jobright.ai/jobs/info/690df43a221b890c2780a681?utm_campaign=1054&utm_source=git)** | Canton, GA | On Site | Nov 07 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/690f108044146d3b6ec59c4f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 07 |
+| **[State of Washington](http://access.wa.gov/)** | **[Insurance Technician Supervisor (Insurance Technician 4) (Non-Perm) (Internal Only)](https://jobright.ai/jobs/info/690f128e44146d3b6ec59e49?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | On Site | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690d912344146d3b6ec4dd01?utm_campaign=1054&utm_source=git)** | Massachusetts - Virtual | Remote | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690d87c044146d3b6ec4d86b?utm_campaign=1054&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690ed99444146d3b6ec58351?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Nov 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2026 HR Summer Internship Program](https://jobright.ai/jobs/info/690d5f0cd046ab6061cf5a8b?utm_campaign=1054&utm_source=git)** | Costa Mesa, CA | On Site | Nov 06 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 06 |
-| **[Quantinuum](https://www.quantinuum.com/)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/690d94e844146d3b6ec4def7?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Nov 06 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Part Time - College Talent Acquisition - Virtual](https://jobright.ai/jobs/info/68f990796de2db04dc3ea187?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | Remote | Nov 06 |
-| **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Recruitment Intern (GMU Students)](https://jobright.ai/jobs/info/690d4aad221b890c2780596d?utm_campaign=1054&utm_source=git)** | Reston, Virginia | On Site | Nov 06 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d457e4a1b456627b1ffb5?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
-| ↳ | **[HR Intern](https://jobright.ai/jobs/info/690d4478221b890c2780550f?utm_campaign=1054&utm_source=git)** | Clackamas, OR | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
