@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elire](http://www.elire.com)** | **[Summer 2026 Human Resources / Talent Internship](https://jobright.ai/jobs/info/691061f5988c2b7b4ec518b1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 09 |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Emergency Department Internship (Opportunities At Select Campuses) - Winter 2026 Cohort](https://jobright.ai/jobs/info/69105cde183be660d2678946?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Nov 09 |
+| **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Hiring Manager Intern](https://jobright.ai/jobs/info/6910570abb519377733ebaff?utm_campaign=1054&utm_source=git)** | Lexington, KY | Hybrid | Nov 09 |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at All Campuses)](https://jobright.ai/jobs/info/6910563fbb519377733eba87?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Nov 09 |
+| ↳ | **[Graduate Nurse & Registered Nurse Internship Opportunities - Warren Campus, NJ (Full Time)](https://jobright.ai/jobs/info/6910517fbb519377733eb795?utm_campaign=1054&utm_source=git)** | Phillipsburg, NJ | On Site | Nov 09 |
+| ↳ | **[Graduate Nurse and Registered Nurse Emergency Department Internship (Opportunities At Multiple Campuses) - Winter 2026 Cohort](https://jobright.ai/jobs/info/69105134183be660d267829c?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Nov 09 |
+| ↳ | **[Graduate Nurse and Registered Nurse Operating Room Internship (Opportunities at Multiple Campuses)](https://jobright.ai/jobs/info/691050f3988c2b7b4ec50ec5?utm_campaign=1054&utm_source=git)** | Orwigsburg, PA | On Site | Nov 09 |
 | **[Maschinenfabrik Reinhausen](http://www.reinhausen.com/en/desktopdefault.aspx/tabid-11)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690fbe22988c2b7b4ec4f2d0?utm_campaign=1054&utm_source=git)** | Humboldt, TN | On Site | Nov 08 |
 | **[Wise Pirates](https://wisepirates.com)** | **[Professional Internship 2025](https://jobright.ai/jobs/info/690fbb16988c2b7b4ec4f2a1?utm_campaign=1054&utm_source=git)** | Allen, TX | On Site | Nov 08 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Career Navigation Intern](https://jobright.ai/jobs/info/690fb3c7183be660d26765c5?utm_campaign=1054&utm_source=git)** | Allentown, PA | Hybrid | Nov 08 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Industrial/Organizational Psychology Intern - Global People](https://jobright.ai/jobs/info/68ba40fa5f3832749186587a?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/68f2f02d76a51a4307bc95df?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/68bbcd958043103d4f22c9e7?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Nov 08 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68c64abac96a22563ececd66?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 08 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7ec20295f8e37655e3f7b?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 08 |
 | ↳ | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68cf6b49fb49c96ca6ea8661?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Nov 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clayco](http://www.claycorp.com/)** | **[Recruiting Admin Intern](https://jobright.ai/jobs/info/690e4614d046ab6061cfbcc4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Community Relations South Region](https://jobright.ai/jobs/info/690e3ae9221b890c2780be97?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Nov 07 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Career Development Program](https://jobright.ai/jobs/info/690e396a221b890c2780bdcc?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 07 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Researcher](https://jobright.ai/jobs/info/690e3430221b890c2780bab5?utm_campaign=1054&utm_source=git)** | San Francisco | Hybrid | Nov 07 |
-| **[Lanco Group of Companies](https://www.thelancogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/690e45ffd046ab6061cfbcb7?utm_campaign=1054&utm_source=git)** | Union City, TN | Hybrid | Nov 07 |
-| **[SpartanNash](https://www.spartannash.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f15037f462172a5a7d6195?utm_campaign=1054&utm_source=git)** | Byron Center, MI | On Site | Nov 07 |
-| **[Johnstone Supply - The JTeam Group](http://www.teamjohnstone.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fdc87ee0c73b3a11194afb?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Human Resources](https://jobright.ai/jobs/info/690e1e44d046ab6061cfa9f3?utm_campaign=1054&utm_source=git)** | Spring Grove, PA | On Site | Nov 07 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Temple, Waco and Killeen](https://jobright.ai/jobs/info/68b92a9c07090163b6ba86b7?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
