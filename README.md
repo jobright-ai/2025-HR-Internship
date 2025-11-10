@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6911ea7fc98948514c477a0b?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 10 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690c5319221b890c277fce11?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Nov 10 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
+| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/6911ddab6018ad4956aabc58?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 10 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6911d46c8b818a6dda66bdc3?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 10 |
+| ↳ | **[Risk Management Client Service Intern, Employee Benefits - Iselin, NJ](https://jobright.ai/jobs/info/6911d26e8b818a6dda66bd57?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Nov 10 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern – HR- Human Resources Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
@@ -79,8 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Nov 09 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a6b37796a83635f09a4b?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | On Site | Nov 09 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a5bf295f8e37655e0048?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Nov 09 |
-| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6910a62dbb519377733ecda7?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 09 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a7477a37c712687d38e9?utm_campaign=1054&utm_source=git)** | Manteca, CA | On Site | Nov 09 |
+| ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a7477a37c712687d38e9?utm_campaign=1054&utm_source=git)** | Manteca, CA | On Site | Nov 09 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Nov 09 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Analytics](https://jobright.ai/jobs/info/690f1121221b890c27813b2f?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a583295f8e37655dfeff?utm_campaign=1054&utm_source=git)** | Pendergrass, GA | On Site | Nov 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[HR Intern (CPP - Euclid)](https://jobright.ai/jobs/info/690f1995d046ab6061d03873?utm_campaign=1054&utm_source=git)** | Euclid, OH | On Site | Nov 07 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer HR Coordinator Internship (unpaid & remote)](https://jobright.ai/jobs/info/690ee18a221b890c278125a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship in the AI B2B Startup](https://jobright.ai/jobs/info/690edc67d046ab6061d01c27?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
-| ↳ | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec528d046ab6061d010bf?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Nov 07 |
-| ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 07 |
-| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690eea72d046ab6061d020f5?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 07 |
-| ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690f0a7d221b890c27813776?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 07 |
-| ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690ebfd1d046ab6061d00cbb?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
