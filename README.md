@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911ace3183be660d267d3ef?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: SUNY Co-op Experience Retirement Solutions](https://jobright.ai/jobs/info/6911abf0183be660d267d344?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/6911a8e5183be660d267d16e?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – HR- Human Resources Strategy & Operations  ](https://jobright.ai/jobs/info/69118375bb519377733ef8d7?utm_campaign=1054&utm_source=git)** | United States - North Carolina - Raleigh | Hybrid | Nov 09 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: SUNY Co-op Experience Retirement Solutions](https://jobright.ai/jobs/info/69117b0e183be660d267c219?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Nov 09 |
 | **[C-Sharpe Co, LLC](https://csharpe.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69115fd2183be660d267b8bb?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690ebd02d046ab6061d00b5c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Nov 07 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/69116412988c2b7b4ec5467d?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Nov 07 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Nov 07 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ea41cd046ab6061cffa4e?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690e9e3c221b890c2780fe79?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
