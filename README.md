@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6911ea7fc98948514c477a0b?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 10 |
+| **[UNDP Careers](https://www.undp.org)** | **[UNV Intern-Human Resources Section-Remote](https://jobright.ai/jobs/info/6911fcbfea9ab01b82beee87?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Nov 10 |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6911f771c98948514c477e00?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 10 |
+| **[CNO Financial Group](http://www.cnoinc.com)** | **[Benefits, Wellness and People Focus Intern – Summer 2026](https://jobright.ai/jobs/info/68adc312d627244576e4eb80?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Nov 10 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/690c5319221b890c277fce11?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Nov 10 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern – HR- Human Resources Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
+| ↳ | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/691200aad1047e3565cf8e33?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911ace3183be660d267d3ef?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: SUNY Co-op Experience Retirement Solutions](https://jobright.ai/jobs/info/6911abf0183be660d267d344?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/6911a8e5183be660d267d16e?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6911ce426018ad4956aab7af?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Nov 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94628043103d4f229dea?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
-| **[H Mart Manhattan](https://www.hmart.com/)** | **[HR & Business Administration Intern](https://jobright.ai/jobs/info/69108d89183be660d26794aa?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Nov 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Nov 08 |
 | **[Amway](http://www.amway.com)** | **[Human Resources Analyst, Summer 2026 (42325)](https://jobright.ai/jobs/info/69090946bcccf20de59d6270?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 08 |
 | **[Consolidated Precision Products Corp](http://www.cppcorp.com)** | **[HR Intern (CPP - Euclid)](https://jobright.ai/jobs/info/690f1995d046ab6061d03873?utm_campaign=1054&utm_source=git)** | Euclid, OH | On Site | Nov 07 |
-| **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer HR Coordinator Internship (unpaid & remote)](https://jobright.ai/jobs/info/690ee18a221b890c278125a5?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Unstuck Engine](https://primeclass.ai)** | **[Recruiting and HR Internship in the AI B2B Startup](https://jobright.ai/jobs/info/690edc67d046ab6061d01c27?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
