@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911ace3183be660d267d3ef?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
+| ↳ | **[Intern – HR- Human Resources Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
+| ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911ace3183be660d267d3ef?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: SUNY Co-op Experience Retirement Solutions](https://jobright.ai/jobs/info/6911abf0183be660d267d344?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/6911a8e5183be660d267d16e?utm_campaign=1054&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/6911b7b6183be660d267da3b?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Nov 09 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – HR- Human Resources Strategy & Operations  ](https://jobright.ai/jobs/info/69118375bb519377733ef8d7?utm_campaign=1054&utm_source=git)** | United States - North Carolina - Raleigh | Hybrid | Nov 09 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: SUNY Co-op Experience Retirement Solutions](https://jobright.ai/jobs/info/69117b0e183be660d267c219?utm_campaign=1054&utm_source=git)** | New York, NY, USA | Hybrid | Nov 09 |
 | **[C-Sharpe Co, LLC](https://csharpe.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69115fd2183be660d267b8bb?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a583295f8e37655dfeff?utm_campaign=1054&utm_source=git)** | Pendergrass, GA | On Site | Nov 09 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68e3eaa51852e62f007ff337?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6911ce426018ad4956aab7af?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Nov 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94628043103d4f229dea?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[H Mart Manhattan](https://www.hmart.com/)** | **[HR & Business Administration Intern](https://jobright.ai/jobs/info/69108d89183be660d26794aa?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 09 |
@@ -133,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95928043103d4f229efc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/68b922a407090163b6ba809e?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 08 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/690ed411d046ab6061d0173a?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 08 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Manchester, NH](https://jobright.ai/jobs/info/68cefd9adbd9fb154ede403f?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Nov 08 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/690f3b8344146d3b6ec5ac4c?utm_campaign=1054&utm_source=git)** | Costa Mesa, CA | Hybrid | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690eea72d046ab6061d020f5?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 07 |
 | ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690f0a7d221b890c27813776?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 07 |
 | ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/690ebfd1d046ab6061d00cbb?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
-| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690bcc46d046ab6061ce7f31?utm_campaign=1054&utm_source=git)** | Remote - Maryland, USA | Hybrid | Nov 07 |
-| **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690ebd02d046ab6061d00b5c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Nov 07 |
-| **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/69116412988c2b7b4ec5467d?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
