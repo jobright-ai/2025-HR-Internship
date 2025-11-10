@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/69113844988c2b7b4ec53a8b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/6910fe19183be660d267a969?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 09 |
 | **[Connector Manufacturing Company](https://www.cmclugs.com)** | **[HR Intern (Summer 2026) - Hamilton, OH](https://jobright.ai/jobs/info/6910fda3bb519377733ede44?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Nov 09 |
 | **[East-West](https://www.eastwest.org)** | **[People Advancement Internship](https://jobright.ai/jobs/info/6910fd5b183be660d267a948?utm_campaign=1054&utm_source=git)** | Plano, TX | Hybrid | Nov 09 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68e3eaa51852e62f007ff337?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94628043103d4f229dea?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[H Mart Manhattan](https://www.hmart.com/)** | **[HR & Business Administration Intern](https://jobright.ai/jobs/info/69108d89183be660d26794aa?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690bcc46d046ab6061ce7f31?utm_campaign=1054&utm_source=git)** | Remote - Maryland, USA | Hybrid | Nov 07 |
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/690ebd02d046ab6061d00b5c?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 07 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Nov 07 |
-| **[The State University of New York](http://www.suny.edu/)** | **[Regional Internship Coordinator - Yonkers](https://jobright.ai/jobs/info/68ca35aaf61c922772a74c51?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
