@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C-Sharpe Co, LLC](https://csharpe.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69115fd2183be660d267b8bb?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Nov 09 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/69113844988c2b7b4ec53a8b?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Talent Acquisition Intern - Summer 2026](https://jobright.ai/jobs/info/6910fe19183be660d267a969?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 09 |
 | **[Connector Manufacturing Company](https://www.cmclugs.com)** | **[HR Intern (Summer 2026) - Hamilton, OH](https://jobright.ai/jobs/info/6910fda3bb519377733ede44?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Nov 09 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Nov 09 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 09 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/69107296988c2b7b4ec51d72?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 09 |
 | **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 09 |
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 09 |
 | **[Elire](http://www.elire.com)** | **[Summer 2026 Human Resources / Talent Internship](https://jobright.ai/jobs/info/691061f5988c2b7b4ec518b1?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 09 |
@@ -117,8 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Nov 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern -Greater Michigan](https://jobright.ai/jobs/info/68bae1a08043103d4f223c0f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 08 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Cape Girardeau, MO](https://jobright.ai/jobs/info/68d746cbf9dbe42bf62c0e7e?utm_campaign=1054&utm_source=git)** | Cape Girardeau, MO | On Site | Nov 08 |
-| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/690f56d8d046ab6061d04c51?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 08 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/68cda5781ad6b16f0289cbea?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Nov 08 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/68cda5781ad6b16f0289cbea?utm_campaign=1054&utm_source=git)** | Raynham, MA | On Site | Nov 08 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/690f5564221b890c27815335?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68b9cd875f3832749186101c?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 08 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb94105f383274918706e7?utm_campaign=1054&utm_source=git)** | Davenport, FL | On Site | Nov 08 |
