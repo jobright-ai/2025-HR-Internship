@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8b69a65fd34585981da?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Nov 11 |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Human Resources](https://jobright.ai/jobs/info/690d7a534a1b456627b21a64?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Nov 11 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8679a63986de7583592?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
 | **[Arizona Department of Child Safety](https://dcs.az.gov)** | **[CASE MANAGER-SKILLBRIDGE INTERNSHIP](https://jobright.ai/jobs/info/6912dd7ad1047e3565cffbdc?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Nov 10 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6912baa5c98948514c47da97?utm_campaign=1054&utm_source=git)** | Eighty Four, PA | On Site | Nov 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Outcomes Research - Intern](https://jobright.ai/jobs/info/6912b7a0c98948514c47d9b9?utm_campaign=1054&utm_source=git)** | North Wales, PA | Hybrid | Nov 10 |
@@ -80,8 +83,9 @@ For a complete list, click the following sortable link below:
 | **[ESF Camps & Experiences](http://esfcamps.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6912ab37c98948514c47d1d7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - HR Shared Services](https://jobright.ai/jobs/info/69127d2bea9ab01b82bf31a7?utm_campaign=1054&utm_source=git)** | United States - North Carolina - Raleigh | Hybrid | Nov 10 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69127a54c98948514c47c17b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Classification Unit, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 10 |
-| ↳ | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Classification Unit, Emerging Talent Intern](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 10 |
+| **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/6912b9ddc98948514c47da42?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Nov 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/6912f935ea9ab01b82bf6b2e?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Nov 10 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6912c8f1ea9ab01b82bf4f17?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 10 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Outcomes Research - Intern](https://jobright.ai/jobs/info/6912be7bea9ab01b82bf4aa9?utm_campaign=1054&utm_source=git)** | USA - Pennsylvania - Philadelphia (Ludlow WeWork) | Hybrid | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68e3eaa51852e62f007ff337?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6911ce426018ad4956aab7af?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Nov 09 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
-| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
