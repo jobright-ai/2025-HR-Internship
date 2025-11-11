@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEMIA](https://www.idemia.com/)** | **[Talent Acquisition Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ea929a65fd3458598388?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[HR Intern](https://jobright.ai/jobs/info/691324c6e344172248f6fa58?utm_campaign=1054&utm_source=git)** | Waller, TX | Remote | Nov 11 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8b69a65fd34585981da?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Nov 11 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Human Resources](https://jobright.ai/jobs/info/690d7a534a1b456627b21a64?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Nov 11 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6e8679a63986de7583592?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Nov 11 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[ESF Camps & Experiences](http://esfcamps.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6912ab37c98948514c47d1d7?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - HR Shared Services](https://jobright.ai/jobs/info/69127d2bea9ab01b82bf31a7?utm_campaign=1054&utm_source=git)** | United States - North Carolina - Raleigh | Hybrid | Nov 10 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69127a54c98948514c47c17b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Classification Unit, Emerging Talent Intern](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 10 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Classification Unit, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 10 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/6912b9ddc98948514c47da42?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Retirement Solutions Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690c219cd046ab6061ceb410?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Opus](http://www.opus-group.com/)** | **[College Recruitment Program - Project Intern/Co-Op](https://jobright.ai/jobs/info/6912f935ea9ab01b82bf6b2e?utm_campaign=1054&utm_source=git)** | Hopkins, MN | On Site | Nov 10 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern- Human Resources- Talent Development & Inclusion](https://jobright.ai/jobs/info/6912760fc98948514c47beed?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employee Experience](https://jobright.ai/jobs/info/69125816d1047e3565cfb86d?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Nov 10 |
-| **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/691256ecea9ab01b82bf1930?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Nov 10 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691287ceea9ab01b82bf34ea?utm_campaign=1054&utm_source=git)** | Eighty Four, PA | On Site | Nov 10 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69126bd5c98948514c47ba01?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Nov 10 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Student Assistant (Human Resources)](https://jobright.ai/jobs/info/69124ae7d1047e3565cfb00c?utm_campaign=1054&utm_source=git)** | Conway, SC | On Site | Nov 10 |
@@ -119,10 +120,10 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Nov 10 |
 | **[TellCo Europe Sagl Switzerland](https://tellco-europe.com)** | **[HR Intern](https://jobright.ai/jobs/info/69122f0eea9ab01b82bf0275?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 10 |
 | **[UNDP Careers](https://www.undp.org)** | **[UNV Intern-Human Resources Section-Remote](https://jobright.ai/jobs/info/6911fcbfea9ab01b82beee87?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Nov 10 |
-| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6911f771c98948514c477e00?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/69122847d1047e3565cf9e23?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/69121fa4ea9ab01b82befb71?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 10 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Benefits, Wellness and People Focus Intern – Summer 2026](https://jobright.ai/jobs/info/68adc312d627244576e4eb80?utm_campaign=1054&utm_source=git)** | Carmel, IN | Hybrid | Nov 10 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69132f63e344172248f6fe0b?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Nov 10 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 10 |
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/6911ddab6018ad4956aabc58?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a583295f8e37655dfeff?utm_campaign=1054&utm_source=git)** | Pendergrass, GA | On Site | Nov 09 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/68e3eaa51852e62f007ff337?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 09 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 09 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6911ce426018ad4956aab7af?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
