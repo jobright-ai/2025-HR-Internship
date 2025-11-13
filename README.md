@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6915dae8286ccf0a15130fc4?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Nov 13 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b19?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 13 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6915bd5f6f36db06ef050e3a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159d469c388539cbdf4aab?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 13 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159c016f36db06ef04fc4f?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Nov 13 |
@@ -66,14 +68,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/691592516f36db06ef04fa7d?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Nov 13 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915923a6f36db06ef04fa79?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69158e949c388539cbdf4670?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Nov 12 |
-| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915ab529c388539cbdf529e?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915ac1c6f36db06ef0504a1?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915ab529c388539cbdf529e?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915c0449c388539cbdf5bd2?utm_campaign=1054&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915b4026f36db06ef050947?utm_campaign=1054&utm_source=git)** | Ames, IA | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a65f6f36db06ef050322?utm_campaign=1054&utm_source=git)** | Waterloo-CF Area | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a8566f36db06ef050370?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Nov 12 |
-| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915b4026f36db06ef050947?utm_campaign=1054&utm_source=git)** | Ames, IA | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915acbb286ccf0a1513007e?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 12 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a51a6f36db06ef0502c7?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915d1b36f36db06ef0515b4?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 12 |
 | **[DP World](https://www.dpworld.com/)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/6915c3c06f36db06ef05103f?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Nov 12 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Counselor II - Intern - BA-BS-RN](https://jobright.ai/jobs/info/6915681e9c388539cbdf3470?utm_campaign=1054&utm_source=git)** | 135 Gold Star Blvd | On Site | Nov 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Associate Intern (Summer 2026) – Indianapolis Health](https://jobright.ai/jobs/info/68f80918b0edcf159dc8e026?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 12 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Spanish Speaker, 2026](https://jobright.ai/jobs/info/6813f40e7654653d2d0e9f1f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 12 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f7fa1d5dc1be601281f5be?utm_campaign=1054&utm_source=git)** | St Louis Park, MN | On Site | Nov 12 |
-| **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield Human Resources](https://jobright.ai/jobs/info/690c9c85d046ab6061ceea35?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 12 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68a3b69e403ad4363b1c3181?utm_campaign=1054&utm_source=git)** | Crete, NE | On Site | Nov 12 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68dc75c7a125e75c422a0f1c?utm_campaign=1054&utm_source=git)** | Cedar Park, TX | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
