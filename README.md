@@ -117,8 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Benesch](https://www.benesch.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6914a5379c388539cbdeceb2?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[2026 COLLEGE SUMMER INTERN- HUMAN RESOURCES](https://jobright.ai/jobs/info/68ce566afb49c96ca6e9f6bb?utm_campaign=1054&utm_source=git)** | Pascagoula, MS | On Site | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Nov 12 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68dbe8006f6c5c3fadf3417b?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 12 |
+| **[Master Center for Addiction Medicine](https://mastercenter.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691580d59c388539cbdf4116?utm_campaign=1054&utm_source=git)** | Glen Allen, VA | Hybrid | Nov 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68dbe8006f6c5c3fadf3417b?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe6d56f6c5c3fadf33d46?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 12 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb79c5c5d5f14f46d954d?utm_campaign=1054&utm_source=git)** | Wake Forest, NC | On Site | Nov 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/69149a4a286ccf0a151277a8?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 12 |
 | **[ERC](https://www.yourerc.com/)** | **[Industrial Organizational Psychology Intern](https://jobright.ai/jobs/info/6914eacd9c388539cbdee889?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Talent Development Intern Summer 2026](https://jobright.ai/jobs/info/68bf3a9d8e65e77df55b866d?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Nov 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68bfb7de5c5d5f14f46d9564?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 12 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf4232702aa35207aa4e47?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Nov 12 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Human Resource Intern](https://jobright.ai/jobs/info/68dc6da5accfd24b67e5579e?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Nov 12 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Human Resources Intern - Insure Your Future (Summer 2026)](https://jobright.ai/jobs/info/68f80923ec6dbe7073fd09b1?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
