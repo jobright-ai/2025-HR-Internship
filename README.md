@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159d469c388539cbdf4aab?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159c016f36db06ef04fc4f?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159b786f36db06ef04fc37?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/691597036f36db06ef04fb5f?utm_campaign=1054&utm_source=git)** | Sioux City, IA | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/691595736f36db06ef04fb1b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915954a6f36db06ef04fb14?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/691592516f36db06ef04fa7d?utm_campaign=1054&utm_source=git)** | Mankato, MN | On Site | Nov 13 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915923a6f36db06ef04fa79?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Nov 13 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69158e949c388539cbdf4670?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a65f6f36db06ef050322?utm_campaign=1054&utm_source=git)** | Waterloo-CF Area | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a8566f36db06ef050370?utm_campaign=1054&utm_source=git)** | Iowa City, IA | On Site | Nov 12 |
+| ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/6915a51a6f36db06ef0502c7?utm_campaign=1054&utm_source=git)** | Dubuque, IA | On Site | Nov 12 |
 | **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Counselor II - Intern - BA-BS-RN](https://jobright.ai/jobs/info/6915681e9c388539cbdf3470?utm_campaign=1054&utm_source=git)** | 135 Gold Star Blvd | On Site | Nov 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Nov 12 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154f8e286ccf0a1512d33f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 12 |
@@ -82,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/6914f97a6f36db06ef04a434?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Nov 12 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Talent & HR Intern - Nucor Towers & Structures](https://jobright.ai/jobs/info/6914f6809c388539cbdeef41?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Nov 12 |
-| **[VT Industries](https://www.vtindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6914f3c3286ccf0a15129852?utm_campaign=1054&utm_source=git)** | Bryan, TX | On Site | Nov 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Office of Health Literacy Intern (PhD)](https://jobright.ai/jobs/info/691516a0286ccf0a1512b1f9?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Nov 12 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Office of Health Literacy Intern (PhD)](https://jobright.ai/jobs/info/6914e6dc9c388539cbdee634?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Nov 12 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Career Advance Intern (9920) - Multiple Divisions - SFO - TEX](https://jobright.ai/jobs/info/691519879c388539cbdf07e2?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
@@ -121,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68dbe8006f6c5c3fadf3417b?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe6d56f6c5c3fadf33d46?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Nov 12 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb79c5c5d5f14f46d954d?utm_campaign=1054&utm_source=git)** | Wake Forest, NC | On Site | Nov 12 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f80165ec6dbe7073fd0372?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/69149a4a286ccf0a151277a8?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 12 |
 | **[ERC](https://www.yourerc.com/)** | **[Industrial Organizational Psychology Intern](https://jobright.ai/jobs/info/6914eacd9c388539cbdee889?utm_campaign=1054&utm_source=git)** | Cleveland, OH | Hybrid | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c2912e8753a565272fb939?utm_campaign=1054&utm_source=git)** | Baytown, TX | On Site | Nov 12 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – HR – Talent Acquisition (Year-Round)](https://jobright.ai/jobs/info/68dc1c70d6470e72cf4d8b49?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 12 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/69149b016f36db06ef047f0d?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 12 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[HUMAN RESOURCES INTERN (Indianapolis)](https://jobright.ai/jobs/info/68cbb157efdec76df36c1313?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 12 |
-| **[Harris](https://www.harriscompany.com/)** | **[Human Resources Intern - HRIS](https://jobright.ai/jobs/info/68c0658f8e65e77df55c0be3?utm_campaign=1054&utm_source=git)** | St Paul, MN | On Site | Nov 12 |
-| **[Lockton](https://global.lockton.com)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Nov 12 |
-| **[SPX Technologies](https://www.spx.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/68f7f5b8b0edcf159dc8cba1?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 12 |
-| **[Primient](https://primient.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fb86b0edcf159dc8d164?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Nov 12 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68dc705eddc10244dd675776?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Nov 12 |
-| **[Matthews International](http://www.matw.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f7d3fbb0edcf159dc89ec4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
-| **[ADP](http://www.adp.com)** | **[Benefits Client Support Spring Intern - May '26 Grads](https://jobright.ai/jobs/info/68d353ddf0d9af73038e116a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 12 |
-| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Talent Development Intern Summer 2026](https://jobright.ai/jobs/info/68bf3a9d8e65e77df55b866d?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Nov 12 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68bfb7de5c5d5f14f46d9564?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 12 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf4232702aa35207aa4e47?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
