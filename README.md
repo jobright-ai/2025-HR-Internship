@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Counselor II - Intern - BA-BS-RN](https://jobright.ai/jobs/info/6915681e9c388539cbdf3470?utm_campaign=1054&utm_source=git)** | 135 Gold Star Blvd | On Site | Nov 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Nov 12 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154f8e286ccf0a1512d33f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 12 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154a619c388539cbdf23e4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 12 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/6915457e9c388539cbdf2036?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/691540ee9c388539cbdf1dd3?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Nov 12 |
+| **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Counselor II - Intern - BA-BS-RN](https://jobright.ai/jobs/info/69155ea49c388539cbdf30c9?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Nov 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69153e576f36db06ef04cf10?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 12 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/69153daf6f36db06ef04cebe?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 12 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/691539fc286ccf0a1512c722?utm_campaign=1054&utm_source=git)** | Phoenix, AZ, US | Hybrid | Nov 12 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Freudenberg Performance Materials](https://www.freudenberg-pm.com)** | **[HR Intern](https://jobright.ai/jobs/info/691536749c388539cbdf18d8?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Nov 12 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[UnitedHealth Group, People Team Intern - Eden Prairie or Minnetonka, MN](https://jobright.ai/jobs/info/69152b19286ccf0a1512be84?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | On Site | Nov 12 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Career Development Program](https://jobright.ai/jobs/info/69152ac3286ccf0a1512be5a?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 12 |
+| **[DP World](https://www.dpworld.com/)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/6915574a6f36db06ef04dcd0?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 12 |
 | **[Highgate](https://www.highgate.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/69150f6b6f36db06ef04b536?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[HR Intern](https://jobright.ai/jobs/info/691529f5286ccf0a1512bdc0?utm_campaign=1054&utm_source=git)** | Waller County, TX | Remote | Nov 12 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Primient](https://primient.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fb86b0edcf159dc8d164?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Nov 12 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op: 2026 Spring Semester opportunity](https://jobright.ai/jobs/info/68dc705eddc10244dd675776?utm_campaign=1054&utm_source=git)** | Toronto, OH | On Site | Nov 12 |
 | **[Matthews International](http://www.matw.com)** | **[HR Intern](https://jobright.ai/jobs/info/68f7d3fbb0edcf159dc89ec4?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 12 |
+| **[ADP](http://www.adp.com)** | **[Benefits Client Support Spring Intern - May '26 Grads](https://jobright.ai/jobs/info/68d353ddf0d9af73038e116a?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 12 |
 | **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Talent Development Intern Summer 2026](https://jobright.ai/jobs/info/68bf3a9d8e65e77df55b866d?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Nov 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Administrator](https://jobright.ai/jobs/info/68bfb7de5c5d5f14f46d9564?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 12 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf4232702aa35207aa4e47?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Nov 12 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Human Resource Intern](https://jobright.ai/jobs/info/68dc6da5accfd24b67e5579e?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Nov 12 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Human Resources Intern - Insure Your Future (Summer 2026)](https://jobright.ai/jobs/info/68f80923ec6dbe7073fd09b1?utm_campaign=1054&utm_source=git)** | Des Moines, IA | Hybrid | Nov 12 |
-| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/691442a26f36db06ef04686c?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Nov 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/69145fc8286ccf0a1512695b?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Nov 11 |
-| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6914550e6f36db06ef046d8d?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Nov 11 |
-| **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69142ab8d1047e3565d096f4?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
