@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern, Livonia](https://jobright.ai/jobs/info/69169d23286ccf0a15137f02?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Nov 13 |
+| **[Centex Construction](https://www.centexconstruction.com)** | **[HR Coordinator - Intern](https://jobright.ai/jobs/info/691687a5286ccf0a1513714f?utm_campaign=1054&utm_source=git)** | Tomball, TX, US | Hybrid | Nov 13 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/691687849c388539cbdfc494?utm_campaign=1054&utm_source=git)** | Texas | Hybrid | Nov 13 |
 | **[Centex Construction](https://www.centexconstruction.com)** | **[HR Coordinator - Intern](https://jobright.ai/jobs/info/6916865f6f36db06ef05767e?utm_campaign=1054&utm_source=git)** | Lewisville, TX, US | Hybrid | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources - Intern](https://jobright.ai/jobs/info/69168458286ccf0a15136e8a?utm_campaign=1054&utm_source=git)** | Possible | Hybrid | Nov 13 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026 start date](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 13 |
@@ -71,13 +74,15 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Murray, Kentucky](https://jobright.ai/jobs/info/69164ba89c388539cbdf994d?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
 | **[SmartCommerce](https://smartcommerce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691673df9c388539cbdfb7bd?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[HC Ops Systems Intern - Summer 2026](https://jobright.ai/jobs/info/691647c86f36db06ef0548cd?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Nov 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691647606f36db06ef05488e?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Nov 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Nov 13 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso Employee Engagement Intern](https://jobright.ai/jobs/info/691688a19c388539cbdfc567?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Classification Unit, Emerging Talent Intern](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Talent Analytics Intern](https://jobright.ai/jobs/info/691632f96f36db06ef053b11?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 13 |
 | **[Sain Associates, Inc.](http://www.sain.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69166c0b6f36db06ef05634b?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Nov 13 |
+| ↳ | **[Management Trainee Intern - Paducah, Kentucky](https://jobright.ai/jobs/info/69168a90286ccf0a15137236?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
 | ↳ | **[Management Trainee Intern - New Albany/Clarksville, Indiana](https://jobright.ai/jobs/info/6916618e286ccf0a151351b5?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6916566d6f36db06ef055337?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Nov 13 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - HR / OD & Talent Experience](https://jobright.ai/jobs/info/691650999c388539cbdf9cba?utm_campaign=1054&utm_source=git)** | US-Remote | Remote | Nov 13 |
@@ -130,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/68dd1e51ddc10244dd67c9ef?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 13 |
 | ↳ | **[2026 Summer Rotational Internship - Tampa Florida](https://jobright.ai/jobs/info/689d0ebf79a9f9666253d118?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 13 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Intensive Case Management Intern (unpaid)](https://jobright.ai/jobs/info/68f9856ccadb2e5a06a65801?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/691627e26f36db06ef053495?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159d469c388539cbdf4aab?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 13 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159c016f36db06ef04fc4f?utm_campaign=1054&utm_source=git)** | Rochester, MN | On Site | Nov 13 |
 | ↳ | **[Retail Human Resources Intern](https://jobright.ai/jobs/info/69159b786f36db06ef04fc37?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Nov 12 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154f8e286ccf0a1512d33f?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 12 |
 | ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154a619c388539cbdf23e4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 12 |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Talent & Development Intern](https://jobright.ai/jobs/info/6915457e9c388539cbdf2036?utm_campaign=1054&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/691540ee9c388539cbdf1dd3?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Nov 12 |
-| **[Seven Hills Foundation](http://www.sevenhills.org)** | **[Counselor II - Intern - BA-BS-RN](https://jobright.ai/jobs/info/69155ea49c388539cbdf30c9?utm_campaign=1054&utm_source=git)** | Worcester, MA | On Site | Nov 12 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69153e576f36db06ef04cf10?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
