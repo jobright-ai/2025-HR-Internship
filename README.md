@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trackunit](https://www.trackunit.com/)** | **[People & Talent Intern](https://jobright.ai/jobs/info/6918ebdcbcdbf3560c9d3e34?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 15 |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6918e14ebcdbf3560c9d3c2a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Undergraduate Workplace Services Intern](https://jobright.ai/jobs/info/6918da5045fb6f5ead8a6ecf?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Nov 15 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program (Master's Level)](https://jobright.ai/jobs/info/690518c8122e8474c78d5ee5?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Nov 15 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Safran](http://www.safran-group.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69178bd7bcdbf3560c9c8aac?utm_campaign=1054&utm_source=git)** | Irving, MI | On Site | Nov 14 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/69178b0145fb6f5ead89bea5?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Nov 14 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6917b5c115b415636717ab8b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Nov 14 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Talent Programs Intern - Co-Op](https://jobright.ai/jobs/info/6917a6fcbcdbf3560c9c9e49?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 14 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Internship/Employment](https://jobright.ai/jobs/info/69177d34bcdbf3560c9c8248?utm_campaign=1054&utm_source=git)** | Fulton, MD | On Site | Nov 14 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Pricing Intern](https://jobright.ai/jobs/info/69176d77bcdbf3560c9c79b0?utm_campaign=1054&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Nov 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cfe8aefb49c96ca6eac904?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 14 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/68c3565c6031587f8458a0f6?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Nov 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fa9928b2c86843bf20ff12?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Nov 14 |
-| **[Grupo GPS](http://www.grupopredial.com.br/)** | **[Estagiário de contabilidade](https://jobright.ai/jobs/info/6917f55515b415636717d32a?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Nov 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Nov 14 |
-| ↳ | **[Spring 2026 Management Trainee Intern - South Indianapolis](https://jobright.ai/jobs/info/68c259bf63b706703e114515?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
-| ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
