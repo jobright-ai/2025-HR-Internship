@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
+| **[Insight](https://www.insight.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6917ee5e15b415636717ce9e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6917e52c15b415636717c8e2?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917e23345fb6f5ead89f837?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917c89815b415636717b7b6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[The Arc Rockland](https://www.arcofrockland.org)** | **[Human Resources Intern (Non-Profit)](https://jobright.ai/jobs/info/6917d45a15b415636717befc?utm_campaign=1054&utm_source=git)** | Valley Cottage, NY | On Site | Nov 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/6917cd36bcdbf3560c9cb874?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 14 |
 | **[Tesla](https://www.tesla.com)** | **[Internship Recruiter, North America Internship Team](https://jobright.ai/jobs/info/6917cbf6bcdbf3560c9cb7ad?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 14 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917c89815b415636717b7b6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[Influur](https://www.influur.com)** | **[Recruiter - Internship](https://jobright.ai/jobs/info/6917bd4015b415636717b080?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Nov 14 |
 | **[UC Health](http://uchealth.com/)** | **[Intern- EAP Counseling](https://jobright.ai/jobs/info/6917ba5545fb6f5ead89e18d?utm_campaign=1054&utm_source=git)** | 3200 Burnet Ave, Cincinnati, OH, 45229, US | On Site | Nov 14 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917b34e45fb6f5ead89dbbd?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
@@ -106,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cfe8aefb49c96ca6eac904?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 14 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/68c3565c6031587f8458a0f6?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Nov 14 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fa9928b2c86843bf20ff12?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Nov 14 |
+| **[Grupo GPS](http://www.grupopredial.com.br/)** | **[Estagiário de contabilidade](https://jobright.ai/jobs/info/6917f55515b415636717d32a?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Nov 14 |
 | ↳ | **[Spring 2026 Management Trainee Intern - South Indianapolis](https://jobright.ai/jobs/info/68c259bf63b706703e114515?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Nov 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 13 |
 | **[UHS](https://uhs.com)** | **[Human Resources STUDENT/INTERN](https://jobright.ai/jobs/info/69165add6f36db06ef0556d6?utm_campaign=1054&utm_source=git)** | PHOENIX, Arizona | On Site | Nov 13 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Onboarding Intern](https://jobright.ai/jobs/info/69167e856f36db06ef0571d6?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/691673bf6f36db06ef056b23?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Organizational Strategy, Emerging Talent Intern](https://jobright.ai/jobs/info/6912832cea9ab01b82bf33b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68c09efc8e65e77df55c3314?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[PatientPoint®](http://patientpoint.com)** | **[HR Intern](https://jobright.ai/jobs/info/69164be26f36db06ef054bc1?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Murray, Kentucky](https://jobright.ai/jobs/info/69164ba89c388539cbdf994d?utm_campaign=1054&utm_source=git)** | Morristown, TN | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
