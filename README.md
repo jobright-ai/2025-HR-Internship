@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbcdd7f55bb021a889ca37?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[People Experience Intern, Future Leader Program (Master's Level)](https://jobright.ai/jobs/info/690518c8122e8474c78d5ee5?utm_campaign=1054&utm_source=git)** | Redwood City, CA | On Site | Nov 15 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68e07b651852e62f007eb426?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 15 |
+| **[CAE](http://www.cae.com)** | **[C-HR-350 HR Biz Ops Intern-EN](https://jobright.ai/jobs/info/6918a31ebcdbf3560c9d3126?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55186db52c07d288424ed?utm_campaign=1054&utm_source=git)** | Conway, AR | On Site | Nov 15 |
+| **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/6918a1e845fb6f5ead8a642e?utm_campaign=1054&utm_source=git)** | Fresno, CA | On Site | Nov 15 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Nov 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Cape Cod / South Shore area](https://jobright.ai/jobs/info/68cff20f846f0b04af6864f7?utm_campaign=1054&utm_source=git)** | Hyannis, MA | On Site | Nov 15 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Nov 15 |
@@ -67,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Human Resources Intern - Learning & Development](https://jobright.ai/jobs/info/6918957615b4156367182f1c?utm_campaign=1054&utm_source=git)** | Eau Claire, WI | Hybrid | Nov 15 |
 | **[PACCAR](http://www.paccar.com/)** | **[Information Technology Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Nov 15 |
 | ↳ | **[Compensation and HR Shared Services - Summer Internship 2026](https://jobright.ai/jobs/info/69188bbabcdbf3560c9d2a23?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55a02db52c07d28842603?utm_campaign=1054&utm_source=git)** | Alexandria, LA | On Site | Nov 15 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Technical Center Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Nov 15 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68fc3fccf55bb021a88a1ec8?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 15 |
@@ -99,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 15 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship (Fall 2026) - Montreal](https://jobright.ai/jobs/info/69185b52bcdbf3560c9d1afe?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 15 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 14 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6918515d45fb6f5ead8a491c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
 | **[Insight](https://www.insight.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6917ee5e15b415636717ce9e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6917e52c15b415636717c8e2?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917e23345fb6f5ead89f837?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917c89815b415636717b7b6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[The Arc Rockland](https://www.arcofrockland.org)** | **[Human Resources Intern (Non-Profit)](https://jobright.ai/jobs/info/6917d45a15b415636717befc?utm_campaign=1054&utm_source=git)** | Valley Cottage, NY | On Site | Nov 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/6917cd36bcdbf3560c9cb874?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grupo GPS](http://www.grupopredial.com.br/)** | **[Estagiário de contabilidade](https://jobright.ai/jobs/info/6917f55515b415636717d32a?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Nov 14 |
 | ↳ | **[Spring 2026 Management Trainee Intern - South Indianapolis](https://jobright.ai/jobs/info/68c259bf63b706703e114515?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
-| ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Nov 14 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68a7f6b0758f2e4ac3fef82a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Nov 14 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68d7555f7a37c712687c86ee?utm_campaign=1054&utm_source=git)** | Huntsville, TX | On Site | Nov 14 |
-| ↳ | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Nov 14 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Office of Health Literacy Intern (PhD)](https://jobright.ai/jobs/info/69176930bcdbf3560c9c777c?utm_campaign=1054&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program  (Chattanooga, TN)](https://jobright.ai/jobs/info/688b250e9f961617fe22213c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 14 |
-| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/690c8193d046ab6061cedd4e?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
