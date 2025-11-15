@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6917a0ba15b4156367179b45?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Pricing Intern](https://jobright.ai/jobs/info/6917a08dbcdbf3560c9c98f1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 14 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Undergraduate Workplace Services Intern](https://jobright.ai/jobs/info/69179db9bcdbf3560c9c968a?utm_campaign=1054&utm_source=git)** | US - Waltham - MA | On Site | Nov 14 |
-| **[Georgia Transmission](http://gatrans.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/691795c615b4156367179410?utm_campaign=1054&utm_source=git)** | Tucker, GA | On Site | Nov 14 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition) - Spring 2026](https://jobright.ai/jobs/info/6917ccc3bcdbf3560c9cb80a?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Nov 14 |
 | **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6917b4e415b415636717aaba?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Nov 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917c954bcdbf3560c9cb5f1?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Nov 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Grupo GPS](http://www.grupopredial.com.br/)** | **[Estagiário de contabilidade](https://jobright.ai/jobs/info/6917f55515b415636717d32a?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- McAllen/ Brownsville](https://jobright.ai/jobs/info/68df2cd76be63b6ec996cd27?utm_campaign=1054&utm_source=git)** | McAllen, TX | On Site | Nov 14 |
 | ↳ | **[Spring 2026 Management Trainee Intern - South Indianapolis](https://jobright.ai/jobs/info/68c259bf63b706703e114515?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
+| ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
