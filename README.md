@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e02d01b99ec3563b0ccd21?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Nov 15 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 15 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship (Fall 2026) - Montreal](https://jobright.ai/jobs/info/69185b52bcdbf3560c9d1afe?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 15 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/6917fe25bcdbf3560c9cd730?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 14 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917f7a245fb6f5ead8a0789?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Human Resources STUDENT/INTERN](https://jobright.ai/jobs/info/6916651d9c388539cbdfab32?utm_campaign=1054&utm_source=git)** | PHOENIX, Arizona | On Site | Nov 13 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026 start date](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 13 |
 | **[UHS](https://uhs.com)** | **[Human Resources STUDENT/INTERN](https://jobright.ai/jobs/info/69165add6f36db06ef0556d6?utm_campaign=1054&utm_source=git)** | PHOENIX, Arizona | On Site | Nov 13 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Onboarding Intern](https://jobright.ai/jobs/info/69167e856f36db06ef0571d6?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/691673bf6f36db06ef056b23?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Organizational Strategy, Emerging Talent Intern](https://jobright.ai/jobs/info/6912832cea9ab01b82bf33b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
