@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/6917fe25bcdbf3560c9cd730?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 14 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917f7a245fb6f5ead8a0789?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
 | **[Insight](https://www.insight.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6917ee5e15b415636717ce9e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6917e52c15b415636717c8e2?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917e23345fb6f5ead89f837?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917c89815b415636717b7b6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[The Arc Rockland](https://www.arcofrockland.org)** | **[Human Resources Intern (Non-Profit)](https://jobright.ai/jobs/info/6917d45a15b415636717befc?utm_campaign=1054&utm_source=git)** | Valley Cottage, NY | On Site | Nov 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/6917cd36bcdbf3560c9cb874?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 14 |
@@ -121,7 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Shape Corp.](https://www.shapecorp.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68fa4d8c7959161d33e619ba?utm_campaign=1054&utm_source=git)** | Grand Haven, MI | On Site | Nov 14 |
 | **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[People Intern](https://jobright.ai/jobs/info/6918215215b415636717ef1e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 14 |
 | **[Phoenix Industrial, Inc., a MasTec Company](https://phxind.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68fabcf6b2c86843bf2118ea?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Nov 14 |
-| **[DESRI](https://desri.com/)** | **[Intern, Recruiting (Summer 2026 or Off-Cycle)](https://jobright.ai/jobs/info/68def7dda125e75c422b8b28?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Nov 14 |
+| **[DESRI](https://desri.com/)** | **[Intern, Recruiting (Summer 2026 or Off-Cycle)](https://jobright.ai/jobs/info/68df16e75ab4977c2e94f619?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| ↳ | **[Intern, Recruiting (Summer 2026 or Off-Cycle)](https://jobright.ai/jobs/info/68def7dda125e75c422b8b28?utm_campaign=1054&utm_source=git)** | Greenwood Village, CO | On Site | Nov 14 |
 | ↳ | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[IDEMIA](https://www.idemia.com/)** | **[HR Talent and Development Internship - Summer 2026](https://jobright.ai/jobs/info/6904440cd64a22104aa98989?utm_campaign=1054&utm_source=git)** | Reston, VA | Hybrid | Nov 14 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ccc1cbd99309000e5a29a4?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Onboarding Intern](https://jobright.ai/jobs/info/69167e856f36db06ef0571d6?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/691673bf6f36db06ef056b23?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 13 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Organizational Strategy, Emerging Talent Intern](https://jobright.ai/jobs/info/6912832cea9ab01b82bf33b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Submit Your Resume - Internship Opportunities](https://jobright.ai/jobs/info/68c09efc8e65e77df55c3314?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
