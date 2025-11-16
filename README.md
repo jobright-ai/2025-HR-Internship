@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program Intern](https://jobright.ai/jobs/info/69190c6b45fb6f5ead8a7495?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 15 |
 | **[Trackunit](https://www.trackunit.com/)** | **[People & Talent Intern](https://jobright.ai/jobs/info/6918ebdcbcdbf3560c9d3e34?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 15 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/6918e14ebcdbf3560c9d3c2a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Undergraduate Workplace Services Intern](https://jobright.ai/jobs/info/6918da5045fb6f5ead8a6ecf?utm_campaign=1054&utm_source=git)** | Waltham, MA | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cfe8aefb49c96ca6eac904?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 14 |
 | ↳ | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/68c3565c6031587f8458a0f6?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Nov 14 |
-| **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68fa9928b2c86843bf20ff12?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
