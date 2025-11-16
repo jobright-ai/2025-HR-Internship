@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691a466a45fb6f5ead8ab50c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Contour Aviation](https://contouraviation.com/)** | **[Human Resources Intern (PT)](https://jobright.ai/jobs/info/691a41e6bcdbf3560c9d8136?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Nov 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[Chinese-Speaking AI HR & Recruitment Intern](https://jobright.ai/jobs/info/6919f76c15b4156367187b55?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Remote | Nov 16 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Nov 16 |
 | ↳ | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Nov 16 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 16 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6919aa7345fb6f5ead8aa25a?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Nov 16 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691941f015b4156367184ba3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 15 |
-| **[Inventory Master](https://www.linkedin.com/company/109925986)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6919c9df45fb6f5ead8aa64b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 15 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/691920ea15b41563671844e5?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 15 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Nov 15 |
 | **[Trackunit](https://www.trackunit.com/)** | **[People & Talent Intern](https://jobright.ai/jobs/info/6918ebdcbcdbf3560c9d3e34?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | Hybrid | Nov 15 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68fc3fccf55bb021a88a1ec8?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 15 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | ↳ | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Nov 15 |
@@ -116,7 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 15 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/68e824f0cc49a84b7e1029f8?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
-| ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Nov 15 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[UNV Intern-Human Resources Section-Remote](https://jobright.ai/jobs/info/69187a6415b41563671826c5?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Nov 15 |
