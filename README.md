@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691941f015b4156367184ba3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 15 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/691920ea15b41563671844e5?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 15 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Nov 15 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program Intern](https://jobright.ai/jobs/info/69190c6b45fb6f5ead8a7495?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Nov 14 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Human Resources Intern - Wealthspire](https://jobright.ai/jobs/info/68def845a125e75c422b8c0a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Mortgage Intern - Summer 2026](https://jobright.ai/jobs/info/68fa734e67272b29af72f587?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cfe8aefb49c96ca6eac904?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
