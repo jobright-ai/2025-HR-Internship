@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Chinese-Speaking AI HR & Recruitment Intern](https://jobright.ai/jobs/info/6919f76c15b4156367187b55?utm_campaign=1054&utm_source=git)** | Ontario, Canada | Remote | Nov 16 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Nov 16 |
 | ↳ | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Nov 16 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6917c954bcdbf3560c9cb5f1?utm_campaign=1054&utm_source=git)** | Galveston, TX | On Site | Nov 14 |
 | **[SmartCommerce](https://smartcommerce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69178f78bcdbf3560c9c8d7b?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 14 |
 | **[Safran](http://www.safran-group.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/69178bd7bcdbf3560c9c8aac?utm_campaign=1054&utm_source=git)** | Irving, MI | On Site | Nov 14 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/69178b0145fb6f5ead89bea5?utm_campaign=1054&utm_source=git)** | Greater Chicago Area | On Site | Nov 14 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[People Operations Intern](https://jobright.ai/jobs/info/6917b5c115b415636717ab8b?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
