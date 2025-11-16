@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 16 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6919aa7345fb6f5ead8aa25a?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Nov 16 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691941f015b4156367184ba3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 15 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/691920ea15b41563671844e5?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 15 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Nov 15 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e02d01b99ec3563b0ccd21?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Nov 15 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 15 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship (Fall 2026) - Montreal](https://jobright.ai/jobs/info/69185b52bcdbf3560c9d1afe?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 15 |
-| **[ADT](http://www.adt.com)** | **[AI Intern – Talent Acquisition Technology](https://jobright.ai/jobs/info/69199ce045fb6f5ead8a9f6a?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Nov 15 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 14 |
 | **[First Financial Federal Credit Union of Maryland](https://www.firstfinancial.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69196d2abcdbf3560c9d5605?utm_campaign=1054&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b65df0bc187f64e1be9542?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Nov 14 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Recruiting Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Nov 14 |
 | ↳ | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Nov 14 |
-| **[Wealthspire](https://www.wealthspire.com/)** | **[2026 Human Resources Intern - Wealthspire](https://jobright.ai/jobs/info/68def845a125e75c422b8c0a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
