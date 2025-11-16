@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Nov 16 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c8d8a995f5211cd2ce9f4b?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 16 |
+| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/68cd947eb2a74e1837ed8fb5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 16 |
+| **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68cc62c4128dc347fd92406e?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6919aa7345fb6f5ead8aa25a?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Nov 16 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691941f015b4156367184ba3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 15 |
@@ -86,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68fc3fccf55bb021a88a1ec8?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 15 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | ↳ | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Nov 15 |
@@ -97,7 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 15 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/68e824f0cc49a84b7e1029f8?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
-| ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Nov 15 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[UNV Intern-Human Resources Section-Remote](https://jobright.ai/jobs/info/69187a6415b41563671826c5?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Nov 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iCapital](https://icapital.com)** | **[Human Resources - Summer 2026 Intern](https://jobright.ai/jobs/info/69177367370fde633d0801bd?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Nov 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Winter 2025 Internship](https://jobright.ai/jobs/info/68ca5b5746caff4db51fe185?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[PropyLaw](www.propylaw.com)** | **[Human Resources Manager Intern](https://jobright.ai/jobs/info/691754d8370fde633d07f31e?utm_campaign=1054&utm_source=git)** | Austin, TX | Remote | Nov 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/68b515d51ade4306aa63fa42?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Nov 14 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/6888effd9f961617fe210823?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Nov 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68b65df0bc187f64e1be9542?utm_campaign=1054&utm_source=git)** | Charleston, SC | On Site | Nov 14 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[Recruiting Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Nov 14 |
-| ↳ | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
