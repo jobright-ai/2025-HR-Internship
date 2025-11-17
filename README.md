@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpawGlass](https://www.spawglass.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691b5ea7bcdbf3560c9de4e3?utm_campaign=1054&utm_source=git)** | Selma, TX | On Site | Nov 17 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Talent Development & Capability Intern – Supply Chain](https://jobright.ai/jobs/info/691b5530bcdbf3560c9ddf94?utm_campaign=1054&utm_source=git)** | Waukesha | On Site | Nov 17 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Nov 17 |
+| **[JETZY](http://jetzyapp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691b450615b415636718db7f?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 17 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Corporate Strategy & Development - MBA](https://jobright.ai/jobs/info/68e37e6eb99ec3563b0e0bb7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68aa5142d627244576e3c9b7?utm_campaign=1054&utm_source=git)** | Maumelle, AR | On Site | Nov 17 |
 | ↳ | **[DC HR Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/691aaa29bcdbf3560c9d98b7?utm_campaign=1054&utm_source=git)** | Woodway, TX | On Site | Nov 17 |
@@ -65,10 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/691b28a1bcdbf3560c9dcf7d?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 17 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/6906c8f763502c0aded83024?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Nov 17 |
 | ↳ | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/69142305e344172248f773fb?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/691b046115b415636718c6f9?utm_campaign=1054&utm_source=git)** | Ada, MI | Remote | Nov 17 |
 | **[Fareway Stores, Inc.](https://www.fareway.com)** | **[HR Intern (Corporate)](https://jobright.ai/jobs/info/691ae9b5bcdbf3560c9dbb9c?utm_campaign=1054&utm_source=git)** | Johnston, IA | On Site | Nov 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Volunteer Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ad679bcdbf3560c9daf85?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Volunteer Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ad2e2bcdbf3560c9dabe1?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691ab84d45fb6f5ead8ad378?utm_campaign=1054&utm_source=git)** | Lexington, Ohio | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/691a521d45fb6f5ead8ab5a7?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Staff Intern - HR Learning & Development Team](https://jobright.ai/jobs/info/691a888f45fb6f5ead8abb05?utm_campaign=1054&utm_source=git)** | Newark, NJ | On Site | Nov 14 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer Internship - People Analytics](https://jobright.ai/jobs/info/6917c89815b415636717b7b6?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
 | **[The Arc Rockland](https://www.arcofrockland.org)** | **[Human Resources Intern (Non-Profit)](https://jobright.ai/jobs/info/6917d45a15b415636717befc?utm_campaign=1054&utm_source=git)** | Valley Cottage, NY | On Site | Nov 14 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience and Events Intern – Spring 2026](https://jobright.ai/jobs/info/6917cd36bcdbf3560c9cb874?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 14 |
-| **[Tesla](https://www.tesla.com)** | **[Internship Recruiter, North America Internship Team](https://jobright.ai/jobs/info/6917cbf6bcdbf3560c9cb7ad?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 14 |
-| **[Influur](https://www.influur.com)** | **[Recruiter - Internship](https://jobright.ai/jobs/info/6917bd4015b415636717b080?utm_campaign=1054&utm_source=git)** | Miami, FL | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
