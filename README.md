@@ -57,10 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midstone Service Group](https://www.midstoneservicegroup.com/)** | **[HR & People Ops internship](https://jobright.ai/jobs/info/691a5b4645fb6f5ead8ab662?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/691aaf5545fb6f5ead8acedb?utm_campaign=1054&utm_source=git)** | Ada, MI | Remote | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/691a521d45fb6f5ead8ab5a7?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 16 |
-| **[Midstone Service Group](https://www.midstoneservicegroup.com/)** | **[Head of HR & People Operations internship](https://jobright.ai/jobs/info/691a4e0ebcdbf3560c9d81e9?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691a466a45fb6f5ead8ab50c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Contour Aviation](https://contouraviation.com/)** | **[Human Resources Intern (PT)](https://jobright.ai/jobs/info/691a41e6bcdbf3560c9d8136?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Nov 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Nov 16 |
@@ -136,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship (Fall 2026) - Montreal](https://jobright.ai/jobs/info/69185b52bcdbf3560c9d1afe?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 15 |
 | **[Riverside Community Care](http://www.riversidecc.org)** | **[Culture and Belonging Internship - January 2026](https://jobright.ai/jobs/info/691671f1286ccf0a15135ffd?utm_campaign=1054&utm_source=git)** | Dedham, MA | On Site | Nov 14 |
 | **[First Financial Federal Credit Union of Maryland](https://www.firstfinancial.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69196d2abcdbf3560c9d5605?utm_campaign=1054&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 14 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Human Resources (Winter, 2026)](https://jobright.ai/jobs/info/691aaaf245fb6f5ead8acc66?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917efd615b415636717cfe5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 14 |
 | **[Insight](https://www.insight.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/6917ee5e15b415636717ce9e?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691a95cd45fb6f5ead8ac1f8?utm_campaign=1054&utm_source=git)** | Windsor Mill, MD | On Site | Nov 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Pricing Intern](https://jobright.ai/jobs/info/6917a08dbcdbf3560c9c98f1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 14 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Undergraduate Workplace Services Intern](https://jobright.ai/jobs/info/69179db9bcdbf3560c9c968a?utm_campaign=1054&utm_source=git)** | US - Waltham - MA | On Site | Nov 14 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition) - Spring 2026](https://jobright.ai/jobs/info/6917ccc3bcdbf3560c9cb80a?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Nov 14 |
+| **[Scotlynn](http://scotlynn.com)** | **[Recruiting Coordinator Associate - Internship](https://jobright.ai/jobs/info/6917b4e415b415636717aaba?utm_campaign=1054&utm_source=git)** | Fort Myers, FL | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
