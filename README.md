@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Volunteer Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ad2e2bcdbf3560c9dabe1?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[Fareway Stores, Inc.](https://www.fareway.com)** | **[HR Intern (Corporate)](https://jobright.ai/jobs/info/691ae9b5bcdbf3560c9dbb9c?utm_campaign=1054&utm_source=git)** | Johnston, IA | On Site | Nov 17 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Volunteer Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ad679bcdbf3560c9daf85?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691ab84d45fb6f5ead8ad378?utm_campaign=1054&utm_source=git)** | Lexington, Ohio | On Site | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/691a521d45fb6f5ead8ab5a7?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Human Resource Intern](https://jobright.ai/jobs/info/68c48783e471ef3ce16d71df?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
@@ -80,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68cc62c4128dc347fd92406e?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 16 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6919aa7345fb6f5ead8aa25a?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Nov 16 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691ae733bcdbf3560c9db889?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691941f015b4156367184ba3?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 15 |
 | **[FFB Bank](https://www.ffb.bank)** | **[HR Intern](https://jobright.ai/jobs/info/691920ea15b41563671844e5?utm_campaign=1054&utm_source=git)** | Fresno, CA | Hybrid | Nov 15 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Human Resource Intern- Summer 2026](https://jobright.ai/jobs/info/68bf585e8e65e77df55b977c?utm_campaign=1054&utm_source=git)** | Jacksonville, Florida, United States | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iCapital](https://icapital.com)** | **[Human Resources - Summer 2026 Intern](https://jobright.ai/jobs/info/6917a435bcdbf3560c9c9b81?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917a28ebcdbf3560c9c9a56?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 14 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6917a0ba15b4156367179b45?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - International Pricing Intern](https://jobright.ai/jobs/info/6917a08dbcdbf3560c9c98f1?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Nov 14 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Undergraduate Workplace Services Intern](https://jobright.ai/jobs/info/69179db9bcdbf3560c9c968a?utm_campaign=1054&utm_source=git)** | US - Waltham - MA | On Site | Nov 14 |
-| **[CalOptima](https://www.caloptima.org/)** | **[Intern (Talent Acquisition) - Spring 2026](https://jobright.ai/jobs/info/6917ccc3bcdbf3560c9cb80a?utm_campaign=1054&utm_source=git)** | Orange, CA | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
