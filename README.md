@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/691b046115b415636718c6f9?utm_campaign=1054&utm_source=git)** | Ada, MI | Remote | Nov 17 |
 | **[Fareway Stores, Inc.](https://www.fareway.com)** | **[HR Intern (Corporate)](https://jobright.ai/jobs/info/691ae9b5bcdbf3560c9dbb9c?utm_campaign=1054&utm_source=git)** | Johnston, IA | On Site | Nov 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Volunteer Operations (Memphis, TN)](https://jobright.ai/jobs/info/691ad679bcdbf3560c9daf85?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Employee Engagement Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68fc3fccf55bb021a88a1ec8?utm_campaign=1054&utm_source=git)** | Manhattan, NY | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 15 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 15 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | ↳ | **[Corporate Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/691884d415b41563671829dd?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Nov 15 |
@@ -119,8 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d76431e5763f188e4072?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 15 |
 | **[Relation Insurance Services](https://www.relationinsurance.com)** | **[Intern, Human Resources - Talent Acquisition](https://jobright.ai/jobs/info/68702a0901cc0956e7e7fd42?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Overland Park, KS)](https://jobright.ai/jobs/info/68e824f0cc49a84b7e1029f8?utm_campaign=1054&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
+| ↳ | **[2026 Group Benefit Solutions (GBS) Underwriting Summer Internship Program (Phoenix, AZ)](https://jobright.ai/jobs/info/68c88912983e6768bc54e8cc?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Human Resources Intern/Co-Op](https://jobright.ai/jobs/info/6904876dd64a22104aa9a1fb?utm_campaign=1054&utm_source=git)** | De Ridder, LA | On Site | Nov 15 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Nov 15 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[UNV Intern-Human Resources Section-Remote](https://jobright.ai/jobs/info/69187a6415b41563671826c5?utm_campaign=1054&utm_source=git)** | Home, KS | Remote | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917a583bcdbf3560c9c9cb5?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Nov 14 |
 | **[iCapital](https://icapital.com)** | **[Human Resources - Summer 2026 Intern](https://jobright.ai/jobs/info/6917a435bcdbf3560c9c9b81?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[HUB International](https://www.hubinternational.com)** | **[Hub International Internship Program Summer 2026 - Analyst, Health & Benefits](https://jobright.ai/jobs/info/6917a28ebcdbf3560c9c9a56?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 14 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6917a0ba15b4156367179b45?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
