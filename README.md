@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[HR & Culture Internships – Summer 2026](https://jobright.ai/jobs/info/691e32de09cc522e877375bf?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 19 |
+| ↳ | **[Coordinator, Internship Program Experience](https://jobright.ai/jobs/info/691e32c33f782d2f1afb23cd?utm_campaign=1054&utm_source=git)** | Universal City, CA | On Site | Nov 19 |
+| **[Amcor](http://www.amcor.com/)** | **[HR Intern - Learning & Development](https://jobright.ai/jobs/info/691e2aa1a49a885af9a25b1d?utm_campaign=1054&utm_source=git)** | AF Oshkosh Division Head Office WI | On Site | Nov 19 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Casework Intern (Spring 2026- Unpaid)](https://jobright.ai/jobs/info/691e1fbb3f782d2f1afb14c0?utm_campaign=1054&utm_source=git)** | Charlottesville, VA | On Site | Nov 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Personnel - Kentucky Employee Assistance Program](https://jobright.ai/jobs/info/68f293499a63986de7568fa6?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Nov 19 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Employee Experience Internship](https://jobright.ai/jobs/info/691e1802a49a885af9a24ee9?utm_campaign=1054&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
-| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/691e07ee3f782d2f1afafe92?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States of America | On Site | Nov 19 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691e281709cc522e87736e1f?utm_campaign=1054&utm_source=git)** | West Warwick, RI | On Site | Nov 19 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/691e04363f782d2f1afafcd6?utm_campaign=1054&utm_source=git)** | Spring, Texas, United States of America | On Site | Nov 19 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Public Health Intern/volunteer - 2 roles: Volunteer Recruiter & Senior Outreach](https://jobright.ai/jobs/info/691e26b9a49a885af9a25893?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Equity Bank](https://www.equitybank.com/)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/691e16eba49a885af9a24d8d?utm_campaign=1054&utm_source=git)** | Wichita, KS | On Site | Nov 19 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern](https://jobright.ai/jobs/info/68e5b83de8daec61499a3def?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/68ca532f46caff4db51fd5a9?utm_campaign=1054&utm_source=git)** | Beloit, WI | On Site | Nov 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Phoenix, AZ - Human Resources](https://jobright.ai/jobs/info/691d0b95bcdbf3560c9eca7f?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/691d092122a2cb4b9bd2018b?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Nov 18 |
 | **[LightFeather](https://lightfeather.io)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/691d0821ff7024498416d230?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 18 |
-| **[Yazaki North America](http://www.yazaki-na.com/en/)** | **[Intern, Learning & Development](https://jobright.ai/jobs/info/691d431e7481340785ed5a9a?utm_campaign=1054&utm_source=git)** | Canton, MI | On Site | Nov 18 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Compensation Intern](https://jobright.ai/jobs/info/691cfee5bcdbf3560c9ec216?utm_campaign=1054&utm_source=git)** | Triangle Plaza 8750 W. Bryn Mawr Avenue, Chicago, IL, 60631, US | On Site | Nov 18 |
-| **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/691d23080b7dff7341500240?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Nov 18 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Nov 18 |
-| **[State of Ohio](http://governor.ohio.gov)** | **[College Intern-Human Resources](https://jobright.ai/jobs/info/691cf192ff7024498416c0d7?utm_campaign=1054&utm_source=git)** | Riffe Tower 2777 South High Street | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
