@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0a79b2a74e1837ed12b1?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 19 |
+| **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Nov 19 |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Nov 19 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68eb80af76a1db7c59860833?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Nov 19 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68c93f3695f5211cd2cef72b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d9bfdbcdbf3560c9f1e98?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Nov 19 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d996349c9744234f1ef85?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Nov 19 |
 | **[Ascentec Engineering, LLC](https://ascenteceng.com)** | **[Administrative Intern (Part-Time)](https://jobright.ai/jobs/info/691d8cd50b7dff734150449f?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Nov 19 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Year-Round Intern – Supply Chain](https://jobright.ai/jobs/info/6902857a00a1816c41e9f2cb?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
 | ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/690287b498707b2b0fe70b32?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/691ca5d7bcdbf3560c9e877b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Remote | Nov 18 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/68ffe8640ab3b222462afe4f?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Human Resources Summer Internship Program](https://jobright.ai/jobs/info/68d01b99dbd9fb154eded6ee?utm_campaign=1054&utm_source=git)** | Pontiac, MI | On Site | Nov 18 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/6901ec4900a1816c41e9a399?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68e422021852e62f00801e15?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Nov 18 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/6900351ae04ac838fb5c04ba?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Nov 18 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Human Resources (Talent Management)](https://jobright.ai/jobs/info/68ffe82ce0c73b3a111a03ce?utm_campaign=1054&utm_source=git)** | KC Metro Area | On Site | Nov 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ffcdb2e04ac838fb5bb843?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
-| **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd94a5b2a74e1837ed9005?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Nov 18 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/690197984539ea1f21421a41?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
