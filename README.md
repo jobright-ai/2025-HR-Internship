@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acbd8bdaf1431824c97dcb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 19 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0a79b2a74e1837ed12b1?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Nov 19 |
 | **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Nov 19 |
@@ -67,9 +68,9 @@ For a complete list, click the following sortable link below:
 | **[Ascentec Engineering, LLC](https://ascenteceng.com)** | **[Administrative Intern (Part-Time)](https://jobright.ai/jobs/info/691d8cd50b7dff734150449f?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Nov 19 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Year-Round Intern – Supply Chain](https://jobright.ai/jobs/info/6902857a00a1816c41e9f2cb?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
 | ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/690287b498707b2b0fe70b32?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d4d9f7481340785ed6471?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d4c507481340785ed633a?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 18 |
 | **[Olympic Steel](https://olysteel.com)** | **[2026 Summer Internship Talent Pool](https://jobright.ai/jobs/info/691d4a917481340785ed6224?utm_campaign=1054&utm_source=git)** | Bedford, OH | On Site | Nov 18 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d45ffbcdbf3560c9ef4f2?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship (Summer 2026) – Montreal](https://jobright.ai/jobs/info/691d42ab7481340785ed5a17?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d41ef0b7dff734150195b?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Nov 18 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Murfreesboro](https://jobright.ai/jobs/info/690026f00ab3b222462b2516?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Nov 18 |
 | **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/691ca5d7bcdbf3560c9e877b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Remote | Nov 18 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/68ffe8640ab3b222462afe4f?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 Human Resources Summer Internship Program](https://jobright.ai/jobs/info/68d01b99dbd9fb154eded6ee?utm_campaign=1054&utm_source=git)** | Pontiac, MI | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
