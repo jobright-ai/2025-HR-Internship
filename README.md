@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691ddeba61dc50590a64b336?utm_campaign=1054&utm_source=git)** | 1400 Division Rd, West Warwick, RI, 02893, US | On Site | Nov 19 |
+| **[SageSure](https://www.sagesure.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69021ca3ff462851fefe0330?utm_campaign=1054&utm_source=git)** | Jersey City, NJ | On Site | Nov 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Mt. Juliet](https://jobright.ai/jobs/info/6901cd71f8ce7a040fdc2bb5?utm_campaign=1054&utm_source=git)** | Mount Juliet, TN | On Site | Nov 19 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[HR Analyst Summer Intern](https://jobright.ai/jobs/info/691dd968748c4e1301ec94d8?utm_campaign=1054&utm_source=git)** | Ada, MI | Remote | Nov 19 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69011b08d5259a1b3cff1725?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Nov 19 |
+| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cf1e0adbd9fb154ede52c7?utm_campaign=1054&utm_source=git)** | Dearborn, MI | On Site | Nov 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/68da12543c03cd3270942c2f?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 19 |
+| ↳ | **[Safety Intern - 25-26 College Recruiting (Omaha)](https://jobright.ai/jobs/info/68cd0421e8e0b73af72bf8eb?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Nov 19 |
+| ↳ | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/68dabe6807c157682e56d0f0?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 19 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ceafb7846f0b04af67c4ad?utm_campaign=1054&utm_source=git)** | Waldorf, MD | On Site | Nov 19 |
+| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/691ae6cfbcdbf3560c9db6eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/68ad0caadaf1431824c9a28b?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Nov 19 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Human Resources Internships](https://jobright.ai/jobs/info/691dde7261dc50590a64b2f1?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Nov 19 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Human Resources Masters Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a93daf1431824c964d2?utm_campaign=1054&utm_source=git)** | Westerville, OH | On Site | Nov 19 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68acbd8bdaf1431824c97dcb?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 19 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68cd0a79b2a74e1837ed12b1?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Nov 19 |
@@ -68,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Ascentec Engineering, LLC](https://ascenteceng.com)** | **[Administrative Intern (Part-Time)](https://jobright.ai/jobs/info/691d8cd50b7dff734150449f?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Nov 19 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Year-Round Intern – Supply Chain](https://jobright.ai/jobs/info/6902857a00a1816c41e9f2cb?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
 | ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/690287b498707b2b0fe70b32?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
+| **[MEXC](https://www.mexc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691dde1461dc50590a64b28c?utm_campaign=1054&utm_source=git)** | Southeast Asia | On Site | Nov 18 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d4d9f7481340785ed6471?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d4c507481340785ed633a?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 18 |
 | **[Olympic Steel](https://olysteel.com)** | **[2026 Summer Internship Talent Pool](https://jobright.ai/jobs/info/691d4a917481340785ed6224?utm_campaign=1054&utm_source=git)** | Bedford, OH | On Site | Nov 18 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Tri Cities](https://jobright.ai/jobs/info/69003022e04ac838fb5c0075?utm_campaign=1054&utm_source=git)** | Blountville, TN | On Site | Nov 18 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68aa52326acf96396f729eb7?utm_campaign=1054&utm_source=git)** | Macon, GA | On Site | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Hendersonville](https://jobright.ai/jobs/info/69003f90e0c73b3a111a3af0?utm_campaign=1054&utm_source=git)** | Madison, TN | On Site | Nov 18 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Waverly, NE / Summer 2026](https://jobright.ai/jobs/info/68ccca36d99309000e5a351d?utm_campaign=1054&utm_source=git)** | Waverly, NE | On Site | Nov 18 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2026 Summer Human Resources Internship-Jefferson City MO](https://jobright.ai/jobs/info/691ae15b45fb6f5ead8ae7c2?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 18 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Campus Recruiting Intern](https://jobright.ai/jobs/info/690001dc0ab3b222462b1151?utm_campaign=1054&utm_source=git)** | LA Metro Area | Hybrid | Nov 18 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Human Resources (HR) Intern](https://jobright.ai/jobs/info/68ccf6da5954791a1d701d8f?utm_campaign=1054&utm_source=git)** | Radford, VA | On Site | Nov 18 |
-| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Labor Relations Intern](https://jobright.ai/jobs/info/6900c4d1f8ce7a040fdb917b?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/68e4742cb99ec3563b0ea77b?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 18 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/690030aae04ac838fb5c00e1?utm_campaign=1054&utm_source=git)** | Dalton, GA | On Site | Nov 18 |
-| ↳ | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Nov 18 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Central NJ](https://jobright.ai/jobs/info/69003171e04ac838fb5c0197?utm_campaign=1054&utm_source=git)** | Edison, NJ | On Site | Nov 18 |
-| **[Wagstaff, Inc.](https://www.wagstaff.com)** | **[Human Resources Intern (Paid)](https://jobright.ai/jobs/info/691c7edfff702449841681ca?utm_campaign=1054&utm_source=git)** | Spokane Valley, WA | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Marion, IL](https://jobright.ai/jobs/info/69002c4be0c73b3a111a2e39?utm_campaign=1054&utm_source=git)** | Carbondale, IL | On Site | Nov 18 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Murfreesboro](https://jobright.ai/jobs/info/690026f00ab3b222462b2516?utm_campaign=1054&utm_source=git)** | Murfreesboro, TN | On Site | Nov 18 |
-| **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/691ca5d7bcdbf3560c9e877b?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | Remote | Nov 18 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/68ffe8640ab3b222462afe4f?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
