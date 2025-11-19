@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascentec Engineering, LLC](https://ascenteceng.com)** | **[Administrative Intern (Part-Time)](https://jobright.ai/jobs/info/691d8cd50b7dff734150449f?utm_campaign=1054&utm_source=git)** | Tualatin, OR | On Site | Nov 19 |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[HR Year-Round Intern – Supply Chain](https://jobright.ai/jobs/info/6902857a00a1816c41e9f2cb?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
+| ↳ | **[HR Operations Intern](https://jobright.ai/jobs/info/690287b498707b2b0fe70b32?utm_campaign=1054&utm_source=git)** | Louisville, KY | Hybrid | Nov 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d4c507481340785ed633a?utm_campaign=1054&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 18 |
 | **[Olympic Steel](https://olysteel.com)** | **[2026 Summer Internship Talent Pool](https://jobright.ai/jobs/info/691d4a917481340785ed6224?utm_campaign=1054&utm_source=git)** | Bedford, OH | On Site | Nov 18 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691d45ffbcdbf3560c9ef4f2?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ffcdb2e04ac838fb5bb843?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
 | **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd94a5b2a74e1837ed9005?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Nov 18 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Employee Benefits Claims](https://jobright.ai/jobs/info/690197984539ea1f21421a41?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 18 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68c839a6983e6768bc54ae66?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Nov 18 |
-| **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Internship - Human Resources - Early Careers](https://jobright.ai/jobs/info/691c83a8bcdbf3560c9e7a6c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/69002afde04ac838fb5bfd13?utm_campaign=1054&utm_source=git)** | Portland, OR | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
