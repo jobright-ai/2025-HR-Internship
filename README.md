@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/691f162e09cc522e8773d772?utm_campaign=1054&utm_source=git)** | Corporate Office | On Site | Nov 20 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Total Rewards, HR Summer Internship 2026 (Rehlko)](https://jobright.ai/jobs/info/68e6a698e8daec61499ad239?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 20 |
+| **[MasTec Industrial, a MasTec Company](https://mastecpower.com)** | **[Internship, Safety Project - Summer 2026](https://jobright.ai/jobs/info/68e72666ae2b894b1d721d50?utm_campaign=1054&utm_source=git)** | Louisville, CO | On Site | Nov 20 |
+| **[Allison Transmission](http://www.allisontransmission.com/)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a1dbe8daec61499acf88?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Nov 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Talent Development Intern- Human Resources- Spring 2026](https://jobright.ai/jobs/info/691efc52a49a885af9a2b9c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Horizon Lane](horizonlane.us)** | **[Career Development Program](https://jobright.ai/jobs/info/691e8eb03f782d2f1afb5d81?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 19 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor SkillBridge Internship Program](https://jobright.ai/jobs/info/691e7f2609cc522e8773a771?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Olympic Steel](https://olysteel.com)** | **[2026 Summer Internship Talent Pool](https://jobright.ai/jobs/info/691d4a917481340785ed6224?utm_campaign=1054&utm_source=git)** | Bedford, OH | On Site | Nov 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship (Summer 2026) – Montreal](https://jobright.ai/jobs/info/691d42ab7481340785ed5a17?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d41ef0b7dff734150195b?utm_campaign=1054&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Nov 18 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Nov 18 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d40b70b7dff7341501820?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Nov 18 |
-| **[University of North Texas at Dallas](https://www.untdallas.edu/)** | **[Director of Employer Relations](https://jobright.ai/jobs/info/691d3fa30b7dff73415016e5?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d3b777481340785ed5312?utm_campaign=1054&utm_source=git)** | Thunder Bay, Ontario, Canada | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
