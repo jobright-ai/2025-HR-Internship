@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/6920018e3f782d2f1afc208a?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Nov 21 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69201db7a49a885af9a36daa?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 20 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/691ff153a49a885af9a3591d?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Nov 20 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[2026 Summer Intern - Hotel Operations](https://jobright.ai/jobs/info/691fe8783f782d2f1afc15d9?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas | On Site | Nov 20 |
@@ -117,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Musco Lighting](http://www.musco.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Nov 20 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Resource Management Intern](https://jobright.ai/jobs/info/68cb29fe9e3a822f5d24342e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Undergraduate](https://jobright.ai/jobs/info/68caee17efdec76df36b6a9f?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7782fde7ec24c9893c2a0?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Nov 20 |
-| ↳ | **[Spring 2026 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/68ca4cd906a34016008c6700?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/68ca4cd906a34016008c6700?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 20 |
+| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7782fde7ec24c9893c2a0?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Nov 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/691f289209cc522e8773deb0?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Nov 20 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[ROTC Office Intern - ROTC - 2025/26](https://jobright.ai/jobs/info/691f49fb3f782d2f1afb9f70?utm_campaign=1054&utm_source=git)** | South Orange, NJ | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - St. George](https://jobright.ai/jobs/info/691f268c3f782d2f1afb8b98?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 19 |
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/691e7ba809cc522e8773a37f?utm_campaign=1054&utm_source=git)** | MINNEAPOLIS, MN, USA | On Site | Nov 19 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/691fd2e709cc522e87745bd2?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Nov 19 |
-| **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/691e754f09cc522e87739edd?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
