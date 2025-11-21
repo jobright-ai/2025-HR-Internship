@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69201db7a49a885af9a36daa?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 20 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/691ff153a49a885af9a3591d?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Nov 20 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[2026 Summer Intern - Hotel Operations](https://jobright.ai/jobs/info/691fe8783f782d2f1afc15d9?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas | On Site | Nov 20 |
 | ↳ | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/691fe6bda49a885af9a3532e?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas | On Site | Nov 20 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Musco Lighting](http://www.musco.com)** | **[HR Information Systems Intern](https://jobright.ai/jobs/info/6903741e63502c0aded68f32?utm_campaign=1054&utm_source=git)** | Oskaloosa, IA | On Site | Nov 20 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Resource Management Intern](https://jobright.ai/jobs/info/68cb29fe9e3a822f5d24342e?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Undergraduate](https://jobright.ai/jobs/info/68caee17efdec76df36b6a9f?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/68ca4cd906a34016008c6700?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 20 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7782fde7ec24c9893c2a0?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Nov 20 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/68e7782fde7ec24c9893c2a0?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Nov 20 |
+| ↳ | **[Spring 2026 Management Trainee Internship- Cincinnati](https://jobright.ai/jobs/info/68ca4cd906a34016008c6700?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/691f289209cc522e8773deb0?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Nov 20 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[ROTC Office Intern - ROTC - 2025/26](https://jobright.ai/jobs/info/691f49fb3f782d2f1afb9f70?utm_campaign=1054&utm_source=git)** | South Orange, NJ | On Site | Nov 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - St. George](https://jobright.ai/jobs/info/691f268c3f782d2f1afb8b98?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Nov 20 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[MBA Strategic Finance Intern, Tech Eco](https://jobright.ai/jobs/info/69029567ff462851fefe4f3b?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
 | **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada HR Intern - Winter 2026](https://jobright.ai/jobs/info/691dc7d7ad5a517034796608?utm_campaign=1054&utm_source=git)** | New Minas, Nova Scotia, Canada | On Site | Nov 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Talent Development Intern- Human Resources- Spring 2026](https://jobright.ai/jobs/info/691efc52a49a885af9a2b9c0?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 20 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/69202d9509cc522e87748979?utm_campaign=1054&utm_source=git)** | Middleton, WI | On Site | Nov 20 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692028063f782d2f1afc34ad?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 19 |
+| **[American Foods Group](https://www.americanfoodsgroup.com)** | **[Human Resources Intern - America's Service Line](https://jobright.ai/jobs/info/692018d809cc522e87748036?utm_campaign=1054&utm_source=git)** | Green Bay, WI | On Site | Nov 19 |
 | **[Horizon Lane](horizonlane.us)** | **[Career Development Program](https://jobright.ai/jobs/info/691e8eb03f782d2f1afb5d81?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 19 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor SkillBridge Internship Program](https://jobright.ai/jobs/info/691e7f2609cc522e8773a771?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 19 |
 | **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 19 |
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/691e7ba809cc522e8773a37f?utm_campaign=1054&utm_source=git)** | MINNEAPOLIS, MN, USA | On Site | Nov 19 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/691fd2e709cc522e87745bd2?utm_campaign=1054&utm_source=git)** | Dayton, OH | On Site | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/691e754f09cc522e87739edd?utm_campaign=1054&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
-| **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern](https://jobright.ai/jobs/info/691e75213f782d2f1afb4d38?utm_campaign=1054&utm_source=git)** | Middlesex, NJ | On Site | Nov 19 |
-| **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Talent Management](https://jobright.ai/jobs/info/691e73cd09cc522e87739dd3?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 19 |
-| **[Invitation Homes](http://invitationhomes.com/)** | **[HR Business Partner, Intern](https://jobright.ai/jobs/info/691e7317a49a885af9a2886c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
-| **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship, Summer 2026](https://jobright.ai/jobs/info/691e7296a49a885af9a287d0?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
