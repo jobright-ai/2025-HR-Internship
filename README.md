@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Treinetic](https://treinetic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691fbce43f782d2f1afbfb34?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/69153daf6f36db06ef04cebe?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f9da0a49a885af9a327ae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Nov 20 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - Human Resources (HR)](https://jobright.ai/jobs/info/691f9d7ba49a885af9a3277f?utm_campaign=1054&utm_source=git)** | Culloden, WV | On Site | Nov 20 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/691e5d27a49a885af9a27fe8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Nov 19 |
 | **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691f8fd63f782d2f1afbde2e?utm_campaign=1054&utm_source=git)** | HQ - Sunnyvale (Office) | On Site | Nov 19 |
 | **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/691e56793f782d2f1afb3f35?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[TrueBrand](truebrandme.wixsite.com/home)** | **[Sales Recruiter Intern](https://jobright.ai/jobs/info/691e51caa49a885af9a279aa?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Employee Wellness Intern](https://jobright.ai/jobs/info/691e4fa83f782d2f1afb3a9d?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 19 |
 | **[SunOpta](https://www.sunopta.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691d7b45bcdbf3560c9f14dc?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Hybrid | Nov 19 |
 | **[Missouri Western State University](http://missouriwestern.edu)** | **[Graduate Assistant - Career Development Center](https://jobright.ai/jobs/info/691e4bdc3f782d2f1afb3931?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Nov 19 |
