@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Labor Standards Internship - Hourly - Albany](https://jobright.ai/jobs/info/691ff153a49a885af9a3591d?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Nov 20 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[2026 Summer Intern - Hotel Operations](https://jobright.ai/jobs/info/691fe8783f782d2f1afc15d9?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas | On Site | Nov 20 |
+| ↳ | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/691fe6bda49a885af9a3532e?utm_campaign=1054&utm_source=git)** | US-NV-Las Vegas | On Site | Nov 20 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Probation Intern (Hourly) 2026-2027](https://jobright.ai/jobs/info/691fe5bca49a885af9a352a4?utm_campaign=1054&utm_source=git)** | Morris, NJ | Hybrid | Nov 20 |
+| **[Highgate](https://www.highgate.com)** | **[2026 Summer Intern - Human Resources](https://jobright.ai/jobs/info/691fe547a49a885af9a35255?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 20 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/691fe4ab09cc522e87746685?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 20 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69195c8315b415636718532a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Nov 20 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691fce5e09cc522e877459ec?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 20 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69153e576f36db06ef04cf10?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 20 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Nov 20 |
+| ↳ | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69154a619c388539cbdf23e4?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
+| **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691fe61fa49a885af9a352d2?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Nov 20 |
 | **[Treinetic](https://treinetic.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691fbce43f782d2f1afbfb34?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/69153daf6f36db06ef04cebe?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f9da0a49a885af9a327ae?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Nov 20 |
@@ -75,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Nov 20 |
 | **[Superior](http://superiorgroup.net)** | **[Talent Acquisition Internship, Summer 2026](https://jobright.ai/jobs/info/691f6daaa49a885af9a2fc33?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States | On Site | Nov 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Compensation Intern](https://jobright.ai/jobs/info/691f67d9a49a885af9a2f60a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
-| **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Vista)](https://jobright.ai/jobs/info/691fce4b09cc522e877459e0?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Nov 20 |
-| ↳ | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/691fc8fc3f782d2f1afc0243?utm_campaign=1054&utm_source=git)** | Chula Vista, CA | On Site | Nov 20 |
+| **[MAAC](https://maacproject.org/)** | **[Human Resources Intern (Chula Vista)](https://jobright.ai/jobs/info/691fc8fc3f782d2f1afc0243?utm_campaign=1054&utm_source=git)** | Chula Vista, CA | On Site | Nov 20 |
+| ↳ | **[Human Resources Intern (Vista)](https://jobright.ai/jobs/info/691fce4b09cc522e877459e0?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Nov 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Human Resources](https://jobright.ai/jobs/info/691f5f6ea49a885af9a2eded?utm_campaign=1054&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Nov 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Internship Program - Office of Employee Benefits (Finance and Accounting)](https://jobright.ai/jobs/info/691f5f573f782d2f1afbb11c?utm_campaign=1054&utm_source=git)** | Newark, NJ | On Site | Nov 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Talent Management](https://jobright.ai/jobs/info/691e73cd09cc522e87739dd3?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 19 |
 | **[Invitation Homes](http://invitationhomes.com/)** | **[HR Business Partner, Intern](https://jobright.ai/jobs/info/691e7317a49a885af9a2886c?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 19 |
 | **[Superior](http://superiorgroup.net)** | **[Learning and Talent Development Internship, Summer 2026](https://jobright.ai/jobs/info/691e7296a49a885af9a287d0?utm_campaign=1054&utm_source=git)** | Columbus, Ohio, United States | On Site | Nov 19 |
-| ↳ | **[Learning and Talent Development Internship, Summer 2026](https://jobright.ai/jobs/info/691e7eea3f782d2f1afb55d5?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
-| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Human Resources Intern - U.S. Energy (Year Round)](https://jobright.ai/jobs/info/691e5d27a49a885af9a27fe8?utm_campaign=1054&utm_source=git)** | Appleton, WI | Hybrid | Nov 19 |
-| **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691f8fd63f782d2f1afbde2e?utm_campaign=1054&utm_source=git)** | HQ - Sunnyvale (Office) | On Site | Nov 19 |
-| **[Balance Now](https://www.balance.ca)** | **[HR Engagement Team Member](https://jobright.ai/jobs/info/691e56793f782d2f1afb3f35?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Employee Wellness Intern](https://jobright.ai/jobs/info/691e4fa83f782d2f1afb3a9d?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 19 |
-| **[SunOpta](https://www.sunopta.com/)** | **[HR Intern](https://jobright.ai/jobs/info/691d7b45bcdbf3560c9f14dc?utm_campaign=1054&utm_source=git)** | Eden Prairie, MN | Hybrid | Nov 19 |
-| **[Missouri Western State University](http://missouriwestern.edu)** | **[Graduate Assistant - Career Development Center](https://jobright.ai/jobs/info/691e4bdc3f782d2f1afb3931?utm_campaign=1054&utm_source=git)** | St Joseph, MO | On Site | Nov 19 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant - MDHHS Office of Human Resources](https://jobright.ai/jobs/info/691e48653f782d2f1afb359f?utm_campaign=1054&utm_source=git)** | Lansing, MI | On Site | Nov 19 |
-| **[JINGDONG Logistics](https://www.jdl.com)** | **[HRBP Intern](https://jobright.ai/jobs/info/691e3d803f782d2f1afb2e11?utm_campaign=1054&utm_source=git)** | Middlesex | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
