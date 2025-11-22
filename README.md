@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211a8f00c9ee50eaecbbd1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 21 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 21 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Nov 21 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/69211839a49a885af9a42dbf?utm_campaign=1054&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6921182a3f782d2f1afcf2d8?utm_campaign=1054&utm_source=git)** | Providence, RI | Hybrid | Nov 21 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[HR Service Center Internship](https://jobright.ai/jobs/info/69211766a49a885af9a42d22?utm_campaign=1054&utm_source=git)** | Peoria, IL | Hybrid | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/692116693f782d2f1afcf164?utm_campaign=1054&utm_source=git)** | Elyria, OH | On Site | Nov 21 |
@@ -89,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921165600c9ee50eaecb8fa?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 21 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692115c8a49a885af9a42c14?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Nov 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - People Operations Internship](https://jobright.ai/jobs/info/6921130000c9ee50eaecb80c?utm_campaign=1054&utm_source=git)** | Calabasas, CA, USA | On Site | Nov 21 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/692112f4a49a885af9a42ae8?utm_campaign=1054&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69210e1da49a885af9a4259a?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69210ddba49a885af9a42571?utm_campaign=1054&utm_source=git)** | US-IA-Des Moines | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Workforce and Integration Intern (Unpaid)](https://jobright.ai/jobs/info/69210d813f782d2f1afce9aa?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Nov 21 |
@@ -117,11 +117,11 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Program Intern (Unpaid)](https://jobright.ai/jobs/info/6920c7ada49a885af9a3f1c2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[University of Illinois Foundation](http://www.uif.uillinois.edu)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920fe9f00c9ee50eaeca936?utm_campaign=1054&utm_source=git)** | Champaign, IL | Hybrid | Nov 21 |
 | **[Amsive](https://www.amsive.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6920f4a1a49a885af9a412f9?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Nov 21 |
-| **[Vision](http://www.visionps.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6920c4cb3f782d2f1afcb488?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 21 |
 | **[University of Illinois Foundation](http://www.uif.uillinois.edu)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920c2cb3f782d2f1afcb271?utm_campaign=1054&utm_source=git)** | Champaign,IL,US | On Site | Nov 21 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - Human Resources](https://jobright.ai/jobs/info/6920f59700c9ee50eaeca1aa?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Nov 21 |
 | **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920c0283f782d2f1afcaff6?utm_campaign=1054&utm_source=git)** | US-FL-Lake Mary | Hybrid | Nov 21 |
-| ↳ | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Nov 21 |
+| **[Vision](http://www.visionps.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6920bed0a49a885af9a3eb52?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 21 |
+| **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Nov 21 |
 | **[Worthington Steel](https://www.worthingtonsteel.com)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6920b152a49a885af9a3e143?utm_campaign=1054&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | On Site | Nov 21 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Employment Program Intern (Unpaid)](https://jobright.ai/jobs/info/6920a49300c9ee50eaec661a?utm_campaign=1054&utm_source=git)** | New York, NY RAI USA | Hybrid | Nov 21 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Internship](https://jobright.ai/jobs/info/68f07619a6b9004b5e32086f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 21 |
