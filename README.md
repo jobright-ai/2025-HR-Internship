@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68cd9b1de23def7af55bc7a5?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Nov 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b5237abc187f64e1be5557?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
+| **[UTHealth Houston](https://www.uth.edu)** | **[HR Summer Internship - Payroll & Benefits](https://jobright.ai/jobs/info/6923113f7795cd460c837fe2?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b51b501ade4306aa64012b?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f93dbc187f64e1bdf84b?utm_campaign=1054&utm_source=git)** | Medina, MN | On Site | Nov 23 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68b30124bc187f64e1bdf92b?utm_campaign=1054&utm_source=git)** | Osceola, WI | On Site | Nov 23 |
-| **[UTHealth Houston](https://www.uth.edu)** | **[HR Summer Internship - Payroll & Benefits](https://jobright.ai/jobs/info/6923113f7795cd460c837fe2?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 23 |
-| ↳ | **[HR Summer Internship - University Relations and Equal Opportunity](https://jobright.ai/jobs/info/69230fc0c0cefa13343da1df?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 23 |
+| **[UTHealth Houston](https://www.uth.edu)** | **[HR Summer Internship - University Relations and Equal Opportunity](https://jobright.ai/jobs/info/69230fc0c0cefa13343da1df?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 23 |
 | **[BNSF Railway](http://www.bnsf.com/)** | **[Labor Relations Summer Intern 2026](https://jobright.ai/jobs/info/68cbad41ba798c1a501d3d2e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | Hybrid | Nov 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69212108a49a885af9a43225?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Nov 21 |
 | **[Zscaler](https://www.zscaler.com)** | **[Human Resources Intern, HRBP](https://jobright.ai/jobs/info/69211fc73f782d2f1afcf670?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 21 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/69211f51a49a885af9a43120?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 21 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Nov 21 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211a8f00c9ee50eaecbbd1?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 21 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
