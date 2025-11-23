@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plascore, Inc.](http://plascore.com)** | **[HR Summer Internship (Student Help - Office)](https://jobright.ai/jobs/info/6922d8657795cd460c8377e7?utm_campaign=1054&utm_source=git)** | Zeeland, MI | Hybrid | Nov 23 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Career Development Program](https://jobright.ai/jobs/info/692226fdd1ec2c3565c46e0a?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Nov 22 |
 | **[Burr & Forman](http://www.burr.com)** | **[HR Assistant/Intern](https://jobright.ai/jobs/info/6922246fa49a885af9a487ec?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 22 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68c8e2c8983e6768bc552d91?utm_campaign=1054&utm_source=git)** | Fort Washington, PA | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6920e496a49a885af9a405e0?utm_campaign=1054&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 21 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/6920dbc1a49a885af9a3ffd5?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6920d49800c9ee50eaec873f?utm_campaign=1054&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
-| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
