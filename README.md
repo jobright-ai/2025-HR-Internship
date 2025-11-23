@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 22 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Ready-Mix Intern (Summer 2026)](https://jobright.ai/jobs/info/68c890da983e6768bc54f3b2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 22 |
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Senior Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/6921b9b6d1ec2c3565c45b24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor SkillBridge Internship Program](https://jobright.ai/jobs/info/691e7f2609cc522e8773a771?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Total Rewards Intern](https://jobright.ai/jobs/info/69217b70a49a885af9a4618d?utm_campaign=1054&utm_source=git)** | Nutley, NJ | Hybrid | Nov 22 |
 | **[Talview](http://talview.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6921ab13d1ec2c3565c45708?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Nov 22 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Human Resources Business Partner](https://jobright.ai/jobs/info/692170b0d1ec2c3565c443ef?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[HR Service Center Intern](https://jobright.ai/jobs/info/6920ef463f782d2f1afccf80?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 21 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6920e496a49a885af9a405e0?utm_campaign=1054&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 21 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/6920dbc1a49a885af9a3ffd5?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Nov 21 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Total Rewards Intern](https://jobright.ai/jobs/info/6920d49800c9ee50eaec873f?utm_campaign=1054&utm_source=git)** | Nutley, NJ | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
