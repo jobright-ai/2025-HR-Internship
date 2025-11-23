@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WTW](https://www.willistowerswatson.com)** | **[Intern to Intern Conversion Only: Early Careers: Employee Experience Internship – Irvine – Summer 2026](https://jobright.ai/jobs/info/69235e167795cd460c8387c9?utm_campaign=1054&utm_source=git)** | 2010 Main Street, Irvine, CA, 92614, US | On Site | Nov 23 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Intern to Intern Conversion Only: Early Careers: Employee Experience Internship – Irvine – Summer 2026](https://jobright.ai/jobs/info/69237462c0cefa13343dad03?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Nov 23 |
+| ↳ | **[Intern to Intern Conversion Only: Early Careers: Employee Experience Internship – Irvine – Summer 2026](https://jobright.ai/jobs/info/69235e167795cd460c8387c9?utm_campaign=1054&utm_source=git)** | 2010 Main Street, Irvine, CA, 92614, US | On Site | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e483f4e41a61efd80760?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Nov 23 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Nov 23 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68cd9b1de23def7af55bc7a5?utm_campaign=1054&utm_source=git)** | Alabama, United States | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Action House](https://www.communityactionhouse.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692125f73f782d2f1afcfb98?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 21 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Human Resources (HR) Operations Intern](https://jobright.ai/jobs/info/692123cd3f782d2f1afcf9b7?utm_campaign=1054&utm_source=git)** | Waterford, NY | On Site | Nov 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6921219ea49a885af9a4329a?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Nov 21 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921211300c9ee50eaecbf11?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
