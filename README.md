@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YMCA of South Hampton Roads](https://www.ymcashr.org/)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6924b3d1c0cefa13343e0ee4?utm_campaign=1054&utm_source=git)** | Chesapeake,VA,US | On Site | Nov 24 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6924b2d2ec574f4265bb5e36?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/68cfe365846f0b04af685e5a?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
+| ↳ | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/690d5b27d046ab6061cf58b8?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Human Resources Business Partner Intern (Hybrid)](https://jobright.ai/jobs/info/6924aeadc0cefa13343e0a9b?utm_campaign=1054&utm_source=git)** | Support Center - Akron, OH | Hybrid | Nov 24 |
+| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/6924abe9c0cefa13343e0890?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Nov 24 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Workforce planning Analyst ( Winter 2026 )](https://jobright.ai/jobs/info/6924abd4c0cefa13343e087f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 24 |
+| **[Clayton](http://www.claytonhomes.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6924a002c0cefa13343e0165?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 24 |
+| **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[HR Intern](https://jobright.ai/jobs/info/69249cd238cd5478a8d5bd55?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 24 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Diversity & Inclusion](https://jobright.ai/jobs/info/69249af9ec574f4265bb4e31?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 24 |
 | **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692494c7c0cefa13343dfad9?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Talent Acquisition Projects Intern - Sales & Marketing - Orlando, FL](https://jobright.ai/jobs/info/69248f3dc0cefa13343df7c8?utm_campaign=1054&utm_source=git)** | MVW Headquarters | On Site | Nov 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 22 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c27bcfc08e4908912c02?utm_campaign=1054&utm_source=git)** | Washington, PA | On Site | Nov 22 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c8b0cfc08e4908912f7f?utm_campaign=1054&utm_source=git)** | Butler, PA | On Site | Nov 22 |
-| **[G&W Electric Co.](http://www.gwelec.com/)** | **[Intern - Human Resources - Summer 2026](https://jobright.ai/jobs/info/690505d5122e8474c78d53a8?utm_campaign=1054&utm_source=git)** | Bolingbrook, IL | On Site | Nov 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea1e764a45b1233cc2fe34?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Nov 22 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Diversity Equity & Belonging Internship](https://jobright.ai/jobs/info/68ccb8b216d00d2beeb236d2?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/690511e163502c0aded77b34?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Nov 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bbbefeeb0006c1a56ebd?utm_campaign=1054&utm_source=git)** | Ann Arbor, MI | On Site | Nov 22 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea169fcfc08e4908915aa7?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Nov 22 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 22 |
-| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Nov 22 |
-| **[The GIANT Company](https://giantfoodstores.com)** | **[Labor Planning Intern](https://jobright.ai/jobs/info/6905f36dff462851fe001dde?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
