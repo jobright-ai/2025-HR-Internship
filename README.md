@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 24 |
+| **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692494c7c0cefa13343dfad9?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Talent Acquisition Projects Intern - Sales & Marketing - Orlando, FL](https://jobright.ai/jobs/info/69248f3dc0cefa13343df7c8?utm_campaign=1054&utm_source=git)** | MVW Headquarters | On Site | Nov 24 |
+| **[ECCO](https://enter.ecco.com/)** | **[People & Culture - Intern (Paid / Temp) Local Only](https://jobright.ai/jobs/info/683f81a5b22a7e3fadb7d3e9?utm_campaign=1054&utm_source=git)** | Salem, NH | On Site | Nov 24 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Human Resources (Spring 2026)](https://jobright.ai/jobs/info/69248440c0cefa13343df2e4?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Nov 24 |
+| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Human Capital Services Intern](https://jobright.ai/jobs/info/69052fd963502c0aded794be?utm_campaign=1054&utm_source=git)** | New Haven, CT | On Site | Nov 24 |
+| **[C-Sharpe Co, LLC](https://csharpe.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69115fd2183be660d267b8bb?utm_campaign=1054&utm_source=git)** | Pensacola, FL | On Site | Nov 24 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[HR Generalist Intern - Summer](https://jobright.ai/jobs/info/69247eacc0cefa13343def67?utm_campaign=1054&utm_source=git)** | CAI23: Carrier-Indianapolis, 7310 West Morris Street, Indianapolis, IN, 46231 USA | On Site | Nov 24 |
 | **[Super.com](https://www.super.com)** | **[People & Culture Intern](https://jobright.ai/jobs/info/691db57fad5a517034795930?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Remote | Nov 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b513c5f4e41a61efd8d622?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Nov 24 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/6922aaae38cd5478a8d548e4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ceb2efdbd9fb154ede23a6?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 22 |
 | ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Nov 22 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Labor Planning Intern](https://jobright.ai/jobs/info/6905f36dff462851fe001dde?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
-| ↳ | **[HR Total Rewards Intern](https://jobright.ai/jobs/info/6905ed3a122e8474c78dd165?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
-| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | On Site | Nov 22 |
-| **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Human Resource Operations](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 22 |
-| **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Human Resources Intern - Delta, PA](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e1f?utm_campaign=1054&utm_source=git)** | Delta, PA | On Site | Nov 22 |
-| **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905f5f3122e8474c78dd5de?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
-| **[PIM Brands](https://pimbrands.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9ee14cdf8d94b293a310c?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Nov 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68ccd9d7d11b445e0bee2ee8?utm_campaign=1054&utm_source=git)** | Texas City, TX | On Site | Nov 22 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/68ccdfdc5954791a1d700345?utm_campaign=1054&utm_source=git)** | Clinton, IA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
