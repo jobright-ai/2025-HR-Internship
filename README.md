@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Diversity & Inclusion](https://jobright.ai/jobs/info/6924cbf738cd5478a8d5ded4?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
+| **[RedGuard](http://redguard.com)** | **[Human Capital Intern - LANGE Shared Services](https://jobright.ai/jobs/info/6924caecc0cefa13343e202a?utm_campaign=1054&utm_source=git)** | Wichita, KS, US | On Site | Nov 24 |
+| **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69043cb3ff462851feff4239?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 24 |
+| **[Tapestry](http://www.tapestry.com/)** | **[Summer Human Resources Internships](https://jobright.ai/jobs/info/6924c8eec0cefa13343e1e37?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Human Resources Business Partner Intern (Hybrid)](https://jobright.ai/jobs/info/6924c7d038cd5478a8d5db47?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Hybrid | Nov 24 |
+| **[Zscaler](https://www.zscaler.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/6924bf8bec574f4265bb684c?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924bebbc0cefa13343e16f9?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 24 |
+| **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924b8abc0cefa13343e11e7?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6924b816c0cefa13343e116d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 24 |
 | **[YMCA of South Hampton Roads](https://www.ymcashr.org/)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6924b3d1c0cefa13343e0ee4?utm_campaign=1054&utm_source=git)** | Chesapeake,VA,US | On Site | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6924b2d2ec574f4265bb5e36?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/68cfe365846f0b04af685e5a?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Nov 24 |
@@ -65,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/6924abe9c0cefa13343e0890?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Nov 24 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Workforce planning Analyst ( Winter 2026 )](https://jobright.ai/jobs/info/6924abd4c0cefa13343e087f?utm_campaign=1054&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 24 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6924a002c0cefa13343e0165?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 24 |
+| **[Werfen](http://www.werfen.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924bb60ec574f4265bb63f0?utm_campaign=1054&utm_source=git)** | US-NY-Orangeburg | On Site | Nov 24 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[HR Intern](https://jobright.ai/jobs/info/69249cd238cd5478a8d5bd55?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 24 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Diversity & Inclusion](https://jobright.ai/jobs/info/69249af9ec574f4265bb4e31?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 24 |
 | **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692494c7c0cefa13343dfad9?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Talent Acquisition Projects Intern - Sales & Marketing - Orlando, FL](https://jobright.ai/jobs/info/69248f3dc0cefa13343df7c8?utm_campaign=1054&utm_source=git)** | MVW Headquarters | On Site | Nov 24 |
@@ -132,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Nov 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern – 25-26 College Recruiting (Austin)](https://jobright.ai/jobs/info/6922d7487795cd460c8377b3?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Nov 23 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Owatonna, MN](https://jobright.ai/jobs/info/685e3b6d5589a324a4938580?utm_campaign=1054&utm_source=git)** | Owatonna, MN | On Site | Nov 23 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/691b953615b41563671907e8?utm_campaign=1054&utm_source=git)** | Chesterfield, MI | On Site | Nov 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern (Co-Op)](https://jobright.ai/jobs/info/68ce4a95dbd9fb154edddc31?utm_campaign=1054&utm_source=git)** | Henderson, NV | On Site | Nov 23 |
 | **[CAS](http://www.cas.org)** | **[BU24IN Human Resources Intern](https://jobright.ai/jobs/info/68cddf3be23def7af55bfd8f?utm_campaign=1054&utm_source=git)** | Columbus, OH | Hybrid | Nov 23 |
 | **[Plascore, Inc.](http://plascore.com)** | **[HR Summer Internship (Student Help - Office)](https://jobright.ai/jobs/info/6922d8657795cd460c8377e7?utm_campaign=1054&utm_source=git)** | Zeeland, MI | Hybrid | Nov 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[People Team, Talent Planning Intern - Summer 2026](https://jobright.ai/jobs/info/69056c5e122e8474c78d8daf?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Nov 22 |
 | ↳ | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b0a8c6b47fb001d689443e?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Human Resources Administrative Intern (8 month)](https://jobright.ai/jobs/info/691db1ff61dc50590a649333?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 22 |
-| **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9b9be0930fe0bc46288c9?utm_campaign=1054&utm_source=git)** | State College, PA | On Site | Nov 22 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Nov 22 |
-| **[NetApp](http://netapp.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6921d52fd1ec2c3565c461b4?utm_campaign=1054&utm_source=git)** | Morrisville, NC | Hybrid | Nov 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Nov 22 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c27bcfc08e4908912c02?utm_campaign=1054&utm_source=git)** | Washington, PA | On Site | Nov 22 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c8b0cfc08e4908912f7f?utm_campaign=1054&utm_source=git)** | Butler, PA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
