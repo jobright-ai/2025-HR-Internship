@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692423dfc0cefa13343dd75d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 24 |
+| **[Santa Rosa Junior College](https://www.santarosa.edu/)** | **[Payroll Specialist (Internal)](https://jobright.ai/jobs/info/69241bcd38cd5478a8d592da?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Nov 24 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/69240e9cc0cefa13343dd073?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 23 |
 | **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/6923f2f77795cd460c83a440?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 23 |
 | **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern (St. Louis)](https://jobright.ai/jobs/info/6923d37c7795cd460c8398b4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 23 |
 | ↳ | **[Human Resources Intern (St. Louis)](https://jobright.ai/jobs/info/6923ad95c0cefa13343db138?utm_campaign=1054&utm_source=git)** | 1 N Brentwood Blvd, Clayton, MO 63105, USA | On Site | Nov 23 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 23 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Benefits and Compensation](https://jobright.ai/jobs/info/68cd9e18e23def7af55bcd7a?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Nov 23 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - VT (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64bb?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Nov 23 |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/692316b0c0cefa13343da26e?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68b7b66f872d1074a98b29d8?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 23 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - NYC (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d64ba?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[UTHealth Houston](https://www.uth.edu)** | **[HR Summer Internship - HR Innovation, Analytics, and Technology](https://jobright.ai/jobs/info/69230f5938cd5478a8d55fa0?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/6921440da49a885af9a44605?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 21 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692142e7a49a885af9a44581?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Operations Support Associate, Emerging Talent Intern](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 21 |
-| **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69213c5600c9ee50eaecd0e3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
-| **[Kemin Industries](http://www.kemin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69212e813f782d2f1afd00a1?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
