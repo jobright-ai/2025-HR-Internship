@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship - (Summer or Fall 2026) – Toronto](https://jobright.ai/jobs/info/691db17861dc50590a6492a8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
+| **[City of New Braunfels, TX](http://newbraunfels.gov)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/692431597795cd460c83b7e6?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 24 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/69242f50c0cefa13343dd9fb?utm_campaign=1054&utm_source=git)** | Wisconsin Rapids, WI | Remote | Nov 24 |
 | **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692423dfc0cefa13343dd75d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 24 |
 | **[Santa Rosa Junior College](https://www.santarosa.edu/)** | **[Payroll Specialist (Internal)](https://jobright.ai/jobs/info/69241bcd38cd5478a8d592da?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Nov 24 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/69240e9cc0cefa13343dd073?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 23 |
@@ -144,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 22 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Ready-Mix Intern (Summer 2026)](https://jobright.ai/jobs/info/68c890da983e6768bc54f3b2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 22 |
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Senior Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/6921b9b6d1ec2c3565c45b24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69243cec38cd5478a8d59aad?utm_campaign=1054&utm_source=git)** | Blythe, CA | On Site | Nov 22 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor SkillBridge Internship Program](https://jobright.ai/jobs/info/691e7f2609cc522e8773a771?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Total Rewards Intern](https://jobright.ai/jobs/info/69217b70a49a885af9a4618d?utm_campaign=1054&utm_source=git)** | Nutley, NJ | Hybrid | Nov 22 |
 | **[Talview](http://talview.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6921ab13d1ec2c3565c45708?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Nov 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dyson Benelux](http://www.dyson.com)** | **[HR & Organisational Development Intern](https://jobright.ai/jobs/info/69240d0b38cd5478a8d58e28?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 21 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/6922aaae38cd5478a8d548e4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 21 |
 | **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6923fc89c0cefa13343dc88d?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 21 |
-| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/692146f33f782d2f1afd0d17?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 21 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[People Team Internship - Summer 2026](https://jobright.ai/jobs/info/69214414a49a885af9a4460b?utm_campaign=1054&utm_source=git)** | Portland, OR | Remote | Nov 21 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/6921440da49a885af9a44605?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 21 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692142e7a49a885af9a44581?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 21 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Operations Support Associate, Emerging Talent Intern](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
