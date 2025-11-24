@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/6923f2f77795cd460c83a440?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 23 |
 | **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern (St. Louis)](https://jobright.ai/jobs/info/6923d37c7795cd460c8398b4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 23 |
 | ↳ | **[Human Resources Intern (St. Louis)](https://jobright.ai/jobs/info/6923ad95c0cefa13343db138?utm_campaign=1054&utm_source=git)** | 1 N Brentwood Blvd, Clayton, MO 63105, USA | On Site | Nov 23 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Intern to Intern Conversion Only: Early Careers: Employee Experience Internship – Irvine – Summer 2026](https://jobright.ai/jobs/info/69237462c0cefa13343dad03?utm_campaign=1054&utm_source=git)** | Irvine, CA | On Site | Nov 23 |
@@ -146,15 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Talview](http://talview.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6921ab13d1ec2c3565c45708?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Nov 22 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Human Resources Business Partner](https://jobright.ai/jobs/info/692170b0d1ec2c3565c443ef?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Nov 22 |
 | **[SpawGlass](https://www.spawglass.com)** | **[Human Resources - Talent Acquisition Intern](https://jobright.ai/jobs/info/691be720bcdbf3560c9e3d19?utm_campaign=1054&utm_source=git)** | Selma, TX | On Site | Nov 21 |
+| **[Dyson Benelux](http://www.dyson.com)** | **[HR & Organisational Development Intern](https://jobright.ai/jobs/info/69240d0b38cd5478a8d58e28?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 21 |
 | **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/6922aaae38cd5478a8d548e4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 21 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6923fc89c0cefa13343dc88d?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 21 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/692146f33f782d2f1afd0d17?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[People Team Internship - Summer 2026](https://jobright.ai/jobs/info/69214414a49a885af9a4460b?utm_campaign=1054&utm_source=git)** | Portland, OR | Remote | Nov 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/6921440da49a885af9a44605?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Nov 21 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692142e7a49a885af9a44581?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Operations Support Associate, Emerging Talent Intern](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Nov 21 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/6923eed538cd5478a8d5810e?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Nov 21 |
 | **[Distinctive Schools](http://distinctiveschools.org)** | **[Student Recruitment Intern](https://jobright.ai/jobs/info/69213c5600c9ee50eaecd0e3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
 | **[Kemin Industries](http://www.kemin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69212e813f782d2f1afd00a1?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 21 |
-| **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern (Engineering), Winter 2026](https://jobright.ai/jobs/info/69212e703f782d2f1afd0091?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 21 |
-| **[State of Washington](http://access.wa.gov/)** | **[ES UI Benefit Specialist 2 -Adjudication: Internal Only - Telework](https://jobright.ai/jobs/info/6923dc0c38cd5478a8d57b44?utm_campaign=1054&utm_source=git)** | Walla Walla, WA | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
