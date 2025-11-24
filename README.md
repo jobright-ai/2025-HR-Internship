@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b104de6fab621da7b09635?utm_campaign=1054&utm_source=git)** | Garyville, LA | On Site | Nov 24 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/692408e338cd5478a8d58c01?utm_campaign=1054&utm_source=git)** | Mundelein, IL | On Site | Nov 24 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Safety Intern - 25-26 College Recruiting (Des Moines)](https://jobright.ai/jobs/info/68db57a4e19b9e63ba20afb4?utm_campaign=1054&utm_source=git)** | West Des Moines, IA | On Site | Nov 24 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b10659e815524ae11faada?utm_campaign=1054&utm_source=git)** | LA Metro Area | On Site | Nov 24 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Loyalty Rewards Intern](https://jobright.ai/jobs/info/68ea71ee76a1db7c5985b04b?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Nov 24 |
 | **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship - (Summer or Fall 2026) – Toronto](https://jobright.ai/jobs/info/691db17861dc50590a6492a8?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 24 |
 | **[City of New Braunfels, TX](http://newbraunfels.gov)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/692431597795cd460c83b7e6?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 24 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Graduate Intern - Human Resources](https://jobright.ai/jobs/info/6905f8d5122e8474c78dd63a?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Total Rewards HR Intern Summer 2026](https://jobright.ai/jobs/info/69052bfc122e8474c78d6ffa?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 22 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Ready-Mix Intern (Summer 2026)](https://jobright.ai/jobs/info/68c890da983e6768bc54f3b2?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Nov 22 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69244b6cec574f4265bb3100?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Senior Benefits Analyst– Client Services Team (Intern – Flex)](https://jobright.ai/jobs/info/6921b9b6d1ec2c3565c45b24?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69243cec38cd5478a8d59aad?utm_campaign=1054&utm_source=git)** | Blythe, CA | On Site | Nov 22 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor SkillBridge Internship Program](https://jobright.ai/jobs/info/691e7f2609cc522e8773a771?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Total Rewards Intern](https://jobright.ai/jobs/info/69217b70a49a885af9a4618d?utm_campaign=1054&utm_source=git)** | Nutley, NJ | Hybrid | Nov 22 |
-| **[Talview](http://talview.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6921ab13d1ec2c3565c45708?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Nov 22 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Human Resources Business Partner](https://jobright.ai/jobs/info/692170b0d1ec2c3565c443ef?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Nov 22 |
-| **[SpawGlass](https://www.spawglass.com)** | **[Human Resources - Talent Acquisition Intern](https://jobright.ai/jobs/info/691be720bcdbf3560c9e3d19?utm_campaign=1054&utm_source=git)** | Selma, TX | On Site | Nov 21 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[HR & Organisational Development Intern](https://jobright.ai/jobs/info/69240d0b38cd5478a8d58e28?utm_campaign=1054&utm_source=git)** | St James, NY | On Site | Nov 21 |
-| **[The Gund Company](http://thegundcompany.com)** | **[Entry-Level Human Resources Co-op](https://jobright.ai/jobs/info/6922aaae38cd5478a8d548e4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 21 |
-| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/6923fc89c0cefa13343dc88d?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
