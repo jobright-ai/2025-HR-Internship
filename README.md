@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/692605f527bf2f41a2c42790?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 25 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Career Pathways Intern (Unpaid)](https://jobright.ai/jobs/info/69260394f0beb07232621232?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Nov 25 |
+| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692601f727bf2f41a2c425ef?utm_campaign=1054&utm_source=git)** | Welch, MN 55089, USA | On Site | Nov 25 |
+| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Family Engagement Specialist](https://jobright.ai/jobs/info/6925ff2cf0beb07232620fea?utm_campaign=1054&utm_source=git)** | Middlebury,  VT | On Site | Nov 25 |
+| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/69094a66bcccf20de59d9a03?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 25 |
+| **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 People & Culture Analytics Internship / Hybrid](https://jobright.ai/jobs/info/6909281abcccf20de59d8062?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 25 |
+| **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6925f3b1f0beb0723262093a?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Nov 25 |
+| **[Applied Medical Technology, Inc. (AMT)](http://www.appliedmedical.net)** | **[HR Intern](https://jobright.ai/jobs/info/6925f2d0f0beb072326208c9?utm_campaign=1054&utm_source=git)** | Brecksville, OH | On Site | Nov 25 |
+| **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Human Resources Compliance Intern](https://jobright.ai/jobs/info/6925f15427bf2f41a2c41cdf?utm_campaign=1054&utm_source=git)** | Salisbury, MD | On Site | Nov 25 |
+| **[Encore](https://www.encoreglobal.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6925ee8027bf2f41a2c41b1b?utm_campaign=1054&utm_source=git)** | Schiller Park, IL | On Site | Nov 25 |
+| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/6909542dbcccf20de59da113?utm_campaign=1054&utm_source=git)** | Florham Park, NJ | Hybrid | Nov 25 |
+| **[NSF](http://www.nsf.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6925e84c27bf2f41a2c417bb?utm_campaign=1054&utm_source=git)** | 125 Chancellors Way, Ontario, CA | Hybrid | Nov 25 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[HR Generalist Intern - Summer](https://jobright.ai/jobs/info/6925e700d47de4798ecd290a?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 25 |
 | **[Coinbase](https://www.coinbase.com)** | **[Employee & Workplace Experience Intern](https://jobright.ai/jobs/info/6921828f3f782d2f1afd29e2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6909b587d046ab6061cd7707?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Nov 25 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RedGuard](http://redguard.com)** | **[Human Capital Intern - LANGE Shared Services](https://jobright.ai/jobs/info/6924caecc0cefa13343e202a?utm_campaign=1054&utm_source=git)** | Wichita, KS, US | On Site | Nov 24 |
 | **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69043cb3ff462851feff4239?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Human Resources Internships](https://jobright.ai/jobs/info/6924c8eec0cefa13343e1e37?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Legend Biotech](https://www.legendbiotech.com)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6924e44238cd5478a8d5f4e9?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Nov 24 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Human Resources Business Partner Intern (Hybrid)](https://jobright.ai/jobs/info/6924c7d038cd5478a8d5db47?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Hybrid | Nov 24 |
-| **[Globe Life](https://www.globelifeinsurance.com)** | **[Customer Retention Internship - Summer 2026](https://jobright.ai/jobs/info/6924eae1c0cefa13343e4190?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Nov 24 |
-| **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Skills & Talent Intern](https://jobright.ai/jobs/info/6924e5fb38cd5478a8d5f7b8?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
-| **[Zscaler](https://www.zscaler.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/6924bf8bec574f4265bb684c?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Labor Efficiency Analysis Intern](https://jobright.ai/jobs/info/6924e1acc0cefa13343e3513?utm_campaign=1054&utm_source=git)** | Kodiak, AK | On Site | Nov 24 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6924d89838cd5478a8d5e82d?utm_campaign=1054&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 24 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924b8abc0cefa13343e11e7?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6924b816c0cefa13343e116d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Nov 24 |
-| **[Chicken N Pickle](https://chickennpickle.com)** | **[Intern - Human Resources & Talent Acquisition](https://jobright.ai/jobs/info/6924d28238cd5478a8d5e2c9?utm_campaign=1054&utm_source=git)** | North Kansas City, MO | Hybrid | Nov 24 |
-| **[YMCA of South Hampton Roads](https://www.ymcashr.org/)** | **[People and Culture Intern](https://jobright.ai/jobs/info/6924b3d1c0cefa13343e0ee4?utm_campaign=1054&utm_source=git)** | Chesapeake,VA,US | On Site | Nov 24 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Human Resources Intern (Talent Acquisition)](https://jobright.ai/jobs/info/6924b2d2ec574f4265bb5e36?utm_campaign=1054&utm_source=git)** | Berwyn, PA | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
