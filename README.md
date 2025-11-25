@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Compensation Intern](https://jobright.ai/jobs/info/691f7754a49a885af9a304fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/691f162e09cc522e8773d772?utm_campaign=1054&utm_source=git)** | Corporate Office | On Site | Nov 24 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692535b427bf2f41a2c3d389?utm_campaign=1054&utm_source=git)** | De Soto, KS | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692423dfc0cefa13343dd75d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 24 |
 | **[Santa Rosa Junior College](https://www.santarosa.edu/)** | **[Payroll Specialist (Internal)](https://jobright.ai/jobs/info/69241bcd38cd5478a8d592da?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Nov 24 |
 | **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/6923f2f77795cd460c83a440?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 23 |
-| **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern (St. Louis)](https://jobright.ai/jobs/info/6923d37c7795cd460c8398b4?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
