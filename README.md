@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
+| **[Zoox](https://www.zoox.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69091073bcccf20de59d6aef?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69257bfef0beb0723261dd99?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 25 |
+| ↳ | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Compensation Intern](https://jobright.ai/jobs/info/691f7754a49a885af9a304fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/691f162e09cc522e8773d772?utm_campaign=1054&utm_source=git)** | Corporate Office | On Site | Nov 24 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692535b427bf2f41a2c3d389?utm_campaign=1054&utm_source=git)** | De Soto, KS | On Site | Nov 24 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Wisk](https://wisk.aero)** | **[HRIS Data Analyst Intern](https://jobright.ai/jobs/info/6924de9138cd5478a8d5edde?utm_campaign=1054&utm_source=git)** | Mountain View, CA | On Site | Nov 24 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924dce1c0cefa13343e2e17?utm_campaign=1054&utm_source=git)** | Orangeburg, NY | On Site | Nov 24 |
 | **[Carrier Climate Solutions Transportation](https://www.carrier.com/refrigeration/en/worldwide/)** | **[HR Generalist Intern - Summer](https://jobright.ai/jobs/info/6924d68638cd5478a8d5e62b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Diversity & Inclusion](https://jobright.ai/jobs/info/6924cbf738cd5478a8d5ded4?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | **[RedGuard](http://redguard.com)** | **[Human Capital Intern - LANGE Shared Services](https://jobright.ai/jobs/info/6924caecc0cefa13343e202a?utm_campaign=1054&utm_source=git)** | Wichita, KS, US | On Site | Nov 24 |
 | **[Moroch](https://www.moroch.com/)** | **[HR Internship](https://jobright.ai/jobs/info/69043cb3ff462851feff4239?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Human Resources Internships](https://jobright.ai/jobs/info/6924c8eec0cefa13343e1e37?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
@@ -123,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Betenbough Companies](https://betenboughcompanies.com/)** | **[Employee Operations Intern](https://jobright.ai/jobs/info/6924e92d38cd5478a8d5fcdd?utm_campaign=1054&utm_source=git)** | Lubbock, TX | On Site | Nov 24 |
 | **[Werfen](http://www.werfen.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924bb60ec574f4265bb63f0?utm_campaign=1054&utm_source=git)** | US-NY-Orangeburg | On Site | Nov 24 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[HR Intern](https://jobright.ai/jobs/info/69249cd238cd5478a8d5bd55?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 24 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, HR Diversity & Inclusion](https://jobright.ai/jobs/info/69249af9ec574f4265bb4e31?utm_campaign=1054&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Des Moines](http://fhlbdm.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68bf2d378e65e77df55b7ddb?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Nov 24 |
 | **[Hilti North America](http://www.hilti.com)** | **[Human Resources Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/692494c7c0cefa13343dfad9?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Nov 24 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Talent Acquisition Projects Intern - Sales & Marketing - Orlando, FL](https://jobright.ai/jobs/info/69248f3dc0cefa13343df7c8?utm_campaign=1054&utm_source=git)** | MVW Headquarters | On Site | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New Braunfels, TX](http://newbraunfels.gov)** | **[Intern- Human Resources](https://jobright.ai/jobs/info/692431597795cd460c83b7e6?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 24 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/69242f50c0cefa13343dd9fb?utm_campaign=1054&utm_source=git)** | Wisconsin Rapids, WI | Remote | Nov 24 |
 | **[Moneta](http://monetagroup.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692423dfc0cefa13343dd75d?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 24 |
-| **[Santa Rosa Junior College](https://www.santarosa.edu/)** | **[Payroll Specialist (Internal)](https://jobright.ai/jobs/info/69241bcd38cd5478a8d592da?utm_campaign=1054&utm_source=git)** | Santa Rosa, CA | On Site | Nov 24 |
-| **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/6923f2f77795cd460c83a440?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
