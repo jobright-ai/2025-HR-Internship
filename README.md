@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Compensation Intern](https://jobright.ai/jobs/info/691f7754a49a885af9a304fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/691f162e09cc522e8773d772?utm_campaign=1054&utm_source=git)** | Corporate Office | On Site | Nov 24 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692535b427bf2f41a2c3d389?utm_campaign=1054&utm_source=git)** | De Soto, KS | On Site | Nov 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69253354d47de4798ecce3c6?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 24 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69253de7d47de4798ecceb86?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Nov 24 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - People Operations](https://jobright.ai/jobs/info/68ffe8640ab3b222462afe4f?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/692518d5ec574f4265bbba23?utm_campaign=1054&utm_source=git)** | Syracuse, NY | On Site | Nov 24 |
-| ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/6925379727bf2f41a2c3d49d?utm_campaign=1054&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Nov 24 |
 | ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/692537d4d47de4798ecce670?utm_campaign=1054&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Nov 24 |
+| ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/6925379727bf2f41a2c3d49d?utm_campaign=1054&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Nov 24 |
 | ↳ | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/692534b5d47de4798ecce47b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 24 |
 | **[BrightPath Early Learning & Child Care](http://www.brightpathkids.com/)** | **[Contract Employee Experience Internship - HR Coordinator](https://jobright.ai/jobs/info/6925343027bf2f41a2c3d2c6?utm_campaign=1054&utm_source=git)** | West Seneca, NY | Hybrid | Nov 24 |
 | **[Jobs for the Future (JFF)](https://www.jff.org/)** | **[Senior Manager, Talent & Workforce Planning](https://jobright.ai/jobs/info/692510dec0cefa13343e621b?utm_campaign=1054&utm_source=git)** | Greater Boston | On Site | Nov 24 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/6924e44238cd5478a8d5f4e9?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Nov 24 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Human Resources Business Partner Intern (Hybrid)](https://jobright.ai/jobs/info/6924c7d038cd5478a8d5db47?utm_campaign=1054&utm_source=git)** | Greater Cleveland | Hybrid | Nov 24 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Customer Retention Internship - Summer 2026](https://jobright.ai/jobs/info/6924eae1c0cefa13343e4190?utm_campaign=1054&utm_source=git)** | McKinney, TX | On Site | Nov 24 |
-| **[Next Step Talent](http://www.nextsteptalent.co)** | **[Talent Management Intern](https://jobright.ai/jobs/info/6924f0a8ec574f4265bb96ed?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Greater Washington Partnership](https://greaterwashingtonpartnership.com/)** | **[Skills & Talent Intern](https://jobright.ai/jobs/info/6924e5fb38cd5478a8d5f7b8?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/6924bf8bec574f4265bb684c?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
 | **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6924bebbc0cefa13343e16f9?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 24 |
