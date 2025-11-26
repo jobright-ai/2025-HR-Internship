@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68eeb0ced078b81ad160dc05?utm_campaign=1054&utm_source=git)** | Rochester, NH | On Site | Nov 26 |
+| ↳ | **[Human Resources Summer Intern](https://jobright.ai/jobs/info/691021c6988c2b7b4ec5033e?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
 | **[Orange County Transportation Authority](https://www.octa.net/)** | **[College Intern- Talent Acquisition & Compensation](https://jobright.ai/jobs/info/6926db5af0beb072326268c3?utm_campaign=1054&utm_source=git)** | Orange, CA | On Site | Nov 26 |
 | **[Gentherm](https://gentherm.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68eec7d8d078b81ad160f49c?utm_campaign=1054&utm_source=git)** | Novi, MI | On Site | Nov 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - HR Technology Innovation Research](https://jobright.ai/jobs/info/68edd0ee70b66e2345d4146a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 26 |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68b63299f4e41a61efd91fb7?utm_campaign=1054&utm_source=git)** | Plainfield, IL | On Site | Nov 26 |
+| **[Michigan Association of Secondary School Principals (MASSP)](https://massp.com/)** | **[Human Resources and Business Office Intern](https://jobright.ai/jobs/info/6926ed65f0beb07232626bb6?utm_campaign=1054&utm_source=git)** | Fitzgerald, GA | On Site | Nov 26 |
+| **[Rio Tinto](http://www.riotinto.com)** | **[Intern - HR & Learning Development](https://jobright.ai/jobs/info/6926ee25f0beb07232626bf1?utm_campaign=1054&utm_source=git)** | Superior, AZ | On Site | Nov 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[HR Partner - Student Affairs Units](https://jobright.ai/jobs/info/6926c40ed47de4798ecd8b04?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69269676d47de4798ecd8378?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Employee Experience- EN](https://jobright.ai/jobs/info/6926928b27bf2f41a2c470a9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909348bd046ab6061cd2dd8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925abd9d47de4798ecd0d81?utm_campaign=1054&utm_source=git)** | Noblesville IN  14400 Bergen, Noblesville, Indiana, United States | On Site | Nov 25 |
 | ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925aae427bf2f41a2c3fb5b?utm_campaign=1054&utm_source=git)** | Davidson NC  800B Beaty St, Davidson, North Carolina, United States | Hybrid | Nov 25 |
-| ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925a98bd47de4798ecd0c6b?utm_campaign=1054&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | On Site | Nov 25 |
-| ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925a82c27bf2f41a2c3f9ac?utm_campaign=1054&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Nov 25 |
-| **[Ericsson](https://www.ericsson.com)** | **[Talent and Development People Intern](https://jobright.ai/jobs/info/6925a1dd27bf2f41a2c3f84e?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Nov 25 |
-| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68d1e8e917554c2d9eee0dc8?utm_campaign=1054&utm_source=git)** | Mentor, OH | On Site | Nov 25 |
-| **[Zoox](https://www.zoox.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69091073bcccf20de59d6aef?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
