@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[HR Partner - Student Affairs Units](https://jobright.ai/jobs/info/6926c40ed47de4798ecd8b04?utm_campaign=1054&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69269676d47de4798ecd8378?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Employee Experience- EN](https://jobright.ai/jobs/info/6926928b27bf2f41a2c470a9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Occupational Health Services (Western CA)- EN](https://jobright.ai/jobs/info/6926928927bf2f41a2c470a7?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 25 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/69091073bcccf20de59d6aef?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 | ↳ | **[Employee Communications Intern](https://jobright.ai/jobs/info/69090bb7bcccf20de59d6685?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/69092899bcccf20de59d80ed?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69257bfef0beb0723261dd99?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 25 |
-| ↳ | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
