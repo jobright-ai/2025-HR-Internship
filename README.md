@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern, Employee Experience- EN](https://jobright.ai/jobs/info/6926928b27bf2f41a2c470a9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| **[CN](http://www.cn.ca)** | **[Intern, HR Transformation- EN](https://jobright.ai/jobs/info/69269676d47de4798ecd8378?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| ↳ | **[Intern, Employee Experience- EN](https://jobright.ai/jobs/info/6926928b27bf2f41a2c470a9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Occupational Health Services (Western CA)- EN](https://jobright.ai/jobs/info/6926928927bf2f41a2c470a7?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 25 |
 | ↳ | **[Intern, Benefits Advisor- EN](https://jobright.ai/jobs/info/69269101f0beb07232625c04?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Recruiting (Winter/Spring 2026)](https://jobright.ai/jobs/info/692689a127bf2f41a2c46ea4?utm_campaign=1054&utm_source=git)** | Lathrop, CA | On Site | Nov 25 |
@@ -146,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Vontier](https://www.vontier.com)** | **[People & Culture Operations SUMMER Intern (Manufacturing)](https://jobright.ai/jobs/info/690d6660d046ab6061cf5e75?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 25 |
 | **[Sun Country Airlines](https://www.suncountry.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6909348bd046ab6061cd2dd8?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925abd9d47de4798ecd0d81?utm_campaign=1054&utm_source=git)** | Noblesville IN  14400 Bergen, Noblesville, Indiana, United States | On Site | Nov 25 |
-| ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925a9a027bf2f41a2c3fa8e?utm_campaign=1054&utm_source=git)** | Davidson NC  800B Beaty St, Davidson, North Carolina, United States | Hybrid | Nov 25 |
+| ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925aae427bf2f41a2c3fb5b?utm_campaign=1054&utm_source=git)** | Davidson NC  800B Beaty St, Davidson, North Carolina, United States | Hybrid | Nov 25 |
 | ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925a98bd47de4798ecd0c6b?utm_campaign=1054&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | On Site | Nov 25 |
 | ↳ | **[2026 Human Resources Intern](https://jobright.ai/jobs/info/6925a82c27bf2f41a2c3f9ac?utm_campaign=1054&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Nov 25 |
 | **[Ericsson](https://www.ericsson.com)** | **[Talent and Development People Intern](https://jobright.ai/jobs/info/6925a1dd27bf2f41a2c3f84e?utm_campaign=1054&utm_source=git)** | Plano, TX | On Site | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[People Operations Intern](https://jobright.ai/jobs/info/69092899bcccf20de59d80ed?utm_campaign=1054&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources](https://jobright.ai/jobs/info/69257bfef0beb0723261dd99?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 25 |
 | ↳ | **[Internship - Human Resources](https://jobright.ai/jobs/info/6925783227bf2f41a2c3eff4?utm_campaign=1054&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Nov 25 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Compensation Intern](https://jobright.ai/jobs/info/691f7754a49a885af9a304fb?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
