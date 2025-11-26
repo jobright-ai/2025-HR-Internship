@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HCR Home Care](https://hcrhealth.com)** | **[Intern](https://jobright.ai/jobs/info/69273d4bd47de4798ecdaeb3?utm_campaign=1054&utm_source=git)** | Rochester, NY | On Site | Nov 26 |
+| **[NorthRock Partners](https://www.northrockpartners.com/)** | **[People Team Intern - Summer 2026](https://jobright.ai/jobs/info/6927508b91ceeb2e8a53df38?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
+| **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6927474af0beb07232628b29?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 26 |
+| **[World Merit](https://platform.worldmerit.org/)** | **[Internship Development](https://jobright.ai/jobs/info/6927464cd47de4798ecdb1f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[HR Intern (Remote – USA Candidates Only)](https://jobright.ai/jobs/info/6927450ad47de4798ecdb14b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
+| **[VertoTech](vertotech.us)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/692740d9f0beb0723262890d?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 26 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources intern - Bilingual Mandarin](https://jobright.ai/jobs/info/69127566d1047e3565cfcca6?utm_campaign=1054&utm_source=git)** | Buford, GA | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Nov 26 |
 | ↳ | **[Management Trainee Spring Internship - Logan](https://jobright.ai/jobs/info/68eeff8720456578d5eb3d71?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Nov 26 |
@@ -72,13 +76,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68d3faac5ae5a90cfd482711?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Nov 26 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc3da10b650604b60b63?utm_campaign=1054&utm_source=git)** | Reno, NV | On Site | Nov 26 |
 | **[Coinbase](https://www.coinbase.com)** | **[HR M&A Intern](https://jobright.ai/jobs/info/69217ef0a49a885af9a462f6?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[AXENTRA OS](https://www.xircls.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69270da591ceeb2e8a53c4af?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/690b4fd8221b890c277f43c3?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 26 |
 | **[ParallelDots](http://www.paralleldots.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6927050591ceeb2e8a53c19b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Human Resources Intern - Graduate](https://jobright.ai/jobs/info/68d28751f0d9af73038d94ab?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6909b587d046ab6061cd7707?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Nov 25 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d5fa17554c2d9eee0104?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Nov 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/69095ebd4a1b456627affd17?utm_campaign=1054&utm_source=git)** | Shamokin Dam, PA | On Site | Nov 25 |
-| **[Birge & Held](https://birgeandheld.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6925def427bf2f41a2c41365?utm_campaign=1054&utm_source=git)** | Indianapolis, IN, US | On Site | Nov 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/68ed57ac70b66e2345d3d017?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Nov 25 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Nov 25 |
-| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/68ee6fae46e5b153e5a5a6dd?utm_campaign=1054&utm_source=git)** | Apex, NC | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
