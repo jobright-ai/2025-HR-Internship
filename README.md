@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/6927bd58f0beb0723262d945?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Nov 26 |
+| **[Royal Technologies Corp.](http://royaltechnologiescorp.com)** | **[HR Intern - Recruiting](https://jobright.ai/jobs/info/6927b8a8d47de4798ecdff07?utm_campaign=1054&utm_source=git)** | Hudsonville, MI | On Site | Nov 26 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6927c70fd47de4798ece068c?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Retail HR Intern](https://jobright.ai/jobs/info/692791e0d47de4798ecdea01?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 26 |
 | **[Amcor](http://www.amcor.com/)** | **[HR Intern - Learning & Development](https://jobright.ai/jobs/info/691e36c4a49a885af9a2652f?utm_campaign=1054&utm_source=git)** | Appleton-Oshkosh Area | On Site | Nov 26 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[HR Intern, Business Support](https://jobright.ai/jobs/info/6927776cd47de4798ecdcf17?utm_campaign=1054&utm_source=git)** | Red Lion, PA | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/692609a527bf2f41a2c42c16?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Nov 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/692605f527bf2f41a2c42790?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career Pathways Intern (Unpaid)](https://jobright.ai/jobs/info/69260394f0beb07232621232?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Nov 25 |
-| **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692601f727bf2f41a2c425ef?utm_campaign=1054&utm_source=git)** | Welch, MN 55089, USA | On Site | Nov 25 |
-| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Family Engagement Specialist](https://jobright.ai/jobs/info/6925ff2cf0beb07232620fea?utm_campaign=1054&utm_source=git)** | Middlebury,  VT | On Site | Nov 25 |
-| **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/69094a66bcccf20de59d9a03?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
