@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f9c617554c2d9eeec8d3?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Nov 27 |
+| **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 27 |
+| **[Mistral AI](https://mistral.ai)** | **[Recruitment Coordinator (Internship)](https://jobright.ai/jobs/info/69283133d47de4798ece217f?utm_campaign=1054&utm_source=git)** | Paris, TX | Hybrid | Nov 27 |
+| **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, People Team & Operations](https://jobright.ai/jobs/info/69282c51f0beb0723262f9ca?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern l Queens/Brooklyn NY](https://jobright.ai/jobs/info/69281c0291ceeb2e8a5448a7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[RK&K](https://www.rkk.com/)** | **[College Intern](https://jobright.ai/jobs/info/6927ecead47de4798ece145f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Nov 26 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6927ec52f0beb0723262ed49?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Broad River Retail](https://www.broadriverretail.com/)** | **[Intern, Experience and Events](https://jobright.ai/jobs/info/692627d3f0beb07232622951?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Nov 25 |
 | **[NSF](http://www.nsf.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69264ddef0beb07232623df0?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Nov 25 |
 | **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services (Eastern CA)- EN](https://jobright.ai/jobs/info/69264a94f0beb07232623c55?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
-| **[Rocket](https://rocket.delivery/null/en)** | **[People Development Intern - Summer 2026](https://jobright.ai/jobs/info/6926223427bf2f41a2c43a5f?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Nov 25 |
-| **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Family Engagement Specialist](https://jobright.ai/jobs/info/69261b07f0beb07232622138?utm_campaign=1054&utm_source=git)** | Middlebury, VT | On Site | Nov 25 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of North Carolina - Greensboro](https://jobright.ai/jobs/info/692616f8d47de4798ecd4696?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 25 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Human Resources (Talent Management)](https://jobright.ai/jobs/info/68ffe82ce0c73b3a111a03ce?utm_campaign=1054&utm_source=git)** | KC Metro Area | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
