@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69285324f0beb07232630036?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Nov 27 |
+| **[rand* construction corporation](http://randcc.com)** | **[HR Intern - Alexandria, VA](https://jobright.ai/jobs/info/690bca90221b890c277f848a?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 27 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[INTERNSHIP DEVELOPMENT PROFESSIONAL HR](https://jobright.ai/jobs/info/691accc845fb6f5ead8ade42?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 27 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69243bd5c0cefa13343ddc75?utm_campaign=1054&utm_source=git)** | Maquoketa, IA | On Site | Nov 27 |
+| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69243ccb38cd5478a8d59a1a?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Nov 27 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f9c617554c2d9eeec8d3?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Nov 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 27 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 27 |
 | **[Mistral AI](https://mistral.ai)** | **[Recruitment Coordinator (Internship)](https://jobright.ai/jobs/info/69283133d47de4798ece217f?utm_campaign=1054&utm_source=git)** | Paris, TX | Hybrid | Nov 27 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, People Team & Operations](https://jobright.ai/jobs/info/69282c51f0beb0723262f9ca?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern l Queens/Brooklyn NY](https://jobright.ai/jobs/info/69281c0291ceeb2e8a5448a7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Office of Employee Benefits (Finance and Accounting)](https://jobright.ai/jobs/info/691f77833f782d2f1afbc842?utm_campaign=1054&utm_source=git)** | Newark, NJ | On Site | Nov 25 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/6927986cd47de4798ecdee39?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Nov 25 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69264938d47de4798ecd6296?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Nov 25 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6926423fd47de4798ecd5ea1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[DeBra-Kuempel](https://dkemcor.com/)** | **[HR Intern/Co-Op](https://jobright.ai/jobs/info/692634f727bf2f41a2c4472d?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Nov 25 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/69262b7927bf2f41a2c43f4e?utm_campaign=1054&utm_source=git)** | Holland, Michigan, United States | Hybrid | Nov 25 |
-| **[Broad River Retail](https://www.broadriverretail.com/)** | **[Intern, Experience and Events](https://jobright.ai/jobs/info/692627d3f0beb07232622951?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Nov 25 |
-| **[NSF](http://www.nsf.org)** | **[Intern Human Resources](https://jobright.ai/jobs/info/69264ddef0beb07232623df0?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Nov 25 |
-| **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services (Eastern CA)- EN](https://jobright.ai/jobs/info/69264a94f0beb07232623c55?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
