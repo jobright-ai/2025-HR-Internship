@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern l Queens/Brooklyn NY](https://jobright.ai/jobs/info/69281c0291ceeb2e8a5448a7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[RK&K](https://www.rkk.com/)** | **[College Intern](https://jobright.ai/jobs/info/6927ecead47de4798ece145f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Nov 26 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6927ec52f0beb0723262ed49?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6927e917d47de4798ece13d5?utm_campaign=1054&utm_source=git)** | Baltimore, MD, 21202, United States | Hybrid | Nov 26 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69275a7ff0beb072326294ba?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | Hybrid | Nov 26 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6927474af0beb07232628b29?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Nov 26 |
 | **[World Merit](https://platform.worldmerit.org/)** | **[Internship Development](https://jobright.ai/jobs/info/6927464cd47de4798ecdb1f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
-| **[GAOTek Inc.](https://www.gaotek.com)** | **[HR Intern (Remote – USA Candidates Only)](https://jobright.ai/jobs/info/6927450ad47de4798ecdb14b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69275f26d47de4798ecdbf4e?utm_campaign=1054&utm_source=git)** | Middlesex, NJ | On Site | Nov 26 |
 | ↳ | **[Human Resources intern - Bilingual Mandarin](https://jobright.ai/jobs/info/69127566d1047e3565cfcca6?utm_campaign=1054&utm_source=git)** | Buford, GA | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Nov 26 |
