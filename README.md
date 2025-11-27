@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jubilant Radiopharma](https://www.jubilantradiopharma.com)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928bbd791ceeb2e8a546477?utm_campaign=1054&utm_source=git)** | Kirkland, Quebec, Canada | On Site | Nov 27 |
+| **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6928b5c2f0beb072326311fd?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Nov 27 |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Theater Management Paid Internship](https://jobright.ai/jobs/info/6928add8d47de4798ece3777?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Theater Management Paid Internship](https://jobright.ai/jobs/info/6928a7b7f0beb07232630fba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
