@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amcor](http://www.amcor.com/)** | **[HR Intern - Learning & Development](https://jobright.ai/jobs/info/691e36c4a49a885af9a2652f?utm_campaign=1054&utm_source=git)** | Appleton-Oshkosh Area | On Site | Nov 26 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[HR Intern, Business Support](https://jobright.ai/jobs/info/6927776cd47de4798ecdcf17?utm_campaign=1054&utm_source=git)** | Red Lion, PA | On Site | Nov 26 |
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69277107d47de4798ecdcbee?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69276f0891ceeb2e8a53f40e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Nov 26 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69276efaf0beb0723262a270?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 26 |
@@ -71,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[World Merit](https://platform.worldmerit.org/)** | **[Internship Development](https://jobright.ai/jobs/info/6927464cd47de4798ecdb1f6?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[HR Intern (Remote – USA Candidates Only)](https://jobright.ai/jobs/info/6927450ad47de4798ecdb14b?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 26 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69275f26d47de4798ecdbf4e?utm_campaign=1054&utm_source=git)** | Middlesex, NJ | On Site | Nov 26 |
-| **[VertoTech](vertotech.us)** | **[Human Resources Analyst Intern](https://jobright.ai/jobs/info/692740d9f0beb0723262890d?utm_campaign=1054&utm_source=git)** | Ada, MI | On Site | Nov 26 |
-| **[JD.COM](http://corporate.jd.com)** | **[Human Resources intern - Bilingual Mandarin](https://jobright.ai/jobs/info/69127566d1047e3565cfcca6?utm_campaign=1054&utm_source=git)** | Buford, GA | On Site | Nov 26 |
+| ↳ | **[Human Resources intern - Bilingual Mandarin](https://jobright.ai/jobs/info/69127566d1047e3565cfcca6?utm_campaign=1054&utm_source=git)** | Buford, GA | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b83e0507090163b6ba0678?utm_campaign=1054&utm_source=git)** | Columbia, MO | On Site | Nov 26 |
 | ↳ | **[Management Trainee Spring Internship - Logan](https://jobright.ai/jobs/info/68eeff8720456578d5eb3d71?utm_campaign=1054&utm_source=git)** | Logan, UT | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d22e1ba54edb3bf3e1bb4a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Family Engagement Specialist](https://jobright.ai/jobs/info/6925ff2cf0beb07232620fea?utm_campaign=1054&utm_source=git)** | Middlebury,  VT | On Site | Nov 25 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Human Resource Intern](https://jobright.ai/jobs/info/69094a66bcccf20de59d9a03?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Nov 25 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 People & Culture Analytics Internship / Hybrid](https://jobright.ai/jobs/info/6909281abcccf20de59d8062?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 25 |
-| **[Spooky Nook Sports](http://spookynooksports.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6925f3b1f0beb0723262093a?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
