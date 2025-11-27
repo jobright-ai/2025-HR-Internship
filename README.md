@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RK&K](https://www.rkk.com/)** | **[College Intern](https://jobright.ai/jobs/info/6927ecead47de4798ece145f?utm_campaign=1054&utm_source=git)** | Baltimore, MD | Hybrid | Nov 26 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6927ec52f0beb0723262ed49?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Nov 26 |
+| ↳ | **[College Intern](https://jobright.ai/jobs/info/6927e917d47de4798ece13d5?utm_campaign=1054&utm_source=git)** | Baltimore, MD, 21202, United States | Hybrid | Nov 26 |
 | **[Digital Dynamics, Inc.](http://www.digitaldynamics.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6927dc1df0beb0723262e911?utm_campaign=1054&utm_source=git)** | Scotts Valley, CA | On Site | Nov 26 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, People Team & Operations](https://jobright.ai/jobs/info/6927dbe4f0beb0723262e8ec?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Human Resources Business Partner Intern](https://jobright.ai/jobs/info/6927d89dd47de4798ece0f5c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Easterseals NH](https://www.easterseals.com/nh)** | **[Intern-Family Engagement Specialist](https://jobright.ai/jobs/info/69261b07f0beb07232622138?utm_campaign=1054&utm_source=git)** | Middlebury, VT | On Site | Nov 25 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / University of North Carolina - Greensboro](https://jobright.ai/jobs/info/692616f8d47de4798ecd4696?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 25 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - Human Resources (Talent Management)](https://jobright.ai/jobs/info/68ffe82ce0c73b3a111a03ce?utm_campaign=1054&utm_source=git)** | KC Metro Area | Hybrid | Nov 25 |
-| **[Quantinuum](https://www.quantinuum.com)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/6926300d27bf2f41a2c442c2?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Nov 25 |
-| **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Human Resource/Talent Internship (Summer)](https://jobright.ai/jobs/info/69260dc2f0beb072326219e8?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 25 |
-| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69260b47d47de4798ecd3e5c?utm_campaign=1054&utm_source=git)** | 1510 W Lafayette Ave | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
