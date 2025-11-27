@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Digital Dynamics, Inc.](http://www.digitaldynamics.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6927dc1df0beb0723262e911?utm_campaign=1054&utm_source=git)** | Scotts Valley, CA | On Site | Nov 26 |
+| **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, People Team & Operations](https://jobright.ai/jobs/info/6927dbe4f0beb0723262e8ec?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
+| **[Tactile Medical](https://tactilemedical.com)** | **[Human Resources Business Partner Intern](https://jobright.ai/jobs/info/6927d89dd47de4798ece0f5c?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/6927bd58f0beb0723262d945?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Nov 26 |
 | **[Royal Technologies Corp.](http://royaltechnologiescorp.com)** | **[HR Intern - Recruiting](https://jobright.ai/jobs/info/6927b8a8d47de4798ecdff07?utm_campaign=1054&utm_source=git)** | Hudsonville, MI | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6927c70fd47de4798ece068c?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
@@ -87,7 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3ed7417554c2d9eef4ee0?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Nov 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68b77424f4e41a61efd990eb?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
+| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/6927d0fff0beb0723262e522?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quantinuum](https://www.quantinuum.com)** | **[Human Resources Intern - 480](https://jobright.ai/jobs/info/6926300d27bf2f41a2c442c2?utm_campaign=1054&utm_source=git)** | Broomfield, CO | Hybrid | Nov 25 |
 | **[Mary Free Bed Rehabilitation Hospital](https://www.maryfreebed.com/)** | **[Human Resource/Talent Internship (Summer)](https://jobright.ai/jobs/info/69260dc2f0beb072326219e8?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Nov 25 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[YO Try Out Employment Program Internship Westside (NCS) - Mayor's Office of Employment Development](https://jobright.ai/jobs/info/69260b47d47de4798ecd3e5c?utm_campaign=1054&utm_source=git)** | 1510 W Lafayette Ave | On Site | Nov 25 |
-| **[City of North Richland Hills, Texas](http://www.nrhtx.com)** | **[INTERN 1 - HUMAN RESOURCES](https://jobright.ai/jobs/info/69263529f0beb072326231c2?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Nov 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Economic Empowerment Intern (Unpaid)](https://jobright.ai/jobs/info/692609a527bf2f41a2c42c16?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Nov 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/692605f527bf2f41a2c42790?utm_campaign=1054&utm_source=git)** | Buffalo, NY | On Site | Nov 25 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Career Pathways Intern (Unpaid)](https://jobright.ai/jobs/info/69260394f0beb07232621232?utm_campaign=1054&utm_source=git)** | Elizabeth, NJ | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
