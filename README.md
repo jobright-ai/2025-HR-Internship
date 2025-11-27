@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SWBC](https://www.swbc.com)** | **[HR Staffing Intern](https://jobright.ai/jobs/info/68f01e9778ba1621431e1fa7?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Nov 27 |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Theater Management Paid Internship](https://jobright.ai/jobs/info/6928a7b7f0beb07232630fba?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1054&utm_source=git)** | Memphis, TN | On Site | Nov 27 |
 | ↳ | **[Management Trainee Spring Internship - Provo](https://jobright.ai/jobs/info/690c0899d046ab6061cea43b?utm_campaign=1054&utm_source=git)** | Provo, UT | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efd973de50091dbfa50aad?utm_campaign=1054&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
@@ -129,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69276f0891ceeb2e8a53f40e?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Nov 26 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69276efaf0beb0723262a270?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Nov 26 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development - Intern](https://jobright.ai/jobs/info/692769bf91ceeb2e8a53ef0c?utm_campaign=1054&utm_source=git)** | Sissonville, WV, US | On Site | Nov 26 |
-| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6927641ad47de4798ecdc185?utm_campaign=1054&utm_source=git)** | Canada | Remote | Nov 26 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Talent and Development - Intern](https://jobright.ai/jobs/info/69275f93d47de4798ecdbf91?utm_campaign=1054&utm_source=git)** | Sissonville, WV | On Site | Nov 26 |
+| ↳ | **[Talent and Development - Intern](https://jobright.ai/jobs/info/69275f93d47de4798ecdbf91?utm_campaign=1054&utm_source=git)** | Sissonville, WV | On Site | Nov 26 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[HR Intern, Business Support](https://jobright.ai/jobs/info/69275f0f91ceeb2e8a53e7d5?utm_campaign=1054&utm_source=git)** | US-PA-Red Lion | On Site | Nov 26 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Retail HR Intern](https://jobright.ai/jobs/info/69275c7191ceeb2e8a53e698?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Nov 26 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69275a7ff0beb072326294ba?utm_campaign=1054&utm_source=git)** | US-FL-Tampa | Hybrid | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d98c8c62e63bc7fe4abe?utm_campaign=1054&utm_source=git)** | Winston-Salem, NC | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d68017554c2d9eef4ac2?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Nov 26 |
-| ↳ | **[Spring 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68d3faac5ae5a90cfd482711?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
