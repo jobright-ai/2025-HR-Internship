@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Busy Bees Nurseries](https://www.busybeeschildcare.co.uk)** | **[HR Intern](https://jobright.ai/jobs/info/6928f0dcf0beb07232631869?utm_campaign=1054&utm_source=git)** | National Support Centre | On Site | Nov 27 |
 | **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928de2391ceeb2e8a546885?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[Jubilant Radiopharma](https://www.jubilantradiopharma.com)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928bbd791ceeb2e8a546477?utm_campaign=1054&utm_source=git)** | Kirkland, Quebec, Canada | On Site | Nov 27 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6928b5c2f0beb072326311fd?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Nov 27 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68d4ce83fcd3367e8df1800c?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Nov 27 |
 | ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Nov 27 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/692864c9f0beb0723263046f?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 27 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
