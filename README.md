@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern, Labor Relations & Compliance- EN](https://jobright.ai/jobs/info/6929dc88fa28370be26957fb?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
+| **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Industrial/Personnel Security Intern (Transitioning Military)](https://jobright.ai/jobs/info/6929f854fa28370be2695e87?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Human Resources Center](https://jobright.ai/jobs/info/6929f755fa28370be2695e1a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, CA | On Site | Nov 28 |
+| **[Conexant](http://www.conexant.com/)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/6929f711fa28370be2695dee?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Labor Relations & Compliance- FR](https://jobright.ai/jobs/info/6929e74d4c474121999cab1d?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
+| **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 28 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Talent Pool Business Internship](https://jobright.ai/jobs/info/6929e2584c474121999caa19?utm_campaign=1054&utm_source=git)** | San Francisco, CA | Remote | Nov 28 |
+| **[CN](http://www.cn.ca)** | **[Intern, Human Resources Center- EN](https://jobright.ai/jobs/info/6929e1c24c474121999ca9f5?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Labor Relations & Compliance- EN](https://jobright.ai/jobs/info/6929dc88fa28370be26957fb?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Human Resources Information Systems Analyst- EN](https://jobright.ai/jobs/info/6929d77166796e3028f8d4df?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Nov 28 |
@@ -89,7 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 28 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/6929e14e66796e3028f8d748?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Nov 28 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/68d400078c62e63bc7fe53f1?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Nov 28 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | Hybrid | Nov 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Carmel/Westfield](https://jobright.ai/jobs/info/68d4ce3dfcd3367e8df17f64?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Talent Intelligence Intern](https://jobright.ai/jobs/info/69286908d47de4798ece2bed?utm_campaign=1054&utm_source=git)** | Somerset, NJ | On Site | Nov 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3dac48c62e63bc7fe4b55?utm_campaign=1054&utm_source=git)** | Salisbury, NC | On Site | Nov 27 |
-| ↳ | **[Spring 2026 Management Intern Fort Worth](https://jobright.ai/jobs/info/68f051d4e2767e5e924c55cf?utm_campaign=1054&utm_source=git)** | Keller, TX | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68d4ce83fcd3367e8df1800c?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Nov 27 |
-| ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Nov 27 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/692864c9f0beb0723263046f?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 27 |
-| **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
