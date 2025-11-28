@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928de2391ceeb2e8a546885?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[Jubilant Radiopharma](https://www.jubilantradiopharma.com)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928bbd791ceeb2e8a546477?utm_campaign=1054&utm_source=git)** | Kirkland, Quebec, Canada | On Site | Nov 27 |
 | **[Matriosh](Matriosh.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6928b5c2f0beb072326311fd?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Remote | Nov 27 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Theater Management Paid Internship](https://jobright.ai/jobs/info/6928add8d47de4798ece3777?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Nov 27 |
@@ -84,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68d3f9f75ae5a90cfd48268e?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 27 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68d400c55ae5a90cfd482812?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Nov 27 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/691d3858bcdbf3560c9ee4d0?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Nov 27 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Nov 27 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc715e55be5e2604e0b2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Greenwood/Franklin](https://jobright.ai/jobs/info/68d52eb71ecb447aa43e81bd?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Nov 27 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3ed7417554c2d9eef4ee0?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Nov 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68b77424f4e41a61efd990eb?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 26 |
-| **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/6927d0fff0beb0723262e522?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Nashville](https://jobright.ai/jobs/info/690ab44f4a1b456627b0a6bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
