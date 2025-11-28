@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69292507f0beb07232631f57?utm_campaign=1054&utm_source=git)** | St John’s, Newfoundland and Labrador, Canada | On Site | Nov 27 |
+| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291d8ef0beb07232631ec3?utm_campaign=1054&utm_source=git)** | Sydney, Nova Scotia, Canada | On Site | Nov 27 |
+| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291c82f0beb07232631e8c?utm_campaign=1054&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Nov 27 |
+| ↳ | **[Management Trainee Summer Internship - 2026 - Bilingual](https://jobright.ai/jobs/info/69291bc591ceeb2e8a546f97?utm_campaign=1054&utm_source=git)** | Dieppe, New Brunswick, Canada | On Site | Nov 27 |
+| ↳ | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Nov 27 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/6929191fd47de4798ece4493?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Career Advance Intern (9920) - Multiple Divisions - SFO - TEX](https://jobright.ai/jobs/info/69291522f0beb07232631d23?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern (Engineering), Winter 2026](https://jobright.ai/jobs/info/69212e703f782d2f1afd0091?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 27 |
@@ -89,7 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Inclusion/Internal Communication HR Intern](https://jobright.ai/jobs/info/690bf3204a1b456627b14989?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68d3f9f75ae5a90cfd48268e?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 27 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/68d400c55ae5a90cfd482812?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Nov 27 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6929290cd47de4798ece460b?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Nov 27 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Nov 27 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc715e55be5e2604e0b2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Nov 27 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Bloomington](https://jobright.ai/jobs/info/68d4ce83fcd3367e8df1800c?utm_campaign=1054&utm_source=git)** | Bloomington, IN | On Site | Nov 27 |
 | ↳ | **[Management Trainee Spring Internship - Salt Lake City](https://jobright.ai/jobs/info/690c073c221b890c277fab89?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Nov 27 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7cc580514b74d7c3ea6f0?utm_campaign=1054&utm_source=git)** | Marion, IL | On Site | Nov 27 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d6165ae5a90cfd481d78?utm_campaign=1054&utm_source=git)** | Asheville, NC | On Site | Nov 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/692864c9f0beb0723263046f?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 27 |
 | **[Foremost Farms USA](http://www.foremostfarms.com/)** | **[Process Documentation Internship (Summer 2026)](https://jobright.ai/jobs/info/68d402e65ae5a90cfd48290d?utm_campaign=1054&utm_source=git)** | Richland Center, WI | Hybrid | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Muncie](https://jobright.ai/jobs/info/68f0feebe6870116b1f52973?utm_campaign=1054&utm_source=git)** | Muncie, IN | On Site | Nov 27 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69243ccb38cd5478a8d59a1a?utm_campaign=1054&utm_source=git)** | Plymouth, MI | On Site | Nov 27 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f9c617554c2d9eeec8d3?utm_campaign=1054&utm_source=git)** | Watsonville, CA | On Site | Nov 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Cyber Incident Response/Customer Security Operations - SkillBridge Intern](https://jobright.ai/jobs/info/690c0510221b890c277fa99c?utm_campaign=1054&utm_source=git)** | Maryland, United States | Hybrid | Nov 27 |
-| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, People Team & Operations](https://jobright.ai/jobs/info/692864f891ceeb2e8a54561a?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Nov 27 |
 | **[Mistral AI](https://mistral.ai)** | **[Recruitment Coordinator (Internship)](https://jobright.ai/jobs/info/69283133d47de4798ece217f?utm_campaign=1054&utm_source=git)** | Paris, TX | Hybrid | Nov 27 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, People Team & Operations](https://jobright.ai/jobs/info/69282c51f0beb0723262f9ca?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Nov 26 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d22e1ba54edb3bf3e1bb4a?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Nov 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68b778ad1ade4306aa64b328?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Nov 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Early Talent Programs Intern (Spring/Jan 2026)](https://jobright.ai/jobs/info/6927388391ceeb2e8a53d593?utm_campaign=1054&utm_source=git)** | In-Office | On Site | Nov 26 |
-| **[HCR Home Care](https://hcrhealth.com)** | **[Intern](https://jobright.ai/jobs/info/69273769d47de4798ecdac5c?utm_campaign=1054&utm_source=git)** | Monroe County NY, Rochester, NY, US | On Site | Nov 26 |
 | **[CSC](http://www.cscglobal.com)** | **[HR Intern- Talent Operations](https://jobright.ai/jobs/info/690a7b514a1b456627b085c0?utm_campaign=1054&utm_source=git)** | Wilmington, DE | Hybrid | Nov 26 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3ed7417554c2d9eef4ee0?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Nov 26 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68b77424f4e41a61efd990eb?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
