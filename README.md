@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/692919bed47de4798ece44bd?utm_campaign=1054&utm_source=git)** | Saint John, New Brunswick, Canada | On Site | Nov 27 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/6929191fd47de4798ece4493?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Career Advance Intern (9920) - Multiple Divisions - SFO - TEX](https://jobright.ai/jobs/info/69291522f0beb07232631d23?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
+| **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern (Engineering), Winter 2026](https://jobright.ai/jobs/info/69212e703f782d2f1afd0091?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 27 |
 | **[Busy Bees Nurseries](https://www.busybeeschildcare.co.uk)** | **[HR Intern](https://jobright.ai/jobs/info/6928f0dcf0beb07232631869?utm_campaign=1054&utm_source=git)** | National Support Centre | On Site | Nov 27 |
 | **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928de2391ceeb2e8a546885?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | **[Jubilant Radiopharma](https://www.jubilantradiopharma.com)** | **[COOP Étudiant(e) d’hiver, RH et Attraction des talents / COOP Winter Student, HR & Talent Attraction](https://jobright.ai/jobs/info/6928bbd791ceeb2e8a546477?utm_campaign=1054&utm_source=git)** | Kirkland, Quebec, Canada | On Site | Nov 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/68d01c1ffb49c96ca6eadf68?utm_campaign=1054&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3ed7417554c2d9eef4ee0?utm_campaign=1054&utm_source=git)** | Boone, NC | On Site | Nov 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68b77424f4e41a61efd990eb?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 26 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d0f617554c2d9eef49bd?utm_campaign=1054&utm_source=git)** | Mooresville, NC | On Site | Nov 26 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d502a54edb3bf3e1680a?utm_campaign=1054&utm_source=git)** | Fayetteville, NC | On Site | Nov 26 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d615a54edb3bf3e16916?utm_campaign=1054&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
-| **[FlatironDragados](https://www.fdcorp.com)** | **[Human Resources Co-op (8 month term)](https://jobright.ai/jobs/info/691db94aad5a517034795c0b?utm_campaign=1054&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
