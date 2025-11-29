@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Nov 29 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Nov 29 |
+| **[Portland Community College](http://www.pcc.edu/)** | **[Mgr/Program II - Apprenticeship](https://jobright.ai/jobs/info/692ad335fa28370be2697b6b?utm_campaign=1054&utm_source=git)** | Swans Island, ME | On Site | Nov 29 |
+| **[PADNOS](http://padnos.com)** | **[HR Intern](https://jobright.ai/jobs/info/692ad31266796e3028f8f9b8?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 29 |
+| **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69229d857795cd460c83664b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6225b42bc4562828245?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Researcher](https://jobright.ai/jobs/info/690e858dd046ab6061cfe79a?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services - Indigenous- EN](https://jobright.ai/jobs/info/692a787b4c474121999cc327?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/692a78614c474121999cc324?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/692a78554c474121999cc31e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
@@ -67,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/6925299ad47de4798eccda93?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-HR](https://jobright.ai/jobs/info/692a65e7fa28370be26970d9?utm_campaign=1054&utm_source=git)** | St Cloud, MN | Hybrid | Nov 28 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Human Resources Analyst](https://jobright.ai/jobs/info/692a652dfa28370be26970af?utm_campaign=1054&utm_source=git)** | Ada, MI | Remote | Nov 28 |
-| **[Cybers Pulse](https://cyberspulse.com/)** | **[HR intern](https://jobright.ai/jobs/info/692a527566796e3028f8ed08?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/692a2821fa28370be2696872?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 28 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/692a13114c474121999cb5e6?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 28 |
 | **[Accelevation LLC](https://www.accelevationllc.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/692a0f40fa28370be2696453?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Nov 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/69288670f0beb07232630ad2?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/692885cc91ceeb2e8a545c0d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | ↳ | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/6928858b91ceeb2e8a545bfa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
-| ↳ | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/6928852991ceeb2e8a545bdf?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
-| ↳ | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/69288525f0beb07232630a5a?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
-| ↳ | **[Intern, HR - Indigenous- EN](https://jobright.ai/jobs/info/692884e2f0beb07232630a47?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - West Indiana](https://jobright.ai/jobs/info/68d4d0d4ffc1276de3fde513?utm_campaign=1054&utm_source=git)** | Brownsburg, IN | On Site | Nov 27 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/68b77d602124650c1402322b?utm_campaign=1054&utm_source=git)** | Pittsfield, MA | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68d537af39247e3c807e9154?utm_campaign=1054&utm_source=git)** | Terre Haute, IN | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
