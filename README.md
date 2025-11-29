@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 29 |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Nov 29 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Nov 29 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1054&utm_source=git)** | Medford, MA | On Site | Nov 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Nov 29 |
+| ↳ | **[Summer 2026 Management Internship - Manchester, NH](https://jobright.ai/jobs/info/68cefd9adbd9fb154ede403f?utm_campaign=1054&utm_source=git)** | Manchester, NH | On Site | Nov 29 |
+| **[Thriveworks](https://www.thriveworks.com)** | **[Registered Mental Health Intern - Fee For Service](https://jobright.ai/jobs/info/68b91c1c07090163b6ba7c43?utm_campaign=1054&utm_source=git)** | Gainesville, FL | Hybrid | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[HR Internship - Training](https://jobright.ai/jobs/info/692b10ed66796e3028f90150?utm_campaign=1054&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9c7bf6105227d11897a94?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 29 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Preconstruction Management Intern - Summer 2026](https://jobright.ai/jobs/info/689ce62bfaa4e875e826bb6b?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/6929e14e66796e3028f8d748?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Nov 28 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[HR Intern](https://jobright.ai/jobs/info/690d7589d046ab6061cf6671?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/68d400078c62e63bc7fe53f1?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Nov 28 |
-| **[Sensata Technologies](http://www.sensata.com)** | **[Talent Acquisition & Social Media Intern - Summer 2026](https://jobright.ai/jobs/info/68d42eb38c62e63bc7fe680b?utm_campaign=1054&utm_source=git)** | Attleboro, MA | Hybrid | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/68cf733f846f0b04af6822e0?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Nov 28 |
-| **[Humana](http://www.humana.com)** | **[Senior Talent Management Professional - Intern Program](https://jobright.ai/jobs/info/68f1bbbeef766b3f0fd1162c?utm_campaign=1054&utm_source=git)** | Louisville, KY | On Site | Nov 28 |
-| **[Ulteig](http://ulteig.com)** | **[Summer 2026 Employee Experience Intern](https://jobright.ai/jobs/info/68f194f7f462172a5a7da213?utm_campaign=1054&utm_source=git)** | West Fargo, ND | On Site | Nov 28 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR - Summer 2026](https://jobright.ai/jobs/info/690d0e624a1b456627b1d198?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Nov 28 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Nov 28 |
-| **[Actus Nutrition](https://actus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d48e948c62e63bc7fea738?utm_campaign=1054&utm_source=git)** | Wautoma, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
