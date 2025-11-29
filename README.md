@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/692a2821fa28370be2696872?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 28 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/692a13114c474121999cb5e6?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 28 |
 | **[Accelevation LLC](https://www.accelevationllc.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/692a0f40fa28370be2696453?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Nov 28 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692a08fc66796e3028f8e12d?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d86d8c62e63bc7fe4a2c?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Nov 27 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b7caed5e55be5e2604dd36?utm_campaign=1054&utm_source=git)** | O'Fallon, IL | On Site | Nov 27 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/68b7cc715e55be5e2604e0b2?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Nov 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
