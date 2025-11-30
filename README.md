@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68b9cd875f3832749186101c?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 30 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 30 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Talent Acquisition (Summer 2026) - (Hybrid)](https://jobright.ai/jobs/info/68bb37ad5f3832749186d4d3?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 30 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/692c439ffa28370be269add0?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 30 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Nov 30 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Nov 30 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92b56105227d118a72ba?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 28 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 28 |
+| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
