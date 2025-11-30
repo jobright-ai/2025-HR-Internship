@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Nov 29 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Specialist (MAIO Intern)](https://jobright.ai/jobs/info/692b38a566796e3028f90508?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 29 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Nov 29 |
@@ -89,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/68d6072463d77d6f6f3f3d9e?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Nov 29 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Nov 29 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Nov 29 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/692afd1566796e3028f8fe15?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Nov 29 |
-| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69214fa8a49a885af9a44f70?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Nov 29 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69214fa8a49a885af9a44f70?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 29 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/689e1be3faa4e875e8276c5e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 29 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69170bf9bcdbf3560c9c47bf?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Nov 29 |
@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Human Resources Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/6916fdf1bcdbf3560c9c3bf8?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 29 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Human Resources Intern, Summer 2026](https://jobright.ai/jobs/info/68b88dc95b42bc45628256b6?utm_campaign=1054&utm_source=git)** | Waller, TX | On Site | Nov 29 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/68f301f39a65fd3458582c83?utm_campaign=1054&utm_source=git)** | Maui | On Site | Nov 29 |
-| **[Portland Community College](http://www.pcc.edu/)** | **[Mgr/Program II - Apprenticeship](https://jobright.ai/jobs/info/692ad335fa28370be2697b6b?utm_campaign=1054&utm_source=git)** | Swans Island, ME | On Site | Nov 29 |
 | **[PADNOS](http://padnos.com)** | **[HR Intern](https://jobright.ai/jobs/info/692ad31266796e3028f8f9b8?utm_campaign=1054&utm_source=git)** | Holland, MI | On Site | Nov 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69229d857795cd460c83664b?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d6225b42bc4562828245?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
