@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Talent Acquisition (Summer 2026) - (Hybrid)](https://jobright.ai/jobs/info/68bb37ad5f3832749186d4d3?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 30 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/692c439ffa28370be269add0?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 30 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Nov 30 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Nov 30 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92b56105227d118a72ba?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Nov 30 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Nov 30 |
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 30 |
 | **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[HR and Employee Development Internship (12 months)](https://jobright.ai/jobs/info/691708d5370fde633d07c7d5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 28 |
 | ↳ | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/68d2d60e17554c2d9eeeaaf1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68d4d13d8c62e63bc7feccc5?utm_campaign=1054&utm_source=git)** | Lafayette, IN | On Site | Nov 28 |
-| ↳ | **[Summer 2026 Management Internship - Seacoast, NH Area](https://jobright.ai/jobs/info/68bace706105227d118a0a13?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Nov 28 |
-| ↳ | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Nov 28 |
-| ↳ | **[Spring 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/68f106b0e6870116b1f52e1c?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Nov 28 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689ce610faa4e875e826bb17?utm_campaign=1054&utm_source=git)** | South Burlington, VT | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
