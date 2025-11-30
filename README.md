@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 30 |
+| **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692bfef266796e3028f925a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Nov 29 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Specialist (MAIO Intern)](https://jobright.ai/jobs/info/692b38a566796e3028f90508?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Nov 29 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Nov 29 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Nov 29 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/69214fa8a49a885af9a44f70?utm_campaign=1054&utm_source=git)** | Whitewater, WI | On Site | Nov 29 |
+| ↳ | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/692c284066796e3028f9299f?utm_campaign=1054&utm_source=git)** | Farmington Hills, MI | On Site | Nov 29 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Glendale, AZ](https://jobright.ai/jobs/info/68cfdcd9846f0b04af6857bf?utm_campaign=1054&utm_source=git)** | Glendale, AZ | On Site | Nov 29 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Undergraduate Intern - Human Resources](https://jobright.ai/jobs/info/689e1be3faa4e875e8276c5e?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Nov 29 |
 | **[Flex-N-Gate](http://www.flex-n-gate.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69170bf9bcdbf3560c9c47bf?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/68f106b0e6870116b1f52e1c?utm_campaign=1054&utm_source=git)** | Boca Raton, FL | On Site | Nov 28 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689ce610faa4e875e826bb17?utm_campaign=1054&utm_source=git)** | South Burlington, VT | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
