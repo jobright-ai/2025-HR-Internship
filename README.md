@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/6922c8c438cd5478a8d551de?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ca40b22a2cb4b9bd1be1e?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ce9c2bcdbf3560c9eb10f?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691178a8988c2b7b4ec54d91?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 30 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Nov 30 |
 | **[John Deere](https://www.deere.com)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/68cfe6f5fb49c96ca6eac65b?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692bfef266796e3028f925a0?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Nov 29 |
 | **[PROJXON](www.projxon.com)** | **[Human Resources Specialist (MAIO Intern)](https://jobright.ai/jobs/info/692b38a566796e3028f90508?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 28 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
