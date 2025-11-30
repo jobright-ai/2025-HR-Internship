@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Training Analyst FT – 6553](https://jobright.ai/jobs/info/692ca7d466796e3028f93320?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/6922c8c438cd5478a8d551de?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ca40b22a2cb4b9bd1be1e?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 28 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
