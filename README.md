@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Industrial/Personnel Security Intern (Transitioning Military)](https://jobright.ai/jobs/info/6929f854fa28370be2695e87?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Human Resources Center](https://jobright.ai/jobs/info/6929f755fa28370be2695e1a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, CA | On Site | Nov 28 |
 | **[Conexant](http://www.conexant.com/)** | **[Human Resources/Labor Relations Intern Program 2026a](https://jobright.ai/jobs/info/6929f711fa28370be2695dee?utm_campaign=1054&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Labor Relations & Compliance- FR](https://jobright.ai/jobs/info/6929e74d4c474121999cab1d?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Human Resources Center- EN](https://jobright.ai/jobs/info/6929e1c24c474121999ca9f5?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Labor Relations & Compliance- EN](https://jobright.ai/jobs/info/6929dc88fa28370be26957fb?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Nov 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
+| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/6929e14e66796e3028f8d748?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
