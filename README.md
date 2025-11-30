@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ce9c2bcdbf3560c9eb10f?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691178a8988c2b7b4ec54d91?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/68bbcd958043103d4f22c9e7?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Nov 30 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7ec20295f8e37655e3f7b?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Nov 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68b9cd875f3832749186101c?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 30 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Nov 30 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Talent Acquisition (Summer 2026) - (Hybrid)](https://jobright.ai/jobs/info/68bb37ad5f3832749186d4d3?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Nov 30 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Undergraduate Intern](https://jobright.ai/jobs/info/692c439ffa28370be269add0?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Nov 30 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Nov 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/68f1a1e4e6870116b1f5b457?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689ce2ed79a9f9666253bea0?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - East Indianapolis](https://jobright.ai/jobs/info/68d4c9faffc1276de3fde1fd?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Nov 28 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Vernon/Willimantic, CT](https://jobright.ai/jobs/info/68d400d98c62e63bc7fe5486?utm_campaign=1054&utm_source=git)** | Vernon Rockville, CT | On Site | Nov 28 |
-| ↳ | **[Spring 2026 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/68b7741cf4e41a61efd990e1?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[HR and Employee Development Internship (12 months)](https://jobright.ai/jobs/info/691708d5370fde633d07c7d5?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68b77585f4e41a61efd9920a?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 28 |
-| ↳ | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/68d2d60e17554c2d9eeeaaf1?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
