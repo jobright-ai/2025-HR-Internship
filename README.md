@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692dd4e34c474121999d3aae?utm_campaign=1054&utm_source=git)** | PA - Trevose, 3800 Horizon Blvd Ste 300 | On Site | Dec 01 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68d7a5bf295f8e37655e0048?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 01 |
 | **[Sight & Sound](https://www.sight-sound.com/)** | **[Summer Internship - Human Resources (Part-Time)](https://jobright.ai/jobs/info/692db47c4c474121999d2e22?utm_campaign=1054&utm_source=git)** | Gordonville, PA | On Site | Dec 01 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Dec 01 |
@@ -68,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | Hybrid | Dec 01 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Atlanta, GA](https://jobright.ai/jobs/info/6812a971c0f674c04d65804f?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 01 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Knowledge Management](https://jobright.ai/jobs/info/691eab7ca49a885af9a2a28e?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb95168043103d4f229ea0?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 01 |
 | ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 01 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6911d46c8b818a6dda66bdc3?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ada4915b415636718b264?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d8e6b4c474121999d23ab?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Dec 01 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-HR](https://jobright.ai/jobs/info/692a65e7fa28370be26970d9?utm_campaign=1054&utm_source=git)** | St Cloud, MN | Hybrid | Nov 28 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/692b65ec4c474121999cdbfe?utm_campaign=1054&utm_source=git)** | Waterloo,IA,US | On Site | Nov 28 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/692a2821fa28370be2696872?utm_campaign=1054&utm_source=git)** | California, United States | Remote | Nov 28 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/692a13114c474121999cb5e6?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 28 |
-| **[Accelevation LLC](https://www.accelevationllc.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/692a0f40fa28370be2696453?utm_campaign=1054&utm_source=git)** | Miamisburg, OH | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
