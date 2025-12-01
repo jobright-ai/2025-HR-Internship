@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 01 |
+| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 01 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Miami, FL](https://jobright.ai/jobs/info/6911d46c8b818a6dda66bdc3?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/691ada4915b415636718b264?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 01 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b17?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/692d8e6b4c474121999d23ab?utm_campaign=1054&utm_source=git)** | Sterling, IL | On Site | Dec 01 |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/691200aad1047e3565cf8e33?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Intern - Human Resources - Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 01 |
 | ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Human Resources Information Systems Analyst- EN](https://jobright.ai/jobs/info/6929d77166796e3028f8d4df?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b9cada5f38327491860c95?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Nov 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Occupational Health Services - Indigenous- EN](https://jobright.ai/jobs/info/6929d5d366796e3028f8d45a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/6929d5a44c474121999ca6de?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, Analyst Global Mobility- EN](https://jobright.ai/jobs/info/6929d4e64c474121999ca67e?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, Human Resources Business Analysis- EN](https://jobright.ai/jobs/info/6929d4a366796e3028f8d3f7?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, Labour Relations & Compliance- EN](https://jobright.ai/jobs/info/6929d48b4c474121999ca64d?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| ↳ | **[Intern, Compensation (Market Analyst)- EN](https://jobright.ai/jobs/info/6929d424fa28370be269553d?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
