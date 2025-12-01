@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/691200aad1047e3565cf8e33?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| ↳ | **[Intern - Human Resources - Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 01 |
+| ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/692d65f04c474121999d1b46?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/692cfb184c474121999d0ccc?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 30 |
 | ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/692cf48766796e3028f939ca?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 30 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY- Operations Service Coordinator](https://jobright.ai/jobs/info/692cd0d7fa28370be269b8e6?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Labour Relations & Compliance- EN](https://jobright.ai/jobs/info/6929d48b4c474121999ca64d?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | ↳ | **[Intern, Compensation (Market Analyst)- EN](https://jobright.ai/jobs/info/6929d424fa28370be269553d?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 28 |
-| ↳ | **[Spring 2026 Management Trainee Intern Jupiter & Stuart](https://jobright.ai/jobs/info/68d5f86c63d77d6f6f3f379b?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Nov 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Labour Relations & Compliance- EN](https://jobright.ai/jobs/info/6929d1f24c474121999ca55a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 28 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
