@@ -105,9 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ba6d656105227d1189df5d?utm_campaign=1054&utm_source=git)** | Derby, KS | On Site | Nov 29 |
 | ↳ | **[Management Trainee Winter 2025  Internship](https://jobright.ai/jobs/info/690e5d3c221b890c2780d2d4?utm_campaign=1054&utm_source=git)** | San Rafael, CA | On Site | Nov 29 |
 | ↳ | **[Summer 2026 Management Trainee Intern - New Bedford/Dartmouth, MA](https://jobright.ai/jobs/info/68cdae42e23def7af55bddcf?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Nov 29 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Year-Round Intern, Workforce and Workplace Management Analytics - Division of Supervision and Regulation](https://jobright.ai/jobs/info/69254b8427bf2f41a2c3dfa9?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68c897c5f9c6ff7aedf107cb?utm_campaign=1054&utm_source=git)** | Rialto, CA | On Site | Nov 29 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - People Strategy & Innovation](https://jobright.ai/jobs/info/69198f9015b41563671866f8?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/68d6072463d77d6f6f3f3d9e?utm_campaign=1054&utm_source=git)** | Port St Lucie, FL | On Site | Nov 29 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691d72ea0b7dff734150393c?utm_campaign=1054&utm_source=git)** | Yocumtown, PA | On Site | Nov 29 |
 | **[AZCO](http://www.azco-inc.com)** | **[Payroll Intern - AZCO (Appleton)](https://jobright.ai/jobs/info/68cd14191ad6b16f02894968?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Nov 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Cookeville](https://jobright.ai/jobs/info/68f1a307ef766b3f0fd104bb?utm_campaign=1054&utm_source=git)** | Crossville, TN | On Site | Nov 28 |
 | ↳ | **[Spring 2026 Management Trainee Intern Jupiter & Stuart](https://jobright.ai/jobs/info/68d5f86c63d77d6f6f3f379b?utm_campaign=1054&utm_source=git)** | Jupiter, FL | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations & Compliance- EN](https://jobright.ai/jobs/info/6929d1f24c474121999ca55a?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Nov 28 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68b77965f4e41a61efd9933d?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
