@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/692f46624c474121999dd72d?utm_campaign=1054&utm_source=git)** | US-FL-St Petersburg | On Site | Dec 02 |
+| **[TD](https://www.td.com)** | **[TD Talent Connect - University of Toronto (January 15 & 16, 2026) - Co-op/Intern Applicants](https://jobright.ai/jobs/info/692f56c9fa28370be26a90ed?utm_campaign=1054&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 02 |
+| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Water Country - Human Resources Intern](https://jobright.ai/jobs/info/692f5b1eef4b48533d14478c?utm_campaign=1054&utm_source=git)** | Water Country, 2300 Lafayette Road, Portsmouth,  NH 03801, United States of America | On Site | Dec 02 |
 | **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Volunteer Services Administrative Intern](https://jobright.ai/jobs/info/692f27fc4c474121999dcb49?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f27ccfa28370be26a7cb7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer/Intern Public Health / HR - Project / Resource Coordinator](https://jobright.ai/jobs/info/692f588fef4b48533d1445f1?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Human Resources Intern - Franke Management](https://jobright.ai/jobs/info/69266810d47de4798ecd7068?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Dec 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Dec 02 |
 | ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6918227a45fb6f5ead8a2117?utm_campaign=1054&utm_source=git)** | Gatineau, Quebec, Canada | On Site | Dec 02 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Event Coordinator Spring Internship](https://jobright.ai/jobs/info/6916d9679c388539cbdff1fd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69126bd5c98948514c47ba01?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 02 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide – HR Intern (Performance Management & Evaluations)](https://jobright.ai/jobs/info/692f0693ef4b48533d1423f6?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Dec 02 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/691244aac98948514c47a00a?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 02 |
 | **[AXENTRA OS](https://www.xircls.com/)** | **[Internship - Recruitment](https://jobright.ai/jobs/info/692ed35def4b48533d1415ca?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Dec 02 |
@@ -98,11 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/692ec8934c474121999dad6b?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 02 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Dec 02 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Talent Development & Inclusion](https://jobright.ai/jobs/info/6912760fc98948514c47beed?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692eb197ef4b48533d140e67?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Human Resource ITD Intern](https://jobright.ai/jobs/info/692e86ceef4b48533d1405b1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e788aef4b48533d14015d?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Detroit, MI](https://jobright.ai/jobs/info/692e7179ef4b48533d13fe9b?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 01 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/692e681bef4b48533d13fa18?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e677c4c474121999d9290?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e66bcfa28370be26a43f0?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e64744c474121999d90f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e270cef4b48533d13d171?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Dec 01 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/692e1dd54c474121999d64dc?utm_campaign=1054&utm_source=git)** | North Liberty, Iowa | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692dd6cdfa28370be269ecb2?utm_campaign=1054&utm_source=git)** | CA - Livermore, 3011 Triad Place | Hybrid | Dec 01 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Talent Management](https://jobright.ai/jobs/info/692df552fa28370be269fcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692dd4e34c474121999d3aae?utm_campaign=1054&utm_source=git)** | PA - Trevose, 3800 Horizon Blvd Ste 300 | On Site | Dec 01 |
-| **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/692df36cef4b48533d13afb5?utm_campaign=1054&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
