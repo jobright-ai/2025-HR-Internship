@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
+| **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/691244aac98948514c47a00a?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 02 |
+| **[AXENTRA OS](https://www.xircls.com/)** | **[Internship - Recruitment](https://jobright.ai/jobs/info/692ed35def4b48533d1415ca?utm_campaign=1054&utm_source=git)** | New York, NY | Remote | Dec 02 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[Human Resources Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6920577aa49a885af9a38d91?utm_campaign=1054&utm_source=git)** | Bedford, MA | Hybrid | Dec 02 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - HR Shared Services](https://jobright.ai/jobs/info/6912df86d1047e3565cffd98?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/692ec8934c474121999dad6b?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 02 |
+| **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Dec 02 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Talent Development & Inclusion](https://jobright.ai/jobs/info/6912760fc98948514c47beed?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692eb197ef4b48533d140e67?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Human Resource ITD Intern](https://jobright.ai/jobs/info/692e86ceef4b48533d1405b1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e788aef4b48533d14015d?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Detroit, MI](https://jobright.ai/jobs/info/692e7179ef4b48533d13fe9b?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 01 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/692e681bef4b48533d13fa18?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e677c4c474121999d9290?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
@@ -74,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73ccef4b48533d13ffc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73464c474121999d9971?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
-| **[The Social Hub](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/692e5592ef4b48533d13ee8f?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Dec 01 |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/692e5592ef4b48533d13ee8f?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Dec 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692e70cb4c474121999d9854?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 01 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Human Resources Summer Student Intern](https://jobright.ai/jobs/info/692e477cfa28370be26a3175?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Dec 01 |
@@ -99,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e1b03fa28370be26a1513?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e1113fa28370be26a0ce7?utm_campaign=1054&utm_source=git)** | San Mateo, California, United States | On Site | Dec 01 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - Human Resources (9500)](https://jobright.ai/jobs/info/692e0d79ef4b48533d13c168?utm_campaign=1054&utm_source=git)** | Brooksville, FL | Hybrid | Dec 01 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692e070eef4b48533d13bc7a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 01 |
 | **[Dometic](https://www.dometic.com)** | **[Human Resources (Talent) Intern](https://jobright.ai/jobs/info/692e05b74c474121999d55c5?utm_campaign=1054&utm_source=git)** | Troy, MI | Hybrid | Dec 01 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern- Global Payroll, Timekeeping, Travel & Expense Analyst](https://jobright.ai/jobs/info/692e0576ef4b48533d13bb23?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 01 |
 | **[Facebook](https://www.meta.com)** | **[Human Resources Summer Student Intern](https://jobright.ai/jobs/info/692e68c94c474121999d93ba?utm_campaign=1054&utm_source=git)** | Columbia, South Carolina | On Site | Dec 01 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Employee Experience](https://jobright.ai/jobs/info/691200aad1047e3565cf8e33?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Intern - Human Resources - Strategy & Operations](https://jobright.ai/jobs/info/6911be59bb519377733f10b8?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 01 |
 | ↳ | **[Intern - Human Resources - Total Rewards (TR)](https://jobright.ai/jobs/info/6911c1cfbb519377733f11c6?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/692d65f04c474121999d1b46?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Dec 01 |
-| ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/692e1bb9ef4b48533d13c9c8?utm_campaign=1054&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/692e1bb9ef4b48533d13c9c8?utm_campaign=1054&utm_source=git)** | Effingham, Illinois | On Site | Dec 01 |
 | **[LightFeather](https://lightfeather.io)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/692cfb184c474121999d0ccc?utm_campaign=1054&utm_source=git)** | DC Metro Area | On Site | Nov 30 |
 | ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/692cf48766796e3028f939ca?utm_campaign=1054&utm_source=git)** | Alexandria, VA | On Site | Nov 30 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY- Operations Service Coordinator](https://jobright.ai/jobs/info/692cd0d7fa28370be269b8e6?utm_campaign=1054&utm_source=git)** | Texas, United States | Remote | Nov 30 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Training Analyst FT – 6553](https://jobright.ai/jobs/info/692ca7d466796e3028f93320?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Nov 30 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/6922c8c438cd5478a8d551de?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
-| ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ca40b22a2cb4b9bd1be1e?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Nov 30 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ce9c2bcdbf3560c9eb10f?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
