@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewish Family Service of Colorado](http://www.jewishfamilyservice.org)** | **[Volunteer Services Administrative Intern](https://jobright.ai/jobs/info/692f27fc4c474121999dcb49?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 02 |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f27ccfa28370be26a7cb7?utm_campaign=1054&utm_source=git)** | Cincinnati, OH | On Site | Dec 02 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Human Resources Intern - Franke Management](https://jobright.ai/jobs/info/69266810d47de4798ecd7068?utm_campaign=1054&utm_source=git)** | Smyrna, TN | On Site | Dec 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Dec 02 |
 | ↳ | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6918227a45fb6f5ead8a2117?utm_campaign=1054&utm_source=git)** | Gatineau, Quebec, Canada | On Site | Dec 02 |
@@ -68,6 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/691ab4f8bcdbf3560c9d9ef4?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 02 |
 | **[Arconic](https://www.arconic.com)** | **[HR Intern](https://jobright.ai/jobs/info/6914017ee344172248f75e82?utm_campaign=1054&utm_source=git)** | Visalia, CA | On Site | Dec 02 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3a398e65e77df55b8614?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 02 |
+| **[Find Me](https://fyndme.co)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/692f42084c474121999dd4ef?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[HR Intern](https://jobright.ai/jobs/info/689c0a6183d13d1f5b6a545e?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
+| **[St. Tammany Health System](https://www.sttammany.health)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f34ffef4b48533d143693?utm_campaign=1054&utm_source=git)** | Covington, LA | On Site | Dec 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/692efc0eef4b48533d14204f?utm_campaign=1054&utm_source=git)** | Effingham, IL | On Site | Dec 02 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ab439a65fd3458595e51?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Dec 02 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Employee Experience](https://jobright.ai/jobs/info/69125816d1047e3565cfb86d?utm_campaign=1054&utm_source=git)** | Columbia, MO | Hybrid | Dec 02 |
@@ -93,10 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Human Resources](https://jobright.ai/jobs/info/692ec8934c474121999dad6b?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 02 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Dec 02 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Human Resources - Talent Development & Inclusion](https://jobright.ai/jobs/info/6912760fc98948514c47beed?utm_campaign=1054&utm_source=git)** | San Francisco Bay Area | On Site | Dec 02 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692eb197ef4b48533d140e67?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
-| **[G.A.O TEK](G.A.O TEK)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692ee503ef4b48533d141911?utm_campaign=1054&utm_source=git)** | Huntsville, AL | Remote | Dec 01 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 01 |
 | **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Human Resource ITD Intern](https://jobright.ai/jobs/info/692e86ceef4b48533d1405b1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e788aef4b48533d14015d?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Detroit, MI](https://jobright.ai/jobs/info/692e7179ef4b48533d13fe9b?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 01 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/692e681bef4b48533d13fa18?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e677c4c474121999d9290?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
@@ -106,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/692e5a3c4c474121999d8b2a?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Dec 01 |
 | **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f82e9c388539cbdef057?utm_campaign=1054&utm_source=git)** | Lebanon, OH | On Site | Dec 01 |
 | **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | Dec 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73ccef4b48533d13ffc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
-| ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73464c474121999d9971?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73464c474121999d9971?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
+| ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73ccef4b48533d13ffc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/692e5592ef4b48533d13ee8f?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Dec 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692e70cb4c474121999d9854?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Talent Management](https://jobright.ai/jobs/info/692df552fa28370be269fcb1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692dd4e34c474121999d3aae?utm_campaign=1054&utm_source=git)** | PA - Trevose, 3800 Horizon Blvd Ste 300 | On Site | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/692df36cef4b48533d13afb5?utm_campaign=1054&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| **[Right Balance ®](http://rightbalance.io)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6925ac73d47de4798ecd0df0?utm_campaign=1054&utm_source=git)** | Latin America | On Site | Dec 01 |
-| **[Richemont](https://www.richemont.com/)** | **[Group Talent Acquisition Intern](https://jobright.ai/jobs/info/692df47cfa28370be269fc17?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e2113ef4b48533d13cdbf?utm_campaign=1054&utm_source=git)** | PA - Pittsburgh, 15 Summit Park Dr | On Site | Dec 01 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
