@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[Human Resource ITD Intern](https://jobright.ai/jobs/info/692e86ceef4b48533d1405b1?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
+| **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 01 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e788aef4b48533d14015d?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Urban Science](http://urbanscience.com/)** | **[HR Intern - Detroit, MI](https://jobright.ai/jobs/info/692e7179ef4b48533d13fe9b?utm_campaign=1054&utm_source=git)** | Detroit, MI | Hybrid | Dec 01 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[HR Intern](https://jobright.ai/jobs/info/692e681bef4b48533d13fa18?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e677c4c474121999d9290?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e66bcfa28370be26a43f0?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692e65024c474121999d9147?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e64744c474121999d90f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
-| **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 01 |
+| ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e64744c474121999d90f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 01 |
 | ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/692e5a3c4c474121999d8b2a?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Dec 01 |
 | **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f82e9c388539cbdef057?utm_campaign=1054&utm_source=git)** | Lebanon, OH | On Site | Dec 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/691178a8988c2b7b4ec54d91?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Nov 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/68bbcd958043103d4f22c9e7?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Nov 30 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7ec20295f8e37655e3f7b?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Nov 30 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68b9cd875f3832749186101c?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
