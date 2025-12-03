@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2026 Human Resource Intern](https://jobright.ai/jobs/info/68dc6da5accfd24b67e5579e?utm_campaign=1054&utm_source=git)** | Greenville, NC | On Site | Dec 03 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/693007a04c474121999e3b02?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 03 |
 | ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/693006474c474121999e3a8a?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | On Site | Dec 03 |
 | **[Guerbet](http://www.guerbet.com)** | **[HR Intern](https://jobright.ai/jobs/info/69300547fa28370be26aeb0d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 03 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f72a24c474121999df275?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Dec 02 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/692f7ff4fa28370be26aaeee?utm_campaign=1054&utm_source=git)** | Flint, MI | On Site | Dec 02 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f7573fa28370be26aa5d5?utm_campaign=1054&utm_source=git)** | New Jersey, United States | On Site | Dec 02 |
+| **[Android Industries](http://www.android-ind.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69301455fa28370be26aee57?utm_campaign=1054&utm_source=git)** | Flint Plant, 4444 West Maple Avenue, Flint, Michigan, United States of America | On Site | Dec 02 |
 | **[Strada Education Foundation](https://www.stradaeducation.org)** | **[Strada Education Foundation Internship: Talent Department](https://jobright.ai/jobs/info/692f8e244c474121999e0595?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 02 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/692f46624c474121999dd72d?utm_campaign=1054&utm_source=git)** | US-FL-St Petersburg | On Site | Dec 02 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/692f838afa28370be26ab022?utm_campaign=1054&utm_source=git)** | SD Metro Area | On Site | Dec 02 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Event Coordinator Spring Internship](https://jobright.ai/jobs/info/6916d9679c388539cbdff1fd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69126bd5c98948514c47ba01?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 02 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide – HR Intern (Performance Management & Evaluations)](https://jobright.ai/jobs/info/692f0693ef4b48533d1423f6?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Dec 02 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/691244aac98948514c47a00a?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 02 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources, Compensation Internship](https://jobright.ai/jobs/info/692ef1904c474121999db6c3?utm_campaign=1054&utm_source=git)** | Warrendale, PA | On Site | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e677c4c474121999d9290?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e66bcfa28370be26a43f0?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e64744c474121999d90f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 01 |
-| ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/692e5a3c4c474121999d8b2a?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
