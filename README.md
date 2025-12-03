@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/693007a04c474121999e3b02?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 03 |
+| ↳ | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/693006474c474121999e3a8a?utm_campaign=1054&utm_source=git)** | Stone Mountain, GA | On Site | Dec 03 |
+| **[Guerbet](http://www.guerbet.com)** | **[HR Intern](https://jobright.ai/jobs/info/69300547fa28370be26aeb0d?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 03 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Corporate HR Intern (2026-27 School Year)](https://jobright.ai/jobs/info/692ffbc2ef4b48533d149e3a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 03 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment HR Partner Intern 2026 - Nationwide](https://jobright.ai/jobs/info/692ffa864c474121999e3741?utm_campaign=1054&utm_source=git)** | Manteca, CA | On Site | Dec 03 |
+| **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/692fee1e4c474121999e33e5?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 03 |
 | **[Generation Hope](https://www.generationhope.org/)** | **[Dallas Spring 2026 Program Recruitment Intern](https://jobright.ai/jobs/info/692fe939fa28370be26ae2b3?utm_campaign=1054&utm_source=git)** | Dallas, Texas, United States | Hybrid | Dec 02 |
 | **[Find Me](https://fyndme.co)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/692fcaedef4b48533d148ec9?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 02 |
@@ -71,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/692fe1dbef4b48533d149603?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | Remote | Dec 02 |
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/692fe061fa28370be26adfac?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Dec 02 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692fc8894c474121999e2798?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 02 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/692fac31fa28370be26aca7c?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 02 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Compensation](https://jobright.ai/jobs/info/692fefe3fa28370be26ae493?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 02 |
+| ↳ | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/692fac31fa28370be26aca7c?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 02 |
 | **[Riddell](http://www.riddell.com/)** | **[Intern - Environmental, Health, Safety and Human Resources](https://jobright.ai/jobs/info/692fb1e74c474121999e1d56?utm_campaign=1054&utm_source=git)** | North Ridgeville, OH 44039, USA | On Site | Dec 02 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f9d93fa28370be26ac1a4?utm_campaign=1054&utm_source=git)** | US-KS-LAWRENCE | On Site | Dec 02 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f9a554c474121999e0e98?utm_campaign=1054&utm_source=git)** | Maryland | Remote | Dec 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e64744c474121999d90f5?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 01 |
 | ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/692e5a3c4c474121999d8b2a?utm_campaign=1054&utm_source=git)** | Charleston, WV | On Site | Dec 01 |
-| **[MANE](https://www.mane.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f82e9c388539cbdef057?utm_campaign=1054&utm_source=git)** | Lebanon, OH | On Site | Dec 01 |
-| **[Contemporary Amperex Technology Kentucky LLC](http://www.catl.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68b89d16ea901c0d269f81f5?utm_campaign=1054&utm_source=git)** | Battle Creek, MI | On Site | Dec 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73464c474121999d9971?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 01 |
-| ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e73ccef4b48533d13ffc6?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 01 |
-| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Talent Foundation Management Intern](https://jobright.ai/jobs/info/692e5592ef4b48533d13ee8f?utm_campaign=1054&utm_source=git)** | NL-Hub | On Site | Dec 01 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/692e70cb4c474121999d9854?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
