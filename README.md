@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.co)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/692fcaedef4b48533d148ec9?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692fa9664c474121999e198c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Dec 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/692fa5754c474121999e1675?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
+| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/692f99eeef4b48533d1473f7?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 02 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f96334c474121999e0bb6?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Dec 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/692f93ddfa28370be26abbb8?utm_campaign=1054&utm_source=git)** | Halethorpe, MD, US | On Site | Dec 02 |
+| **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692fc8894c474121999e2798?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/692fac31fa28370be26aca7c?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 02 |
 | **[Riddell](http://www.riddell.com/)** | **[Intern - Environmental, Health, Safety and Human Resources](https://jobright.ai/jobs/info/692fb1e74c474121999e1d56?utm_campaign=1054&utm_source=git)** | North Ridgeville, OH 44039, USA | On Site | Dec 02 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f9d93fa28370be26ac1a4?utm_campaign=1054&utm_source=git)** | US-KS-LAWRENCE | On Site | Dec 02 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/692f7d8bef4b48533d145fc5?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Dec 02 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Talent Connect - University of Toronto (January 15 & 16, 2026) - Co-op/Intern Applicants](https://jobright.ai/jobs/info/692f9e3c4c474121999e10c3?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 02 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692f77d04c474121999df6e0?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 02 |
+| **[PROJXON](www.projxon.com)** | **[Human Resources Recruiting Specialist (MAIO Intern)](https://jobright.ai/jobs/info/692fbcedfa28370be26ad2b1?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | Remote | Dec 02 |
 | **[League One Volleyball (LOVB)](http://www.lovb.com)** | **[College Recruiting Support Associate/Intern](https://jobright.ai/jobs/info/692f753dfa28370be26aa5a9?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Dec 02 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, HR & People Teams (Summer 2026)](https://jobright.ai/jobs/info/692f9b21fa28370be26abf7b?utm_campaign=1054&utm_source=git)** | Austin, TX | On Site | Dec 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/692f6e494c474121999deea1?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
@@ -121,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resource Event Coordinator Spring Internship](https://jobright.ai/jobs/info/6916d9679c388539cbdff1fd?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Talent Acquisition Summer Intern](https://jobright.ai/jobs/info/69126bd5c98948514c47ba01?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 02 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 02 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 02 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 02 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide – HR Intern (Performance Management & Evaluations)](https://jobright.ai/jobs/info/692f0693ef4b48533d1423f6?utm_campaign=1054&utm_source=git)** | New York City, NY | On Site | Dec 02 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Intern](https://jobright.ai/jobs/info/691244aac98948514c47a00a?utm_campaign=1054&utm_source=git)** | Perth Amboy, NJ | On Site | Dec 02 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources, Compensation Internship](https://jobright.ai/jobs/info/692ef1904c474121999db6c3?utm_campaign=1054&utm_source=git)** | Warrendale, PA | On Site | Dec 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e43cb4c474121999d7be9?utm_campaign=1054&utm_source=git)** | US-MA-Boston | Hybrid | Dec 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Clarksburg, WV](https://jobright.ai/jobs/info/692e68c14c474121999d93b2?utm_campaign=1054&utm_source=git)** | Clarksburg, WV | On Site | Dec 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/692e40befa28370be26a2cff?utm_campaign=1054&utm_source=git)** | US-CA-Los Angeles | Hybrid | Dec 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/692e5d9cfa28370be26a3f4f?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 01 |
-| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Dec 01 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
