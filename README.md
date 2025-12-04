@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Way Miami](http://www.unitedwaymiami.org)** | **[Human Resources Intern - Spring Semester (Credit Only)](https://jobright.ai/jobs/info/69315553fa28370be26b8336?utm_campaign=1054&utm_source=git)** | Miami, FL | On Site | Dec 04 |
+| **[GAOTek Inc.](https://www.gaotek.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69313ef4ef4b48533d153263?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 03 |
+| **[Camping World](http://www.campingworld.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/693155e1fa28370be26b8373?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[National Heritage Academies](http://www.prepnetschools.com)** | **[Employee Experience Intern NEX YR](https://jobright.ai/jobs/info/69312f4cfa28370be26b76c5?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
 | **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693127bf4c474121999ec5f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 03 |
+| **[University of Iowa Research](https://research.uiowa.edu)** | **[HR Intern, University Human Resources Student Pathways Program](https://jobright.ai/jobs/info/69314804fa28370be26b7ebb?utm_campaign=1054&utm_source=git)** | Iowa City, Iowa, United States | On Site | Dec 03 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/693120984c474121999ec381?utm_campaign=1054&utm_source=git)** | Wisconsin Rapids, WI | Remote | Dec 03 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/69310fe54c474121999ebb0b?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 03 |
 | **[Enterprise Properties Inc](https://enterprise-properties.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69310cd5ef4b48533d151efd?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 03 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Talent Acquisition Intern NEX YR](https://jobright.ai/jobs/info/693100e24c474121999eb25f?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
 | **[CoreCivic](http://www.corecivic.com/)** | **[Treatment Counselor- TX LCDC-INTERN (Substance Abuse)](https://jobright.ai/jobs/info/6930ffe34c474121999eb1c5?utm_campaign=1054&utm_source=git)** | El Paso, TX | On Site | Dec 03 |
-| **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship Workforce Solutions Program Media / Temporary Aide - Hybrid.](https://jobright.ai/jobs/info/6930fa854c474121999eae8b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Hybrid | Dec 03 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Human Resources Intern - Spring 2026](https://jobright.ai/jobs/info/6930fa3bef4b48533d1513e9?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 03 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Talent Attraction Intern NEX YR](https://jobright.ai/jobs/info/693102adef4b48533d15199a?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/693112c0ef4b48533d1522e0?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Dec 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Talent Management Intern](https://jobright.ai/jobs/info/693108c24c474121999eb5fa?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 02 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692fa9664c474121999e198c?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Dec 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Payroll Intern](https://jobright.ai/jobs/info/693107a9ef4b48533d151b3d?utm_campaign=1054&utm_source=git)** | Lincolnshire, IL | Remote | Dec 02 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/692fe442ef4b48533d1496f1?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 02 |
-| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 02 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/692f99eeef4b48533d1473f7?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
