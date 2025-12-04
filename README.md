@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Heritage Academies](http://www.prepnetschools.com)** | **[Employee Experience Intern NEX YR](https://jobright.ai/jobs/info/69312f4cfa28370be26b76c5?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
+| **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693127bf4c474121999ec5f7?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/693120984c474121999ec381?utm_campaign=1054&utm_source=git)** | Wisconsin Rapids, WI | Remote | Dec 03 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/69310fe54c474121999ebb0b?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 03 |
 | **[Enterprise Properties Inc](https://enterprise-properties.com/)** | **[Human Resources Internship](https://jobright.ai/jobs/info/69310cd5ef4b48533d151efd?utm_campaign=1054&utm_source=git)** | Omaha, NE | On Site | Dec 03 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69309fe6fa28370be26b1a3c?utm_campaign=1054&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Dec 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/68cbac3c9e3a822f5d24a4a7?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Dec 03 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68cd10acb2a74e1837ed19e6?utm_campaign=1054&utm_source=git)** | Anderson, SC | On Site | Dec 03 |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6930ccbefa28370be26b3e9f?utm_campaign=1054&utm_source=git)** | UT | On Site | Dec 03 |
-| ↳ | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6930cd82ef4b48533d14f600?utm_campaign=1054&utm_source=git)** | Spanish Fork | On Site | Dec 03 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6930cd82ef4b48533d14f600?utm_campaign=1054&utm_source=git)** | Spanish Fork | On Site | Dec 03 |
+| ↳ | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6930ccbefa28370be26b3e9f?utm_campaign=1054&utm_source=git)** | UT | On Site | Dec 03 |
 | **[All Weather Insulated Panels](http://awipanels.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6930bee6fa28370be26b3383?utm_campaign=1054&utm_source=git)** | East Stroudsburg, PA | On Site | Dec 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c162104d652f04477574e6?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Dec 03 |
 | **[APD Engineering & Architecture, PLLC](http://apd.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69308748ef4b48533d14c2d6?utm_campaign=1054&utm_source=git)** | Victor, NY | On Site | Dec 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Student Recruitment Specialist, International](https://jobright.ai/jobs/info/692fe442ef4b48533d1496f1?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 02 |
 | **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/692f99eeef4b48533d1473f7?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 02 |
-| **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f96334c474121999e0bb6?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Dec 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[HR Human Resources Intern](https://jobright.ai/jobs/info/692f93ddfa28370be26abbb8?utm_campaign=1054&utm_source=git)** | Halethorpe, MD, US | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
