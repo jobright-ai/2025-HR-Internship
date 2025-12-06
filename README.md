@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/6933f082764507023d1bad2b?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 06 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933d0d4a0dde7020e2f2273?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 05 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[The New York Times](https://www.nytco.com/)** | **[HRBP Intern](https://jobright.ai/jobs/info/6933ae3bf131d96e48465d70?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 05 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/693356a6f131d96e48462294?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Dec 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/6933517ef131d96e48461df2?utm_campaign=1054&utm_source=git)** | Dallas-Fort Worth, TX | On Site | Dec 05 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[2026 HR Summer Internship](https://jobright.ai/jobs/info/6933767cf131d96e48463a0e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 05 |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/69334df3a0dde7020e2ec66a?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69334db9f131d96e48461a2d?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Dec 05 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69337abe764507023d1b6219?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Dec 05 |
 | **[Exela Pharma Sciences LLC](https://www.exelapharma.com/)** | **[Intern, Human Resources (Hight School Students ONLY)](https://jobright.ai/jobs/info/693348d6764507023d1b3bdd?utm_campaign=1054&utm_source=git)** | Lenoir, NC, US | On Site | Dec 05 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69276efaf0beb0723262a270?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Dec 05 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/69333646a0dde7020e2eb6e8?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Hybrid | Dec 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/69335b7c764507023d1b4bde?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/69334ee7f131d96e48461b5e?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 05 |
 | **[Cabot](https://thecabotcollection.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/6933311e764507023d1b2dce?utm_campaign=1054&utm_source=git)** | Inverness, Nova Scotia, Canada | On Site | Dec 05 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- Appointment Package PDS Intern (NFWS)](https://jobright.ai/jobs/info/69336008764507023d1b4f3f?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Dec 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Early Careers Recruitment Intern](https://jobright.ai/jobs/info/69334a00f131d96e48461778?utm_campaign=1054&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Dec 05 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Human Resource Recruiter Intern](https://jobright.ai/jobs/info/69335759764507023d1b478d?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Operations Intern - Year Round](https://jobright.ai/jobs/info/68fb9c7693c49825ab104143?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Dec 05 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Volunteer Outreach and Engagement Intern](https://jobright.ai/jobs/info/69333e43f131d96e484610a7?utm_campaign=1054&utm_source=git)** | Washington , DC | On Site | Dec 05 |
-| **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/69331643a0dde7020e2ea5d9?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Dec 05 |
 | **[Business-Era](https://business-era.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693311e6a0dde7020e2ea414?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 05 |
+| **[Maverick](https://www.maverickbuilders.com)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/693310f2764507023d1b1f6b?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL, US | On Site | Dec 05 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Dec 05 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Career Development Program](https://jobright.ai/jobs/info/693335c0a0dde7020e2eb68c?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Dec 05 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | Remote | Dec 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[HRS Intern](https://jobright.ai/jobs/info/6933a131a0dde7020e2efb3f?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Dec 04 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Dec 04 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Talent Acquisition (Spring 2026)](https://jobright.ai/jobs/info/69324173a0dde7020e2e4c6a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[Human Resources Business Partner Intern (Summer 2026)](https://jobright.ai/jobs/info/693262e5f131d96e4845bc08?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
