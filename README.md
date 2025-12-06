@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933d0d4a0dde7020e2f2273?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 05 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[The New York Times](https://www.nytco.com/)** | **[HRBP Intern](https://jobright.ai/jobs/info/6933ae3bf131d96e48465d70?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Human Resources (Dignity Health Sport Park)](https://jobright.ai/jobs/info/6933a72cf131d96e48465872?utm_campaign=1054&utm_source=git)** | Carson, CA | On Site | Dec 05 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[HR Summer Internship 2026](https://jobright.ai/jobs/info/693356a6f131d96e48462294?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Dec 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/6933517ef131d96e48461df2?utm_campaign=1054&utm_source=git)** | Dallas-Fort Worth, TX | On Site | Dec 05 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[2026 HR Summer Internship](https://jobright.ai/jobs/info/6933767cf131d96e48463a0e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 05 |
-| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/69334df3a0dde7020e2ec66a?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern Conversion: HR Professional - Armonk NY](https://jobright.ai/jobs/info/69334db9f131d96e48461a2d?utm_campaign=1054&utm_source=git)** | Armonk, NY | Hybrid | Dec 05 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Human Resources (Summer 2026)](https://jobright.ai/jobs/info/69337abe764507023d1b6219?utm_campaign=1054&utm_source=git)** | Hagerstown, MD | On Site | Dec 05 |
 | **[Exela Pharma Sciences LLC](https://www.exelapharma.com/)** | **[Intern, Human Resources (Hight School Students ONLY)](https://jobright.ai/jobs/info/693348d6764507023d1b3bdd?utm_campaign=1054&utm_source=git)** | Lenoir, NC, US | On Site | Dec 05 |
@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[HR/Talent Acquisition Intern](https://jobright.ai/jobs/info/69276efaf0beb0723262a270?utm_campaign=1054&utm_source=git)** | Tampa, FL | Remote | Dec 05 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/69333646a0dde7020e2eb6e8?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Hybrid | Dec 05 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/69335b7c764507023d1b4bde?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
+| **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Caseworker Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/69334ee7f131d96e48461b5e?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 05 |
 | **[Cabot](https://thecabotcollection.com)** | **[Talent & Culture Intern](https://jobright.ai/jobs/info/6933311e764507023d1b2dce?utm_campaign=1054&utm_source=git)** | Inverness, Nova Scotia, Canada | On Site | Dec 05 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment -- Appointment Package PDS Intern (NFWS)](https://jobright.ai/jobs/info/69336008764507023d1b4f3f?utm_campaign=1054&utm_source=git)** | AZ Phoenix | On Site | Dec 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[2026 Summer Early Careers Recruitment Intern](https://jobright.ai/jobs/info/69334a00f131d96e48461778?utm_campaign=1054&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Dec 05 |
@@ -136,8 +137,10 @@ For a complete list, click the following sortable link below:
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Human Resources (HR) - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/6932a53ba0dde7020e2e7e8a?utm_campaign=1054&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 05 |
 | **[Plascore, Inc.](http://plascore.com)** | **[HR Summer Internship (Student Help - Office)](https://jobright.ai/jobs/info/6932cec0a0dde7020e2e8dd3?utm_campaign=1054&utm_source=git)** | Zeeland, MI | Hybrid | Dec 05 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Talent Acquisition Team Intern](https://jobright.ai/jobs/info/69327a82764507023d1aef03?utm_campaign=1054&utm_source=git)** | United States | Hybrid | Dec 04 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933d0b4764507023d1b9bf3?utm_campaign=1054&utm_source=git)** | Columbia, SC | On Site | Dec 04 |
+| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933d021764507023d1b99ae?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Dec 04 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Dec 04 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6933c158764507023d1b91be?utm_campaign=1054&utm_source=git)** | Lees Summit, MO | On Site | Dec 04 |
-| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/693263f2f131d96e4845bce8?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Dec 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/6933baf6f131d96e484667e4?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Dec 04 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Total Rewards Intern - Summer 2026](https://jobright.ai/jobs/info/6933a168a0dde7020e2efb6b?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 04 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/6915518f6f36db06ef04dab9?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Dec 04 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Talent Acquisition (Spring 2026)](https://jobright.ai/jobs/info/69324173a0dde7020e2e4c6a?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Human Resources Business Partner Intern (Summer 2026)](https://jobright.ai/jobs/info/693262e5f131d96e4845bc08?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 04 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69195c8315b415636718532a?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 04 |
-| **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Home Office Intern II (Foundation)](https://jobright.ai/jobs/info/69325fe2a0dde7020e2e6483?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Dec 04 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Inclusion and Corporate Impact Intern - MN, CO](https://jobright.ai/jobs/info/69323495948dde73ff906804?utm_campaign=1054&utm_source=git)** | Twin Cities Area | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
