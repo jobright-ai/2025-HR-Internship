@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/69349921a0dde7020e2f5e7a?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/693489ddf131d96e4846b02c?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | ↳ | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Dec 06 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Technical Center Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Dec 06 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/6933d0b6764507023d1b9bf6?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 06 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Dec 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fa9928b2c86843bf20ff12?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Dec 06 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693440a2f131d96e4846a231?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 06 |
 | **[Bimstore](https://www.bimstore.co.uk/)** | **[HR Intern](https://jobright.ai/jobs/info/69343f0c764507023d1bc6e4?utm_campaign=1054&utm_source=git)** | Mebane, NC | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Dec 06 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df31b1fe896042b0b7798b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Dec 06 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933f8ac764507023d1bb208?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Dec 06 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/6933f082764507023d1bad2b?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69341aa0a0dde7020e2f451e?utm_campaign=1054&utm_source=git)** | Maple Ridge, British Columbia, Canada | On Site | Dec 06 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933d0d4a0dde7020e2f2273?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 05 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[The New York Times](https://www.nytco.com/)** | **[HRBP Intern](https://jobright.ai/jobs/info/6933ae3bf131d96e48465d70?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Human Resources (Dignity Health Sport Park)](https://jobright.ai/jobs/info/6933a72cf131d96e48465872?utm_campaign=1054&utm_source=git)** | Carson, CA | On Site | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 05 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6933953bf131d96e484649bc?utm_campaign=1054&utm_source=git)** | Pleasant Grove, UT | On Site | Dec 05 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/693393da764507023d1b6eb2?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 05 |
-| **[Siemens Energy](https://www.siemens-energy.com/)** | **[Human Resources - Siemens Energy Intern](https://jobright.ai/jobs/info/69336f75a0dde7020e2edfcb?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Compensation Intern](https://jobright.ai/jobs/info/69336e3bf131d96e484633e2?utm_campaign=1054&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
