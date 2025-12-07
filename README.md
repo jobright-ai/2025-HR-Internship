@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Dec 07 |
+| **[Stratify Edge](stratifyedge.us)** | **[Career Development Program](https://jobright.ai/jobs/info/6935bc62a0dde7020e2f9478?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Dec 07 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6934188cf131d96e484697c4?utm_campaign=1054&utm_source=git)** | Marshall, TX | On Site | Dec 07 |
 | **[Coinbase](https://www.coinbase.com)** | **[Talent Sourcing Intern](https://jobright.ai/jobs/info/692144b03f782d2f1afd0bf3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/68b664251ade4306aa644a56?utm_campaign=1054&utm_source=git)** | Wilkes-Barre, PA | On Site | Dec 07 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91db095f5211cd2ceef18?utm_campaign=1054&utm_source=git)** | Ruston, LA | On Site | Dec 07 |
@@ -69,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69358c24a0dde7020e2f8f19?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 07 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Dec 07 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c90996983e6768bc555f06?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 07 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Dec 07 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 07 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd947eb2a74e1837ed8fb5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68cc62c4128dc347fd92406e?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 07 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/693575c1f131d96e4846e507?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 07 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
+| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/691646a39c388539cbdf9659?utm_campaign=1054&utm_source=git)** | Lexington, KY | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- Corpus Christi](https://jobright.ai/jobs/info/68df2e5efe896042b0b778f5?utm_campaign=1054&utm_source=git)** | Corpus Christi, TX | On Site | Dec 06 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/68fa9928b2c86843bf20ff12?utm_campaign=1054&utm_source=git)** | Kearney, NE | On Site | Dec 06 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693440a2f131d96e4846a231?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 06 |
 | **[Bimstore](https://www.bimstore.co.uk/)** | **[HR Intern](https://jobright.ai/jobs/info/69343f0c764507023d1bc6e4?utm_campaign=1054&utm_source=git)** | Mebane, NC | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/691662f36f36db06ef055cb5?utm_campaign=1054&utm_source=git)** | Frankfort, KY | On Site | Dec 06 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Human Resources - Summer 2026](https://jobright.ai/jobs/info/68df31b1fe896042b0b7798b?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb12aa3c99cc1d9602899f?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 06 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69340d44f131d96e4846938b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 06 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933f8ac764507023d1bb208?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Dec 06 |
-| **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/6933f082764507023d1bad2b?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
