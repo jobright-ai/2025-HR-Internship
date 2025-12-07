@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6934a906764507023d1bdb14?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
+| **[KenCCID](https://www.kenccid.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6934d60b764507023d1be0b5?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 06 |
+| **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 06 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/69349921a0dde7020e2f5e7a?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/693489ddf131d96e4846b02c?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | ↳ | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Home Office Intern II (Foundation)](https://jobright.ai/jobs/info/69339cf1a0dde7020e2ef9ff?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Dec 05 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Casework Intern](https://jobright.ai/jobs/info/69339feff131d96e48464f72?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 05 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 05 |
-| **[Trilon Group](https://www.trilongroup.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6933953bf131d96e484649bc?utm_campaign=1054&utm_source=git)** | Pleasant Grove, UT | On Site | Dec 05 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/693393da764507023d1b6eb2?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
