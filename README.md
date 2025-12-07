@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 07 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Dec 07 |
+| **[Ahlstrom](http://www.ahlstrom.com)** | **[Human Resources Intern - Summer 2026, Rhinelander, WI](https://jobright.ai/jobs/info/68e003771852e62f007e6784?utm_campaign=1054&utm_source=git)** | Rhinelander, WI | On Site | Dec 07 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c481c4e471ef3ce16d6d5f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d7917279451d6a0382a5?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 07 |
+| **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd947eb2a74e1837ed8fb5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
+| **[Groq](http://groq.com)** | **[Intern Program Manager](https://jobright.ai/jobs/info/68cc62c4128dc347fd92406e?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 07 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/693575c1f131d96e4846e507?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 07 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[Prince George Campus Recruiting - Talent Pool for CPA Opportunities in Audit and Tax, 2026](https://jobright.ai/jobs/info/691878be45fb6f5ead8a57e4?utm_campaign=1054&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Dec 07 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[HR Operations Intern Summer 2026](https://jobright.ai/jobs/info/68c5c9167d0db41142735101?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 07 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 07 |
 | **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit HR Internship](https://jobright.ai/jobs/info/6934ed60764507023d1be54f?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Dec 06 |
@@ -100,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
+| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/6933d0b6764507023d1b9bf6?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167058286ccf0a15135ecf?utm_campaign=1054&utm_source=git)** | Bowling Green, KY | On Site | Dec 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Leading North American Company](www.TheGAOGroup.com (https://www.thegaogroup.com/))** | **[Human Resources Virtual Internship](https://jobright.ai/jobs/info/6933c24ca0dde7020e2f186b?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | Remote | Dec 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Dec 05 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Benefits & Compensation Intern](https://jobright.ai/jobs/info/693398b7a0dde7020e2ef83a?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 05 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion](https://jobright.ai/jobs/info/6933bcdf764507023d1b8cb9?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Albany, NY Area](https://jobright.ai/jobs/info/69339332f131d96e48464849?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Dec 05 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69338c45a0dde7020e2ef10d?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Dec 05 |
-| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2026 HR Summer Internship](https://jobright.ai/jobs/info/69338af3764507023d1b6aab?utm_campaign=1054&utm_source=git)** | US-PA-Mechanicsburg | On Site | Dec 05 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Impact & Culture Intern](https://jobright.ai/jobs/info/69338918a0dde7020e2eef92?utm_campaign=1054&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 05 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6933b2aff131d96e4846612b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 05 |
-| **[State of Ohio](http://ohio.gov/)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933883da0dde7020e2eef4d?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 05 |
-| **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Admissions Counselor / Evaluator, UNLV Enrollment Management, International Processing [R0149887]](https://jobright.ai/jobs/info/6933aa47a0dde7020e2f053a?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Dec 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6933a442764507023d1b795b?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
