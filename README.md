@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 07 |
 | **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit HR Internship](https://jobright.ai/jobs/info/6934ed60764507023d1be54f?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Dec 06 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 06 |
 | **[KenCCID](https://www.kenccid.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6934d60b764507023d1be0b5?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 06 |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6934a906764507023d1bdb14?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/69349921a0dde7020e2f5e7a?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/693489ddf131d96e4846b02c?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | ↳ | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Dec 06 |
@@ -135,12 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/68fc0c8b4129dd33cd1382cc?utm_campaign=1054&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 06 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/69340d44f131d96e4846938b?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 06 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6933f8ac764507023d1bb208?utm_campaign=1054&utm_source=git)** | Lenexa, KS | On Site | Dec 06 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69353026a0dde7020e2f7c0e?utm_campaign=1054&utm_source=git)** | Los Lunas, NM | On Site | Dec 06 |
-| ↳ | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69352822f131d96e4846d153?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[HR Intern, Federal Services Division (Spring Semester 2026) - Chattanooga, TN](https://jobright.ai/jobs/info/6933f082764507023d1bad2b?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69341aa0a0dde7020e2f451e?utm_campaign=1054&utm_source=git)** | Maple Ridge, British Columbia, Canada | On Site | Dec 06 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Human Resources Intern - Spring 2026](https://jobright.ai/jobs/info/6930e1b84c474121999e9e6f?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 05 |
-| **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933b2eff131d96e4846615f?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
 | **[The New York Times](https://www.nytco.com/)** | **[HRBP Intern](https://jobright.ai/jobs/info/6933ae3bf131d96e48465d70?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Human Resources (Dignity Health Sport Park)](https://jobright.ai/jobs/info/6933a72cf131d96e48465872?utm_campaign=1054&utm_source=git)** | Carson, CA | On Site | Dec 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339fd0f131d96e48464f59?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Dec 05 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[HR Credentialing & Compliance Intern](https://jobright.ai/jobs/info/6933b2aff131d96e4846612b?utm_campaign=1054&utm_source=git)** | Grand Rapids, MI | On Site | Dec 05 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern - Human Resources (Recruiting)](https://jobright.ai/jobs/info/6933883da0dde7020e2eef4d?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 05 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Admissions Counselor / Evaluator, UNLV Enrollment Management, International Processing [R0149887]](https://jobright.ai/jobs/info/6933aa47a0dde7020e2f053a?utm_campaign=1054&utm_source=git)** | LV Metro Area | On Site | Dec 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/6933a442764507023d1b795b?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Dec 05 |
+| **[Spartanburg Regional Healthcare System](http://spartanburgregional.com)** | **[Home Office Intern II (Foundation)](https://jobright.ai/jobs/info/69339cf1a0dde7020e2ef9ff?utm_campaign=1054&utm_source=git)** | Spartanburg, SC | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
