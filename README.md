@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EDSI](http://edsisolutions.com)** | **[Career Center Intern](https://jobright.ai/jobs/info/6936248c764507023d1c1aa6?utm_campaign=1054&utm_source=git)** | NY Upper Manhattan | On Site | Dec 07 |
 | **[Camillo Companies](https://www.camillocompanies.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6935e354a0dde7020e2f9891?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | **[D.C. United](http://dcunited.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6935dc25764507023d1c132d?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Dec 07 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA502: Internship Program Coordinator](https://jobright.ai/jobs/info/6935cec5764507023d1c119d?utm_campaign=1054&utm_source=git)** | US-Remote | Remote | Dec 07 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Comprehensive Community Action Program](https://www.comcap.org/)** | **[Non-Profit HR Internship](https://jobright.ai/jobs/info/6934ed60764507023d1be54f?utm_campaign=1054&utm_source=git)** | Cranston, RI | On Site | Dec 06 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 06 |
 | **[KenCCID](https://www.kenccid.org)** | **[Volunteer Coordinator Internship](https://jobright.ai/jobs/info/6934d60b764507023d1be0b5?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 06 |
-| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/69349921a0dde7020e2f5e7a?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
+| **[Suncore](https://sunroc.com/)** | **[Human Resources Intern (temporary / part-time)](https://jobright.ai/jobs/info/6934a906764507023d1bdb14?utm_campaign=1054&utm_source=git)** | Spanish Fork, UT | On Site | Dec 06 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/693489ddf131d96e4846b02c?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | ↳ | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Dec 06 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/688cff831808534a89cc0304?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Safety)](https://jobright.ai/jobs/info/690c8193d046ab6061cedd4e?utm_campaign=1054&utm_source=git)** | Jefferson City, MO | On Site | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent & Growth Skills Intern, Spring 2026](https://jobright.ai/jobs/info/69341e0f764507023d1bc04c?utm_campaign=1054&utm_source=git)** | Burbank, CA | On Site | Dec 06 |
-| **[DECIEM | THE ABNORMAL BEAUTY COMPANY](http://deciem.com)** | **[People Intern](https://jobright.ai/jobs/info/6918215215b415636717ef1e?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
