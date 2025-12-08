@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/69374253aabec14a727c5a68?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 08 |
+| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiter Intern](https://jobright.ai/jobs/info/69372da3aabec14a727c4be5?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 08 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Employee Benefits & Client Relations Internship](https://jobright.ai/jobs/info/693744a61c1c2161c13f234e?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | Hybrid | Dec 08 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[HR Assistant (Developmental) FT – 6558](https://jobright.ai/jobs/info/69374580aabec14a727c5d0c?utm_campaign=1054&utm_source=git)** | Chesapeake, VA | On Site | Dec 08 |
+| **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern Human Resources](https://jobright.ai/jobs/info/6937443fa0dde7020e300aeb?utm_campaign=1054&utm_source=git)** | South San Francisco, CA | On Site | Dec 08 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Human Resources](https://jobright.ai/jobs/info/693724d7a0dde7020e2ff508?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 08 |
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6937200d1c1c2161c13f0c2e?utm_campaign=1054&utm_source=git)** | Richland, WA | On Site | Dec 08 |
+| **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[Intern, Volunteer Relations](https://jobright.ai/jobs/info/69373645aabec14a727c51b5?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Dec 08 |
 | **[Sotera Health Company](https://soterahealth.com)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/69370dd61c1c2161c13f03fd?utm_campaign=1054&utm_source=git)** | 6280 S. Redwood Road, Taylorsville, UT, 84123, US | On Site | Dec 08 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cbaccbba798c1a501d3c75?utm_campaign=1054&utm_source=git)** | Frankfort, NY | On Site | Dec 08 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Organizational Develoment](https://jobright.ai/jobs/info/6937092f1c1c2161c13f028c?utm_campaign=1054&utm_source=git)** | OH - Cincinnati - 5th St | On Site | Dec 08 |
@@ -70,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Select Medical](http://www.selectmedical.com/)** | **[2026 HR Summer Internship](https://jobright.ai/jobs/info/6933767cf131d96e48463a0e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 08 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[HR Intern / Summer 2026](https://jobright.ai/jobs/info/68a90311d627244576e36e76?utm_campaign=1054&utm_source=git)** | Brentwood, TN | Hybrid | Dec 08 |
 | ↳ | **[DC HR Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68aaae74d627244576e3e2e3?utm_campaign=1054&utm_source=git)** | Franklin, KY | On Site | Dec 08 |
-| **[Hustle Magazine](www.hustlemagazine.co)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6936eef6a0dde7020e2fdde8?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Dec 08 |
+| ↳ | **[DC HR Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68c6d72ec96a22563eceff92?utm_campaign=1054&utm_source=git)** | Pendleton, IN | On Site | Dec 08 |
 | ↳ | **[DC HR Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68aa5159758f2e4ac3ffc656?utm_campaign=1054&utm_source=git)** | Navarre, OH | On Site | Dec 08 |
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/693703aeaabec14a727c37cf?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6936e06faabec14a727c2b04?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
@@ -115,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[San Diego State University](http://www.sdsu.edu)** | **[Associate Director, Recruiting & Industry Relations](https://jobright.ai/jobs/info/693489ddf131d96e4846b02c?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Human Resources - Benefits - Summer Internship 2026](https://jobright.ai/jobs/info/6918865f45fb6f5ead8a5b5a?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | ↳ | **[Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188eab45fb6f5ead8a5dce?utm_campaign=1054&utm_source=git)** | Renton, WA | On Site | Dec 06 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Safety Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/693737dda0dde7020e300059?utm_campaign=1054&utm_source=git)** | New Albany, OH | On Site | Dec 06 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Technical Center Human Resources - Summer Internship 2026](https://jobright.ai/jobs/info/69188b2e45fb6f5ead8a5d53?utm_campaign=1054&utm_source=git)** | Mount Vernon, WA | On Site | Dec 06 |
 | **[Arconic](https://www.arconic.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/68c4b10ffce86561b928874f?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Natick area](https://jobright.ai/jobs/info/6933ba05a0dde7020e2f13c8?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Dec 06 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/69167e9e286ccf0a151369fe?utm_campaign=1054&utm_source=git)** | Richmond, KY | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/6933ddf3764507023d1ba563?utm_campaign=1054&utm_source=git)** | Whitman, MA | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c8e2fd983e6768bc552e3b?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/69344753a0dde7020e2f4f5e?utm_campaign=1054&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68ca31a5d4187c55157a7965?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 06 |
-| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/6933cd30a0dde7020e2f1e84?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/6933ccdea0dde7020e2f1d1b?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/6933b9b1a0dde7020e2f12a8?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 06 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/6933d0b6764507023d1b9bf6?utm_campaign=1054&utm_source=git)** | Williamsport, PA | On Site | Dec 06 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd3ab8e23def7af55b7063?utm_campaign=1054&utm_source=git)** | Fuquay-Varina, NC | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
