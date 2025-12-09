@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EP Wealth Advisors](https://www.epwealth.com)** | **[Internship Opportunities](https://jobright.ai/jobs/info/6937fd1caabec14a727cfabc?utm_campaign=1054&utm_source=git)** | Torrance, CA | Hybrid | Dec 09 |
 | **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/69277107d47de4798ecdcbee?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 09 |
+| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6937fc53b95c305f206d47e3?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Share Creators](http://www.sharecreators.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6937a4b4a0dde7020e30522c?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plant Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6937bfd31c1c2161c13f94e4?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
@@ -88,10 +90,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN (CONTRACTS/POLICY)](https://jobright.ai/jobs/info/693797bf1c1c2161c13f6213?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 08 |
 | ↳ | **[INTERN (HUMAN RESOURCES - TRAINING)](https://jobright.ai/jobs/info/6937947daabec14a727c982c?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 08 |
 | **[EBMUD](https://www.ebmud.com/)** | **[Human Resources Intern I (Part-time)](https://jobright.ai/jobs/info/69379bdeaabec14a727c9c01?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | Dec 08 |
-| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (HUMAN RESOURCES - RECRUITING)](https://jobright.ai/jobs/info/6937898ca0dde7020e303d9c?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
-| ↳ | **[INTERN (ASSET PROTECTION SERVICES)](https://jobright.ai/jobs/info/693792eaa0dde7020e3044cc?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Spring HR Intern/Co-Op](https://jobright.ai/jobs/info/69378ffca0dde7020e304284?utm_campaign=1054&utm_source=git)** | Onsite | On Site | Dec 08 |
-| ↳ | **[Spring HR Intern/Co-Op](https://jobright.ai/jobs/info/693790ee1c1c2161c13f5d0f?utm_campaign=1054&utm_source=git)** | US-OH-Cincinnati | On Site | Dec 08 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (ASSET PROTECTION SERVICES)](https://jobright.ai/jobs/info/693792eaa0dde7020e3044cc?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
+| ↳ | **[INTERN (HUMAN RESOURCES - RECRUITING)](https://jobright.ai/jobs/info/6937898ca0dde7020e303d9c?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Spring HR Intern/Co-Op](https://jobright.ai/jobs/info/693790ee1c1c2161c13f5d0f?utm_campaign=1054&utm_source=git)** | US-OH-Cincinnati | On Site | Dec 08 |
+| ↳ | **[Spring HR Intern/Co-Op](https://jobright.ai/jobs/info/69378ffca0dde7020e304284?utm_campaign=1054&utm_source=git)** | Onsite | On Site | Dec 08 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6937676fa0dde7020e302727?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 08 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Division of Employment and Workforce Solutions (DEWS) Internship - Hourly - Bronx](https://jobright.ai/jobs/info/69375c8ba0dde7020e301d0d?utm_campaign=1054&utm_source=git)** | Bronx, NY | On Site | Dec 08 |
 | **[Calgary Zoo](https://www.calgaryzoo.com/)** | **[Intern, Volunteer Relations](https://jobright.ai/jobs/info/693775691c1c2161c13f4ad3?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 08 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring Internship 2026 - HR, HRIS & Benefits Intern](https://jobright.ai/jobs/info/69374253aabec14a727c5a68?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[HR Intern](https://jobright.ai/jobs/info/6937df3f1c1c2161c13fa188?utm_campaign=1054&utm_source=git)** | Chicago - Illinois - Wacker | On Site | Dec 08 |
 | **[Nelson Labs](http://www.nelsonlabs.com)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/693769e11c1c2161c13f4181?utm_campaign=1054&utm_source=git)** | SLC Metro Area | On Site | Dec 08 |
-| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693762781c1c2161c13f3ad3?utm_campaign=1054&utm_source=git)** | Boise, ID | Hybrid | Dec 08 |
-| ↳ | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/69376c09aabec14a727c7cfb?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Dec 08 |
+| **[HP](http://www.hp.com)** | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/69376c09aabec14a727c7cfb?utm_campaign=1054&utm_source=git)** | Spring, TX | Hybrid | Dec 08 |
+| ↳ | **[Workforce Services and Solutions Technical Internship](https://jobright.ai/jobs/info/693762781c1c2161c13f3ad3?utm_campaign=1054&utm_source=git)** | Boise, ID | Hybrid | Dec 08 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion / Stagiaire, équité, diversité et inclusion](https://jobright.ai/jobs/info/69375940a0dde7020e301a3a?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 08 |
 | **[Perfetti Van Melle](http://www.perfettivanmelle.com)** | **[HR Projects Intern Summer 2026](https://jobright.ai/jobs/info/69375af9a0dde7020e301bf5?utm_campaign=1054&utm_source=git)** | Erlanger, KY | On Site | Dec 08 |
 | **[CPL](https://cplteam.com/locations)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6937547caabec14a727c6857?utm_campaign=1054&utm_source=git)** | Fairport, NY, US | On Site | Dec 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/68d11cccfa731f61692dcae0?utm_campaign=1054&utm_source=git)** | Easton, PA | On Site | Dec 07 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ddc0764507023d1ba494?utm_campaign=1054&utm_source=git)** | Conway, AR | On Site | Dec 07 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c79ad8db52c07d2884ce45?utm_campaign=1054&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 07 |
-| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933d0fe764507023d1b9cfb?utm_campaign=1054&utm_source=git)** | Monroe, LA | On Site | Dec 07 |
-| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933e8e3764507023d1ba99c?utm_campaign=1054&utm_source=git)** | Alexandria, LA | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
