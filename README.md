@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Share Creators](http://www.sharecreators.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/6937a4b4a0dde7020e30522c?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 08 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Plant Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6937bfd31c1c2161c13f94e4?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 08 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/69379c3eaabec14a727c9c3c?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/693798731c1c2161c13f625d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 08 |
 | **[Peninsula Behavioral Health, WA](https://www.peninsulabehavioral.org)** | **[Case Manager Intern](https://jobright.ai/jobs/info/69379830a0dde7020e3048af?utm_campaign=1054&utm_source=git)** | Port Angeles, WA | On Site | Dec 08 |
@@ -132,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[AV Human Resources](https://www.linkedin.com/company/108334151)** | **[Human Resources Student Intern (Co-op)](https://jobright.ai/jobs/info/693703aeaabec14a727c37cf?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6936e06faabec14a727c2b04?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/68b505ff1ade4306aa63f0b6?utm_campaign=1054&utm_source=git)** | Bloomsburg, PA | On Site | Dec 08 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Human Resources (HR) Internship (Summer 2026)](https://jobright.ai/jobs/info/6937b9d1aabec14a727cc98a?utm_campaign=1054&utm_source=git)** | Sterling Heights, MI | On Site | Dec 08 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919cd6145fb6f5ead8aa697?utm_campaign=1054&utm_source=git)** | Irondale, AL | On Site | Dec 08 |
 | **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Future Leaders Program Summer 2026 - Braintree (48513)](https://jobright.ai/jobs/info/68cbb0769e3a822f5d24a798?utm_campaign=1054&utm_source=git)** | Bethesda, MD | On Site | Dec 08 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[HR Intern](https://jobright.ai/jobs/info/691adca115b415636718b54a?utm_campaign=1054&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Dec 08 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Syensqo](https://www.syensqo.com)** | **[Communications & HR Intern](https://jobright.ai/jobs/info/69042ef4d64a22104aa97d4a?utm_campaign=1054&utm_source=git)** | Lawrence, NJ | On Site | Dec 08 |
 | **[GenScript](http://www.genscript.com)** | **[HR Intern, Talent Acquisition](https://jobright.ai/jobs/info/68a63923b6a3617d7fa76585?utm_campaign=1054&utm_source=git)** | Piscataway, NJ | On Site | Dec 07 |
 | **[EDSI](http://edsisolutions.com)** | **[Career Center Intern](https://jobright.ai/jobs/info/6936248c764507023d1c1aa6?utm_campaign=1054&utm_source=git)** | NY Upper Manhattan | On Site | Dec 07 |
-| **[EBMUD](https://www.ebmud.com/)** | **[Human Resources Intern I (Part-time)](https://jobright.ai/jobs/info/6936f223aabec14a727c3076?utm_campaign=1054&utm_source=git)** | Oakland, CA | On Site | Dec 07 |
 | **[Etched](https://www.etched.com)** | **[Talent Intern](https://jobright.ai/jobs/info/6937884baabec14a727c9068?utm_campaign=1054&utm_source=git)** | San Jose | On Site | Dec 07 |
 | **[JerseySTEM](https://www.jerseystem.org)** | **[HUCA502: Internship Program Coordinator](https://jobright.ai/jobs/info/6935cec5764507023d1c119d?utm_campaign=1054&utm_source=git)** | US-Remote | Remote | Dec 07 |
 | **[Citi](https://www.citi.com)** | **[Functions - Human Resources, Summer Analyst, Tampa - USA, 2026](https://jobright.ai/jobs/info/68d8bf1eed09d95201eb69d8?utm_campaign=1054&utm_source=git)** | Tampa, FL | Hybrid | Dec 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69358c24a0dde7020e2f8f19?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/6919ccacbcdbf3560c9d72fd?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 07 |
 | ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d68f31e5763f188e3ed4?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 07 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68c4d5ef7279451d6a037f8b?utm_campaign=1054&utm_source=git)** | Naples, FL | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
