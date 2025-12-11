@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Career Development Program](https://jobright.ai/jobs/info/693a22f7ac80bb5492bca576?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Dec 10 |
+| **[AMH](https://www.americanhomes4rent.com/)** | **[HR Administration Intern](https://jobright.ai/jobs/info/693a04fe56b68f3dc4e75dd3?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Dec 10 |
 | **[GreenSky®](https://www.greensky.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6939e82d56b68f3dc4e73b0b?utm_campaign=1054&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 10 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern Conversion Only: Pension Outsourcing Analyst](https://jobright.ai/jobs/info/693a122956b68f3dc4e76ee1?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 10 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 HR Intern - Winter Haven, FL](https://jobright.ai/jobs/info/693a02b1ac80bb5492bc82d6?utm_campaign=1054&utm_source=git)** | Winter Haven, FL | On Site | Dec 10 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Part time-2026](https://jobright.ai/jobs/info/693a022dac80bb5492bc8165?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 10 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Appointment Package PDS Intern (NFWS)](https://jobright.ai/jobs/info/6939da4b56b68f3dc4e731bb?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 10 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILITATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6939d65a56b68f3dc4e72e92?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 10 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6939cc4556b68f3dc4e72956?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
@@ -120,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 10 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d40b70b7dff7341501820?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Dec 10 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Employee Health and Benefits - Service Intern](https://jobright.ai/jobs/info/69396c2f56b68f3dc4e6d16b?utm_campaign=1054&utm_source=git)** | Aliso Viejo, CA | On Site | Dec 10 |
 | **[Lennox](http://www.lennox.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/69014e5f4539ea1f2141f17b?utm_campaign=1054&utm_source=git)** | West Columbia, SC | On Site | Dec 10 |
 | **[Find Me](https://fyndme.co)** | **[Human Resources Intern - Unpaid](https://jobright.ai/jobs/info/693931a1ac80bb5492bbce75?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 10 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion / Stagiaire, équité, diversité et inclusion](https://jobright.ai/jobs/info/6938fcefa0dde7020e319978?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 09 |
 | **[TAIT](http://www.taittowers.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6938f347aabec14a727de4f2?utm_campaign=1054&utm_source=git)** | Lititz, PA | On Site | Dec 09 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/6938f229b95c305f206e318c?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Employee Health and Benefits - Service Intern](https://jobright.ai/jobs/info/69391706ac80bb5492bbb707?utm_campaign=1054&utm_source=git)** | Aliso Viejo - Polaris | Hybrid | Dec 09 |
 | **[ProBio](https://probiocdmo.com/)** | **[Talent Acquisition Partner, Intern](https://jobright.ai/jobs/info/6938ee71b95c305f206e2ec6?utm_campaign=1054&utm_source=git)** | Pennington, NJ | Hybrid | Dec 09 |
 | **[Flexco](https://flexco.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6938d904aabec14a727dc415?utm_campaign=1054&utm_source=git)** | Flexco, 1854 Northridge Dr. NW, Walker, Michigan, United States of America | On Site | Dec 09 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Retail (Topeka, KS)](https://jobright.ai/jobs/info/6938ea51a0dde7020e318914?utm_campaign=1054&utm_source=git)** | Topeka, KS | On Site | Dec 09 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Team Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6939159048a8ce22990d368f?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
-| **[Avivo](https://www.avivomn.org/)** | **[Intern, Ending Homelessness Scattered Site](https://jobright.ai/jobs/info/6939097c7548dd746be58a17?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 09 |
-| **[Morgan State University](http://www.morgan.edu/)** | **[Human Resources Undergraduate/Graduate Intern](https://jobright.ai/jobs/info/6938dac8b95c305f206e135d?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Dec 09 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Human Resources Intern- Retail (Lawrence, KS)](https://jobright.ai/jobs/info/6938f745b95c305f206e3477?utm_campaign=1054&utm_source=git)** | Lawrence, KS | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
