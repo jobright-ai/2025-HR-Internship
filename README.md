@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University-San Bernardino](https://csusb.edu)** | **[Payroll Professional (Payroll Professional), Department of Payroll - Internal Employees Only](https://jobright.ai/jobs/info/693a83a30652687940eaac34?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | Hybrid | Dec 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Dec 11 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a818af3cb0010f8708c03?utm_campaign=1054&utm_source=git)** | Saratoga Springs, NY | On Site | Dec 11 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Dec 11 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/693a90eae50e320634e2ef5e?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Dec 10 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Troy, NY and Latham, NY](https://jobright.ai/jobs/info/693a8fe8e50e320634e2e973?utm_campaign=1054&utm_source=git)** | Troy, NY | On Site | Dec 10 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/693a8ec6e50e320634e2e047?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Dec 10 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/693a6eeeac80bb5492bcf662?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Dec 10 |
+| **[Nelson Labs](http://www.nelsonlabs.com)** | **[Human Resources - Internship](https://jobright.ai/jobs/info/693a8d02e50e320634e2d5cc?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 10 |
 | **[BioMed Realty](http://www.biomedrealty.com)** | **[Internship - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/693a3ee456b68f3dc4e797d2?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[HR Administration Intern](https://jobright.ai/jobs/info/693a39dcac80bb5492bcbed3?utm_campaign=1054&utm_source=git)** | Las Vegas, NV | On Site | Dec 10 |
 | **[Röchling Industrial](http://www.roechling-plastics.us)** | **[HR Intern](https://jobright.ai/jobs/info/693a380548a8ce22990e328a?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 10 |
@@ -84,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Program Recruitment  Appointment Package PDS Intern (NFWS)](https://jobright.ai/jobs/info/6939da4b56b68f3dc4e731bb?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 10 |
 | **[Arizona Department of Economic Security](https://des.az.gov)** | **[VOCATIONAL REHABILITATION COUNSELOR INTERN--POST-GRAD](https://jobright.ai/jobs/info/6939d65a56b68f3dc4e72e92?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 10 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Summer 2026 Internship Program - Organizational Development (OD) Intern](https://jobright.ai/jobs/info/6939cc4556b68f3dc4e72956?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939c54456b68f3dc4e7251a?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Dec 10 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Human Resources - Syosset, NY](https://jobright.ai/jobs/info/6939e261ac80bb5492bc5e4f?utm_campaign=1054&utm_source=git)** | Syosset, NY | On Site | Dec 10 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Benefits Specialist Intern- Unpaid (Spring 2026)](https://jobright.ai/jobs/info/6939e81c48a8ce22990de05f?utm_campaign=1054&utm_source=git)** | Charlottesville, VA USA | On Site | Dec 10 |
 | **[Morgan State University](http://www.morgan.edu/)** | **[Human Resources Undergraduate/Graduate Intern](https://jobright.ai/jobs/info/6939eb03ac80bb5492bc64b8?utm_campaign=1054&utm_source=git)** | DC-Baltimore Area | On Site | Dec 10 |
@@ -100,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cdabeff7024498416b262?utm_campaign=1054&utm_source=git)** | Jackson, MI | On Site | Dec 10 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Digital HR Intern](https://jobright.ai/jobs/info/68e5b83de8daec61499a3def?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Dec 10 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68ffdd220ab3b222462af3e6?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 10 |
-| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/6939a899ac80bb5492bc2325?utm_campaign=1054&utm_source=git)** | Orlando, FL | Hybrid | Dec 10 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Incentive Compensation](https://jobright.ai/jobs/info/691d04f5bcdbf3560c9ec6a1?utm_campaign=1054&utm_source=git)** | Parsippany, NJ | On Site | Dec 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/68ca532f46caff4db51fd5a9?utm_campaign=1054&utm_source=git)** | Beloit, WI | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Appleton/Oshkosh](https://jobright.ai/jobs/info/68ca43d70456a931db2967c4?utm_campaign=1054&utm_source=git)** | Appleton, WI | On Site | Dec 10 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 10 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d40b70b7dff7341501820?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6933db02a0dde7020e2f27ff?utm_campaign=1054&utm_source=git)** | London, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d05beff7024498416d067?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 10 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Human Resources](https://jobright.ai/jobs/info/691cfa30ff7024498416c899?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Madison](https://jobright.ai/jobs/info/69003019e0c73b3a111a31c2?utm_campaign=1054&utm_source=git)** | Madison, WI | On Site | Dec 10 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Fianance Talent Pool](https://jobright.ai/jobs/info/6939b1c856b68f3dc4e70446?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Dec 10 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 10 |
-| **[STR](https://www.str.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68cd94a5b2a74e1837ed9005?utm_campaign=1054&utm_source=git)** | Woburn, MA | Hybrid | Dec 10 |
-| **[Röchling Automotive](http://www.roechling.com/automotive)** | **[HR Intern](https://jobright.ai/jobs/info/693998de48a8ce22990d9e72?utm_campaign=1054&utm_source=git)** | Akron, OH | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
