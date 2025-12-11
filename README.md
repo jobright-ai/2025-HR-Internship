@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITT Inc.](http://www.itt.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6901228dd5259a1b3cff1c70?utm_campaign=1054&utm_source=git)** | Santa Clarita, CA | On Site | Dec 11 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Payroll Professional (Payroll Professional), Department of Payroll - Internal Employees Only](https://jobright.ai/jobs/info/693a83a30652687940eaac34?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | Hybrid | Dec 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- White River Junction, VT](https://jobright.ai/jobs/info/693a823ef3cb0010f8708c2d?utm_campaign=1054&utm_source=git)** | White River Junction, VT | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a818af3cb0010f8708c03?utm_campaign=1054&utm_source=git)** | Saratoga Springs, NY | On Site | Dec 11 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Schenectady, NY and Amsterdam, NY](https://jobright.ai/jobs/info/693a817ef4e44c4d629d2bd7?utm_campaign=1054&utm_source=git)** | Schenectady, NY | On Site | Dec 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/693a90eae50e320634e2ef5e?utm_campaign=1054&utm_source=git)** | Burlington, VT | On Site | Dec 10 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Plattsburgh, NY](https://jobright.ai/jobs/info/693aa2ee5f2c001987ecbc7d?utm_campaign=1054&utm_source=git)** | Plattsburgh, NY | On Site | Dec 10 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Troy, NY and Latham, NY](https://jobright.ai/jobs/info/693a8fe8e50e320634e2e973?utm_campaign=1054&utm_source=git)** | Troy, NY | On Site | Dec 10 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Rutland, VT](https://jobright.ai/jobs/info/693a8ec6e50e320634e2e047?utm_campaign=1054&utm_source=git)** | Rutland, VT | On Site | Dec 10 |
 | **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/693a6eeeac80bb5492bcf662?utm_campaign=1054&utm_source=git)** | Brea, CA | Hybrid | Dec 10 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf33422a2cb4b9bd1f0d0?utm_campaign=1054&utm_source=git)** | Kitchener, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf572bcdbf3560c9ebc01?utm_campaign=1054&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf12022a2cb4b9bd1eeff?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cfa2f22a2cb4b9bd1f724?utm_campaign=1054&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
+| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d412c7481340785ed58d5?utm_campaign=1054&utm_source=git)** | Cambridge, Ontario, Canada | On Site | Dec 10 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d40b70b7dff7341501820?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691cf7d122a2cb4b9bd1f4b9?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 10 |
-| ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693514c9764507023d1bf086?utm_campaign=1054&utm_source=git)** | Windsor, Ontario, Canada | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
