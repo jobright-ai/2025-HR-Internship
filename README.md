@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/6902965dff462851fefe4fee?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 11 |
+| **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Dec 11 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Human Resources Specialist](https://jobright.ai/jobs/info/693ba54a4911ef04095edd56?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Dec 11 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion / Stagiaire, équité, diversité et inclusion](https://jobright.ai/jobs/info/693bb6744911ef04095ee600?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 11 |
 | **[Capital City Club](https://www.capitalcityclub.org/)** | **[Human Resources Intern - Spring/Summer](https://jobright.ai/jobs/info/693b98245f2c001987ed9032?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
 | **[Semtech](http://www.semtech.com)** | **[Artificial Intelligence / Data Scientist Intern (HR)](https://jobright.ai/jobs/info/693b6022b309e37800872154?utm_campaign=1054&utm_source=git)** | USA - CA Remote | Remote | Dec 11 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 11 |
@@ -93,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Intern](https://jobright.ai/jobs/info/693b3804b309e3780086f0af?utm_campaign=1054&utm_source=git)** | Erie, PA, Erie, PA, US | Hybrid | Dec 11 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, HR Operations](https://jobright.ai/jobs/info/693b6532d4054a2bc0255952?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 11 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Intern](https://jobright.ai/jobs/info/693b33bcd4054a2bc0252108?utm_campaign=1054&utm_source=git)** | North Carolina, Raleigh, NC, US | Hybrid | Dec 11 |
-| **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693b6392d4054a2bc0255890?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 11 |
+| **[Highgate](https://www.highgate.com)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693b5b66b309e37800871e51?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/693b4f385f2c001987ed52b5?utm_campaign=1054&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 11 |
 | **[UMB Bank](https://www.umb.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693b7253d4054a2bc0255d6b?utm_campaign=1054&utm_source=git)** | Kansas City, MO | Hybrid | Dec 11 |
 | **[CHAGEE USA](https://www.chagee.us/)** | **[HR Ops Intern](https://jobright.ai/jobs/info/693b28625f2c001987ed2699?utm_campaign=1054&utm_source=git)** | Orange County, CA | Hybrid | Dec 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccc465a77e5d7d744f53a5?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | On Site | Dec 11 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Human Resources Intern](https://jobright.ai/jobs/info/691ae6cfbcdbf3560c9db6eb?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Pearson](https://www.pearson.com/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/693af7ae5f2c001987ecf10e?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | Remote | Dec 11 |
-| **[Experitec Inc.](https://experitec.com/)** | **[Talent Management (Human Resources) Intern - Onsite - Chesterfield, MO](https://jobright.ai/jobs/info/691e7e37a49a885af9a291d8?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Dec 11 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[DoD SkillBridge Internship](https://jobright.ai/jobs/info/68e6598ee8daec61499aacad?utm_campaign=1054&utm_source=git)** | Independence, KS | On Site | Dec 11 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern (Summer 2026) - Hamilton, OH](https://jobright.ai/jobs/info/68c88a95f9c6ff7aedf10072?utm_campaign=1054&utm_source=git)** | Hamilton, OH | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
