@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/693bfecb50bbaf76504f5719?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Dec 12 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/693ae46ab309e3780086a15d?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Dec 12 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Talent Management](https://jobright.ai/jobs/info/691f9c80a49a885af9a326b6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Midwest - Summer 2026](https://jobright.ai/jobs/info/691f8db83f782d2f1afbdba7?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
 | **[Amazon](https://amazon.com)** | **[2026 Sourcing Recruiter Intern](https://jobright.ai/jobs/info/693bdfeb49a7695fbd02d4e8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/6902965dff462851fefe4fee?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship - Summer 2026](https://jobright.ai/jobs/info/693bbe6649a7695fbd02a91f?utm_campaign=1054&utm_source=git)** | El Segundo, CA | On Site | Dec 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68c8e01e95f5211cd2cea679?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Dec 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - York, PA](https://jobright.ai/jobs/info/6933e1e3f131d96e48468025?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Dec 11 |
 | **[AAR](http://aarcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902372a00a1816c41e9be0f?utm_campaign=1054&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Human Resources Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/68af92f0962903596357daae?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - 25-26 College Recruiting (Kansas City)](https://jobright.ai/jobs/info/6937a2411c1c2161c13f6829?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Danvers, MA](https://jobright.ai/jobs/info/6933efa9f131d96e4846871f?utm_campaign=1054&utm_source=git)** | Danvers, MA | On Site | Dec 11 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693aff115f2c001987ecf461?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccc465a77e5d7d744f53a5?utm_campaign=1054&utm_source=git)** | Hyattsville, MD | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
