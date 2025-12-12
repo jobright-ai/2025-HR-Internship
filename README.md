@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Innovative Defense Technologies (IDT)](http://idtus.com)** | **[Talent Development Intern](https://jobright.ai/jobs/info/68f7c653b0edcf159dc88a82?utm_campaign=1054&utm_source=git)** | Arlington, VA | On Site | Dec 12 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Human Resources- EN](https://jobright.ai/jobs/info/693c100daa598a08c3ed03ca?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Human Resource Intern - Summer 2026](https://jobright.ai/jobs/info/68e6a1dbe8daec61499acf88?utm_campaign=1054&utm_source=git)** | Greater Indianapolis | On Site | Dec 12 |
 | **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[HR Intern](https://jobright.ai/jobs/info/693bfecb50bbaf76504f5719?utm_campaign=1054&utm_source=git)** | Tulsa, OK | On Site | Dec 12 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/693ae46ab309e3780086a15d?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Dec 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Talent Management](https://jobright.ai/jobs/info/691f9c80a49a885af9a326b6?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Talent Acquisition Partner Intern (Data) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f60803f782d2f1afbb23d?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Health and Benefits Internship - Midwest - Summer 2026](https://jobright.ai/jobs/info/691f8db83f782d2f1afbdba7?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
@@ -71,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Semtech](http://www.semtech.com)** | **[Artificial Intelligence / Data Scientist Intern (HR)](https://jobright.ai/jobs/info/693b6022b309e37800872154?utm_campaign=1054&utm_source=git)** | USA - CA Remote | Remote | Dec 11 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 11 |
 | **[Semtech](http://www.semtech.com)** | **[Artificial Intelligence / Data Scientist Intern (HR)](https://jobright.ai/jobs/info/693b938ad4054a2bc0257696?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Dec 11 |
-| **[American Greetings](http://americangreetings.com)** | **[Human Resources Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/693b70e5b309e37800872969?utm_campaign=1054&utm_source=git)** | Westlake, OH | Hybrid | Dec 11 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (FOOD SERVICES OPERATIONS)](https://jobright.ai/jobs/info/693b90b95f2c001987ed80ef?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 11 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Human Resources & Fulfillment Operations Internship](https://jobright.ai/jobs/info/693b8656b309e378008732c0?utm_campaign=1054&utm_source=git)** | Monroe, WI | On Site | Dec 11 |
+| **[American Greetings](http://americangreetings.com)** | **[Human Resources Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/693b633a5f2c001987ed6908?utm_campaign=1054&utm_source=git)** | Westlake, OH | Hybrid | Dec 11 |
 | **[Tanimura & Antle](http://taproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693bd0b54911ef04095ef8b8?utm_campaign=1054&utm_source=git)** | Salinas,CA,US | On Site | Dec 11 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Human Resources](https://jobright.ai/jobs/info/6938c5a7aabec14a727dae19?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Dec 11 |
 | **[Varda Space Industries](http://varda.com)** | **[Human Resources/ Recruiting Internship  - Summer 2026](https://jobright.ai/jobs/info/693b7cfcb309e37800872cdb?utm_campaign=1054&utm_source=git)** | El Segundo, California, United States | On Site | Dec 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/693afaed5f2c001987ecf27f?utm_campaign=1054&utm_source=git)** | Research Park, CA | On Site | Dec 11 |
 | ↳ | **[Human Resources Intern - 2026](https://jobright.ai/jobs/info/693b00135f2c001987ecf4fc?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 11 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/68c8e01e95f5211cd2cea679?utm_campaign=1054&utm_source=git)** | Goodhue, MN | On Site | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - York, PA](https://jobright.ai/jobs/info/6933e1e3f131d96e48468025?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Dec 11 |
-| **[AAR](http://aarcorp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6902372a00a1816c41e9be0f?utm_campaign=1054&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
