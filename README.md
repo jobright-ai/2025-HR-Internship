@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saville CPAs & Advisors](https://savillecpa.com/)** | **[Human Resources Information System Intern - Winter 2026](https://jobright.ai/jobs/info/693db831aa598a08c3ee463d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 13 |
+| **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d9d33aa598a08c3ee3412?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d9c24aa598a08c3ee2a5b?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Dec 13 |
@@ -80,9 +82,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Dec 13 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Human Resource Operations](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 13 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693d7d76aa598a08c3ee2458?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7ceeaa598a08c3ee242e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6921219ea49a885af9a4329a?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7cc850bbaf765050857e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/68e86e55c72beb74cb31e979?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Right Balance ®](http://rightbalance.io)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6925ac73d47de4798ecd0df0?utm_campaign=1054&utm_source=git)** | Latin America | On Site | Dec 12 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/693c4f5b49a7695fbd030fcc?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 12 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Recruiting Internship - University Talent](https://jobright.ai/jobs/info/693c49d950bbaf76504f868f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Dec 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - St. George](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e00?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Dec 12 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b51444f4e41a61efd8d782?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
