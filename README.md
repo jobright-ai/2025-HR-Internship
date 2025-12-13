@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693dccc9aa598a08c3ee48b2?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Dec 13 |
+| **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693dc71850bbaf765050aa11?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 13 |
 | **[Saville CPAs & Advisors](https://savillecpa.com/)** | **[Human Resources Information System Intern - Winter 2026](https://jobright.ai/jobs/info/693db831aa598a08c3ee463d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 13 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d9d33aa598a08c3ee3412?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693c567f49a7695fbd032b4f?utm_campaign=1054&utm_source=git)** | Aiken | On Site | Dec 12 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Summer 2026 Summer Internship- Executive Search](https://jobright.ai/jobs/info/693c561649a7695fbd0329df?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 12 |
 | **[Right Balance ®](http://rightbalance.io)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6925ac73d47de4798ecd0df0?utm_campaign=1054&utm_source=git)** | Latin America | On Site | Dec 12 |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/693c4f5b49a7695fbd030fcc?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 12 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Recruiting Internship - University Talent](https://jobright.ai/jobs/info/693c49d950bbaf76504f868f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
