@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d9d33aa598a08c3ee3412?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
+| ↳ | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d9c24aa598a08c3ee2a5b?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68cd2aecb2a74e1837ed37d6?utm_campaign=1054&utm_source=git)** | Coppell, TX | On Site | Dec 13 |
+| **[Qualus](https://qualuscorp.com/)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6920b890a49a885af9a3e650?utm_campaign=1054&utm_source=git)** | Lake Mary, FL | Hybrid | Dec 13 |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Human Resources (HR) Operations Intern](https://jobright.ai/jobs/info/692123cd3f782d2f1afcf9b7?utm_campaign=1054&utm_source=git)** | Waterford, NY | On Site | Dec 13 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b0a8c6b47fb001d689443e?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Dec 13 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[HR Operations Intern - Spring 2026](https://jobright.ai/jobs/info/6920f14200c9ee50eaec9ae2?utm_campaign=1054&utm_source=git)** | North Carolina, United States | On Site | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692115c8a49a885af9a42c14?utm_campaign=1054&utm_source=git)** | Mansfield, OH | On Site | Dec 13 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- HR & Office Administration](https://jobright.ai/jobs/info/690555dfff462851feffcbb7?utm_campaign=1054&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern -  Human Resources](https://jobright.ai/jobs/info/693d860aaa598a08c3ee25d3?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
@@ -127,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[NTA Talent Agency](https://ntatalent.com)** | **[Talent Agency Student Internship- New York City](https://jobright.ai/jobs/info/693ca13c50bbaf76504fe793?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Dec 12 |
 | **[Axalta](https://www.axalta.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/693c9d85aa598a08c3ed8356?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 12 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/693c9d7aaa598a08c3ed834f?utm_campaign=1054&utm_source=git)** | New Haven, MI | On Site | Dec 12 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Dec 12 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025 - Analyst, Employee Benefits](https://jobright.ai/jobs/info/693c961049a7695fbd035e62?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Dec 12 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693cb17249a7695fbd037794?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69142ab8d1047e3565d096f4?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 12 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693c567f49a7695fbd032b4f?utm_campaign=1054&utm_source=git)** | Aiken | On Site | Dec 12 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Summer 2026 Summer Internship- Executive Search](https://jobright.ai/jobs/info/693c561649a7695fbd0329df?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 12 |
 | **[Right Balance ®](http://rightbalance.io)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6925ac73d47de4798ecd0df0?utm_campaign=1054&utm_source=git)** | Latin America | On Site | Dec 12 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c53ecaa598a08c3ed416f?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Dec 12 |
 | **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[Human Resources Recruiter Intern](https://jobright.ai/jobs/info/693c4f5b49a7695fbd030fcc?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 12 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Recruiting Internship - University Talent](https://jobright.ai/jobs/info/693c49d950bbaf76504f868f?utm_campaign=1054&utm_source=git)** | Chantilly, VA | On Site | Dec 12 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship - St. George](https://jobright.ai/jobs/info/6933e512a0dde7020e2f2e00?utm_campaign=1054&utm_source=git)** | St George, UT | On Site | Dec 12 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b51444f4e41a61efd8d782?utm_campaign=1054&utm_source=git)** | Yuba City, CA | On Site | Dec 12 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/69040e6463502c0aded6fe35?utm_campaign=1054&utm_source=git)** | Westchester, IL | Hybrid | Dec 12 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Workforce Administration Summer Internship](https://jobright.ai/jobs/info/68e68748ae2b894b1d71afbf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Resource Management Intern (Spring 2026)](https://jobright.ai/jobs/info/692fdf41ef4b48533d1494b9?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 12 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693c3e35aa598a08c3ed1ef7?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 12 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/691f953fa49a885af9a32219?utm_campaign=1054&utm_source=git)** | Lebanon, IN | On Site | Dec 12 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Summer Intern - Talent Management](https://jobright.ai/jobs/info/693c382949a7695fbd030671?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
-| **[OPmobility](https://www.opmobility.com)** | **[HR INTERN](https://jobright.ai/jobs/info/692fc80d4c474121999e274b?utm_campaign=1054&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
