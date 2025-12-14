@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/693e19d249a7695fbd046b49?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Confidential Secretary, Human Resources (Internal Applicants Only) - 8 hours/day (8:00 am - 4:30 pm), 5 days/week, 12 months/year](https://jobright.ai/jobs/info/693dff6a49a7695fbd044f83?utm_campaign=1054&utm_source=git)** | Mission Viejo, CA | On Site | Dec 13 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693dccc9aa598a08c3ee48b2?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | Remote | Dec 13 |
 | **[Online Gamera](onlinegamera.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693dc71850bbaf765050aa11?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 13 |
 | **[Saville CPAs & Advisors](https://savillecpa.com/)** | **[Human Resources Information System Intern - Winter 2026](https://jobright.ai/jobs/info/693db831aa598a08c3ee463d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 13 |
 | **[Camaco](http://www.camacollc.com)** | **[HR Recruitment Intern](https://jobright.ai/jobs/info/693db76d49a7695fbd042f1a?utm_campaign=1054&utm_source=git)** | Columbus, NE | On Site | Dec 13 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[NTA Talent Agency](https://ntatalent.com)** | **[Talent Agency Student Internship- New York City](https://jobright.ai/jobs/info/693ca13c50bbaf76504fe793?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Dec 12 |
 | **[Axalta](https://www.axalta.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/693c9d85aa598a08c3ed8356?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 12 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/693c9d7aaa598a08c3ed834f?utm_campaign=1054&utm_source=git)** | New Haven, MI | On Site | Dec 12 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[HR Systems Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/693c967f50bbaf76504fd8fb?utm_campaign=1054&utm_source=git)** | Green Bay, WI | Hybrid | Dec 12 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025 - Analyst, Employee Benefits](https://jobright.ai/jobs/info/693c961049a7695fbd035e62?utm_campaign=1054&utm_source=git)** | Calgary, AB | On Site | Dec 12 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693cb17249a7695fbd037794?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[Bilingual Scholar Recruitment Intern](https://jobright.ai/jobs/info/69142ab8d1047e3565d096f4?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Sunrise](https://jobright.ai/jobs/info/68e86e8e09580a2fe57f79ee?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693c567f49a7695fbd032b4f?utm_campaign=1054&utm_source=git)** | Aiken | On Site | Dec 12 |
 | **[Heidrick & Struggles](http://www.heidrick.com)** | **[Summer 2026 Summer Internship- Executive Search](https://jobright.ai/jobs/info/693c561649a7695fbd0329df?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 12 |
+| **[Right Balance ®](http://rightbalance.io)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6925ac73d47de4798ecd0df0?utm_campaign=1054&utm_source=git)** | Latin America | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
