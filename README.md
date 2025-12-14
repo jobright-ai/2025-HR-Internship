@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Dec 14 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/693ece29aa598a08c3eef4b8?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bccffeeb0006c1a56f73?utm_campaign=1054&utm_source=git)** | Troy, MI | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b07fe313563e782a9f6c3d?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
+| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c27bcfc08e4908912c02?utm_campaign=1054&utm_source=git)** | Washington, PA | On Site | Dec 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb4ffeeb0006c1a56e75?utm_campaign=1054&utm_source=git)** | Rochester, MI | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea110ccfc08e4908915709?utm_campaign=1054&utm_source=git)** | Pocatello, ID | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/69340347764507023d1bb62e?utm_campaign=1054&utm_source=git)** | Katy, TX | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b519c61ade4306aa63fdf0?utm_campaign=1054&utm_source=git)** | Humble, TX | On Site | Dec 14 |
+| **[Higginbotham](https://www.higginbotham.com)** | **[Higginbotham Summer Internship - Class of 2026](https://jobright.ai/jobs/info/68e95f9c65768b6412b1b4dd?utm_campaign=1054&utm_source=git)** | Colorado Springs Area | On Site | Dec 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c8b0cfc08e4908912f7f?utm_campaign=1054&utm_source=git)** | Butler, PA | On Site | Dec 14 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693ec6e050bbaf7650515725?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Manhattan](https://jobright.ai/jobs/info/6933bba7f131d96e484669ef?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| ↳ | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68ea169fcfc08e4908915aa7?utm_campaign=1054&utm_source=git)** | Idaho Falls, ID | On Site | Dec 14 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Employee Benefits Intern - MA (Summer 2025)](https://jobright.ai/jobs/info/6841ec14deaaf1bd338d645f?utm_campaign=1054&utm_source=git)** | Norwell, MA | On Site | Dec 14 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6905f5f3122e8474c78dd5de?utm_campaign=1054&utm_source=git)** | Carlisle, PA | On Site | Dec 14 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68e9914cf195760c354aaca0?utm_campaign=1054&utm_source=git)** | Cary, NC | Hybrid | Dec 14 |
@@ -120,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6c9350bbaf76505082ab?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6d74aa598a08c3ee21b7?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/689339434c7e851b90adc98d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Dec 13 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Dec 13 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southernmost Beach Resort](https://www.linkedin.com/company/63176833)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693d36f2aa598a08c3edff95?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 13 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Dec 12 |
 | **[Axalta](https://www.axalta.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/693ce81149a7695fbd039408?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Dec 12 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Dec 12 |
-| ↳ | **[Benefits Intern - Atlantic Region (Charlotte, NC)](https://jobright.ai/jobs/info/693ce5d6aa598a08c3eda9fc?utm_campaign=1054&utm_source=git)** | Charlotte, NC | On Site | Dec 12 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025 - Analyst, Employee Benefits](https://jobright.ai/jobs/info/693ce114aa598a08c3eda805?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 12 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[HR Intern-Corporate](https://jobright.ai/jobs/info/693cdce750bbaf76505004d7?utm_campaign=1054&utm_source=git)** | Portsmouth, NH | On Site | Dec 12 |
-| **[Delta Galil Industries](http://deltagalil.com/)** | **[Intern, Human Resources – Compensation, Benefits, and HR Operations](https://jobright.ai/jobs/info/693cd2be49a7695fbd03886e?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 12 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion / Stagiaire, équité, diversité et inclusion](https://jobright.ai/jobs/info/693cf033aa598a08c3edb010?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 12 |
-| **[TerraPower](http://www.terrapower.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/693ccbcb49a7695fbd038449?utm_campaign=1054&utm_source=git)** | Bellevue, WA | On Site | Dec 12 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Analyst, Employee Benefits](https://jobright.ai/jobs/info/693ce7c949a7695fbd0393e4?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 12 |
-| **[D.C. United](http://dcunited.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/693cc63449a7695fbd038206?utm_campaign=1054&utm_source=git)** | Washington, DC | On Site | Dec 12 |
-| **[Delta Galil Industries](http://deltagalil.com/)** | **[Intern, Human Resources – Compensation, Benefits, and HR Operations](https://jobright.ai/jobs/info/693cc56249a7695fbd03816a?utm_campaign=1054&utm_source=git)** | NY, New York, US | Hybrid | Dec 12 |
-| **[TerraPower](http://www.terrapower.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/693cc2d949a7695fbd03804a?utm_campaign=1054&utm_source=git)** | Bellevue, Washington, United States | On Site | Dec 12 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[HR Intern- Learning & Development](https://jobright.ai/jobs/info/693cbfa850bbaf76504ff6a4?utm_campaign=1054&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
-| **[J. Jill](http://www.jjill.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/693cbf3e50bbaf76504ff65f?utm_campaign=1054&utm_source=git)** | Quincy, MA | On Site | Dec 12 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[HR Intern- Learning & Development](https://jobright.ai/jobs/info/693cbd1faa598a08c3ed931a?utm_campaign=1054&utm_source=git)** | US-PA-Harrisburg | Hybrid | Dec 12 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 People Development Intern](https://jobright.ai/jobs/info/68efb6b29821486c423c6e47?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
