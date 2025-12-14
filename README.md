@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Dec 14 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/693ece29aa598a08c3eef4b8?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
@@ -123,9 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69211658a49a885af9a42c72?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Dec 13 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Human Resource Operations](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7ceeaa598a08c3ee242e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6921219ea49a885af9a4329a?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7cc850bbaf765050857e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/68e86e55c72beb74cb31e979?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Dec 13 |
@@ -135,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6d74aa598a08c3ee21b7?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6c9350bbaf76505082ab?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/689339434c7e851b90adc98d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Dec 13 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Dec 13 |
 | **[Southernmost Beach Resort](https://www.linkedin.com/company/63176833)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693d36f2aa598a08c3edff95?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 13 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Dec 12 |
-| **[Axalta](https://www.axalta.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/693ce81149a7695fbd039408?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
