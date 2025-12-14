@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Human Resources](https://jobright.ai/jobs/info/6938c5a7aabec14a727dae19?utm_campaign=1054&utm_source=git)** | Little Rock, AR | On Site | Dec 13 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/693e500baa598a08c3eeac81?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 13 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Human Resources](https://jobright.ai/jobs/info/6938bf25aabec14a727daa48?utm_campaign=1054&utm_source=git)** | Springdale, AR | On Site | Dec 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Expert Witness Research & Recruitment Intern (Summer)](https://jobright.ai/jobs/info/693e19d249a7695fbd046b49?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Human Resources Intern, HRBP](https://jobright.ai/jobs/info/69211fc73f782d2f1afcf670?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Dec 13 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Dec 13 |
 | **[Southernmost Beach Resort](https://www.linkedin.com/company/63176833)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693d36f2aa598a08c3edff95?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 13 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/693e4cf849a7695fbd0491e6?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Dec 12 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Human Resources](https://jobright.ai/jobs/info/693ce99f50bbaf7650500cba?utm_campaign=1054&utm_source=git)** | Birmingham, AL | On Site | Dec 12 |
 | **[Axalta](https://www.axalta.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/693ce81149a7695fbd039408?utm_campaign=1054&utm_source=git)** | Greater Philadelphia | On Site | Dec 12 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Benefits Intern - Warrington, PA](https://jobright.ai/jobs/info/693ce636aa598a08c3edaa26?utm_campaign=1054&utm_source=git)** | Warrington, PA | On Site | Dec 12 |
