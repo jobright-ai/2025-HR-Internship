@@ -127,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69211658a49a885af9a42c72?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Dec 13 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Human Resource Operations](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7ceeaa598a08c3ee242e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6921219ea49a885af9a4329a?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7cc850bbaf765050857e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/68e86e55c72beb74cb31e979?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Dec 13 |
