@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Human Resources](https://jobright.ai/jobs/info/693fce6b49a7695fbd0586c4?utm_campaign=1054&utm_source=git)** | New York, NY, US | Hybrid | Dec 15 |
 | **[Direct Online Marketing](https://www.directom.com)** | **[Internship for Summer 2026](https://jobright.ai/jobs/info/693fbeb150bbaf765051eac8?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Dec 14 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fbb5a49a7695fbd0569bf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
 | ↳ | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fad8850bbaf765051e1e4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Dec 14 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Confidential Secretary, Human Resources (Internal Applicants Only) - 8 hours/day (8:00 am - 4:30 pm), 5 days/week, 12 months/year](https://jobright.ai/jobs/info/693f4e4449a7695fbd051815?utm_campaign=1054&utm_source=git)** | Mission Viejo, CA | On Site | Dec 14 |
 | **[Tanimura & Antle](http://taproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693f166a49a7695fbd04fa0a?utm_campaign=1054&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
 | ↳ | **[Human Resources Safety Intern](https://jobright.ai/jobs/info/693f165850bbaf765051786c?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
-| **[Horizon Lane](horizonlane.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/693f05ba50bbaf765051760b?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Remote | Dec 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/6905084aff462851feff9a5e?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Dec 14 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Dec 14 |
@@ -140,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6d74aa598a08c3ee21b7?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6c9350bbaf76505082ab?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Dec 13 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 13 |
