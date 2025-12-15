@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Direct Online Marketing](https://www.directom.com)** | **[Internship for Summer 2026](https://jobright.ai/jobs/info/693fbeb150bbaf765051eac8?utm_campaign=1054&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Dec 14 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fbb5a49a7695fbd0569bf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
+| ↳ | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fad8850bbaf765051e1e4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Dec 14 |
 | **[Saddleback Valley Unified School District](https://www.svusd.org/)** | **[Confidential Secretary, Human Resources (Internal Applicants Only) - 8 hours/day (8:00 am - 4:30 pm), 5 days/week, 12 months/year](https://jobright.ai/jobs/info/693f4e4449a7695fbd051815?utm_campaign=1054&utm_source=git)** | Mission Viejo, CA | On Site | Dec 14 |
 | **[Tanimura & Antle](http://taproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693f166a49a7695fbd04fa0a?utm_campaign=1054&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
 | ↳ | **[Human Resources Safety Intern](https://jobright.ai/jobs/info/693f165850bbaf765051786c?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
@@ -117,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern -  Human Resources](https://jobright.ai/jobs/info/693d860aaa598a08c3ee25d3?utm_campaign=1054&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Recruiting Internship](https://jobright.ai/jobs/info/68f07619a6b9004b5e32086f?utm_campaign=1054&utm_source=git)** | Irving, TX | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Human Resources](https://jobright.ai/jobs/info/68cc652316d00d2beeb1efcd?utm_campaign=1054&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68933dfaa9199876488dc8b5?utm_campaign=1054&utm_source=git)** | Eureka, CA | On Site | Dec 13 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921211300c9ee50eaecbf11?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Dec 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6921211300c9ee50eaecbf11?utm_campaign=1054&utm_source=git)** | Kent, OH | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cd78b11ad6b16f02899ef7?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Operations People Team](https://jobright.ai/jobs/info/68ccee72d11b445e0bee46fe?utm_campaign=1054&utm_source=git)** | Seattle, WA | Remote | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b5068b1ade4306aa63f19a?utm_campaign=1054&utm_source=git)** | Tomball, TX | On Site | Dec 13 |
@@ -126,9 +128,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/69211658a49a885af9a42c72?utm_campaign=1054&utm_source=git)** | Barberton, OH | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118b300c9ee50eaecbabf?utm_campaign=1054&utm_source=git)** | Youngstown, OH | On Site | Dec 13 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Human Resource Operations](https://jobright.ai/jobs/info/6905557f122e8474c78d852e?utm_campaign=1054&utm_source=git)** | Des Moines, IA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7ceeaa598a08c3ee242e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/6921219ea49a885af9a4329a?utm_campaign=1054&utm_source=git)** | Maumee, OH | On Site | Dec 13 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Talent Acquisition Intern (4 months)](https://jobright.ai/jobs/info/693d7cc850bbaf765050857e?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1054&utm_source=git)** | Farmington, MI | On Site | Dec 13 |
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/69211c253f782d2f1afcf3e1?utm_campaign=1054&utm_source=git)** | Toledo, OH | On Site | Dec 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern Miami Lakes](https://jobright.ai/jobs/info/68e86e55c72beb74cb31e979?utm_campaign=1054&utm_source=git)** | Hialeah, FL | On Site | Dec 13 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc46c516d00d2beeb1cb1f?utm_campaign=1054&utm_source=git)** | Joplin, MO | On Site | Dec 13 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Human Resources Management Development Associate](https://jobright.ai/jobs/info/6894ee6f73b3a600fe883708?utm_campaign=1054&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6676d48d1d12b08259382914?utm_campaign=1054&utm_source=git)** | Lincoln, NE | On Site | Dec 13 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/68b1089d6fab621da7b09867?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6c9350bbaf76505082ab?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, CM Emerging Talent Intern (4 Months)](https://jobright.ai/jobs/info/693d6d74aa598a08c3ee21b7?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Pompano Beach](https://jobright.ai/jobs/info/68e86df009580a2fe57f794f?utm_campaign=1054&utm_source=git)** | Pompano Beach, FL | On Site | Dec 13 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Intern/Co-op](https://jobright.ai/jobs/info/68e96042f195760c354a85fc?utm_campaign=1054&utm_source=git)** | Northfield, NH | On Site | Dec 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/692118daa49a885af9a42e35?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Group Benefit Solutions (GBS) SS&M -Employee Engagement Summer Intern - TN](https://jobright.ai/jobs/info/68e87fd209580a2fe57f847c?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 13 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring People Operations Intern](https://jobright.ai/jobs/info/692146f33f782d2f1afd0d17?utm_campaign=1054&utm_source=git)** | Calabasas, CA | On Site | Dec 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Human Resources Intern, HRBP](https://jobright.ai/jobs/info/69211fc73f782d2f1afcf670?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Dec 13 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Summer Recruiting Intern](https://jobright.ai/jobs/info/69207e2a3f782d2f1afc8001?utm_campaign=1054&utm_source=git)** | CS-Bryan Area | On Site | Dec 13 |
-| **[Southernmost Beach Resort](https://www.linkedin.com/company/63176833)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/693d36f2aa598a08c3edff95?utm_campaign=1054&utm_source=git)** | Key West, FL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
