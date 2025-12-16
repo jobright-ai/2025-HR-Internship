@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Community Relations South Region](https://jobright.ai/jobs/info/6924fa6838cd5478a8d60f12?utm_campaign=1054&utm_source=git)** | Coral Gables, FL | On Site | Dec 16 |
+| **[C-Sharpe Co, LLC](https://csharpe.com)** | **[People and Culture Intern](https://jobright.ai/jobs/info/69115fd2183be660d267b8bb?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Dec 16 |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6924b816c0cefa13343e116d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 16 |
+| **[Stevens Transport](http://www.stevenstransport.com)** | **[College Internship Opportunities](https://jobright.ai/jobs/info/690044550ab3b222462b37d9?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
+| **[Zscaler](https://www.zscaler.com)** | **[Employee Engagement Intern](https://jobright.ai/jobs/info/692ba40f4c474121999cdf9b?utm_campaign=1054&utm_source=git)** | San Jose, CA | Hybrid | Dec 16 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Org Development Intern B Braun](https://jobright.ai/jobs/info/6940cff5aa598a08c3f06ef4?utm_campaign=1054&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 15 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Human Resources](https://jobright.ai/jobs/info/6940c5fe49a7695fbd064003?utm_campaign=1054&utm_source=git)** | Hickory, NC | On Site | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6940bed249a7695fbd063c0c?utm_campaign=1054&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fbb5a49a7695fbd0569bf?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 14 |
 | ↳ | **[Internship - Global Talent Acquisition](https://jobright.ai/jobs/info/693fad8850bbaf765051e1e4?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Dec 14 |
 | **[Southern First Bank](http://southernfirst.com)** | **[Summer 2026 Intern - Human Resources](https://jobright.ai/jobs/info/694075beaa598a08c3f012f1?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 14 |
-| **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/69409cdc50bbaf765052aacc?utm_campaign=1054&utm_source=git)** | Larimer County, CO | Hybrid | Dec 14 |
-| **[Tanimura & Antle](http://taproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693f166a49a7695fbd04fa0a?utm_campaign=1054&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
-| ↳ | **[Human Resources Safety Intern](https://jobright.ai/jobs/info/693f165850bbaf765051786c?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
