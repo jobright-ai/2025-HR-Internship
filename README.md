@@ -126,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - HR & Talent Acquisition, Industrial](https://jobright.ai/jobs/info/6940314450bbaf765052366b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | Hybrid | Dec 15 |
 | ↳ | **[Graduate/MBA Internship - Organizational Effectiveness & Talent Management](https://jobright.ai/jobs/info/6940306649a7695fbd05b55b?utm_campaign=1054&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
 | **[TOTE Group](https://www.totegroup.com)** | **[Internship Development Program - Summer 2026 -Human Resources](https://jobright.ai/jobs/info/69404f9949a7695fbd05dcf5?utm_campaign=1054&utm_source=git)** | Jacksonville, FL | On Site | Dec 15 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b126a4e815524ae11fb679?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 15 |
 | **[Select Medical](http://www.selectmedical.com/)** | **[2026 HR Summer Internship](https://jobright.ai/jobs/info/6933767cf131d96e48463a0e?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 15 |
 | **[NewDay USA](https://newdayusa.com/)** | **[Internship/Full Time Employment](https://jobright.ai/jobs/info/69403a5749a7695fbd05b925?utm_campaign=1054&utm_source=git)** | Fulton, MD | On Site | Dec 15 |
 | **[Henkel](http://www.henkel.com)** | **[Diversity & Inclusion Intern – Summer 2026](https://jobright.ai/jobs/info/69369104a0dde7020e2fc4be?utm_campaign=1054&utm_source=git)** | Stamford, CT | Hybrid | Dec 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tanimura & Antle](http://taproduce.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/693f166a49a7695fbd04fa0a?utm_campaign=1054&utm_source=git)** | Salinas, CA | Hybrid | Dec 14 |
 | ↳ | **[Human Resources Safety Intern](https://jobright.ai/jobs/info/693f165850bbaf765051786c?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Community Investment](https://jobright.ai/jobs/info/68b1236304557a6c207ba162?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1054&utm_source=git)** | Grand Blanc, MI | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
