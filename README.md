@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Natick Public Schools](http://www.natickps.org/)** | **[Pre-practicum Unpaid Internship (380)](https://jobright.ai/jobs/info/6943c9f194730b739876f68d?utm_campaign=1054&utm_source=git)** | Natick, MA | On Site | Dec 18 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/69437526dd382f5f56698693?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 17 |
 | **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6943718750bbaf7650556197?utm_campaign=1054&utm_source=git)** | Fargo, ND | On Site | Dec 17 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Human Resources](https://jobright.ai/jobs/info/69436dd094730b7398768898?utm_campaign=1054&utm_source=git)** | Peoria, IL | On Site | Dec 17 |
@@ -92,11 +93,11 @@ For a complete list, click the following sortable link below:
 | **[ASME (The American Society of Mechanical Engineers)](http://www.asme.org)** | **[Apprenticeship Program Coordinator, Workforce Development](https://jobright.ai/jobs/info/694300ec50bbaf765054d8ff?utm_campaign=1054&utm_source=git)** | Livingston, NJ | On Site | Dec 17 |
 | **[Boomi](https://boomi.com/)** | **[Early Career Recruiter & Internship Program Manager (Hybrid, Vancouver)](https://jobright.ai/jobs/info/6943005250bbaf765054d7de?utm_campaign=1054&utm_source=git)** | Canada | Hybrid | Dec 17 |
 | **[Lendio](http://lendio.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69431c4d50bbaf765054f406?utm_campaign=1054&utm_source=git)** | Lehi UT HQ | On Site | Dec 17 |
-| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69432764dd382f5f56691aad?utm_campaign=1054&utm_source=git)** | US-NC-Hickory | On Site | Dec 17 |
-| ↳ | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6943128f50bbaf765054ea7b?utm_campaign=1054&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 17 |
+| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6943128f50bbaf765054ea7b?utm_campaign=1054&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 17 |
+| ↳ | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69432764dd382f5f56691aad?utm_campaign=1054&utm_source=git)** | US-NC-Hickory | On Site | Dec 17 |
 | **[Neolytix](https://neolytix.com)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/6943121350bbaf765054e9fc?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Resource Management Intern (Spring 2026)](https://jobright.ai/jobs/info/68cae9fd9e3a822f5d240099?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Dec 17 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Internship Program Development Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6942ffeedd382f5f5668f822?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Internship Program Development Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6942ff0c94730b7398760870?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69350be7764507023d1bee8f?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d74417554c2d9eee022f?utm_campaign=1054&utm_source=git)** | Kill Devil Hills, NC | On Site | Dec 17 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Idlewild - Workforce Operations Intern](https://jobright.ai/jobs/info/6942f503dd382f5f5668ea12?utm_campaign=1054&utm_source=git)** | Idlewild & Soakzone, PO Box C, Ligonier,  PA 15658, United States of America | On Site | Dec 17 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Crane Company](http://www.craneco.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6942703c50bbaf7650545fc6?utm_campaign=1054&utm_source=git)** | Saddle Brook, NJ | On Site | Dec 17 |
 | **[Krapf Group - School Bus and Transportation](http://www.krapfbus.com)** | **[HR Assistant (Intern)](https://jobright.ai/jobs/info/6942845450bbaf7650547f37?utm_campaign=1054&utm_source=git)** | West Chester, PA | On Site | Dec 17 |
 | **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Human Resources, Compensation Internship](https://jobright.ai/jobs/info/69425c3ebdcf884a5ade3f7f?utm_campaign=1054&utm_source=git)** | Warrendale, PA | On Site | Dec 16 |
+| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/6943c92fdd382f5f5669e428?utm_campaign=1054&utm_source=git)** | US-MA-Cambridge | Hybrid | Dec 16 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026 - Analyst, Employee Benefits](https://jobright.ai/jobs/info/693ce7c949a7695fbd0393e4?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 16 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Wholesale Customer Service](https://jobright.ai/jobs/info/69421c1414ee092a690044e8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Equity, Diversity, and Inclusion / Stagiaire, équité, diversité et inclusion](https://jobright.ai/jobs/info/69423b1750bbaf7650541ec5?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/6941e3be50bbaf765053ac41?utm_campaign=1054&utm_source=git)** | Owensboro, KY | On Site | Dec 16 |
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[T&C Intern](https://jobright.ai/jobs/info/6941fceebdcf884a5addb86c?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern](https://jobright.ai/jobs/info/6941de7d14ee092a69ffef59?utm_campaign=1054&utm_source=git)** | Baltimore, MD USA | Hybrid | Dec 16 |
-| **[Johnsonville](http://www.johnsonville.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/694216fdbdcf884a5addd7c2?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Dec 16 |
-| **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691fe61fa49a885af9a352d2?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
