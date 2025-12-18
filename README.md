@@ -149,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - HR / OD & Talent Experience](https://jobright.ai/jobs/info/691672916f36db06ef056a54?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[College Recruiting Internship Program - Equipment Division](https://jobright.ai/jobs/info/694206c3bdcf884a5addbfa7?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: HR & Communications](https://jobright.ai/jobs/info/694226ad50bbaf76505406b0?utm_campaign=1054&utm_source=git)** | Denton, TX | On Site | Dec 16 |
-| **[Vinfen](http://www.vinfen.org)** | **[Paid Intern HR](https://jobright.ai/jobs/info/69422480bdcf884a5addee23?utm_campaign=1054&utm_source=git)** | Cambridge, MA | On Site | Dec 16 |
 | **[Financial Technology Partners / FT Partners](http://www.ftpartners.com)** | **[2026 People Operations Summer Intern](https://jobright.ai/jobs/info/6941ed5814ee092a69000703?utm_campaign=1054&utm_source=git)** | San Francisco | On Site | Dec 16 |
 | ↳ | **[2026 People Operations Summer Intern](https://jobright.ai/jobs/info/69420ea1bdcf884a5addc821?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[J Street](https://jstreet.org/)** | **[Development and Leadership Intern](https://jobright.ai/jobs/info/6902965dff462851fefe4fee?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ewing Marion Kauffman Foundation](http://kauffman.org)** | **[T&C Intern](https://jobright.ai/jobs/info/6941fceebdcf884a5addb86c?utm_campaign=1054&utm_source=git)** | Kansas City, MO | On Site | Dec 16 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Career and Financial Coaching Intern](https://jobright.ai/jobs/info/6941de7d14ee092a69ffef59?utm_campaign=1054&utm_source=git)** | Baltimore, MD USA | Hybrid | Dec 16 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[Talent Acquisition Internship](https://jobright.ai/jobs/info/694216fdbdcf884a5addd7c2?utm_campaign=1054&utm_source=git)** | Sheboygan Falls, WI | On Site | Dec 16 |
+| **[Illumio](http://www.illumio.com)** | **[People Ops Intern](https://jobright.ai/jobs/info/691fe61fa49a885af9a352d2?utm_campaign=1054&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
