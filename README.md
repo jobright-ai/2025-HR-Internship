@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6945b77863141d1884554723?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 19 |
+| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Events and Hospitality Intern](https://jobright.ai/jobs/info/6945b325951654073537ce4c?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Dec 19 |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6945b08863141d1884553dc4?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 19 |
+| **[Dr. Bronner's](https://www.drbronner.com)** | **[Human Resources Generalist Fair Trade Intern](https://jobright.ai/jobs/info/6945afded1953b5d11beabe1?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Dec 19 |
+| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture (Human Resources) Intern](https://jobright.ai/jobs/info/6945aaf1d1953b5d11bea7d3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Human Resources Intern - BFC](https://jobright.ai/jobs/info/69333646a0dde7020e2eb6e8?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | Hybrid | Dec 19 |
 | **[Vonage](http://www.vonage.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6945a484d1953b5d11bea08c?utm_campaign=1054&utm_source=git)** | Remote - US (East Coast time zone) | Remote | Dec 19 |
 | **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern](https://jobright.ai/jobs/info/6945a443d1953b5d11bea05c?utm_campaign=1054&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
@@ -132,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Cobot](https://co.bot)** | **[People Operations Intern](https://jobright.ai/jobs/info/6944c3e894730b73987805b1?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Dec 18 |
 | **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern - Bilingual in Mandarin](https://jobright.ai/jobs/info/6944b421a7227b3ece665f8f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 18 |
 | **[Precision Castparts](http://precast.com)** | **[HR Intern](https://jobright.ai/jobs/info/6944a2ec50bbaf765056ba57?utm_campaign=1054&utm_source=git)** | Rockaway, NJ | On Site | Dec 18 |
+| **[University of Arizona](https://www.arizona.edu)** | **[Division Administrative Coordinator, Department of Internal Medicine (Phoenix)](https://jobright.ai/jobs/info/6945b83963141d1884554792?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 18 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 18 |
 | **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694497e550bbaf765056a0fe?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | Dec 18 |
 | **[Post Holdings](http://postholdings.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6944960094730b739877cb36?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JLM HR Consulting, LLC](https://www.jlm-hrconsulting.com/)** | **[Digital Operations Intern (Temporary/Part-Time) - Maryland](https://jobright.ai/jobs/info/6944554150bbaf76505652ad?utm_campaign=1054&utm_source=git)** | Gaithersburg, MD | Hybrid | Dec 18 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Talent Management and Learning & Development](https://jobright.ai/jobs/info/694454c150bbaf765056522a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer](https://jobright.ai/jobs/info/69447aa8dd382f5f566aa76b?utm_campaign=1054&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Dec 18 |
-| **[Delaware River Port Authority](http://drpa.org)** | **[Summer Benefits Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/69448c7494730b739877c55d?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer Benefits Administration Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6944648894730b7398778d09?utm_campaign=1054&utm_source=git)** | Camden, NJ | On Site | Dec 18 |
-| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Human Resources](https://jobright.ai/jobs/info/6944668050bbaf765056632f?utm_campaign=1054&utm_source=git)** | Omaha,NE,US | On Site | Dec 18 |
-| **[Koops Automation Systems](http://koops.com/)** | **[Human Resource Internship](https://jobright.ai/jobs/info/6944659a50bbaf765056629f?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 18 |
-| **[Grow Your Business](https://www.linkedin.com/company/89581880)** | **[HR Recruiting Intern](https://jobright.ai/jobs/info/694454fa94730b7398777e09?utm_campaign=1054&utm_source=git)** | Chicago, IL | Remote | Dec 18 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694436a394730b7398775207?utm_campaign=1054&utm_source=git)** | Chicago, IL, US | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
