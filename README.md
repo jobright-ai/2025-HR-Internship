@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Human Resources Intern](https://jobright.ai/jobs/info/690beffbd046ab6061ce9530?utm_campaign=1054&utm_source=git)** | Springfield, MO | On Site | Dec 19 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6945257ad1953b5d11be22c0?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 19 |
+| **[Calhoun International (d/b/a Core One)](http://calhouninternational.com)** | **[Summer Associate (Internship)](https://jobright.ai/jobs/info/694534989516540735374771?utm_campaign=1054&utm_source=git)** | Sterling, VA | On Site | Dec 19 |
+| **[Tyndale House Publishers](http://www.tyndale.com)** | **[HR Intern (Summer 2026)](https://jobright.ai/jobs/info/694527da95165407353743b7?utm_campaign=1054&utm_source=git)** | Carol Stream, IL | On Site | Dec 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Talent Acquisition Marketing/Videographer](https://jobright.ai/jobs/info/6944f720a7227b3ece66a052?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Jubilee Immigration Advocates](http://www.jubileelegal.org)** | **[Summer 2026 Undergraduate Immigration Internship](https://jobright.ai/jobs/info/6944f33850bbaf7650570974?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 18 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6944f1efa7227b3ece669e19?utm_campaign=1054&utm_source=git)** | Herndon, VA | Hybrid | Dec 18 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship - Recruitment Intern](https://jobright.ai/jobs/info/694334c1dd382f5f56692800?utm_campaign=1054&utm_source=git)** | Orlando, FL | Remote | Dec 17 |
 | **[Boomi](https://boomi.com/)** | **[Early Career Recruiter & Internship Program Manager (Hybrid, Vancouver)](https://jobright.ai/jobs/info/6943005250bbaf765054d7de?utm_campaign=1054&utm_source=git)** | Canada | Hybrid | Dec 17 |
 | **[Lendio](http://lendio.com)** | **[People Team Intern](https://jobright.ai/jobs/info/69431c4d50bbaf765054f406?utm_campaign=1054&utm_source=git)** | Lehi UT HQ | On Site | Dec 17 |
-| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69432764dd382f5f56691aad?utm_campaign=1054&utm_source=git)** | US-NC-Hickory | On Site | Dec 17 |
-| ↳ | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6943128f50bbaf765054ea7b?utm_campaign=1054&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 17 |
-| **[Neolytix](https://neolytix.com)** | **[HR and Admin Intern](https://jobright.ai/jobs/info/6943121350bbaf765054e9fc?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Resource Management Intern (Spring 2026)](https://jobright.ai/jobs/info/68cae9fd9e3a822f5d240099?utm_campaign=1054&utm_source=git)** | New York, New York, United States | On Site | Dec 17 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Internship Program Development Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6942ff0c94730b7398760870?utm_campaign=1054&utm_source=git)** | Bentonville, AR | On Site | Dec 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/69350be7764507023d1bee8f?utm_campaign=1054&utm_source=git)** | Wayne, NJ | On Site | Dec 17 |
+| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/6943128f50bbaf765054ea7b?utm_campaign=1054&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 17 |
+| ↳ | **[Summer Internship - Human Resources](https://jobright.ai/jobs/info/69432764dd382f5f56691aad?utm_campaign=1054&utm_source=git)** | US-NC-Hickory | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
