@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rekrut AI](rekrutai.co)** | **[People Operations & Hiring Intern](https://jobright.ai/jobs/info/6945fe4d63141d188455a0c5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
+| **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6945facb63141d1884559754?utm_campaign=1054&utm_source=git)** | PALO ALTO, California | On Site | Dec 19 |
+| **[Zus Health](https://zushealth.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6945f60563141d1884558d47?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 19 |
+| **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bilingual Human Resources Internship](https://jobright.ai/jobs/info/6945f59e7d506e3808f1332c?utm_campaign=1054&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Talent Acquisition](https://jobright.ai/jobs/info/6945eea87d506e3808f12fcd?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
+| **[The Skills Centre](https://skillscentre.ca/)** | **[International Student Recruiter/Cultural Advisor](https://jobright.ai/jobs/info/6945ee217d506e3808f12f8f?utm_campaign=1054&utm_source=git)** | Castlegar, British Columbia, Canada | On Site | Dec 19 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Inclusion and Belonging](https://jobright.ai/jobs/info/6945eba363141d188455872b?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
+| ↳ | **[Intern - Benefits](https://jobright.ai/jobs/info/6945eb5a7d506e3808f12e12?utm_campaign=1054&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
+| **[Grunley Construction Company, Inc.](http://grunley.com)** | **[2026 Winter HR Intern](https://jobright.ai/jobs/info/6945e7a763141d1884558414?utm_campaign=1054&utm_source=git)** | Rockville, MD | On Site | Dec 19 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Corporate Wellbeing Intern](https://jobright.ai/jobs/info/6945e434d1953b5d11bef44c?utm_campaign=1054&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer)](https://jobright.ai/jobs/info/6945e407d1953b5d11bef423?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 19 |
 | **[Dal-Tile LLC](http://dal-tile.com)** | **[INTERN - HR](https://jobright.ai/jobs/info/6945d98b9516540735380a3e?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Resources - Intern](https://jobright.ai/jobs/info/6945d70963141d18845577d9?utm_campaign=1054&utm_source=git)** | Rahway, NJ | Hybrid | Dec 19 |
 | **[Vonage](http://www.vonage.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6945d12b63141d1884556b15?utm_campaign=1054&utm_source=git)** | New Bern-MC Area | Remote | Dec 19 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Recruitment Intern](https://jobright.ai/jobs/info/6945cf4bd1953b5d11bed3a6?utm_campaign=1054&utm_source=git)** | NYC Metro Area | On Site | Dec 19 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Team Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6945cd79d1953b5d11becc1e?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Business and Performance Intern (8 months)](https://jobright.ai/jobs/info/6945cc35951654073537e8c4?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
 | **[Acuative](https://www.acuative.com)** | **[HR Intern](https://jobright.ai/jobs/info/6945c5bf63141d188455539a?utm_campaign=1054&utm_source=git)** | Strongsville, OH, US | On Site | Dec 19 |
 | **[Confidential Jobs](https://execthread.com)** | **[HR Intern](https://jobright.ai/jobs/info/6945c4b363141d1884555240?utm_campaign=1054&utm_source=git)** | Strongsville, OH, US | On Site | Dec 19 |
@@ -85,18 +93,19 @@ For a complete list, click the following sortable link below:
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Internship - Liquor & Lottery - Temporary](https://jobright.ai/jobs/info/6945c359d1953b5d11bec2b6?utm_campaign=1054&utm_source=git)** | Berlin, VT | On Site | Dec 19 |
 | **[George J. Igel & Co., Inc.](https://www.buildwithigel.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69458fc763141d1884551cc4?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Examinations Development - Provisional Hiring, Emerging Talent Intern](https://jobright.ai/jobs/info/69127640ea9ab01b82bf2dc0?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Business and Performance Intern (8 months)](https://jobright.ai/jobs/info/69458f3963141d1884551c6b?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 19 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Career Development Program Internship](https://jobright.ai/jobs/info/69458e7163141d1884551b81?utm_campaign=1054&utm_source=git)** | Wisconsin, United States | Remote | Dec 19 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Staff Forecasting and Performance Analysis, Emerging Talent Intern](https://jobright.ai/jobs/info/690ec79944146d3b6ec57c27?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
 | ↳ | **[Employment Operations, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912ee6ac98948514c47f9be?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
 | ↳ | **[Classification Unit, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691277b2c98948514c47bff1?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
-| ↳ | **[Organizational Strategy, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912832cea9ab01b82bf33b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - HR, Business and Performance Intern (8 months)](https://jobright.ai/jobs/info/69458a9663141d188455180a?utm_campaign=1054&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 19 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Organizational Strategy, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912832cea9ab01b82bf33b5?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | ↳ | **[Operations Support Associate, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/691babf015b4156367191763?utm_campaign=1054&utm_source=git)** | Brooklyn, NY | On Site | Dec 19 |
 | **[Valorantum](valorantum.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694588c8951654073537a24e?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Remote | Dec 19 |
 | **[Global Partners LP](http://www.globalp.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/6945845b9516540735379edb?utm_campaign=1054&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 19 |
 | **[CN](http://www.cn.ca)** | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/6928858b91ceeb2e8a545bfa?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
 | ↳ | **[Intern, Labour Relations - Indigenous- EN](https://jobright.ai/jobs/info/69288525f0beb07232630a5a?utm_campaign=1054&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 19 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddbede50091dbfa50bbf?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 19 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Team Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6945936c63141d1884551fbc?utm_campaign=1054&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Elkhart](https://jobright.ai/jobs/info/68d4ced3fcd3367e8df180b1?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Dec 19 |
 | **[UBS](https://www.ubs.com)** | **[UBS Veterans Pathway Internship 2026 (Nashville)](https://jobright.ai/jobs/info/69456b56d1953b5d11be5a95?utm_campaign=1054&utm_source=git)** | Nashville, TN | On Site | Dec 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Dec 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern (Volunteer Role)](https://jobright.ai/jobs/info/6944dda250bbaf765056e86a?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 18 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, People Operations](https://jobright.ai/jobs/info/6944d99994730b739878142e?utm_campaign=1054&utm_source=git)** | Carson City, NV | Hybrid | Dec 18 |
 | **[MJ Nester - Specialty Contractors](https://mjnester.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6944c4da94730b739878064a?utm_campaign=1054&utm_source=git)** | Pottstown, PA | On Site | Dec 18 |
-| **[Cobot](https://co.bot)** | **[People Operations Intern](https://jobright.ai/jobs/info/6944c3e894730b73987805b1?utm_campaign=1054&utm_source=git)** | Santa Clara, CA | On Site | Dec 18 |
-| **[JD.COM](http://corporate.jd.com)** | **[Human Resources Intern - Bilingual in Mandarin](https://jobright.ai/jobs/info/6944b421a7227b3ece665f8f?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 18 |
-| **[Precision Castparts](http://precast.com)** | **[HR Intern](https://jobright.ai/jobs/info/6944a2ec50bbaf765056ba57?utm_campaign=1054&utm_source=git)** | Rockaway, NJ | On Site | Dec 18 |
-| **[University of Arizona](https://www.arizona.edu)** | **[Division Administrative Coordinator, Department of Internal Medicine (Phoenix)](https://jobright.ai/jobs/info/6945b83963141d1884554792?utm_campaign=1054&utm_source=git)** | Phoenix, AZ | On Site | Dec 18 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 18 |
-| **[Colleyville Dental](http://www.colleyvilledentalcare.com/)** | **[Events and Hospitality Intern](https://jobright.ai/jobs/info/6945bdac951654073537da2f?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Dec 18 |
-| **[Coach USA](http://www.coachusa.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694497e550bbaf765056a0fe?utm_campaign=1054&utm_source=git)** | Paramus, NJ | On Site | Dec 18 |
-| **[Post Holdings](http://postholdings.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6944960094730b739877cb36?utm_campaign=1054&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Human Resources - Summer 2026](https://jobright.ai/jobs/info/6944941550bbaf7650569e10?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
