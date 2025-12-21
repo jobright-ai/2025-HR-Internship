@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 20 |
+| **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, Human Resources](https://jobright.ai/jobs/info/6947beee7d506e3808f320cb?utm_campaign=1054&utm_source=git)** | Montevallo, AL | On Site | Dec 21 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern - Organizational Learning and Development
+Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 21 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 20 |
+| ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 20 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/694779b8d1953b5d11c08b8f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69474c5d63141d188456f93e?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Dec 20 |
@@ -99,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 20 |
-| ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
+| ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR - Summer 2026](https://jobright.ai/jobs/info/690d0e624a1b456627b1d198?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
@@ -115,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694668f5d1953b5d11bf9eae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694667f77d506e3808f1cbae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 20 |
 | **[Volunteers of America Eastern Washington](http://voaspokane.org)** | **[Human Resources Intern (Unpaid Learning Opportunity)](https://jobright.ai/jobs/info/694659b363141d1884561059?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Dec 20 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6947b481d1953b5d11c0d01c?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/694634e9d1953b5d11bf65a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/694622877d506e3808f17431?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6946222b7d506e3808f17407?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Zus Health](https://zushealth.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/6945ffca7d506e3808f14a0b?utm_campaign=1054&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[AUTOGUIDOVIE](https://autoguidovie.it/)** | **[HR Intern (Stage) – Training & Onboarding Support](https://jobright.ai/jobs/info/6945fee563141d188455a23d?utm_campaign=1054&utm_source=git)** | Milano, TX | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/6945fe8ad1953b5d11bf11e1?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[Rekrut AI](rekrutai.co)** | **[People Operations & Hiring Intern](https://jobright.ai/jobs/info/6945fe4d63141d188455a0c5?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
 | **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 - Events Employee Experience Leader](https://jobright.ai/jobs/info/694604f2d1953b5d11bf20bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 19 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6945facb63141d1884559754?utm_campaign=1054&utm_source=git)** | PALO ALTO, California | On Site | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Bilingual Human Resources Internship](https://jobright.ai/jobs/info/6945f59e7d506e3808f1332c?utm_campaign=1054&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture (Human Resources) Intern](https://jobright.ai/jobs/info/6945c0e7951654073537ddee?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[D.C. Bar Pro Bono Center](https://www.dcbar.org/pro-bono/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6945bfe363141d1884554d04?utm_campaign=1054&utm_source=git)** | Washington, DC, US | Hybrid | Dec 19 |
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6945bf8a951654073537dc4a?utm_campaign=1054&utm_source=git)** | AK - Juneau | On Site | Dec 19 |
-| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6945b77863141d1884554723?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 19 |
-| **[Dr. Bronner's](https://www.drbronner.com)** | **[Human Resources Generalist Fair Trade Intern](https://jobright.ai/jobs/info/6945afded1953b5d11beabe1?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Dec 19 |
-| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[People & Culture (Human Resources) Intern](https://jobright.ai/jobs/info/6945aaf1d1953b5d11bea7d3?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
