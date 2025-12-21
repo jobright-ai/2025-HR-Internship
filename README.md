@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 21 |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6948005ed1953b5d11c127cf?utm_campaign=1054&utm_source=git)** | Legal Address 0TW50 - New York, NY 10003 | Hybrid | Dec 21 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec528d046ab6061d010bf?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Dec 21 |
+| ↳ | **[2026 Summer Internship Program: Human Resources (HR) Intern](https://jobright.ai/jobs/info/690ec396d046ab6061d0102e?utm_campaign=1054&utm_source=git)** | Lexington, MA | Hybrid | Dec 21 |
+| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Human Resources](https://jobright.ai/jobs/info/691bf700bcdbf3560c9e472a?utm_campaign=1054&utm_source=git)** | Avon, OH | On Site | Dec 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern-Medford, OR](https://jobright.ai/jobs/info/68f1a6bbf462172a5a7dae7a?utm_campaign=1054&utm_source=git)** | Medford, OR | On Site | Dec 21 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Dec 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Dec 21 |
@@ -95,7 +100,6 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69474c5d63141d188456f93e?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/694744c563141d188456e69a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/6947127ed1953b5d11c03d6d?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 20 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6947021c63141d188456b2a5?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 20 |
@@ -144,6 +148,7 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Atria Wealth Solutions](https://www.atriawealth.com/)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69467c4063141d1884563dcd?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Dec 20 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d52f07090163b6ba543d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[Hawx Smart Pest Control](https://www.hawxpestcontrol.com)** | **[Sales Recruiter - Remote](https://jobright.ai/jobs/info/69467b6463141d1884563d57?utm_campaign=1054&utm_source=git)** | Dallas, TX | Remote | Dec 20 |
+| **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 - Events & Employee Experience Leader](https://jobright.ai/jobs/info/694604f2d1953b5d11bf20bb?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 20 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69466ec37d506e3808f1dd82?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694668f5d1953b5d11bf9eae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694667f77d506e3808f1cbae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 20 |
@@ -153,9 +158,4 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[KIPP DC](https://www.kippdc.org/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/694622877d506e3808f17431?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6946222b7d506e3808f17407?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Benefits and Compensation Intern (Summer 2026)](https://jobright.ai/jobs/info/694620e87d506e3808f17371?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[California State University-San Bernardino](https://csusb.edu)** | **[Payroll Professional (Payroll Professional), Department of Payroll - Internal Employees Only](https://jobright.ai/jobs/info/693a83a30652687940eaac34?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | Hybrid | Dec 19 |
-| **[McElhanney](https://www.mcelhanney.com)** | **[Technical Recruiter - Early Talent](https://jobright.ai/jobs/info/69461271d1953b5d11bf33a8?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 19 |
-| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69460d7863141d188455bc2d?utm_campaign=1054&utm_source=git)** | Juneau, AK | On Site | Dec 19 |
-| **[Wärtsilä](http://www.wartsila.com/)** | **[HR Summer Intern (2026)](https://jobright.ai/jobs/info/69460ca5d1953b5d11bf2cf3?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Benefits and Compensation Intern (Summer 2026)](https://jobright.ai/jobs/info/694605f27d506e3808f1595b?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
