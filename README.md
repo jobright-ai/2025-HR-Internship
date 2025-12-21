@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/694779b8d1953b5d11c08b8f?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69474c5d63141d188456f93e?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/694744c563141d188456e69a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 20 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | **[MP Systems Inc.](http://www.mp-systemsinc.com)** | **[Intern - Health and Safety](https://jobright.ai/jobs/info/69422f9250bbaf7650541218?utm_campaign=1054&utm_source=git)** | East Troy, WI | On Site | Dec 20 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR - Summer 2026](https://jobright.ai/jobs/info/690d0e624a1b456627b1d198?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6945bf8a951654073537dc4a?utm_campaign=1054&utm_source=git)** | AK - Juneau | On Site | Dec 19 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Human Resources Intern (Spring 2026)](https://jobright.ai/jobs/info/6945b77863141d1884554723?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 19 |
 | **[City of Colleyville, TX](https://www.colleyville.com)** | **[Events and Hospitality Intern](https://jobright.ai/jobs/info/6945b325951654073537ce4c?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Dec 19 |
-| **[Dr. Bronner's](https://www.drbronner.com)** | **[Human Resources Generalist Fair Trade Intern](https://jobright.ai/jobs/info/6945afded1953b5d11beabe1?utm_campaign=1054&utm_source=git)** | Vista, CA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
