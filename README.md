@@ -100,7 +100,6 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Talent](https://jobright.ai/jobs/info/69475973d1953b5d11c07705?utm_campaign=1054&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69474c5d63141d188456f93e?utm_campaign=1054&utm_source=git)** | Bronx Zoo | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern](https://jobright.ai/jobs/info/694744c563141d188456e69a?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Talent Acquisition Intern](https://jobright.ai/jobs/info/6947021c63141d188456b2a5?utm_campaign=1054&utm_source=git)** | Fall River, MA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde2878ba1621431e0ef7?utm_campaign=1054&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efddd5de50091dbfa50bcf?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 20 |
 | ↳ | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68efde189821486c423c7d6d?utm_campaign=1054&utm_source=git)** | Waukegan, IL | On Site | Dec 20 |
@@ -158,4 +157,5 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6946222b7d506e3808f17407?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Benefits and Compensation Intern (Summer 2026)](https://jobright.ai/jobs/info/694620e87d506e3808f17371?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Payroll Professional (Payroll Professional), Department of Payroll - Internal Employees Only](https://jobright.ai/jobs/info/693a83a30652687940eaac34?utm_campaign=1054&utm_source=git)** | San Bernardino, CA | Hybrid | Dec 19 |
+| **[McElhanney](https://www.mcelhanney.com)** | **[Technical Recruiter - Early Talent](https://jobright.ai/jobs/info/69461271d1953b5d11bf33a8?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
