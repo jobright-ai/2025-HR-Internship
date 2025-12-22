@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/693bc5c050bbaf76504f29cb?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Dec 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/6948b2037d506e3808f3e575?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Dec 22 |
+| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7ec20295f8e37655e3f7b?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Dec 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/6948d348d1953b5d11c1e970?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Dec 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Dec 22 |
+| ↳ | **[Summer 2026 Management Internship - Concord, NH](https://jobright.ai/jobs/info/6933ce30a0dde7020e2f21e2?utm_campaign=1054&utm_source=git)** | Concord, NH | On Site | Dec 22 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6933a18aa0dde7020e2efbe6?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Dec 22 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/69490c3dd1953b5d11c2171b?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Dec 22 |
+| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Dec 22 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92f55f383274918705b4?utm_campaign=1054&utm_source=git)** | Brooksville, FL | On Site | Dec 22 |
+| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT AGGREGATES](https://jobright.ai/jobs/info/68bb92b56105227d118a72ba?utm_campaign=1054&utm_source=git)** | New Braunfels, TX | On Site | Dec 22 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Dec 22 |
 | **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Dec 22 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
@@ -147,15 +158,4 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 20 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern HR - Summer 2026](https://jobright.ai/jobs/info/690d0e624a1b456627b1d198?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 20 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
-| **[Actus Nutrition](https://actus.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68d48e948c62e63bc7fea738?utm_campaign=1054&utm_source=git)** | Wautoma, WI | On Site | Dec 20 |
-| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern I - Human Resources (Summer 2026)](https://jobright.ai/jobs/info/690d26464a1b456627b1e733?utm_campaign=1054&utm_source=git)** | Temple, TX | On Site | Dec 20 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Talent Management Intern Summer 2026](https://jobright.ai/jobs/info/691a9af415b4156367189381?utm_campaign=1054&utm_source=git)** | Cranberry Township, PA | Remote | Dec 20 |
-| **[DriveTime](https://www.drivetime.com)** | **[HRIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68d598491f7fb2169ab12241?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Dec 20 |
-| **[Atria Wealth Solutions](https://www.atriawealth.com/)** | **[2026 Summer Intern - Talent Acquisition](https://jobright.ai/jobs/info/69467c4063141d1884563dcd?utm_campaign=1054&utm_source=git)** | Fort Mill, SC | On Site | Dec 20 |
-| **[Lockton](https://www.lockton.com/offices/uk)** | **[People Solutions Intern - June 2026](https://jobright.ai/jobs/info/68b8d52f07090163b6ba543d?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
-| **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69466ec37d506e3808f1dd82?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694668f5d1953b5d11bf9eae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 20 |
-| ↳ | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694667f77d506e3808f1cbae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
