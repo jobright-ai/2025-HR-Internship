@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Calpoly SLO](https://jobright.ai/jobs/info/68bc308f8043103d4f22e9f5?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 22 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/693bc5c050bbaf76504f29cb?utm_campaign=1054&utm_source=git)** | Elkhart, IN | On Site | Dec 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - San Angelo, TX](https://jobright.ai/jobs/info/6948b2037d506e3808f3e575?utm_campaign=1054&utm_source=git)** | San Angelo, TX | On Site | Dec 22 |
 | **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7ec20295f8e37655e3f7b?utm_campaign=1054&utm_source=git)** | Hampton, VA | On Site | Dec 22 |
@@ -155,7 +156,6 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | ↳ | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 20 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 20 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
