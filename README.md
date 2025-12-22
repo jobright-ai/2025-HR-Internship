@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72aa245853d0e39ccd582?utm_campaign=1054&utm_source=git)** | Woodinville, WA | On Site | Dec 22 |
+| **[DriveTime](https://www.drivetime.com)** | **[Organizational Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0d4bd7727df7d5a84dd8f?utm_campaign=1054&utm_source=git)** | Tempe, AZ | On Site | Dec 22 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Pension Outsourcing Internship-Summer -2026](https://jobright.ai/jobs/info/68bb326a5f3832749186d081?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Organizational Effectiveness (La Crosse, WI)](https://jobright.ai/jobs/info/694327b650bbaf7650550033?utm_campaign=1054&utm_source=git)** | La Crosse, WI | On Site | Dec 22 |
 | **[Nightwing](nightwing.com)** | **[Human Resource Intern - 2026](https://jobright.ai/jobs/info/6948ff6f63141d188458a758?utm_campaign=1054&utm_source=git)** | Sterling, VA | Hybrid | Dec 22 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/6948a88063141d1884584dce?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
@@ -155,7 +158,4 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69466ec37d506e3808f1dd82?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694668f5d1953b5d11bf9eae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 20 |
 | ↳ | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/694667f77d506e3808f1cbae?utm_campaign=1054&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Dec 20 |
-| **[Volunteers of America Eastern Washington](http://voaspokane.org)** | **[Human Resources Intern (Unpaid Learning Opportunity)](https://jobright.ai/jobs/info/694659b363141d1884561059?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Dec 20 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6947b481d1953b5d11c0d01c?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/6948f8c8d1953b5d11c20886?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
