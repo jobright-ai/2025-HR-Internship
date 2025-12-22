@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[International Recruitment Specialist](https://jobright.ai/jobs/info/6948a88063141d1884584dce?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
 | **[Bridgecross, LLC](https://bridgecrossllc.com)** | **[SkillBridge Human Resource (HR) Specialist Intern](https://jobright.ai/jobs/info/6948aeec63141d1884585051?utm_campaign=1054&utm_source=git)** | Leesburg, VA | On Site | Dec 21 |
+| **[Legacy Insurance](http://insureatlegacy.com)** | **[Insurance Internship](https://jobright.ai/jobs/info/6948c0bcd1953b5d11c1c3b9?utm_campaign=1054&utm_source=git)** | Clarksville, TN 37040 | On Site | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec752d046ab6061d0121a?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 21 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Diversity, Equity, and Inclusion Intern](https://jobright.ai/jobs/info/6948005ed1953b5d11c127cf?utm_campaign=1054&utm_source=git)** | Legal Address 0TW50 - New York, NY 10003 | Hybrid | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Clinical Site Startup & Engagement Team](https://jobright.ai/jobs/info/690ec528d046ab6061d010bf?utm_campaign=1054&utm_source=git)** | Boston, MA | Remote | Dec 21 |
@@ -138,8 +139,8 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | ↳ | **[Spring 2026 Management Trainee Intern - Chattanooga](https://jobright.ai/jobs/info/68d4e0e18c62e63bc7fed629?utm_campaign=1054&utm_source=git)** | Chattanooga, TN | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/6933cd31a0dde7020e2f1ea3?utm_campaign=1054&utm_source=git)** | North Kingstown, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern Knoxville](https://jobright.ai/jobs/info/6933ba44f131d96e484665be?utm_campaign=1054&utm_source=git)** | Knoxville, TN | On Site | Dec 20 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | ↳ | **[Summer 2026 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/68c65555c96a22563eced786?utm_campaign=1054&utm_source=git)** | Warwick, RI | On Site | Dec 20 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/68cfeb09dbd9fb154edebee1?utm_campaign=1054&utm_source=git)** | North Providence, RI | On Site | Dec 20 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Human Resources](https://jobright.ai/jobs/info/690d305b221b890c278047c5?utm_campaign=1054&utm_source=git)** | Stamford, CT | On Site | Dec 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern HR - Summer 2026](https://jobright.ai/jobs/info/690d0e624a1b456627b1d198?utm_campaign=1054&utm_source=git)** | Saegertown, PA | On Site | Dec 20 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - Tampa, FL](https://jobright.ai/jobs/info/6920187809cc522e87747fb1?utm_campaign=1054&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
@@ -156,6 +157,5 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[Volunteers of America Eastern Washington](http://voaspokane.org)** | **[Human Resources Intern (Unpaid Learning Opportunity)](https://jobright.ai/jobs/info/694659b363141d1884561059?utm_campaign=1054&utm_source=git)** | Spokane, WA | Hybrid | Dec 20 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6947b481d1953b5d11c0d01c?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 20 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Internship Opportunity: Human Resources Training - Denver](https://jobright.ai/jobs/info/694634e9d1953b5d11bf65a9?utm_campaign=1054&utm_source=git)** | Denver, CO | On Site | Dec 19 |
-| **[KIPP DC](https://www.kippdc.org/)** | **[Human Resources Intern (Summer 2026)](https://jobright.ai/jobs/info/694622877d506e3808f17431?utm_campaign=1054&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
-| **[Tesla](https://www.tesla.com)** | **[Technical Sourcer, North America Internship Team](https://jobright.ai/jobs/info/6946222b7d506e3808f17407?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 19 |
+| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Events and Hospitality Intern](https://jobright.ai/jobs/info/6948db307d506e3808f41ad2?utm_campaign=1054&utm_source=git)** | Colleyville, TX | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
