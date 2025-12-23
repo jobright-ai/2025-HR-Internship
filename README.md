@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer Intern - Corporate HR](https://jobright.ai/jobs/info/694ae5c73019f50a4fe5f6e4?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694ad24a67a69734cac5fa7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac7d31224705e9001e0ce?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | Dec 23 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac5fc1224705e9001e003?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Dec 23 |
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources & Talent Acquisition Intern Training Program](https://jobright.ai/jobs/info/68cbfc2a128dc347fd91cd9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694adf9b1224705e900202cc?utm_campaign=1054&utm_source=git)** | Cortlandt Street, New York, NY, US | On Site | Dec 23 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Talent Pool Business Internship -](https://jobright.ai/jobs/info/694aaa193019f50a4fe5c471?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa8751224705e9001d28e?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 23 |
 | **[Arvento A](arventoa.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694abb8667a69734cac5d751?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 23 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 23 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa3043019f50a4fe5bde8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 23 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/69499fc67d506e3808f4ca2f?utm_campaign=1054&utm_source=git)** | Milford, Massachusetts, United States | On Site | Dec 22 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Queens, NY | Hybrid | Dec 22 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/69499cf1d1953b5d11c2a211?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Dec 22 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/69499a1ed1953b5d11c29eda?utm_campaign=1054&utm_source=git)** | Pennsylvania, United States | Remote | Dec 22 |
 | **[Merjent](http://merjent.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949ff167d506e3808f51590?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
 | **[ChampionX Emissions Technologies](https://www.scientificaviation.com/)** | **[HR Intern, Commercial](https://jobright.ai/jobs/info/6949f6f363141d18845979e7?utm_campaign=1054&utm_source=git)** | USA - Texas - Sugar Land | On Site | Dec 22 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Dec 22 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/6949ab34d1953b5d11c2af19?utm_campaign=1054&utm_source=git)** | Hartford, Connecticut, United States | On Site | Dec 22 |
-| ↳ | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/69499b4463141d18845938fe?utm_campaign=1054&utm_source=git)** | Milford, MA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
