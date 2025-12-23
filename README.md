@@ -57,11 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrative Touch](https://integrativetouch.org)** | **[Intern - On-Site & Remote Opportunities available!](https://jobright.ai/jobs/info/694b0bad1224705e90021e7f?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 23 |
+| **[Arcwood Environmental](https://www.arcwoodenviro.com)** | **[HRIS Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/694b05233019f50a4fe60c2c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
+| **[GHG Corporation](http://www.ghgcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b02eb3019f50a4fe60a29?utm_campaign=1054&utm_source=git)** | Webster, TX | On Site | Dec 23 |
+| **[Rural King](https://www.ruralking.com)** | **[LIFT - HR Internship](https://jobright.ai/jobs/info/694b00db3019f50a4fe60845?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Dec 23 |
+| **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Human Resources](https://jobright.ai/jobs/info/694af9f967a69734cac60d85?utm_campaign=1054&utm_source=git)** | NYC Metro Area | Hybrid | Dec 23 |
+| **[GMH Associates, Inc.](http://gmhassoc.com)** | **[Summer Internship](https://jobright.ai/jobs/info/694af57e3019f50a4fe5ffb2?utm_campaign=1054&utm_source=git)** | Newtown Square, PA | On Site | Dec 23 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer Intern - Corporate HR](https://jobright.ai/jobs/info/694ae5c73019f50a4fe5f6e4?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Dec 23 |
+| **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Elkford, British Columbia, Canada | On Site | Dec 23 |
+| **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694afc3067a69734cac60f6d?utm_campaign=1054&utm_source=git)** | Lawrence,PA,US | On Site | Dec 23 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 23 |
+| ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 23 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694ad24a67a69734cac5fa7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
-| ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
+| **[American Express](http://www.americanexpress.com)** | **[American Express Canada - Undergraduate Finance Summer Internship - Campus Recruitment](https://jobright.ai/jobs/info/694af88a3019f50a4fe60213?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/694ac9421224705e9001e163?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Dec 23 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Dec 23 |
@@ -122,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[FPWA](https://www.fpwa.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/694a115bc6f0e2546cef0e9e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/6949ffdd7d506e3808f517c8?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Dec 22 |
 | **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/694a100f63141d188459b60d?utm_campaign=1054&utm_source=git)** | Asheville, NC, US | On Site | Dec 22 |
-| **[Sauk County](https://www.co.sauk.wi.us/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949f9ee63141d1884597d43?utm_campaign=1054&utm_source=git)** | Baraboo, WI | Hybrid | Dec 22 |
 | **[City of Healdsburg](https://healdsburg.gov/)** | **[Police Department Intern (Part-Time)](https://jobright.ai/jobs/info/6949ff047d506e3808f51564?utm_campaign=1054&utm_source=git)** | Healdsburg, CA | On Site | Dec 22 |
 | **[Front Row](https://www.frontrowgroup.com)** | **[Analyst Intern, HR - Marketplace Partnership](https://jobright.ai/jobs/info/694a0d0c7d506e3808f53ac1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Intern Talent Acquisition (Jan-Aug Requirement)](https://jobright.ai/jobs/info/694a124dc6f0e2546cef10e5?utm_campaign=1054&utm_source=git)** | Boston, MA, US | Hybrid | Dec 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/6949fe12c6f0e2546ceed9fd?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Dec 22 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/694a11d57d506e3808f5469d?utm_campaign=1054&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Dec 22 |
 | ↳ | **[Intern - Human Resources](https://jobright.ai/jobs/info/694a0feb63141d188459b5a6?utm_campaign=1054&utm_source=git)** | New York City, New York, NY, US | Hybrid | Dec 22 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[GTB - PMO and Strategic Initiatives Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694a4092187e565c6bfa49ce?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| ↳ | **[Velocity - Campus Recruiter Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694a0641c6f0e2546ceef09d?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| **[Peabody Energy](http://www.peabodyenergy.com)** | **[HR Intern](https://jobright.ai/jobs/info/694a3eb831c12007d3b90162?utm_campaign=1054&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
-| **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/694360ed50bbaf76505545bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/694a3aba187e565c6bfa45f5?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/69499fc67d506e3808f4ca2f?utm_campaign=1054&utm_source=git)** | Milford, Massachusetts, United States | On Site | Dec 22 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/694a3fed31c12007d3b90260?utm_campaign=1054&utm_source=git)** | Queens, NY | Hybrid | Dec 22 |
-| **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/69499cf1d1953b5d11c2a211?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Dec 22 |
-| **[Merjent](http://merjent.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949ff167d506e3808f51590?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
-| **[ChampionX Emissions Technologies](https://www.scientificaviation.com/)** | **[HR Intern, Commercial](https://jobright.ai/jobs/info/6949f6f363141d18845979e7?utm_campaign=1054&utm_source=git)** | USA - Texas - Sugar Land | On Site | Dec 22 |
-| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Dec 22 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/6949ab34d1953b5d11c2af19?utm_campaign=1054&utm_source=git)** | Hartford, Connecticut, United States | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
