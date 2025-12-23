@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6949e7b663141d1884597126?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 22 |
+| ↳ | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/6949e5e663141d18845970ea?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/691bd36222a2cb4b9bd1685c?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Dec 22 |
 | **[Ohio Department of Job and Family Services](https://jfs.ohio.gov/)** | **[Human Resources Intern (Summer)](https://jobright.ai/jobs/info/69466ec37d506e3808f1dd82?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 22 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 22 |
+| **[Jenner & Block](http://jenner.com/)** | **[HR Intern](https://jobright.ai/jobs/info/6949f42363141d18845977ba?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949f4ae63141d18845977ec?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 22 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD Skillbridge Internship](https://jobright.ai/jobs/info/694360ed50bbaf76505545bd?utm_campaign=1054&utm_source=git)** | San Antonio, TX | On Site | Dec 22 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Talent Development Intern (Spring 2026)](https://jobright.ai/jobs/info/69499fc67d506e3808f4ca2f?utm_campaign=1054&utm_source=git)** | Milford, Massachusetts, United States | On Site | Dec 22 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester HR Talent Acquisition Intern - 2026](https://jobright.ai/jobs/info/69499cf1d1953b5d11c2a211?utm_campaign=1054&utm_source=git)** | Clayton, MO | On Site | Dec 22 |
@@ -154,8 +158,4 @@ Job ID : 268176](https://jobright.ai/jobs/info/6947b13d7d506e3808f2ff8d?utm_camp
 | **[CN](http://www.cn.ca)** | **[Intern, Labor Relations & Compliance- FR](https://jobright.ai/jobs/info/69307f704c474121999e5a18?utm_campaign=1054&utm_source=git)** | Homewood, IL | On Site | Dec 20 |
 | ↳ | **[Intern, Labour Relations & Compliance- EN](https://jobright.ai/jobs/info/6937b920aabec14a727cc6cf?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
 | ↳ | **[Intern, Pension & Benefits- Indigenous- EN](https://jobright.ai/jobs/info/69422ce514ee092a69005dfb?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 20 |
-| ↳ | **[Intern, Analyst Global Mobility- EN](https://jobright.ai/jobs/info/6937b91caabec14a727cc6ae?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1054&utm_source=git)** | New London, CT | On Site | Dec 20 |
-| **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Internship](https://jobright.ai/jobs/info/689ce610faa4e875e826bb17?utm_campaign=1054&utm_source=git)** | South Burlington, VT | On Site | Dec 20 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/690d76204a1b456627b218c0?utm_campaign=1054&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
