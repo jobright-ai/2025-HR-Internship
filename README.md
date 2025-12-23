@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6945213663141d188454ac2b?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
+| **[Share Creators](http://www.sharecreators.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/694a77db3019f50a4fe59d1b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Multiple Divisions)](https://jobright.ai/jobs/info/69339f3a764507023d1b7609?utm_campaign=1054&utm_source=git)** | Mercer County, NJ | On Site | Dec 23 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[HR intern - Summer 2026 (Mt Gilead, North Carolina, United States, 27306)](https://jobright.ai/jobs/info/694a579f31c12007d3b911dd?utm_campaign=1054&utm_source=git)** | Mount Gilead, NC | On Site | Dec 23 |
-| ↳ | **[People Systems Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69463c1d63141d188455f919?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[People Systems Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69463c1d63141d188455f919?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 | **[Entegris](http://www.entegris.com)** | **[Human Resources/Talent Intern - Summer 2026](https://jobright.ai/jobs/info/694a49c03019f50a4fe57121?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Dec 22 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/694a2afd7d506e3808f56ed3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Dec 22 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Recruiter, North America Internship Team](https://jobright.ai/jobs/info/694a200e7d506e3808f55ad4?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zekelman Industries](http://www.zekelman.com)** | **[HR - Compensation & Benefits Intern](https://jobright.ai/jobs/info/690ebbf144146d3b6ec57473?utm_campaign=1054&utm_source=git)** | Wheatland, PA | On Site | Dec 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/68f37e1476a51a4307bce6b9?utm_campaign=1054&utm_source=git)** | Cactus, TX | On Site | Dec 21 |
 | **[ASML](https://www.asml.com)** | **[Internship, People Operations Summer 2026](https://jobright.ai/jobs/info/690e992b44146d3b6ec55ba9?utm_campaign=1054&utm_source=git)** | Chandler, AZ | Hybrid | Dec 21 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Quakertown](https://jobright.ai/jobs/info/68f2ab239a65fd345857ee2a?utm_campaign=1054&utm_source=git)** | Quakertown, PA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
