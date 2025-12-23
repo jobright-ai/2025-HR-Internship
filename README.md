@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Talent Pool Business Internship -](https://jobright.ai/jobs/info/694aaa193019f50a4fe5c471?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 23 |
 | **[I.R.E](https://www.linkedin.com/company/101450002)** | **[HR Intern](https://jobright.ai/jobs/info/694a956167a69734cac5c069?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | Remote | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Clarksburg, WV](https://jobright.ai/jobs/info/692e68c14c474121999d93b2?utm_campaign=1054&utm_source=git)** | Clarksburg, WV | On Site | Dec 23 |
@@ -72,15 +74,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 23 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa3043019f50a4fe5bde8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 23 |
-| ↳ | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 23 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/694522b0d1953b5d11be1ed2?utm_campaign=1054&utm_source=git)** | Austin, TX | Hybrid | Dec 23 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Mandarin Speaker, 2026](https://jobright.ai/jobs/info/681407ec1e8d2430dfdf7b0d?utm_campaign=1054&utm_source=git)** | New York, United States | Hybrid | Dec 23 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Associate Recruiting Intern](https://jobright.ai/jobs/info/6945213663141d188454ac2b?utm_campaign=1054&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
+| **[Groot Hospitality](https://groothospitality.com/)** | **[HR Intern](https://jobright.ai/jobs/info/692e62eefa28370be26a4195?utm_campaign=1054&utm_source=git)** | Miami Beach, FL | On Site | Dec 23 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Employee Benefits - Iselin, NJ](https://jobright.ai/jobs/info/6911d26e8b818a6dda66bd57?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Dec 23 |
+| ↳ | **[Risk Management Client Service Intern, Employee Benefits](https://jobright.ai/jobs/info/6911d46c8b818a6dda66bdc3?utm_campaign=1054&utm_source=git)** | Iselin, NJ | On Site | Dec 23 |
 | **[Share Creators](http://www.sharecreators.com)** | **[Human Resource Intern (Unpaid)](https://jobright.ai/jobs/info/694a77db3019f50a4fe59d1b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[INTERN - HR (Dallas, Texas, United States, 75217)](https://jobright.ai/jobs/info/694605ca7d506e3808f158fc?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Multiple Divisions)](https://jobright.ai/jobs/info/69339f3a764507023d1b7609?utm_campaign=1054&utm_source=git)** | Mercer County, NJ | On Site | Dec 23 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[People Systems Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69463c1d63141d188455f919?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 | **[Entegris](http://www.entegris.com)** | **[Human Resources/Talent Intern - Summer 2026](https://jobright.ai/jobs/info/694a49c03019f50a4fe57121?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | On Site | Dec 22 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) - Service Operations Strategy & Planning Intern](https://jobright.ai/jobs/info/694a2afd7d506e3808f56ed3?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Dec 22 |
 | **[Tesla](https://www.tesla.com)** | **[Technical Recruiter, North America Internship Team](https://jobright.ai/jobs/info/694a200e7d506e3808f55ad4?utm_campaign=1054&utm_source=git)** | Palo Alto, CA | On Site | Dec 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ce9c2bcdbf3560c9eb10f?utm_campaign=1054&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/6922c8c438cd5478a8d551de?utm_campaign=1054&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Membership & Deposit Product)](https://jobright.ai/jobs/info/691ca40b22a2cb4b9bd1be1e?utm_campaign=1054&utm_source=git)** | Winchester, VA | Hybrid | Dec 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/6948d348d1953b5d11c1e970?utm_campaign=1054&utm_source=git)** | Abilene, TX | On Site | Dec 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68cda1c6b2a74e1837eda31f?utm_campaign=1054&utm_source=git)** | Westerly, RI | On Site | Dec 22 |
-| ↳ | **[Summer 2026 Management Internship - Concord, NH](https://jobright.ai/jobs/info/6933ce30a0dde7020e2f21e2?utm_campaign=1054&utm_source=git)** | Concord, NH | On Site | Dec 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6933a18aa0dde7020e2efbe6?utm_campaign=1054&utm_source=git)** | North Attleboro, MA | On Site | Dec 22 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/69490c3dd1953b5d11c2171b?utm_campaign=1054&utm_source=git)** | Amarillo, TX | On Site | Dec 22 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[Claims College Internship - North Richland Hills, TX](https://jobright.ai/jobs/info/68124c68988b4dafeeba1b55?utm_campaign=1054&utm_source=git)** | North Richland Hills, TX | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
