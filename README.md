@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Dec 23 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/694b65b45d731211346ff21f?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Dec 23 |
+| **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Systems Analyst - Internal Only Recruitment](https://jobright.ai/jobs/info/694b63601a572a617dddb3a1?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Dec 23 |
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b5b7a5d731211346fe32c?utm_campaign=1054&utm_source=git)** | Lawrence, PA | On Site | Dec 23 |
 | **[Reid Accountants + Advisors](http://www.reidadvisorsllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b53d5d64ebf28d8210c0a?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Dec 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b41621224705e90026c97?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 23 |
@@ -85,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694afc3067a69734cac60f6d?utm_campaign=1054&utm_source=git)** | Lawrence,PA,US | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 23 |
 | ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 23 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694ad24a67a69734cac5fa7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
@@ -100,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources & Talent Acquisition Intern Training Program](https://jobright.ai/jobs/info/68cbfc2a128dc347fd91cd9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694adf9b1224705e900202cc?utm_campaign=1054&utm_source=git)** | Cortlandt Street, New York, NY, US | On Site | Dec 23 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Talent Pool Business Internship -](https://jobright.ai/jobs/info/694aaa193019f50a4fe5c471?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa8751224705e9001d28e?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Human Resources Internship](https://jobright.ai/jobs/info/694b1af54b53a1551f94d996?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Workforce Management Internship](https://jobright.ai/jobs/info/694b14073019f50a4fe622ef?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 23 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 23 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa3043019f50a4fe5bde8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0acb63141d188459a6f0?utm_campaign=1054&utm_source=git)** | Lansdowne, VA | On Site | Dec 22 |
 | **[FPWA](https://www.fpwa.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/694a115bc6f0e2546cef0e9e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/6949ffdd7d506e3808f517c8?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Dec 22 |
-| **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/694a100f63141d188459b60d?utm_campaign=1054&utm_source=git)** | Asheville, NC, US | On Site | Dec 22 |
-| **[City of Healdsburg](https://healdsburg.gov/)** | **[Police Department Intern (Part-Time)](https://jobright.ai/jobs/info/6949ff047d506e3808f51564?utm_campaign=1054&utm_source=git)** | Healdsburg, CA | On Site | Dec 22 |
-| **[Crete Professionals Alliance](https://cretepa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b279b4b53a1551f94e876?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
