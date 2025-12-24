@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern Mandarin](https://jobright.ai/jobs/info/694b93715d73121134702927?utm_campaign=1054&utm_source=git)** | Middlesex County, NJ | On Site | Dec 23 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Dec 23 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/694b7f3ed64ebf28d821464a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Dec 23 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b7f1ad64ebf28d821460c?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 23 |
+| **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Dec 23 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/694b65b45d731211346ff21f?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Dec 23 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Systems Analyst - Internal Only Recruitment](https://jobright.ai/jobs/info/694b63601a572a617dddb3a1?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Dec 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Compensation](https://jobright.ai/jobs/info/6949fc3763141d1884597f99?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0f1763141d188459b30d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/694a1fa263141d188459cf9b?utm_campaign=1054&utm_source=git)** | Hoffmaster, 2920 N. Main St, Oshkosh, Wisconsin, United States of America | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Provider Recruitment](https://jobright.ai/jobs/info/6949e7b663141d1884597126?utm_campaign=1054&utm_source=git)** | South Portland, ME | On Site | Dec 22 |
-| **[Community Access](https://www.communityaccess.org)** | **[HR Intern](https://jobright.ai/jobs/info/694b1ae33019f50a4fe6334c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Workforce Development](https://jobright.ai/jobs/info/6949e5e663141d18845970ea?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0acb63141d188459a6f0?utm_campaign=1054&utm_source=git)** | Lansdowne, VA | On Site | Dec 22 |
-| **[FPWA](https://www.fpwa.org/)** | **[HR Operations Intern](https://jobright.ai/jobs/info/694a115bc6f0e2546cef0e9e?utm_campaign=1054&utm_source=git)** | New York, New York, United States | Hybrid | Dec 22 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Talent Acquisition](https://jobright.ai/jobs/info/6949ffdd7d506e3808f517c8?utm_campaign=1054&utm_source=git)** | Queens, NY | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
