@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b5b7a5d731211346fe32c?utm_campaign=1054&utm_source=git)** | Lawrence, PA | On Site | Dec 23 |
+| **[Reid Accountants + Advisors](http://www.reidadvisorsllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b53d5d64ebf28d8210c0a?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Dec 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b41621224705e90026c97?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 23 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
 | **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b34314b53a1551f94ed91?utm_campaign=1054&utm_source=git)** | Massachusetts - Wakefield - 2 | On Site | Dec 23 |
+| **[Civil Design, Inc.](http://civildesigninc.com/)** | **[People Success Intern](https://jobright.ai/jobs/info/694b5d391a572a617dddafc9?utm_campaign=1054&utm_source=git)** | Saint Louis,MO,US | On Site | Dec 23 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694b26311224705e900248e3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b241e4b53a1551f94e63c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / Louisiana State University - Baton Rouge](https://jobright.ai/jobs/info/694b1ce91224705e90023f10?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Dec 23 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694afc3067a69734cac60f6d?utm_campaign=1054&utm_source=git)** | Lawrence,PA,US | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 23 |
 | ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 23 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694ad24a67a69734cac5fa7c?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eckerd Connects](https://eckerd.org)** | **[Foster Care Case Manager Intern](https://jobright.ai/jobs/info/694a100f63141d188459b60d?utm_campaign=1054&utm_source=git)** | Asheville, NC, US | On Site | Dec 22 |
 | **[City of Healdsburg](https://healdsburg.gov/)** | **[Police Department Intern (Part-Time)](https://jobright.ai/jobs/info/6949ff047d506e3808f51564?utm_campaign=1054&utm_source=git)** | Healdsburg, CA | On Site | Dec 22 |
 | **[Crete Professionals Alliance](https://cretepa.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b279b4b53a1551f94e876?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Dec 22 |
-| **[Front Row](https://www.frontrowgroup.com)** | **[Analyst Intern, HR - Marketplace Partnership](https://jobright.ai/jobs/info/694a0d0c7d506e3808f53ac1?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Haemonetics](http://www.haemonetics.com)** | **[Intern Talent Acquisition (Jan-Aug Requirement)](https://jobright.ai/jobs/info/694a124dc6f0e2546cef10e5?utm_campaign=1054&utm_source=git)** | Boston, MA, US | Hybrid | Dec 22 |
-| **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949f88463141d1884597bca?utm_campaign=1054&utm_source=git)** | Evansville, IN | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
