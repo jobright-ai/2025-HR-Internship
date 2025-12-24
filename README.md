@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b9af4d64ebf28d8215b4c?utm_campaign=1054&utm_source=git)** | North Liberty, IA | On Site | Dec 23 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Payroll & HR Intern](https://jobright.ai/jobs/info/694bb6e45d731211347038c3?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[JD.COM](http://corporate.jd.com)** | **[HRBP Intern Mandarin](https://jobright.ai/jobs/info/694b93715d73121134702927?utm_campaign=1054&utm_source=git)** | Middlesex County, NJ | On Site | Dec 23 |
+| **[Insperity](http://www.insperity.com)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694ba6ad5d731211347032a7?utm_campaign=1054&utm_source=git)** | Houston, TX | Hybrid | Dec 23 |
+| **[SPARK+ Technologies](http://www.sparkplustech.com)** | **[HR & Accounts Internship](https://jobright.ai/jobs/info/694b9e715d73121134702ff0?utm_campaign=1054&utm_source=git)** | Remote job | Remote | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - York](https://jobright.ai/jobs/info/694b81775d73121134701f09?utm_campaign=1054&utm_source=git)** | York, PA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/694b7f3ed64ebf28d821464a?utm_campaign=1054&utm_source=git)** | Lancaster, PA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b7f1ad64ebf28d821460c?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 23 |
@@ -109,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources & Talent Acquisition Intern Training Program](https://jobright.ai/jobs/info/68cbfc2a128dc347fd91cd9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694adf9b1224705e900202cc?utm_campaign=1054&utm_source=git)** | Cortlandt Street, New York, NY, US | On Site | Dec 23 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Talent Pool Business Internship -](https://jobright.ai/jobs/info/694aaa193019f50a4fe5c471?utm_campaign=1054&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa8751224705e9001d28e?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Human Resources Internship](https://jobright.ai/jobs/info/694b1af54b53a1551f94d996?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Workforce Management Internship](https://jobright.ai/jobs/info/694b14073019f50a4fe622ef?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 23 |
@@ -129,6 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Employee Engagement & Talent Management Intern](https://jobright.ai/jobs/info/692e48ae4c474121999d8048?utm_campaign=1054&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Talent Acquisition (Summer 2026)](https://jobright.ai/jobs/info/68da28723c03cd327094362a?utm_campaign=1054&utm_source=git)** | Garland, TX | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources & Customer Experience Intern](https://jobright.ai/jobs/info/692e3fe0ef4b48533d13dfa4?utm_campaign=1054&utm_source=git)** | Livermore, CA | Hybrid | Dec 23 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa3043019f50a4fe5bde8?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 | **[Precision Castparts](http://precast.com)** | **[Human Resources Co-Op (Intern)](https://jobright.ai/jobs/info/68d72b2545853d0e39ccd5de?utm_campaign=1054&utm_source=git)** | Tukwila, WA | On Site | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 23 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Summer Associate, Client Service, Portuguese Speaker, 2026](https://jobright.ai/jobs/info/68cf14eadbd9fb154ede4ef0?utm_campaign=1054&utm_source=git)** | New York, United States | On Site | Dec 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Human Resources/Talent Intern - Summer 2026](https://jobright.ai/jobs/info/694a23777d506e3808f55cba?utm_campaign=1054&utm_source=git)** | Colorado Springs, CO | Hybrid | Dec 22 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Operations Manager](https://jobright.ai/jobs/info/694a00b063141d1884598d70?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
 | **[KOCH Finishing Systems](https://www.kochllc.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/6949fedb63141d18845987aa?utm_campaign=1054&utm_source=git)** | 10 S 11th Ave, Evansville, IN 47712, USA | On Site | Dec 22 |
-| **[ChampionX](https://www.championx.com)** | **[HR Intern, Commercial](https://jobright.ai/jobs/info/6949fddec6f0e2546ceed970?utm_campaign=1054&utm_source=git)** | Sugar Land, TX | On Site | Dec 22 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern- HR Compensation](https://jobright.ai/jobs/info/6949fc3763141d1884597f99?utm_campaign=1054&utm_source=git)** | Portland, ME | On Site | Dec 22 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Blackstone Recruitment & Internship Director](https://jobright.ai/jobs/info/694a0f1763141d188459b30d?utm_campaign=1054&utm_source=git)** | Dallas, TX | On Site | Dec 22 |
-| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Talent Attraction Intern](https://jobright.ai/jobs/info/694a1fa263141d188459cf9b?utm_campaign=1054&utm_source=git)** | Hoffmaster, 2920 N. Main St, Oshkosh, Wisconsin, United States of America | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
