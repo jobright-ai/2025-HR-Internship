@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gensco Inc](https://gensco.com/)** | **[Corporate Intern - Recruiting](https://jobright.ai/jobs/info/694c43945d7312113470afb4?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Human Resources -Intern](https://jobright.ai/jobs/info/694c5d855d7312113470d4cc?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694c5befd64ebf28d821fe74?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 24 |
+| **[Western Illinois University](http://www.wiu.edu/)** | **[Director of International Student Recruitment](https://jobright.ai/jobs/info/694c585ad64ebf28d821f68d?utm_campaign=1054&utm_source=git)** | Macomb, IL | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Human Resources Analytics - Intern](https://jobright.ai/jobs/info/694c540dd64ebf28d821e9e0?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
+| **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
+| ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
+| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/694c4b9cd64ebf28d821debb?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/694c415e5d7312113470ae5d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Save Max](https://savemax.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694c2ebe5d7312113470a720?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 24 |
+| **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c4ec71a572a617dde7fe1?utm_campaign=1054&utm_source=git)** | US-RI-Providence | On Site | Dec 24 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694c262b1a572a617dde6ec6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 24 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c1f7bd64ebf28d821cde8?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 24 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/694c1f3dd64ebf28d821cddf?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 24 |
@@ -114,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
 | **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b34314b53a1551f94ed91?utm_campaign=1054&utm_source=git)** | Massachusetts - Wakefield - 2 | On Site | Dec 23 |
 | **[Civil Design, Inc.](http://civildesigninc.com/)** | **[People Success Intern](https://jobright.ai/jobs/info/694b5d391a572a617dddafc9?utm_campaign=1054&utm_source=git)** | Saint Louis,MO,US | On Site | Dec 23 |
+| **[Gensco Inc](https://gensco.com/)** | **[Corporate Intern - Recruiting](https://jobright.ai/jobs/info/694c373d1a572a617dde71f9?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Dec 23 |
 | **[King & Spalding](http://www.kslaw.com/)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694b26311224705e900248e3?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[LifeStyles Healthcare](https://www.lifestylesglobal.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b241e4b53a1551f94e63c?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Human Resources Intern, Chartwells Higher Ed / Louisiana State University - Baton Rouge](https://jobright.ai/jobs/info/694b1ce91224705e90023f10?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Dec 23 |
@@ -123,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Mt. Cuba Center](http://mtcubacenter.org)** | **[People & Operations Internship](https://jobright.ai/jobs/info/694b2d443019f50a4fe63d68?utm_campaign=1054&utm_source=git)** | Hockessin, DE | On Site | Dec 23 |
 | **[Integrative Touch](https://integrativetouch.org)** | **[Intern - On-Site & Remote Opportunities available!](https://jobright.ai/jobs/info/694b0bad1224705e90021e7f?utm_campaign=1054&utm_source=git)** | Tucson, AZ | On Site | Dec 23 |
 | **[Arcwood Environmental](https://www.arcwoodenviro.com)** | **[HRIS Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/694b05233019f50a4fe60c2c?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
-| **[GHG Corporation](http://www.ghgcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b02eb3019f50a4fe60a29?utm_campaign=1054&utm_source=git)** | Webster, TX | On Site | Dec 23 |
 | **[Rural King](https://www.ruralking.com)** | **[LIFT - HR Internship](https://jobright.ai/jobs/info/694b00db3019f50a4fe60845?utm_campaign=1054&utm_source=git)** | Mattoon, IL | On Site | Dec 23 |
 | **[Key Risk (a Berkley Company)](https://www.keyrisk.com)** | **[Claims Intern](https://jobright.ai/jobs/info/694b18723019f50a4fe62d5d?utm_campaign=1054&utm_source=git)** | High Point, NC | On Site | Dec 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b18973019f50a4fe62d97?utm_campaign=1054&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 23 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac5fc1224705e9001e003?utm_campaign=1054&utm_source=git)** | Santa Cruz, CA | On Site | Dec 23 |
 | **[Blackmore Partners Inc](http://blackmorepartnersinc.com)** | **[Human Resources & Talent Acquisition Intern Training Program](https://jobright.ai/jobs/info/68cbfc2a128dc347fd91cd9b?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Human Resources Operations Intern](https://jobright.ai/jobs/info/694c2f36d64ebf28d821d1a7?utm_campaign=1054&utm_source=git)** | Cortlandt Street, New York, NY, US | On Site | Dec 23 |
-| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Workforce Management Internship](https://jobright.ai/jobs/info/694b14073019f50a4fe622ef?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Summer 2026 Internship - Vanderbilt](https://jobright.ai/jobs/info/68bc806468300c452ca15b4e?utm_campaign=1054&utm_source=git)** | Wallingford, CT | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/692e5b964c474121999d8c12?utm_campaign=1054&utm_source=git)** | Huntington, WV | On Site | Dec 23 |
-| **[I.R.E](https://www.linkedin.com/company/101450002)** | **[HR Intern](https://jobright.ai/jobs/info/694a956167a69734cac5c069?utm_campaign=1054&utm_source=git)** | San Francisco, California, United States | Remote | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Clarksburg, WV](https://jobright.ai/jobs/info/692e68c14c474121999d93b2?utm_campaign=1054&utm_source=git)** | Clarksburg, WV | On Site | Dec 23 |
-| **[Skanska](http://skanska.com)** | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d7f2d5295f8e37655e441a?utm_campaign=1054&utm_source=git)** | Banks, NC | On Site | Dec 23 |
-| ↳ | **[EH&S Summer 2026 Intern](https://jobright.ai/jobs/info/68d720bbd3fe025a3015f22b?utm_campaign=1054&utm_source=git)** | Orlando, FL | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/6933eeb8f131d96e4846845e?utm_campaign=1054&utm_source=git)** | Morgantown, WV | On Site | Dec 23 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Talent](https://jobright.ai/jobs/info/694aa8751224705e9001d28e?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
