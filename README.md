@@ -70,6 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Dec 25 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933f34ba0dde7020e2f32c5?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6933ef41f131d96e48468592?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Dec 25 |
+| **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Dec 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69351f85f131d96e4846ce9c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 25 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Workplace Development Intern](https://jobright.ai/jobs/info/6930e202ef4b48533d1504ad?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 25 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/693091944c474121999e622a?utm_campaign=1054&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 25 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Human Resources](https://jobright.ai/jobs/info/6913ac15e344172248f7314b?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Dec 23 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Human Resources](https://jobright.ai/jobs/info/694b65b45d731211346ff21f?utm_campaign=1054&utm_source=git)** | Dalhart, TX | On Site | Dec 23 |
-| **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Systems Analyst - Internal Only Recruitment](https://jobright.ai/jobs/info/694b63601a572a617dddb3a1?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Dec 23 |
-| **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b5b7a5d731211346fe32c?utm_campaign=1054&utm_source=git)** | Lawrence, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
