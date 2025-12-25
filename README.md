@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c9218d64ebf28d822131c?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Dec 24 |
 | **[City Of Guelph](https://guelph.ca)** | **[Recruitment Specialist](https://jobright.ai/jobs/info/694c79311a572a617ddea5a9?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Dec 24 |
 | **[Western Illinois University](http://www.wiu.edu/)** | **[Director of International Student Recruitment](https://jobright.ai/jobs/info/694c585ad64ebf28d821f68d?utm_campaign=1054&utm_source=git)** | Macomb, IL | On Site | Dec 24 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
 | ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/694c4b9cd64ebf28d821debb?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
+| **[Gensco Inc](https://gensco.com/)** | **[Corporate Intern - Recruiting](https://jobright.ai/jobs/info/694c43945d7312113470afb4?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/694c415e5d7312113470ae5d?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Save Max](https://savemax.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694c2ebe5d7312113470a720?utm_campaign=1054&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c4ec71a572a617dde7fe1?utm_campaign=1054&utm_source=git)** | US-RI-Providence | On Site | Dec 24 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3a398e65e77df55b8614?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ab439a65fd3458595e51?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Dec 24 |
-| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692fc8894c474121999e2798?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/691ab4f8bcdbf3560c9d9ef4?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/691aa5b2bcdbf3560c9d95c5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 24 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Admissions Systems Analyst - Internal Only Recruitment](https://jobright.ai/jobs/info/694b63601a572a617dddb3a1?utm_campaign=1054&utm_source=git)** | Monterey, CA | On Site | Dec 23 |
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b5b7a5d731211346fe32c?utm_campaign=1054&utm_source=git)** | Lawrence, PA | On Site | Dec 23 |
 | **[Reid Accountants + Advisors](http://www.reidadvisorsllc.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694b53d5d64ebf28d8210c0a?utm_campaign=1054&utm_source=git)** | Woodbury, NY | On Site | Dec 23 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[University Relations Intern - Spring & Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694ca21629655e4dd656b9c2?utm_campaign=1054&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (EQUAL EMPLOYMENT OPPORTUNITY)](https://jobright.ai/jobs/info/694b41621224705e90026c97?utm_campaign=1054&utm_source=git)** | Virginia Beach, VA | On Site | Dec 23 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Human Resource Operations Intern](https://jobright.ai/jobs/info/694b22f64b53a1551f94e5a8?utm_campaign=1054&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
 | **[Tokio Marine HCC – A&H Group](tmhcc.com/AHGroup)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b34314b53a1551f94ed91?utm_campaign=1054&utm_source=git)** | Massachusetts - Wakefield - 2 | On Site | Dec 23 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694afc3067a69734cac60f6d?utm_campaign=1054&utm_source=git)** | Lawrence,PA,US | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 23 |
 | ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 23 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | **[American Express](http://www.americanexpress.com)** | **[American Express Canada - Undergraduate Finance Summer Internship - Campus Recruitment](https://jobright.ai/jobs/info/694af88a3019f50a4fe60213?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acc933019f50a4fe5e202?utm_campaign=1054&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/694ac9421224705e9001e163?utm_campaign=1054&utm_source=git)** | Wilmington, NC | On Site | Dec 23 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694ac8f967a69734cac5e0cc?utm_campaign=1054&utm_source=git)** | Fremont, CA | On Site | Dec 23 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac8341224705e9001e0fa?utm_campaign=1054&utm_source=git)** | Vestal, NY | On Site | Dec 23 |
-| ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/694ac7d31224705e9001e0ce?utm_campaign=1054&utm_source=git)** | Ithaca, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
