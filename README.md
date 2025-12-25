@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Human Resources](https://jobright.ai/jobs/info/6913c8ed1465e02904e97873?utm_campaign=1054&utm_source=git)** | Kohler, WI | Hybrid | Dec 25 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[HR Intern](https://jobright.ai/jobs/info/69140c83d1047e3565d08510?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d199dd4a7df7a06724a5d?utm_campaign=1054&utm_source=git)** | Elverta, CA | On Site | Dec 25 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1980f5bef51c96ead1bd?utm_campaign=1054&utm_source=git)** | Eureka, CA | On Site | Dec 25 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d1767d4a7df7a067247bb?utm_campaign=1054&utm_source=git)** | Sacramento, CA | On Site | Dec 25 |
+| **[Camping World](https://investor.campingworld.com)** | **[HR Operations Intern](https://jobright.ai/jobs/info/693155e1fa28370be26b8373?utm_campaign=1054&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Dec 25 |
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694d06f329655e4dd65716a4?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Dec 25 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
@@ -88,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3a398e65e77df55b8614?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ab439a65fd3458595e51?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Dec 24 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692fc8894c474121999e2798?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/691ab4f8bcdbf3560c9d9ef4?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/691aa5b2bcdbf3560c9d95c5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 24 |
@@ -96,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f72a24c474121999df275?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Dec 24 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/692f6165fa28370be26a96a2?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Dec 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 24 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[HR Intern](https://jobright.ai/jobs/info/69464dab7d506e3808f1aa42?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Corporate HR Intern (2026-27 School Year)](https://jobright.ai/jobs/info/692ffbc2ef4b48533d149e3a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer Intern - Corporate HR](https://jobright.ai/jobs/info/694ae5c73019f50a4fe5f6e4?utm_campaign=1054&utm_source=git)** | Lake Forest, IL | On Site | Dec 23 |
 | **[Glencore](http://glencore.com)** | **[May 2026 Summer Student - Human Resources](https://jobright.ai/jobs/info/694b01d33019f50a4fe6092c?utm_campaign=1054&utm_source=git)** | Elkford, British Columbia, Canada | On Site | Dec 23 |
 | **[Equipment & Controls, Inc.](http://eci.us)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694afc3067a69734cac60f6d?utm_campaign=1054&utm_source=git)** | Lawrence,PA,US | On Site | Dec 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Human Resource Spring Internship](https://jobright.ai/jobs/info/691238c2d1047e3565cfa64a?utm_campaign=1054&utm_source=git)** | Allentown, PA | On Site | Dec 23 |
-| ↳ | **[Human Resources Intern Spring 2026](https://jobright.ai/jobs/info/691b760e22a2cb4b9bd128b9?utm_campaign=1054&utm_source=git)** | Doswell, VA | On Site | Dec 23 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/694b08961224705e90021c77?utm_campaign=1054&utm_source=git)** | NC, High Point | On Site | Dec 23 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/694b074e67a69734cac6174e?utm_campaign=1054&utm_source=git)** | US-NC-High Point | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694acfdf1224705e9001f883?utm_campaign=1054&utm_source=git)** | Salinas, CA | On Site | Dec 23 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/694acf663019f50a4fe5eb77?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
-| **[American Express](http://www.americanexpress.com)** | **[American Express Canada - Undergraduate Finance Summer Internship - Campus Recruitment](https://jobright.ai/jobs/info/694af88a3019f50a4fe60213?utm_campaign=1054&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
