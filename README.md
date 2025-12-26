@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
+| **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Crest Vale](crestvale.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694eb7fda2668b7f5451fe24?utm_campaign=1054&utm_source=git)** | Nyack, NY | Remote | Dec 26 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb7c7ce13cd105656f888?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933ac6b764507023d1b80d1?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Dec 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 26 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Human Resource Intern - Spring 2026](https://jobright.ai/jobs/info/69320697fa28370be26c0e1d?utm_campaign=1054&utm_source=git)** | Fort Wayne, IN | On Site | Dec 26 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Human Resources Intern - Summer 2026](https://jobright.ai/jobs/info/6914f8976f36db06ef04a343?utm_campaign=1054&utm_source=git)** | Nashua, NH | On Site | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/6933cbc7f131d96e48467206?utm_campaign=1054&utm_source=git)** | Torrington, CT | On Site | Dec 26 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Talent Acquisition Team Intern](https://jobright.ai/jobs/info/69327a82764507023d1aef03?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/693650faf131d96e484709bb?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 26 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Dec 26 |
 | **[Camping World](https://investor.campingworld.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6934f7ada0dde7020e2f6d8c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/694dab25f5bef51c96eb32df?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
 | **[GHG Corporation](http://www.ghgcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694da7bad4a7df7a0672aa49?utm_campaign=1054&utm_source=git)** | Webster, TX | On Site | Dec 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694c262b1a572a617dde6ec6?utm_campaign=1054&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 24 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c1f7bd64ebf28d821cde8?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 24 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/694c1f3dd64ebf28d821cddf?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 24 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/694c1d885d73121134709c96?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 24 |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/694c1d72d64ebf28d821cadf?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| ↳ | **[Summer Intern - Human Resources](https://jobright.ai/jobs/info/694c19b01a572a617dde5b15?utm_campaign=1054&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/6918328e45fb6f5ead8a2b7d?utm_campaign=1054&utm_source=git)** | North Bay, Ontario, Canada | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
