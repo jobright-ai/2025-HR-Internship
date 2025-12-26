@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Power Summer Collegiate League](http://www.PSCLbaseball.com)** | **[Sports Management Internship](https://jobright.ai/jobs/info/694daea9f5bef51c96eb3771?utm_campaign=1054&utm_source=git)** | Palm Springs, CA | Remote | Dec 25 |
+| **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern (Engineering), Winter 2026](https://jobright.ai/jobs/info/694e30dc29655e4dd657ed49?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/694dab25f5bef51c96eb32df?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
 | **[GHG Corporation](http://www.ghgcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694da7bad4a7df7a0672aa49?utm_campaign=1054&utm_source=git)** | Webster, TX | On Site | Dec 25 |
@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Dec 25 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | Dec 25 |
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694d06f329655e4dd65716a4?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Dec 25 |
+| **[CIUSSS de l'Est-de-l'Île-de-Montréal](https://ciusss-estmtl.gouv.qc.ca)** | **[Agent(e) de la gestion du personnel - Bureau de recrutement international (BRI)](https://jobright.ai/jobs/info/694e3beaf5bef51c96eb9a9c?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c9218d64ebf28d822131c?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Dec 24 |
@@ -126,6 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1054&utm_source=git)** | Flagstaff, AZ | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/68bf3a398e65e77df55b8614?utm_campaign=1054&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[nVent](https://www.nvent.com/)** | **[Human Resources Internship - Summer 2026](https://jobright.ai/jobs/info/68f6ab439a65fd3458595e51?utm_campaign=1054&utm_source=git)** | Solon, OH | On Site | Dec 24 |
+| **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/68db0bf86df7b8311bb15b57?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[MGIC](https://www.mgic.com)** | **[HR Intern](https://jobright.ai/jobs/info/692fc8894c474121999e2798?utm_campaign=1054&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[HR Intern - Learning & Leadership Development (Summer 2026) - Greenville, SC](https://jobright.ai/jobs/info/691ab4f8bcdbf3560c9d9ef4?utm_campaign=1054&utm_source=git)** | Greenville, SC | On Site | Dec 24 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Human Resources Internship](https://jobright.ai/jobs/info/691aa5b2bcdbf3560c9d95c5?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 24 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/692f72a24c474121999df275?utm_campaign=1054&utm_source=git)** | DFW Metroplex | On Site | Dec 24 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Human Resources Intern (Business Support)](https://jobright.ai/jobs/info/692f6165fa28370be26a96a2?utm_campaign=1054&utm_source=git)** | St. Petersburg, FL | On Site | Dec 24 |
 | **[Cemex U.S.](http://www.cemex.com/)** | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691aaa8315b4156367189ca9?utm_campaign=1054&utm_source=git)** | Scottsdale, AZ | On Site | Dec 24 |
-| ↳ | **[PROFESSIONAL TALENT DEVELOPMENT READY MIX](https://jobright.ai/jobs/info/691c06f715b4156367195441?utm_campaign=1054&utm_source=git)** | Livermore, CA | On Site | Dec 24 |
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[HR Intern](https://jobright.ai/jobs/info/69464dab7d506e3808f1aa42?utm_campaign=1054&utm_source=git)** | Sparks, NV | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/69125a4ac98948514c47adac?utm_campaign=1054&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Corporate HR Intern (2026-27 School Year)](https://jobright.ai/jobs/info/692ffbc2ef4b48533d149e3a?utm_campaign=1054&utm_source=git)** | Cleveland, OH | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b7f1ad64ebf28d821460c?utm_campaign=1054&utm_source=git)** | Mechanicsburg, PA | On Site | Dec 23 |
 | **[Panthalassa](https://panthalassa.com)** | **[Internship Application](https://jobright.ai/jobs/info/69322153d0010831497bfe54?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Specialty Insurance Internship - Summer 2026](https://jobright.ai/jobs/info/694b718dd64ebf28d8212508?utm_campaign=1054&utm_source=git)** | Wakefield, MA | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lebanon](https://jobright.ai/jobs/info/694b6e6f1a572a617dddc35c?utm_campaign=1054&utm_source=git)** | Lebanon, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
