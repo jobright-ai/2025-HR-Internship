@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694efb93ce13cd10565742b9?utm_campaign=1054&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
+| ↳ | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694ef8ea29655e4dd65890fb?utm_campaign=1054&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Promethean Services (HR) and Learning & Development](https://jobright.ai/jobs/info/692e36f5fa28370be26a25b7?utm_campaign=1054&utm_source=git)** | San Mateo, CA | On Site | Dec 26 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Subways & Admin Support - Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/694edf0229655e4dd6586ca7?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e3586fa28370be26a2479?utm_campaign=1054&utm_source=git)** | Baltimore, MD | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Human Resources Analytics - Intern](https://jobright.ai/jobs/info/694c540dd64ebf28d821e9e0?utm_campaign=1054&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Xometry](https://www.xometry.com)** | **[Talent Operations Intern](https://jobright.ai/jobs/info/694c526a5d7312113470c0e9?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
 | ↳ | **[Talent Development Intern](https://jobright.ai/jobs/info/694c51501a572a617dde809e?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
-| ↳ | **[Recruiting Intern](https://jobright.ai/jobs/info/694c4b9cd64ebf28d821debb?utm_campaign=1054&utm_source=git)** | North Bethesda, MD | On Site | Dec 24 |
-| **[Gensco Inc](https://gensco.com/)** | **[Corporate Intern - Recruiting](https://jobright.ai/jobs/info/694c43945d7312113470afb4?utm_campaign=1054&utm_source=git)** | Tacoma, WA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
