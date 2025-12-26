@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
 | **[GeoComply](https://www.geocomply.com)** | **[HR Special Projects Intern (Engineering), Winter 2026](https://jobright.ai/jobs/info/694e30dc29655e4dd657ed49?utm_campaign=1054&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 25 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/694dab25f5bef51c96eb32df?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d136a29655e4dd6572569?utm_campaign=1054&utm_source=git)** | Redding, CA | On Site | Dec 25 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/694d2d5bf5bef51c96eadb98?utm_campaign=1054&utm_source=git)** | Elk Grove, CA | On Site | Dec 25 |
 | **[Lake Erie College of Osteopathic Medicine](https://lecomhealth.com/community-hospital/)** | **[Human Resource Intern](https://jobright.ai/jobs/info/694d06f329655e4dd65716a4?utm_campaign=1054&utm_source=git)** | Erie, PA | On Site | Dec 25 |
-| **[CIUSSS de l'Est-de-l'Île-de-Montréal](https://ciusss-estmtl.gouv.qc.ca)** | **[Agent(e) de la gestion du personnel - Bureau de recrutement international (BRI)](https://jobright.ai/jobs/info/694e3beaf5bef51c96eb9a9c?utm_campaign=1054&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Administrative Internships](https://jobright.ai/jobs/info/68d3009017554c2d9eeecc32?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c9218d64ebf28d822131c?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Dec 24 |
