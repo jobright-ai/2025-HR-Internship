@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Human Resources Intern](https://jobright.ai/jobs/info/692e660bef4b48533d13f8d3?utm_campaign=1054&utm_source=git)** | Trevose, PA | On Site | Dec 26 |
 | **[MKS2 Technologies](https://www.mks2.com)** | **[DOD SkillBridge Recruiter Intern](https://jobright.ai/jobs/info/68e050321852e62f007ea10c?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
 | **[TeenWorks](https://teenworks.org/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694f0909a2668b7f54524b42?utm_campaign=1054&utm_source=git)** | Indianapolis, IN | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Human Resources (Summer 2026)](https://jobright.ai/jobs/info/694efb93ce13cd10565742b9?utm_campaign=1054&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb8bba2668b7f5451fe74?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
-| **[Crest Vale](crestvale.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694eb7fda2668b7f5451fe24?utm_campaign=1054&utm_source=git)** | Nyack, NY | Remote | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933ac6b764507023d1b80d1?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Dec 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 26 |
