@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69341aa0a0dde7020e2f451e?utm_campaign=1054&utm_source=git)** | Maple Ridge, British Columbia, Canada | On Site | Dec 27 |
+| ↳ | **[Summer 2026 Management Trainee Intern- Albany, NY Area](https://jobright.ai/jobs/info/69339332f131d96e48464849?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Dec 27 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, HR Analyst](https://jobright.ai/jobs/info/693365b2a0dde7020e2ed707?utm_campaign=1054&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339fd0f131d96e48464f59?utm_campaign=1054&utm_source=git)** | Boise, ID | On Site | Dec 27 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/69339dd0f131d96e48464e5f?utm_campaign=1054&utm_source=git)** | Twin Falls, ID | On Site | Dec 27 |
+| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Human Resources Intern - Summer '26](https://jobright.ai/jobs/info/68c2333563b706703e11245b?utm_campaign=1054&utm_source=git)** | Colorado, United States | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Human Resources Management Trainee](https://jobright.ai/jobs/info/6888effd9f961617fe210823?utm_campaign=1054&utm_source=git)** | Live Oak, FL | On Site | Dec 27 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Talent Acquisition Intern (Year-Round)](https://jobright.ai/jobs/info/68deeca409bda65a4b62ee81?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Dec 27 |
 | ↳ | **[HR Operations Intern - Year Round](https://jobright.ai/jobs/info/694d812c29655e4dd65766c8?utm_campaign=1054&utm_source=git)** | Mequon, WI | Hybrid | Dec 27 |
@@ -99,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694ecc9829655e4dd6586718?utm_campaign=1054&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb7c7ce13cd105656f888?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb8bba2668b7f5451fe74?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933ac6b764507023d1b80d1?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Dec 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/6933f3aea0dde7020e2f3439?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Dec 25 |
 | ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Dec 25 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933f34ba0dde7020e2f32c5?utm_campaign=1054&utm_source=git)** | Pearland, TX | On Site | Dec 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Springfield/Chicopee, MA](https://jobright.ai/jobs/info/6933ef41f131d96e48468592?utm_campaign=1054&utm_source=git)** | West Springfield, MA | On Site | Dec 25 |
-| **[South Jersey Industries](https://www.sjindustries.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68db077a6df7b8311bb158ea?utm_campaign=1054&utm_source=git)** | Folsom, NJ | Hybrid | Dec 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/69351f85f131d96e4846ce9c?utm_campaign=1054&utm_source=git)** | Raleigh, NC | On Site | Dec 25 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Workplace Development Intern](https://jobright.ai/jobs/info/6930e202ef4b48533d1504ad?utm_campaign=1054&utm_source=git)** | Columbus, OH | On Site | Dec 25 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Recruiting Intern](https://jobright.ai/jobs/info/693091944c474121999e622a?utm_campaign=1054&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 25 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Human Resources](https://jobright.ai/jobs/info/6913ac15e344172248f7314b?utm_campaign=1054&utm_source=git)** | Chesterfield, MO | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
