@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694f95c329655e4dd65905d8?utm_campaign=1054&utm_source=git)** | Newark, NJ | Remote | Dec 27 |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[People & Culture - Recruitment & Hiring Intern](https://jobright.ai/jobs/info/694f946ea2668b7f5452bcba?utm_campaign=1054&utm_source=git)** | Legal Address 0TW50 - New York, NY 10003 | On Site | Dec 27 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Wholesale Customer Service](https://jobright.ai/jobs/info/694f92c129655e4dd6590578?utm_campaign=1054&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Workforce Development Intern](https://jobright.ai/jobs/info/694f6e7129655e4dd658f3c4?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f619fce13cd1056578425?utm_campaign=1054&utm_source=git)** | Berkeley, CA | On Site | Dec 26 |
 | ↳ | **[Management Trainee Summer 2026 Internship](https://jobright.ai/jobs/info/694f602ca2668b7f54528a69?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Dec 26 |
@@ -111,11 +114,9 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Employee Experience & Events Intern - Summer 2026](https://jobright.ai/jobs/info/693204e9fa28370be26c0c85?utm_campaign=1054&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Talent & HR Intern - Nucor Towers & Structures](https://jobright.ai/jobs/info/691abe3745fb6f5ead8ad6b8?utm_campaign=1054&utm_source=git)** | Rock Hill, SC | On Site | Dec 26 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Human Resources Business Partner Intern (Summer 2026)](https://jobright.ai/jobs/info/693262e5f131d96e4845bc08?utm_campaign=1054&utm_source=git)** | Houston, TX | On Site | Dec 26 |
-| **[HP](http://www.hp.com)** | **[HR Business Partner Intern](https://jobright.ai/jobs/info/693650faf131d96e484709bb?utm_campaign=1054&utm_source=git)** | Spring, TX | On Site | Dec 26 |
 | **[Lockton](https://www.lockton.com/offices/uk)** | **[South Internship - 2026](https://jobright.ai/jobs/info/68f85423a628d10664e81c7b?utm_campaign=1054&utm_source=git)** | Baton Rouge, LA | On Site | Dec 26 |
 | **[Camping World](https://investor.campingworld.com)** | **[Compensation Intern](https://jobright.ai/jobs/info/6934f7ada0dde7020e2f6d8c?utm_campaign=1054&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
-| **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/694dab25f5bef51c96eb32df?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c9218d64ebf28d822131c?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Dec 24 |
 | **[City Of Guelph](https://guelph.ca)** | **[Recruitment Specialist](https://jobright.ai/jobs/info/694c79311a572a617ddea5a9?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Dec 24 |
-| **[Western Illinois University](http://www.wiu.edu/)** | **[Director of International Student Recruitment](https://jobright.ai/jobs/info/694c585ad64ebf28d821f68d?utm_campaign=1054&utm_source=git)** | Macomb, IL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
