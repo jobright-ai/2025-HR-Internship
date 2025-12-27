@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saleseraian](https://salesera.net/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/695035cfa2668b7f54532ec1?utm_campaign=1054&utm_source=git)** | Canada | Remote | Dec 27 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/69500c5629655e4dd65968c6?utm_campaign=1054&utm_source=git)** | Philadelphia, PA | On Site | Dec 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/69341aa0a0dde7020e2f451e?utm_campaign=1054&utm_source=git)** | Maple Ridge, British Columbia, Canada | On Site | Dec 27 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Albany, NY Area](https://jobright.ai/jobs/info/69339332f131d96e48464849?utm_campaign=1054&utm_source=git)** | Albany, NY | On Site | Dec 27 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Business Solutions](https://jobright.ai/jobs/info/6933a5b6764507023d1b7a4a?utm_campaign=1054&utm_source=git)** | Nashville, TN | Hybrid | Dec 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Human Resources (Dignity Health Sport Park)](https://jobright.ai/jobs/info/6933a72cf131d96e48465872?utm_campaign=1054&utm_source=git)** | Carson, CA | On Site | Dec 27 |
 | **[JD.COM](http://corporate.jd.com)** | **[HR Efficiency (JD YOUNG Internship Program)](https://jobright.ai/jobs/info/68f14a25ef766b3f0fd0b447?utm_campaign=1054&utm_source=git)** | California, United States | On Site | Dec 27 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Project Intern - AWS, Amazon University Talent Acquisition](https://jobright.ai/jobs/info/6918e35f45fb6f5ead8a6fe4?utm_campaign=1054&utm_source=git)** | Greater São Paulo Area | On Site | Dec 27 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[People Operations Intern](https://jobright.ai/jobs/info/691681c9286ccf0a15136c55?utm_campaign=1054&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[DESRI](https://desri.com/)** | **[Intern, Human Capital](https://jobright.ai/jobs/info/68def78744d32141e0c045b2?utm_campaign=1054&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Employee Benefits Intern, Summer 2026](https://jobright.ai/jobs/info/69335b7c764507023d1b4bde?utm_campaign=1054&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
@@ -106,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694ecc9829655e4dd6586718?utm_campaign=1054&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb7c7ce13cd105656f888?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb8bba2668b7f5451fe74?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933ac6b764507023d1b80d1?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Dec 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - BDL Airport](https://jobright.ai/jobs/info/6933b8bca0dde7020e2f0ffe?utm_campaign=1054&utm_source=git)** | Windsor Locks, CT | On Site | Dec 25 |
 | ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933d80cf131d96e48467c5b?utm_campaign=1054&utm_source=git)** | Hayward, CA | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern Jackson](https://jobright.ai/jobs/info/6933f41ba0dde7020e2f35c8?utm_campaign=1054&utm_source=git)** | Jackson, TN | On Site | Dec 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/6933f3aea0dde7020e2f3439?utm_campaign=1054&utm_source=git)** | West Hartford, CT | On Site | Dec 25 |
-| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/6933f2eea0dde7020e2f3207?utm_campaign=1054&utm_source=git)** | Walnut Creek, CA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
