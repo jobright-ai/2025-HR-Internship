@@ -75,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694ecc9829655e4dd6586718?utm_campaign=1054&utm_source=git)** | Louisville, KY | Remote | Dec 26 |
 | **[Career Launch Tech Initiative](www.careerslaunch.org)** | **[Recruiting Intern](https://jobright.ai/jobs/info/694ebcc8a2668b7f54520b8d?utm_campaign=1054&utm_source=git)** | Los Angeles, CA | Remote | Dec 26 |
 | **[AffirmedRx, a Public Benefit Corporation](https://emsanarx.com/)** | **[Summer Internship, Human Resources](https://jobright.ai/jobs/info/694eb8fe29655e4dd6584916?utm_campaign=1054&utm_source=git)** | United States | Remote | Dec 26 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb7c7ce13cd105656f888?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Americas Client Group](https://jobright.ai/jobs/info/694eb8bba2668b7f5451fe74?utm_campaign=1054&utm_source=git)** | New York | Hybrid | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Kenosha/Racine](https://jobright.ai/jobs/info/69341893a0dde7020e2f4411?utm_campaign=1054&utm_source=git)** | Kenosha, WI | On Site | Dec 26 |
 | ↳ | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/6933ac6b764507023d1b80d1?utm_campaign=1054&utm_source=git)** | League City, TX | On Site | Dec 26 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933c17c764507023d1b9215?utm_campaign=1054&utm_source=git)** | Durham, NC | On Site | Dec 26 |
@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Benefits Intern - Summer 2026](https://jobright.ai/jobs/info/6932457fa0dde7020e2e4fe9?utm_campaign=1054&utm_source=git)** | Salt Lake City, UT | On Site | Dec 26 |
 | **[City of Sioux Falls](https://siouxfalls.com)** | **[Ascend Intern - Human Resources](https://jobright.ai/jobs/info/694dab25f5bef51c96eb32df?utm_campaign=1054&utm_source=git)** | Sioux Falls, SD | On Site | Dec 25 |
 | **[Zscaler](https://www.zscaler.com)** | **[People Analytics Intern](https://jobright.ai/jobs/info/6920d46e3f782d2f1afcbef4?utm_campaign=1054&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 25 |
-| **[GHG Corporation](http://www.ghgcorp.com/)** | **[Human Resources Intern](https://jobright.ai/jobs/info/694da7bad4a7df7a0672aa49?utm_campaign=1054&utm_source=git)** | Webster, TX | On Site | Dec 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68dbe2b497329f2f7731f9f6?utm_campaign=1054&utm_source=git)** | Burlington, NC | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1054&utm_source=git)** | Cary, NC | On Site | Dec 25 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Human Resources Intern](https://jobright.ai/jobs/info/68f7fb59b0edcf159dc8d12a?utm_campaign=1054&utm_source=git)** | San Diego, CA | On Site | Dec 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Human Resources Internships](https://jobright.ai/jobs/info/68d4719777769e778f509032?utm_campaign=1054&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Skanska](http://skanska.com)** | **[Heavy Civil Winter 2026 Internship](https://jobright.ai/jobs/info/694c9218d64ebf28d822131c?utm_campaign=1054&utm_source=git)** | Providence, RI | On Site | Dec 24 |
 | **[City Of Guelph](https://guelph.ca)** | **[Recruitment Specialist](https://jobright.ai/jobs/info/694c79311a572a617ddea5a9?utm_campaign=1054&utm_source=git)** | Guelph, Ontario, Canada | Hybrid | Dec 24 |
+| **[Western Illinois University](http://www.wiu.edu/)** | **[Director of International Student Recruitment](https://jobright.ai/jobs/info/694c585ad64ebf28d821f68d?utm_campaign=1054&utm_source=git)** | Macomb, IL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
